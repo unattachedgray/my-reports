@@ -15,3 +15,4 @@ General-purpose report archive. Reports that don't have a dedicated repository a
 | 2026-04-02 | AI Daily Briefing | [report](reports/2026-04-02-ai-daily.md) |
 | 2026-04-03 | AI Daily Briefing | [report](reports/2026-04-03-ai-daily.md) |
 | 2026-04-04 | AI Daily Briefing | [report](reports/2026-04-04-ai-daily.md) |
+| 2026-04-05 | AI Daily Briefing | [report](reports/2026-04-05-ai-daily.md) |
