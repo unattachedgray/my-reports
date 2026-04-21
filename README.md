@@ -54,3 +54,4 @@ General-purpose report archive. Reports that don't have a dedicated repository a
 | 2026-04-19 | AI Daily Briefing | [report](reports/2026-04-19-ai-daily.md) |
 | 2026-04-20 | Investment Scout | [report](reports/2026-04-20-investment-scout.md) |
 | 2026-04-20 | AI Daily Briefing | [report](reports/2026-04-20-ai-daily.md) |
+| 2026-04-21 | Investment Scout | [report](reports/2026-04-21-investment-scout.md) |
