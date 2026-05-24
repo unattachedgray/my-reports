@@ -96,3 +96,4 @@ General-purpose report archive. Reports that don't have a dedicated repository a
 | 2026-05-21 | AI Daily Briefing | [report](reports/2026-05-21-ai-daily.md) |
 | 2026-05-22 | AI Daily Briefing | [report](reports/2026-05-22-ai-daily.md) |
 | 2026-05-23 | AI Daily Briefing | [report](reports/2026-05-23-ai-daily.md) |
+| 2026-05-24 | AI Daily Briefing | [report](reports/2026-05-24-ai-daily.md) |
