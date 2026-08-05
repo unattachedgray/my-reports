@@ -150,9 +150,11 @@ MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스
 
 **오늘의 분석**
 
-오늘 AI 관련 소식이 시장 전반에 큰 파장을 일으키고 있다. Alphabet의 핵심 AI 인재 Jeff Dean이 떠나면서 구글의 AI 경쟁력이 의문시됐고, SpaceX는 AI 투자 확대와 Nvidia 칩 독점 사용을 선언해 주가 변동성을 높였다. 동시에 Nvidia 주가가 9% 급등하며 저항선을 향하고, Palantir는 전방 P/E 95배로 상승 여력이 제한적이라는 평가가 나오면서 AI 기업들의 고평가와 실적 리스크가 교차하고 있다. 이러한 흐름은 S&P 500이 사상 최고치를 경신했지만 RSI 75라는 과매수 신호가 나타나는 등, 시장이 과열된 상태임을 시사한다.
+오늘은 AI와 자본 시장이 교차하는 흐름이 두드러졌다. Alphabet 최고 과학자 Jeff Dean이 구글을 떠나 자체 AI 회사를 설립하면서 AI 인재 경쟁이 가시화됐으며, SpaceX는 AI 전용 Nvidia 칩 독점 사용과 대규모 CAPEX 계획을 발표해 주가 변동성을 확대했다. Elon Musk의 Nvidia 칩 전용 발언이 주가를 9% 상승시키는 한편, 락업 만료와 투자 규모 우려로 SpaceX 주가는 11% 급락했다. 이는 AI 수요 확대와 기업 재무 건전성 사이의 균형을 재조명한다.
 
-에너지와 지정학적 요인도 변동성을 가중시킨다. 미국·이란 핵 협상 진전으로 유럽 가스 가격이 5% 이상 하락했으며, 예멘 후티가 사우디 석유 탱커를 공격했다는 주장은 공급망 위험을 부각시켰다. ConocoPhillips와 Novo Nordisk은 각각 원유 가격 변동성과 GLP‑1 시장 경쟁 심화에 직면해 실적 전망이 불투명해졌다. 한편 Bodycote가 사모펀드 인수 제안을 받으며 기업 구조조정 가능성이 대두되고, 미 법무부가 1987년 프록시 가이던스를 철회해 기관투자자의 의결권 행사가 완화될 전망이다. 앞으로는 AI 투자 확대와 에너지 공급망 리스크를 동시에 주시해야 한다.
+동시에 에너지와 안전자산 흐름도 변동했다. 미국‑이란 핵 협상 진전으로 유럽 가스 선물 가격이 5% 하락하고, 달러 약세와 호르무즈 해상 거래 기대감으로 금 가격이 2월 초 이후 최고치를 기록했다. 그러나 예멘 후티의 사우디 석유 탱커 공격 위협과 ConocoPhillips의 실적 발표가 임박함에 따라 원유 변동성이 지속될 전망이다. S&P 500은 사상 최고치 7,770을 경신했지만 RSI 75로 과매수 신호가 나타나 단기 조정 위험이 남아 있다.
+
+앞으로 주시할 한 가지는 AI 투자 확대가 기업 실적과 자본 구조에 미치는 구체적 영향이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -346,11 +348,21 @@ S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최
 
 [5 things investors should know about the stock mar](https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories)
 
+### 🆕 보호 대학 스포츠법(SCSA) 상원 투표 예정, 선수 이적 및 급여 상한제에 미칠 영향
+
+보호 대학 스포츠법이 이번 주 상원에서 표결될 가능성이 제기되었다. 법안이 통과되면 대학 스포츠 선수들의 자유 이적이 확대되고, 급여 상한제가 도입될 수 있다. 이는 NCAA와 대학 재정 구조에 직접적인 변화를 초래한다.
+
+**시사점** — 2026년 가을 시즌 전까지 NCAA 규정 변화와 대학 재정 모델을 주시해야 하며, 특히 대학 스포츠 프로그램을 운영하는 대학과 선수들이 주요 영향을 받는다.
+
+[Senate vote on the Protect College Sports Act coul](https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-연방판사의 최근 판결이 트럼프 행정부의 영주권 동결 조치를 위법으로 규정하면서, 인도계 EB‑2·EB‑3 대기자 약 30만 명이 신청 자격을 회복했다. 이는 이민 정책에 대한 사법적 견제가 강화되고 있음을 보여준다. 동시에 행정부는 H‑1B·L‑1 비자 연장 수수료를 최대 4,000달러까지 인상하고, 바이오메트릭 비용도 $85→$200으로 상승시키는 등 재정 부담을 확대하고 있다. USCIS는 망명 신청 절차를 간소화해 신속 추방을 가능케 하는 규칙을 도입하고, 나이지리아 출신 신청자에 대한 신속 처리와 TPS 연장 등 국가별 차별적 조치를 확대하면서, 이민 심사 전반에 걸쳐 엄격함이 가중되고 있다. 이러한 흐름은 EB‑5 투자 이민 요건을 1,800만~2,000만 달러로 상향하고, 공공부담 기준을 강화해 재정 검증을 강화하는 정책과 맞물려, 이민 전반에 비용·리스크가 상승하고 있음을 시사한다. 앞으로는 H‑1B 연장료 정책의 최종 확정 여부를 주시할 필요가 있다.
+최근 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료 인상, H‑1B 최소 임금 30% 상승, EB‑5 투자 금액 상향 등 고액 비용·제한을 일제히 발표했다. 동시에 USCIS는 망명 인터뷰 절차를 간소화해 추방 속도를 높이고, TPS 연장 지침을 발표해 버마·소말리아 국민의 체류 자격을 조정했다. 이러한 정책은 고숙련 외국인 노동자와 투자자를 직접적인 재정 부담에 노출시키는 방향이다.
+
+하지만 연방법원은 아밋 메타 판사의 영주권 동결 위법 판결과 H‑1B 연장료 10만 달러 부과 계획 차단 판결 등으로 행정부의 과도한 제한을 제지하고 있다. 특히 인도계 EB‑2/EB‑3 대기자 25~30만 명이 즉시 신청 자격을 회복하면서, 이민 시장의 불확실성이 법원의 판단에 크게 좌우되고 있음을 보여준다. 앞으로 주시할 한 가지는 H‑1B·L‑1 수수료 인상안에 대한 연방 법원의 최종 결정이다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -568,9 +580,33 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [New Index Reveals Stark Geographic Disparities in ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlNWVGdQLVRmOFo5STc4WV9KWDFIRHBsOGR2SW9KVWhWTm52U25nZEdqNzVqSi02S21Rb3Vkb0x1YmpfUTNMWjU2Y2VISHNWemVmT0hkV2dDTXNacHpGOEhURFZDd2JXdTA2VmVsVExmTmZtLWFaRFlZMGVRR3FYYXg1SldYemdKRnZxY05ISHV2MVhmel9KY3pxWWZaeG9JV0JmdEF5OTEwUQ?oc=5)
 
+### 🆕 H‑1B 비자 연장료 인상 안보, 인도 IT 기업·전문가에게 수백만 달러 비용 부담
+
+트럼프 행정부가 H‑1B 비자 연장에 새로운 수수료를 도입하겠다고 제안했으며, 연장당 최대 2,500달러까지 비용이 상승한다. 이로 인해 인도 출신 직원들을 고용한 미국 IT 기업들은 연간 수십억 달러 규모의 추가 비용을 부담할 가능성이 있다.
+
+**시사점** — 2024년 10월부터 적용될 신규 연장료로 미국 IT 기업과 인도 출신 H‑1B 직원이 비용 급증에 대비해야 함
+
+[H-1B visa shock for Indians? Trump's new fee plan ](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZTlham04elhBRkZFdmlHOVowX2J2R0JVU0daazAtZUtFVFBobVZ2T2Z5Q1V4N3E4N2J5a2dfZkdtdGdKeXlmT3drdm00dVVjMlBhc2daRkE3dUgyMFJ4T2doR1U4QnlnOHY4QTM5MGZtMFJnZ3VtWU5XdXUwUS1SZlFyaWRSVFZjSGVwU0FXNFdGUXV6U0lDTWlnR1FjRjFIRmJCaU14VmdZdEtBNzJzNUZxZWxFUkhRWWI3bWd3ZFE3c1NXODVEQ2NFbHNneE4tWnRRUHlZQmcxX3haWDNiYmcxWlBkQkh3ZGJnb21EQWE1ckE1ZFBabdIB_gFBVV95cUxOY0NMMGhqRFNLaDBCZF9iSjJOU1NQWWdLVzZmbzFCMjZFNzA3RzRQTkpEcTdSZDRWZVYtWE8wNDk4bkxCb20xVUhPSDZkYURHc1Q1ay1EV2hLUGlySVNfSkZIRHQxc2RBUmdzZTNLWXF1UnBxUnB6R1ZDVS1USjhrQ1VtWlVCazFHaF9YY2tvZ21DME82bndoek1GdlFFYUFMN0R6eE5qWGFCdUZpVDZVc3REQlo4c0xYOUxseUFrTndPR3BIYkpPM2diWHlXSGQzTV9kRnphbXlVR3FPVmpCdXgtcFJUMGRyNW1BTmRRRlY2bUlENTVtRXJGQ04ydw?oc=5)
+
+### I‑130·I‑485 동시 제출 후 3개월 만에 영주권 승인, 사례 공개
+
+한 이민자가 I‑130과 I‑485를 동시에 제출한 뒤 3개월 만에 미국 영주권을 취득했다. 이는 일반적인 처리 기간보다 현저히 빠른 사례로, Reddit 사용자들 사이에서 큰 화제가 되었다.
+
+**시사점** — 2026년 8월 초 영주권 신청자들은 3개월 내 승인 가능성을 검토하며, 특히 가족 기반 I‑130·I‑485 동시 제출 전략을 주목해야 함
+
+[Immigrant gets US green card in just 3 months afte](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMno5U2VvUzk0d2NWcHFqV2JPSjVaODFDbFJTaVJ2R2FZSG1udDJTTmh2UUpPc3hUT1BVTWFndFdxN1NnMHYyeGdrb3BfV2M3VWpoUnJMQm1hVkNqNFp0bC1wQzQzMm9iSzFhU2RlMTBfdUtPMXBiMTlyWlhtYjVVMEpYLXRsbGRab2Rfek5zMFV3cGMtTTd4Yk9DeXZQdC1peVJoSXJiN0FjdlJWT0s5VlI3VGFmV09ncjI2akdhZldHWUpGUHdTaFdJM0lRYmEyUno3Y0NSYXJoNkk3VEFTc1U0QlRXM2VYekRkZmRIU1h3aWl1NlHSAfYBQVVfeXFMTjJ6OVNlb1M5NHdjVnBxaldiT0o1WjgxQ2xSU2lSdkdhWUhtbnQyU05odlFKT3N4VE9QVU1hZ3RXcTdTZzB2Mnhna29wX1djN1VqaFJyTEJtYVZDajRadGwtcEM0MzJvYksxYVNkZTEwX3VLTzFwYjE5clpYbWI1VTBKWC10bGxkWm9kX3pOczBVd3BjLU03eGJPQ3l2UHQtaXlSaElyYjdBY3ZSVk9LOVZSN1RhZldPZ3IyNmpHYWZXR1lKRlB3U2hXSTNJUWJhMlJ6N2NDUmFyaDZJN1RBU3NVNEJUVzNlWHpEZGZkSFNYd2lpdTZR?oc=5)
+
+### ⚠ 텍사스 H‑1B 비자 사기 사건 폭로, 피싱 및 허위 서류 유포
+
+텍사스에서 대규모 H‑1B 비자 사기가 적발됐으며, 허위 고용주와 위조 서류를 통해 외국인 근로자를 속여 수수료를 갈취한 사례가 보고되었다. 보고서는 신청자들에게 고용주의 정당성을 철저히 확인할 것을 경고한다.
+
+**시사점** — 2026년 8월 중순까지 텍사스 내 H‑1B 신청자와 고용주가 사기 위험에 대비해 정식 USCIS 검증 절차를 철저히 확인해야 함
+
+[I Exposed A Major H-1B Visa Scam In Texas Kirkstal](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZmM5bnBuRHAxTEdIRkZVUk0yZEFtMTB6SFlDX0dOeTRHaF9Bd3Q3RUtjaHB1a28zdXJ1VE9sNHdFV0pSZjVqZTA4V0did1JKbDY1MHgyUW52VWc?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,452 -0.5%
+- 나스닥: 26,456 -0.5%
 - 미 10년물: 4.61% -0.3%
 - USD/KRW: ₩1,429
