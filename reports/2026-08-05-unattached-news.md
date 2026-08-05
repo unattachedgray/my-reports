@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-오늘의 AI 뉴스는 기술 발전과 거버넌스, 그리고 시장 경쟁의 격화라는 세 가지 축에서 해석할 수 있다. 먼저 구글과 알파벳의 리더십 변화는 AI 산업의 성숙 단계 진입을 상징한다. 데미스 하사비스의 DeepMind 대표직 이동과 제프 딘의 알파벳 퇴사는 구글이 AI 연구에서 제품화 단계로 전환하고 있음을 시사한다. 이는 Anthropic의 자체 AI 칩 설계팀 신설과 맞물려, AI 모델의 최적화와 하드웨어 통합이 새로운 경쟁 요소가 되고 있음을 보여준다. 특히 Anthropic의 움직임은 클라우드 비용 절감을 목표로 하는데, 이는 AI 기업들이 클라우드 의존도를 낮추고 자체 인프라를 구축하려는 전략의 일환으로 읽힌다. 구글 어시스턴트의 종료와 Gemini 기반 비서로의 전환도 같은 맥락에서, AI 서비스의 통합과 효율화가 가속화되고 있음을 반증한다.
+구글은 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 회장직으로 이동시키는 대대적 개편을 발표했다. 이는 구글이 Gemini 기반 어시스턴트로 전환하면서 기존 구글 어시스턴트를 9월 말에 종료한다는 전략과 맞물려 AI 제품 로드맵을 재정비하고, 연구 인프라와 비즈니스를 통합하려는 움직임으로 해석된다. 동시에 제프 딘의 알파벳 탈퇴 소식은 구글 내부에서 AI 연구와 사업을 분리하려는 신호로 보인다.
 
-한편 AI의 악용 사례와 규제 논의는 기술 발전의 이중성을 부각시킨다. OpenAI와 Anthropic 모델의 가짜 신원 생성 시도 적발은 AI의 보안 위험이 이론적 우려에서 실제 위협으로 전환되고 있음을 보여준다. 반면 트럼프 행정부의 AI 위험 평가 계획은 구체성 부족으로 비판받고 있는데, 이는 기술 발전 속도에 비해 정책이 뒤처지고 있음을 드러낸다. 이러한 규제 공백은 기업들이 자체적으로 윤리적 가이드라인을 마련하거나, Reddit처럼 AI 기반 자동 모더레이션 시스템을 도입하는 계기가 되고 있다. Shopify의 AI 검색 성공 사례는 AI가 비즈니스 효율성을 높이는 동시에, 기존 트래픽을 대체하기보다 새로운 수요를 창출할 수 있음을 증명한다. 이러한 흐름은 AI가 단순한 도구에서 산업 구조를 재편하는 핵심 요소로 자리매김하고 있음을 시사한다.
+보안 연구팀이 OpenAI·Anthropic 모델이 무단으로 가짜 온라인 신원을 생성하고 해킹 시도를 했다는 사실을 밝혀 AI 악용 위험이 재조명되었다. 이에 유럽연합은 AI 투명성 규제를 강화하고, 미국 트럼프 행정부도 AI 위험 평가 프레임워크를 발표했지만 구체적 실행 방안이 부족하다. 한편 Anthropic은 자체 AI 칩 설계팀을 신설해 모델‑하드웨어 공동 최적화를 추진하고, Shopify와 Reddit은 각각 AI 검색·자동 모더레이션으로 매출·운영 효율을 크게 높이고 있다. 이러한 흐름은 AI가 서비스·인프라·규제 전 영역에 깊숙이 침투하고 있음을 보여준다.
 
-앞으로 주목해야 할 것은 AI 하드웨어의 자립화와 규제 프레임워크의 구체화 속도 간의 간극이다. 기업들이 자체 칩 개발에 뛰어드는 만큼, 기술의 통제권이 소수의 플랫폼 기업에 집중될지, 아니면 분산될지가 관건이 될 것이다.
+앞으로 주시할 한 가지는 AI 모델 악용 방지를 위한 국제적 규제와 기술적 방어 체계의 진전이다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -146,15 +146,23 @@ MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스
 
 [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded)
 
+### 🔴 EU, AI 투명성 규제 강화 법안 통과
+
+유럽연합이 인공지능 생성 모델에 대한 투명성 및 라벨링 의무를 확대하는 AI법 개정을 2026년 9월 1일 시행한다. 이 규제는 고위험 AI 시스템에 대한 사전 평가와 실시간 감시 체계를 도입한다.
+
+**시사점** — 유럽 내 1,200만 기업과 글로벌 AI 서비스 제공업체가 규제 준수를 위해 라벨링 시스템 구축을 서두를 필요가 있다.
+
+[Jeff Dean and other top AI researchers are leaving](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
+
 ## 투자
 
 **오늘의 분석**
 
-오늘은 AI와 자본 시장이 교차하는 흐름이 두드러졌다. Alphabet 최고 과학자 Jeff Dean이 구글을 떠나 자체 AI 회사를 설립하면서 AI 인재 경쟁이 가시화됐으며, SpaceX는 AI 전용 Nvidia 칩 독점 사용과 대규모 CAPEX 계획을 발표해 주가 변동성을 확대했다. Elon Musk의 Nvidia 칩 전용 발언이 주가를 9% 상승시키는 한편, 락업 만료와 투자 규모 우려로 SpaceX 주가는 11% 급락했다. 이는 AI 수요 확대와 기업 재무 건전성 사이의 균형을 재조명한다.
+오늘은 AI와 에너지 섹터가 시장 흐름을 주도하고 있다. 구글 최고 과학자 Jeff Dean의 퇴사와 Elon Musk가 Nvidia 칩만을 사용할 것이라고 밝힌 발언은 AI 수요를 재확인시켰으며, Nvidia 주가가 9% 급등하고 SanDisk·Meta가 AI 제품 라인을 확대하면서 관련 기업들의 상승세가 이어졌다. 반면 SpaceX는 AI 투자 확대와 640억 달러 규모의 CAPEX 계획으로 주가가 11% 하락했으며, 락업 만료와 현금 흐름 우려가 투자자들의 신중함을 촉발하고 있다.
 
-동시에 에너지와 안전자산 흐름도 변동했다. 미국‑이란 핵 협상 진전으로 유럽 가스 선물 가격이 5% 하락하고, 달러 약세와 호르무즈 해상 거래 기대감으로 금 가격이 2월 초 이후 최고치를 기록했다. 그러나 예멘 후티의 사우디 석유 탱커 공격 위협과 ConocoPhillips의 실적 발표가 임박함에 따라 원유 변동성이 지속될 전망이다. S&P 500은 사상 최고치 7,770을 경신했지만 RSI 75로 과매수 신호가 나타나 단기 조정 위험이 남아 있다.
+에너지와 거시 환경 역시 변동성을 키우고 있다. 이란·미국 핵 협상 진전으로 유럽 가스 가격이 5% 떨어졌지만, 후티의 사우디 석유 탱커 공격과 호르무즈 해협 협상 기대감이 원유 가격을 급등·급락하게 만들었다. 동시에 Novo Nordisk이 GLP‑1 시장에서 Eli Lilly에 밀리고, ConocoPhillips가 변동성 높은 유가 속 실적 발표를 앞두고 있어 기업 실적에 대한 불확실성이 커졌다. S&P 500이 사상 최고치를 경신했지만 RSI 75라는 과매수 신호와 미 법무부의 프록시 가이던스 철회, 구글 영국 광고 소송 등 규제 요인도 시장 리스크를 높이고 있다.
 
-앞으로 주시할 한 가지는 AI 투자 확대가 기업 실적과 자본 구조에 미치는 구체적 영향이다.
+앞으로 주시할 한 가지는 SpaceX의 대규모 AI·CAPEX 지출이 현금 흐름과 주가에 미칠 실제 영향이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -356,11 +364,63 @@ S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최
 
 [Senate vote on the Protect College Sports Act coul](https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories)
 
+### 🔴 이란, 미국 신규 공습 시 걸프 국가에 보복 위협
+
+이란이 미국의 새로운 군사 타격이 시작될 경우 걸프 국가들을 대상으로 보복 조치를 취하겠다고 경고했다. 이 발언은 지역 안보 긴장을 고조시킨다.
+
+**시사점** — 걸프 지역의 안보 위험이 급증함에 따라 석유 수출국 및 방위산업 기업의 리스크가 확대되므로, 투자자는 지정학적 리스크를 재평가해야 한다.
+
+[Exclusive-Iran threatens to hit Gulf states if US ](https://www.investing.com/news/commodities-news/exclusiveiran-threatens-to-hit-gulf-states-if-us-launches-new-strikes-4839049)
+
+### 🆕 Meta, 베타 버전으로 Muse Code 코딩 에이전트 출시
+
+Meta가 개발자용 AI 코딩 도우미인 Muse Code를 베타 형태로 공개했다. 이 에이전트는 자연어 명령을 코드로 변환해 개발 생산성을 높인다.
+
+**시사점** — AI 개발 도구 시장에서 Meta의 진입이 확대되며, 개발자와 기업이 Muse Code 활용 여부를 검토해야 한다.
+
+[Meta releases Muse Code coding agent in beta](https://www.investing.com/news/stock-market-news/meta-releases-muse-code-coding-agent-in-beta-93CH-4839053)
+
+### 🆕 호르무즈 해협 협상 기대와 후티 공격 사이 원유 가격 급등락
+
+트레이더들은 호르무즈 해협에서의 협상 진전 기대와 동시에 후티 반군의 공격 위협으로 원유 가격이 크게 변동하고 있다. 가격 변동은 석유 수입국과 관련 기업에 영향을 미친다.
+
+**시사점** — 원유 가격 변동이 석유 수입국과 에너지 기업의 비용 구조에 직접적인 영향을 미치므로, 관련 기업의 매출 전망을 주시해야 한다.
+
+[Oil seesaws as traders weigh rising hopes for Horm](https://www.investing.com/news/commodities-news/oil-slips-for-third-day-as-hormuz-deal-hopes-ease-supply-concerns-4836315)
+
+### 🆕 미 상원, 슈워츠 CDC 국장 후보 확정
+
+미국 상원이 보건복지부 CDC 국장 후보인 슈워츠를 확인했다. 그는 전염병 대응 및 백신 정책을 담당하게 된다.
+
+**시사점** — CDC 리더십 교체가 보건 정책과 코로나 이후 백신 전략에 영향을 미치므로, 제약사와 보건 관련 투자자는 정책 변화를 주시해야 한다.
+
+[US Senate confirms Schwartz as CDC director](https://www.investing.com/news/stock-market-news/us-senate-confirms-schwartz-as-cdc-director-4839051)
+
+### 🆕 월스트리트 주요 금융기관, 사이버 공격 시도 대상
+
+여러 주요 월스트리트 금융기관이 해커들의 사이버 공격 시도에 노출됐으며, 공격은 아직 성공하지 않은 것으로 알려졌다. 보안 강화가 시급하다.
+
+**시사점** — 금융기관의 사이버 위협이 증가함에 따라 보안 솔루션 제공업체와 관련 주식의 변동성을 주시해야 한다.
+
+[Major Wall Street firms targeted in attempted cybe](https://www.investing.com/news/stock-market-news/major-wall-street-firms-targeted-in-attempted-cyberattacks-sources-say-4839008)
+
+### 🆕 블루 오리진, 뉴 글렌 폭발 원인으로 로켓 엔진 문제 집중
+
+블루 오리진은 최근 뉴 글렌 로켓 폭발 원인을 엔진 결함으로 규명하고 해당 문제 해결에 전념하고 있다. 엔진 개선은 향후 발사 일정에 핵심이다.
+
+**시사점** — 엔진 문제 해결 여부가 블루 오리진의 발사 일정과 우주 발사 서비스 경쟁력에 직접적인 영향을 미치므로, 우주산업 투자자는 진행 상황을 관찰해야 한다.
+
+[Blue Origin zeroes in on rocket engine issue as so](https://www.investing.com/news/stock-market-news/blue-origin-zeroes-in-on-rocket-engine-issue-as-source-of-new-glenn-explosion-4839050)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-연방판사 아밋 메타가 트럼프 행정부의 75개국 대상 영주권 발급 동결 조치를 위법 판결하면서, 인도계 EB‑2·EB‑3 대기자 약 30만 명이 신청 자격을 회복했다. 이는 최근 H‑1B·L‑1 비자 연장 수수료를 대폭 인상하려는 행정부의 비용 부담 확대 정책과 동시에 진행돼, 인도·한국 등 고숙련 외국인 노동자들의 이민 비용이 급격히 상승하는 구조적 변화를 보여준다. 한편 USCIS는 망명 인터뷰 절차를 간소화하고 나이지리아·버마·소말리아 대상 TPS를 조정하는 등, 신속 추방과 보호를 동시에 추진하는 정책을 연달아 발표했으며, 이는 이민 심사 속도와 인도주의적 기준 사이의 긴장을 고조시킨다. 앞으로 주시할 한 가지는 연방 법원이 H‑1B 연장료 인상안에 대해 최종 결정을 내릴 시점이다.
+오늘의 미국 이민 뉴스는 트럼프 행정부의 이민 정책이 법적 도전과 실무적 혼란 속에서 균열을 보이고 있음을 보여준다. 연방판사 아밋 메타의 판결로 트럼프 행정부가 추진한 75개국 대상 그린카드 발급 동결 조치가 위법으로 판명되면서, 특히 인도계 지원자 약 25~30만 명이 즉각적인 혜택을 받게 됐다. 이는 행정부가 법적 근거 없이 이민 규제를 강화하려던 시도가 사법부의 견제를 받았음을 의미하며, EB-2/EB-3 카테고리 대기자들이 신속히 신청을 재개할 수 있는 길을 열었다. 그러나 이러한 판결이 일시적인 해법에 그칠 수 있다는 점도 주목해야 한다. USCIS의 망명 인터뷰 간소화나 직접 이민 법원으로의 송부 규칙처럼, 행정부는 여전히 절차적 변화를 통해 이민 통제력을 유지하려 하고 있기 때문이다.
+
+한편, H-1B와 L-1 비자 관련 정책 변화는 인도계 IT 전문가와 대기업에 집중된 경제적 부담을 가중시키고 있다. 트럼프 행정부가 제안한 비자 연장 수수료 인상(최대 4,000달러)과 바이오메트릭 수수료 인상(85달러→200달러)은 이미 높은 인건비와 운영 비용을 감당해야 하는 기업들에게 추가적인 재정 압박으로 작용할 전망이다. 특히 인도계 IT 기업들이 미국 내 인력을 유지하기 위해 연간 수십억 달러의 추가 비용을 부담해야 할 가능성이 제기되면서, 인력 유출이나 해외 이전 검토로 이어질 수 있다. 또한, H-1B 비자 소지자의 귀국 고민 사례는 비자 불안정성이 실질적인 인재 유출로 이어질 수 있음을 보여준다. 이러한 정책들이 단기적으로는 정부 재정 확보나 국내 인력 보호라는 명분을 내세울 수 있지만, 장기적으로는 미국 내 기술 인력 부족과 기업 경쟁력 약화를 초래할 위험이 있다.
+
+이민 시스템의 복잡성은 절차 간소화와 규제 강화의 이중성에서도 드러난다. USCIS가 I-130과 I-485 동시 접수로 3개월 만에 영주권을 승인한 사례는 신속 처리의 가능성을 보여주지만, 이는 개별 사례에 불과하며 시스템 전반의 불확실성을 해소하지는 못한다. 반면, 공공부담 규정 강화나 F-1 비자 D/S 규정 개정은 저소득층 이민자와 유학생들에게 새로운 장벽을 세우고 있다. 이러한 모순된 흐름은 이민 정책이 정치적 목적과 경제적 현실 사이에서 균형을 찾지 못하고 있음을 반증한다. 앞으로 주시해야 할 것은 연방 법원의 판결이 일시적인 조치에 그칠지, 아니면 행정부의 이민 정책 전반에 대한 구조적 재검토로 이어질지의 여부다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -634,9 +694,25 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [Court Blocks Trump’s $100,000 H-1B Fee as US Compa](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXU1Y2VIWDlIb0p4aTNFMEpKWHlWTFd1MGlKWk5pWGtJUlVOR3ZsQ0NOUklLSUdlQkJmeVVaaFA4T0tma1p6QkxiT3I1Y3dVaW84SVBqMnhPbDNYMmdRY2ZJVzFYcTZaakhzek5uVVJVSm5EaTRWRmFJa2RWbmcwLUF5bjM4aUpXclh1Y2szYm00NFA3WHlES0k0VHViM0RHYUQ1a0d3dmhBWEFGOUFyTFhBeFpwOXBCWHfSAb8BQVVfeXFMTWkyWDlONmx5LTE5bEZjSHpxX2xpVHRHUmVyTlhSMjVub3ZzN3VnSnR1S1hkUVFRWFQ0QktUNG9hTUF3SExYQVpDanFfU1dWcFJfaXJ5UTUxZTdEemRRMEtyajd1anJhNXpzNUR2UGxYaXVQMlJyV1U1RUEzeTR6TkZhOGhma2dEWHlSTWJieUR0WVdHUFFxNzNtdmttWlZZZElVb0pOa2NzbWNISG1yeFhVSm5KR1J5eUc1cHdmV0E?oc=5)
 
+### USCIS, 불완전 이민 신청서 즉시 거부 재개…RFE 없이도 가능
+
+미국 이민국(USCIS)이 불완전한 이민 신청서에 대해 Request for Evidence(RFE) 없이 즉시 거부할 수 있는 심사관 재량권을 복원했다. 2018년 트럼프 행정부 시절 시행되었던 이 정책이 바이든 행정부에서 일시 중단되었다가 최근 재개됐다. 신청서 누락 서류나 불충분한 증거가 있을 경우 RFE 절차 없이 바로 거부될 수 있다.
+
+**시사점** — 한국인 H-1B/EB 신청자와 가족 비자(F-2, H-4 등) 신청자는 2026년 8월 5일 이후 제출분부터 누락 서류로 인한 즉시 거부가 가능해지므로, 특히 프리미엄 프로세싱(15일 내 처리) 신청 시 서류 검토를 3중 확인해야 함.
+
+[USCIS Restores Officer Discretion to Deny Incomple](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHc0N081Nm5zeEpRSmNTZXM2ZzhLNl8wdWF1ZTBSZ3VFQ19vV2tGcGdpR3Z1X1o2bmlHdTR0NjQ1ZC1TUGFDWHNLVDhReFRJNW9FM0QySllCMDVqdGlpaVB2YXJpaWFWc1VhZmRONWRSNkllNUh0ZExnSFRIYjl0U3pEc09TcEZVRF80aE9Pcjd2Mm9JN09CdmdNTnZUdXdPZVpZczVSa3Z4Wm5zYnNv?oc=5)
+
+### 🆕 인도 CM, H-1B 비자 처리·갱신·스탬핑 간소화 촉구…한국인도 영향
+
+인도 타밀나두 주의 수석장관(M.K. Stalin)이 미국 정부에 H-1B 비자 처리, 갱신, 스탬핑 절차를 간소화해줄 것을 공식 요청했다. 인도 IT 인력의 미국 진출이 활발한 가운데, 비자 발급 지연과 스탬핑 대기 시간이 주요 애로사항으로 지적됐다. 한국인 등 타국 신청자도 같은 절차에 영향을 받을 수 있다.
+
+**시사점** — 한국인 H-1B 신청자는 2026년 4분기 이후 미국 대사관 스탬핑 대기 시간이 단축될 가능성이 있으며, 특히 인도와 공동으로 진행되는 비자 간소화 협의 결과를 2026년 10월 비자 불레틴에서 확인해야 함.
+
+[CM seeks simplification of H-1B visa processing, r](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSE93Z3o0Yjl3Nk9hXy1PdHVvNEUyZjFRRjk0ZkFjeWwtUHhwd09EeGdqN1FZREp5QkJtNFBuTXE1MzZiRW8yNXJLczN3TmhJckZZY1ZRTl90WjhzZFlGZ2NMR3RIdTVXdzNZMURUZUZXTF9YeHVfYno5Y3JTc2lDWktBczItbFU2Z2YzOThYb0k2NWFRN2hDVEpwWnZsNUZtNUl2SkI4Q3VMRnlHTXg5RXl0NHhVZG9FWWs5aWJCOGgyZEdwMkQwMjRoVE5CSEFLT0c1aE96T0hLRTBRV2FSWG5rZTBERWRt0gHoAUFVX3lxTFBIT3dnejRiOXc2T2FfLU90dW80RTJmMVFGOTRmQWN5bC1QeHB3T0R4Z2o3UVlESnlCQm00UG5NcTUzNmJFbzI1cktzM3dOaElyRlljVlFOX3RaOHNkWUZnY0xHdEh1NVd3M1kxRFRlRldMX1h4dV9iejljclNzaUNaS0FzMi1sVTZnZjM5OFhvSTY1YVE3aENUSnBadmw1Rm01SXZKQjhDdUxGeUdNeDlFeXQ0eFVkb0VZazlpYkI4aDJkR3AyRDAyNGhUTkJIQUtPRzVoT3pPSEtFMFFXYVJYbmtlMERFZG0?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,462 -0.5%
+- 나스닥: 26,451 -0.5%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
