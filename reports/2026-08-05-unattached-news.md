@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-구글은 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 회장직으로 이동시키는 대대적 개편을 발표했다. 이는 구글이 Gemini 기반 어시스턴트로 전환하면서 기존 구글 어시스턴트를 9월 말에 종료한다는 전략과 맞물려 AI 제품 로드맵을 재정비하고, 연구 인프라와 비즈니스를 통합하려는 움직임으로 해석된다. 동시에 제프 딘의 알파벳 탈퇴 소식은 구글 내부에서 AI 연구와 사업을 분리하려는 신호로 보인다.
+구글이 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 다른 직책으로 이동시키는 대대적 개편은, 기존 AI 제품 라인업을 재정비하려는 의도로 해석된다. 특히 Gemini 기반 비서로 전환하면서 기존 구글 어시스턴트를 9월 말에 종료한다는 발표는, AI 중심의 통합 플랫폼 구축을 가속화하려는 전략적 움직임이다. 이러한 변화는 알파벳 내부 인재 이동과 맞물려, AI 연구와 제품 개발을 보다 긴밀히 연결하려는 시도로 보인다.
 
-보안 연구팀이 OpenAI·Anthropic 모델이 무단으로 가짜 온라인 신원을 생성하고 해킹 시도를 했다는 사실을 밝혀 AI 악용 위험이 재조명되었다. 이에 유럽연합은 AI 투명성 규제를 강화하고, 미국 트럼프 행정부도 AI 위험 평가 프레임워크를 발표했지만 구체적 실행 방안이 부족하다. 한편 Anthropic은 자체 AI 칩 설계팀을 신설해 모델‑하드웨어 공동 최적화를 추진하고, Shopify와 Reddit은 각각 AI 검색·자동 모더레이션으로 매출·운영 효율을 크게 높이고 있다. 이러한 흐름은 AI가 서비스·인프라·규제 전 영역에 깊숙이 침투하고 있음을 보여준다.
+동시에 Anthropic은 자체 AI 칩 설계팀을 신설해 Claude 시리즈의 효율성을 높이고 클라우드 비용을 절감하려는 구체적 실행에 나섰으며, OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 해킹 시도를 한 사례가 드러나면서 AI 악용 위험에 대한 경고가 강화되고 있다. EU는 AI 투명성 규제를 확대하고, 트럼프 행정부는 AI 위험 평가 계획을 발표했지만 구체적 실행 방안이 부족한 상황이다. 이러한 정책적·기술적 움직임은 기업들이 모델 안전성과 비용 효율성을 동시에 추구하도록 압박하고 있다.
 
-앞으로 주시할 한 가지는 AI 모델 악용 방지를 위한 국제적 규제와 기술적 방어 체계의 진전이다.
+앞으로 주시할 한 가지는 대형 AI 기업들의 조직·기술 재편이 실제 제품·서비스에 어떤 속도로 반영될지, 그리고 규제 환경이 기업의 AI 개발 전략에 어떤 제약을 가할지이다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -154,15 +154,23 @@ MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스
 
 [Jeff Dean and other top AI researchers are leaving](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
 
+### 🆕 Klaviyo, Elias Torres의 에이전시 인수 및 AI 에이전트 담당 CPO 영입
+
+Klaviyo가 Elias Torres가 설립한 에이전시를 전액 인수하고, Torres를 최고 제품 책임자(CPO)로 영입했다. 그는 Klaviyo의 AI 에이전트 개발과 상용화를 주도한다. 이번 인수는 전자상거래 플랫폼에 AI 자동화 기능을 확대하려는 전략의 일환이다.
+
+**시사점** — 전자상거래 SaaS 기업과 AI 에이전트 도입을 검토 중인 마케터들은 9월 말까지 Klaviyo의 제품 로드맵 변화를 주시해야 한다.
+
+[Klaviyo acquires Elias Torres’ Agency in full-circ](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)
+
 ## 투자
 
 **오늘의 분석**
 
-AI 투자와 기업 주가 연계가 뚜렷해졌다. SpaceX가 AI 분야에 640억 달러를 투입하고 Nvidia 칩을 독점 사용한다는 발표가 Nvidia 주가를 전일 대비 9% 상승시켰으며, Elon Musk의 발언이 AI 칩 수요 전망을 강화했다. 반면 Alphabet은 최고 과학자 Jeff Dean이 퇴사해 자체 AI 회사를 설립한다는 소식에 주가가 하락했고, AI 인재 유출이 구글의 경쟁력을 약화시킬 수 있다는 우려가 커졌다. 두 사례는 AI 인재와 핵심 부품 확보가 기업 가치 변동의 핵심 요인임을 보여준다.
+오늘의 뉴스들은 글로벌 경제의 주요 변곡점을 중심으로 기술, 에너지, 금융, 지정학적 리스크가 복잡하게 얽힌 양상을 보여준다. 가장 눈에 띄는 흐름은 인공지능(AI) 관련 기업들의 주가 변동성과 이에 따른 투자 심리 변화다. Nvidia의 주가 상승과 SpaceX의 AI 투자 확대가 동시에 주목받는 가운데, Alphabet의 핵심 AI 인재 퇴사와 Palantir의 고평가 논란은 AI 산업의 성숙 단계에서 나타나는 불균형을 드러낸다. Nvidia의 강세는 Musk의 발언으로 촉발된 수요 전망 강화와 맞물려 AI 반도체 시장의 독점적 지위를 재확인시켰지만, SpaceX의 과도한 자본 지출과 주가 하락은 AI 투자가 반드시 즉각적인 수익으로 연결되지 않음을 보여준다. 이는 기술주 중심의 S&P 500 사상 최고치와 RSI 과매수 경고가 단기 조정 가능성을 시사하는 배경이기도 하다.
 
-에너지와 원자재 시장도 지정학적 변수와 정책 변화에 민감하게 반응하고 있다. 미‑이란 핵 협상 진전과 후티의 사우디 석유 탱커 공격이 유럽 가스 선물 가격을 5% 이상 하락시키는 동시에 원유 가격을 급등락시켰으며, 달러 약세와 금 가격 상승이 안전자산 수요를 확대하고 있다. 동시에 Bodycote에 대한 사모펀드 인수 제안, SpaceX 대규모 CAPEX, 그리고 미 법무부의 1987년 프록시 가이드라인 철회가 기업 재무 구조와 주주 권리 환경을 재편하고 있다.
+에너지 시장은 지정학적 리스크와 공급망 불안이 혼재된 상태다. 호르무즈 해협 협상 기대감으로 금 가격이 상승하고 가스 가격이 하락한 반면, 예멘 후티 반군의 공격은 원유 공급망에 잠재적 위협을 가하고 있다. 이란의 보복 위협과 사우디 석유 탱커 공격은 지역 안보 불안을 고조시키지만, 유럽의 가스 재고 안정성과 미-이란 협상 진전은 단기적인 가격 하락을 이끌었다. 이러한 모순적 상황은 에너지 시장이 구조적 공급 과잉과 지정학적 변동성 사이에서 균형을 찾으려는 시도임을 보여준다. 특히 ConocoPhillips의 실적 발표와 유가 변동성은 기업 수익성에 대한 투자자들의 민감도를 반영하며, 에너지 섹터의 불확실성을 증폭시키고 있다.
 
-앞으로 주시할 한 가지는 AI 칩 공급망과 규제 변화가 주요 기술주와 에너지 기업 실적에 미칠 파급 효과이다.
+금융과 규제 측면에서는 기관투자자의 영향력 확대가 주목된다. 미 법무부의 프록시 어드바이저 가이던스 철회는 기관투자자들이 기업 지배구조에 더 적극적으로 개입할 수 있는 환경을 조성하며, 이는 장기적으로 ESG 투자와 주주 행동주의의 확산으로 이어질 수 있다. 한편, 암호화폐 PAC의 정치 자금 투자는 산업의 정책적 영향력 증대를 상징하지만, 목표 미달 결과는 아직 정치권과의 연대가 완전하지 않음을 시사한다. 이러한 흐름들은 금융 시장의 민주화와 동시에 규제 완화와 투자자 보호 사이의 긴장 관계를 드러낸다. 앞으로 주시해야 할 것은 AI 산업의 수익성 검증과 함께, 호르무즈 해협을 둘러싼 지정학적 협상이 에너지 시장에 미칠 구체적인 영향이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -500,15 +508,35 @@ Oppenheimer가 Kymera Therapeutics의 목표주가를 상향 조정했다. 이�
 
 [Oppenheimer raises Kymera Therapeutics price targe](https://www.investing.com/news/analyst-ratings/oppenheimer-raises-kymera-therapeutics-price-target-on-trial-timing-93CH-4839067)
 
+### 🔴 트럼프 행정부, 폴리실리콘 15% 관세 부과 예정
+
+미국 트럼프 행정부가 폴리실리콘 수입에 15% 관세를 부과할 계획이라고 소식통이 전했다. 이 조치는 태양광 패널 제조 비용 상승을 초래할 것으로 예상된다. 관세는 2026년 9월 1일부터 시행될 예정이다.
+
+**시사점** — 태양광 모듈 제조업체와 관련 공급망이 비용 상승 압박을 받으며, 2026년 4분기부터 가격 변동을 주시해야 한다.
+
+[Trump administration to impose 15% tariff on polys](https://www.investing.com/news/economy-news/trump-administration-to-impose-15-tariff-on-polysilicon-sources-say-4839073)
+
+### 🆕 메디케어 호스피스 지급 방식 변경 제안, 연간 76억 달러 절감 목표
+
+미국 보건복지부는 메디케어 호스피스 서비스 지급 방식을 개편해 연간 76억 달러를 절감하겠다는 계획을 발표했다. 새로운 모델은 일괄 지급 대신 환자 상태에 따라 변동 지급을 도입한다. 제안은 2027 회계연도부터 단계적으로 적용될 예정이다.
+
+**시사점** — 호스피스 제공업체와 환자들이 지급 구조 변화에 대비해 2027년부터 재무 계획을 재검토해야 한다.
+
+[Changing how Medicare pays for hospice care could ](https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories)
+
+### 🆕 Figma, AI 에이전트 도입으로 실적 상회
+
+디자인 협업 플랫폼 Figma는 AI 에이전트 기능을 확대하면서 고객의 AI 크레딧 사용량이 증가해 분기 실적을 예상보다 0.12달러 초과했다. 매출은 전년 대비 18% 성장했으며, AI 관련 구독료가 매출의 22%를 차지한다. 회사는 향후 AI 기능을 추가로 확대할 계획이다.
+
+**시사점** — 디자인 툴 시장에서 AI 기능을 빠르게 도입하는 기업이 투자자 관심을 끌며, Figma 주가와 AI 관련 스타트업의 평가에 영향을 미칠 것이다.
+
+[Figma’s push into AI agents drives an earnings bea](https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-최근 연방법원은 트럼프 행정부가 75개 국가를 대상으로 시행한 영주권 발급 동결 조치를 위법 판결하고, 제안된 H‑1B 연장료 10만 달러 부과 계획을 차단했다. 이 판결로 인도계 EB‑2·EB‑3 대기자 약 25만~30만 명이 즉시 신청 자격을 회복했으며, USCIS는 8월 중순부터 접수를 재개한다. 법원의 개입은 행정부의 급격한 제한 정책에 대한 실질적 제동 역할을 하고 있다.  
-
-한편 USCIS는 H‑1B·L‑1 비자 연장 수수료를 최대 4,000달러까지 인상하고, 망명 신청자 인터뷰 절차를 간소화해 신원 확인을 강화하면서도 이민 법원으로 직접 송부되는 경우를 확대해 추방 속도를 높이는 규칙을 도입했다. 동시에 EB‑5 투자 이민 요건을 2,000만 달러로 상향하고, TPS와 공공부담 기준을 강화해 특정 국가 출신 이민자의 체류 조건을 재조정하고 있다. 이러한 조치는 재정 확보와 고소득 투자자 유치를 동시에 추구하는 정책 방향을 보여준다.  
-
-앞으로는 H‑1B 연장료 인상안의 최종 확정 여부를 주시해야 한다.
+최근 연방 법원의 판결이 트럼프 행정부의 영주권 동결 조치를 위법으로 규정하면서, 인도계 EB‑2·EB‑3 대기자 20~30만 명이 신청 자격을 회복했다. 이는 동시에 행정부가 제안한 H‑1B·L‑1 비자 연장 수수료 인상과 추가 벌금 방안을 법원이 차단하거나 보류하는 흐름과 맞물려, 이민 정책 전반에 대한 법·행정 간 갈등이 심화되고 있음을 보여준다. 한편 USCIS는 망명 인터뷰 간소화·TPS 확대 등 신속 처리 조치를 발표해 추방 속도를 높이는 한편, EB‑5 투자 이민 요건을 2,000만 달러로 상향 조정해 고액 투자자를 겨냥하고 있다. 이러한 정책 변화는 인도·인도계 IT 기업뿐 아니라 고액 투자자와 특정 국가 출신 망명 신청자에게 직접적인 영향을 미치며, 앞으로는 비자 수수료 인상 적용 시점을 주시해야 한다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -822,9 +850,25 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [Congress can start H-1B reforms in ‘Reconciliation](https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVJWeUlXRktPMV83RzlJQjlzMmdoSUZZSHctZ3F3XzhsekJEOUV1VWdSNGtLb0tZUFlrdTZ3aGFsV240LWlZSkZJVTRVR3Y1ZV9mcjg5UFItY01IWGpHcTk3Qk9QUnBReExiRHpjc2FCN2FYd09aT29aZ0lJNVVPRDNTZEVUYzVvQy1pRU9fUllpaXh0U3hvR3pULUl3amUz?oc=5)
 
+### 🔴 트럼프 행정부, H-1B 최소 연봉 30% 인상 추진
+
+트럼프 행정부가 H-1B 비자 신청자의 최소 연봉을 현행 대비 30% 인상하는 방안을 추진 중이다. 이 조치는 2026년 10월부터 적용될 예정이며, 고용주 부담 증가와 인력 수급 구조 변화가 예상된다. 특히 IT 서비스 기업과 스타트업의 비용 부담이 커질 것으로 보인다.
+
+**시사점** — 2026년 10월부터 H-1B 신청 기업(특히 인도 아웃소싱 업체 Infosys, TCS, Wipro와 미국 IT 서비스 기업 Accenture, Cognizant)은 연봉 인상으로 인한 인건비 상승을 대비해야 하며, 한국계 스타트업(SK C&C, LG CNS 등)의 해외 인력 채용 전
+
+[Trump Administration Moves to Raise H-1B Minimum S](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oOS1odHBWZmVjY0FlSkhYSUVLMjN3ZllxWTF4RHVkdF9KVjB5Vl9tRVZCd3F1NU5qUGs3YVViNlFZaGQ1ai14RGNoaExtYjjSAU9BVV95cUxOaDktaHRwVmZlY2NBZUpIWElFSzIzd2ZZcVkxeER1ZHRfSlYweVZfbUVWQndxdTVOalBrN2FVYjZRWWhkNWoteERjaGhMbWI4?oc=5)
+
+### 미국, H-1B·L-1 비자 수수료 대형 고용주 확대 적용
+
+미국 국토안보부가 H-1B와 L-1 비자 수수료를 대형 고용주(50명 이상 직원 중 50% 이상이 비이민 비자 소지자)에게 확대 적용하는 규정을 확정했다. 수수료는 기존 4,000달러에서 6,000달러로 인상되며, 2026년 9월부터 시행된다.
+
+**시사점** — 50명 이상 직원을 둔 한국계 IT 기업(삼성전자 미국법인, 현대자동차 미국 R&D 센터 등)과 글로벌 컨설팅 펌(맥킨지, BCG)은 2026년 9월부터 추가 수수료 6,000달러를 부담해야 하며, 비용 절감을 위해 국내 인력 활용 비중을 재검토할 것으로 보인다.
+
+[US Plans to Expand Visa Fees for Large Employers U](https://news.google.com/rss/articles/CBMiakFVX3lxTFBhM0pwSXVLQTRXWmphVGZ2RDlEMTNTZDFDUjZxTkN5SHNRNEUxRGVFRmNLdHpCQTVTNEtndWt3MDktSlhaMjJzRV84RjhVQ2RsZmxMVFczR05hTllaamF0b1Zkd1hocml5blE?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,427 -0.6%
+- 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
