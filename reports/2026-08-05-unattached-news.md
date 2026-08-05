@@ -158,11 +158,11 @@ MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스
 
 **오늘의 분석**
 
-오늘은 AI와 에너지 섹터가 시장 흐름을 주도하고 있다. 구글 최고 과학자 Jeff Dean의 퇴사와 Elon Musk가 Nvidia 칩만을 사용할 것이라고 밝힌 발언은 AI 수요를 재확인시켰으며, Nvidia 주가가 9% 급등하고 SanDisk·Meta가 AI 제품 라인을 확대하면서 관련 기업들의 상승세가 이어졌다. 반면 SpaceX는 AI 투자 확대와 640억 달러 규모의 CAPEX 계획으로 주가가 11% 하락했으며, 락업 만료와 현금 흐름 우려가 투자자들의 신중함을 촉발하고 있다.
+Alphabet의 최고 과학자 Jeff Dean이 구글을 떠나 자체 AI 회사를 설립하면서 AI 인재 확보 경쟁이 격화되고 있다. 동시에 SpaceX는 AI 분야에 640 억 달러 규모의 자본을 투입한다는 추정이 나오며, 대규모 CAPEX와 락업 만료가 주가에 압박을 가하고 있다. Elon Musk가 Nvidia 칩만을 사용하겠다고 선언한 뒤 Nvidia 주가가 9 % 급등했으며, AI 반도체 수요가 전체 시장 분위기를 견인하고 있다. 이러한 흐름은 AI 기술이 핵심 성장 동력으로 자리매김하고 있음을 시사한다.  
 
-에너지와 거시 환경 역시 변동성을 키우고 있다. 이란·미국 핵 협상 진전으로 유럽 가스 가격이 5% 떨어졌지만, 후티의 사우디 석유 탱커 공격과 호르무즈 해협 협상 기대감이 원유 가격을 급등·급락하게 만들었다. 동시에 Novo Nordisk이 GLP‑1 시장에서 Eli Lilly에 밀리고, ConocoPhillips가 변동성 높은 유가 속 실적 발표를 앞두고 있어 기업 실적에 대한 불확실성이 커졌다. S&P 500이 사상 최고치를 경신했지만 RSI 75라는 과매수 신호와 미 법무부의 프록시 가이던스 철회, 구글 영국 광고 소송 등 규제 요인도 시장 리스크를 높이고 있다.
+한편 미국과 이란 간 핵 협상 진전 소식이 네덜란드와 영국 가스 가격을 5 % 이상 하락시키는 등 에너지 시장에 직접적인 영향을 미치고 있다. 금 가격은 달러 약세와 호르무즈 해상 거래 기대감으로 2월 초 이후 최고치를 기록했으며, 원유는 후티 반군의 공격 위협과 협상 기대 사이에서 급등락을 반복하고 있다. 또한 미 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 보다 자유로워질 전망이다.  
 
-앞으로 주시할 한 가지는 SpaceX의 대규모 AI·CAPEX 지출이 현금 흐름과 주가에 미칠 실제 영향이다.
+앞으로는 미국과 이란 간 핵 협상의 진전 여부를 주시할 필요가 있다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -411,6 +411,46 @@ Meta가 개발자용 AI 코딩 도우미인 Muse Code를 베타 형태로 공개
 **시사점** — 엔진 문제 해결 여부가 블루 오리진의 발사 일정과 우주 발사 서비스 경쟁력에 직접적인 영향을 미치므로, 우주산업 투자자는 진행 상황을 관찰해야 한다.
 
 [Blue Origin zeroes in on rocket engine issue as so](https://www.investing.com/news/stock-market-news/blue-origin-zeroes-in-on-rocket-engine-issue-as-source-of-new-glenn-explosion-4839050)
+
+### 🆕 Evercore ISI, Charles River Labs 주가 목표상향 발표
+
+Evercore ISI가 Charles River Labs의 목표주가를 기존 38달러에서 44달러로 상향했다. 이는 최근 매출이 전년 대비 22% 성장한 데 따른 평가다.
+
+**시사점** — 바이오테크 성장주 투자자와 펀드 매니저가 2026년 3분기 실적 발표 전까지 목표주가 44달러를 주시해야 함
+
+[Evercore ISI raises Charles River Labs stock price](https://www.investing.com/news/analyst-ratings/evercore-isi-raises-charles-river-labs-stock-price-target-on-revenue-growth-93CH-4839059)
+
+### ⚠ 제안된 호르무즈 협정, 이란이 인바운드 트래픽 통제권 획득 전망
+
+소식통에 따르면 제안된 호르무즈 협정이 체결되면 이란이 페르시아만을 통한 인바운드 해상 트래픽을 직접 관리하게 된다. 협정은 아직 최종 확정되지 않았으며, 국제 해운업계의 우려가 커지고 있다.
+
+**시사점** — 7월까지 석유 수송 비용이 10% 상승할 위험이 있어 글로벌 물류 기업과 원유 수입국이 위험 관리 전략을 재검토해야 함
+
+[Proposed Hormuz deal would give Iran control of in](https://www.investing.com/news/commodities-news/us-and-iran-having-very-good-discussionstrump-says-4836402)
+
+### 🆕 Netlist와 삼성, 5년 메모리 특허 분쟁 합의
+
+Netlist와 삼성전자가 5년간 지속된 메모리 특허 분쟁을 합의로 마무리했다. 양사는 향후 특허 사용에 대한 로열티를 상호 협의하기로 했다.
+
+**시사점** — 2026년 4분기까지 메모리 시장에서 양사의 R&D 투자 확대가 예상돼 투자자들이 해당 기업들의 주가 흐름을 주시해야 함
+
+[Netlist, Samsung settle patent disputes in new fiv](https://www.investing.com/news/stock-market-news/netlist-samsung-settle-patent-disputes-in-new-fiveyear-memory-deal-4837206)
+
+### 🆕 Materion, 사상 최고 주가 298.87달러 기록
+
+Materion의 주가가 298.87달러로 사상 최고치를 기록했다. 이는 고성능 금속 소재에 대한 수요 증가와 최근 계약 확대가 반영된 결과다.
+
+**시사점** — 금속 소재 펀드와 산업용 부품 투자자들이 2026년 말까지 Materion 주식 비중을 늘릴 기회를 모색할 필요가 있음
+
+[Materion stock hits all-time high at 298.87 USD](https://www.investing.com/news/company-news/materion-stock-hits-alltime-high-at-29887-usd-93CH-4839055)
+
+### 🆕 Citi, 에토스 테크놀로지를 SMid Cap 최고 종목으로 선정
+
+Citi가 발표한 2026년 SMid Cap 종목 순위에서 에토스 테크놀로지가 1위를 차지했다. 에토스는 최근 클라우드 인프라 자동화 솔루션 매출이 전년 대비 35% 성장했다.
+
+**시사점** — 기관 투자자들이 2026년 4분기까지 에토스 주식 비중을 확대할 가능성이 높아, 해당 종목을 포트폴리오에 포함할 시점을 검토해야 함
+
+[Top SMid Cap Pick: Ethos Technologies Leads Citi’s](https://www.investing.com/news/stock-market-news/top-smid-cap-pick-ethos-technologies-leads-citis-rankings-93CH-4839054)
 
 ## 미국 이민
 
@@ -721,6 +761,6 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,443 -0.5%
+- 나스닥: 26,430 -0.6%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
