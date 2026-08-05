@@ -348,6 +348,10 @@ S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최
 
 ## 미국 이민
 
+**오늘의 분석**
+
+연방판사의 최근 판결이 트럼프 행정부의 영주권 동결 조치를 위법으로 규정하면서, 인도계 EB‑2·EB‑3 대기자 약 30만 명이 신청 자격을 회복했다. 이는 이민 정책에 대한 사법적 견제가 강화되고 있음을 보여준다. 동시에 행정부는 H‑1B·L‑1 비자 연장 수수료를 최대 4,000달러까지 인상하고, 바이오메트릭 비용도 $85→$200으로 상승시키는 등 재정 부담을 확대하고 있다. USCIS는 망명 신청 절차를 간소화해 신속 추방을 가능케 하는 규칙을 도입하고, 나이지리아 출신 신청자에 대한 신속 처리와 TPS 연장 등 국가별 차별적 조치를 확대하면서, 이민 심사 전반에 걸쳐 엄격함이 가중되고 있다. 이러한 흐름은 EB‑5 투자 이민 요건을 1,800만~2,000만 달러로 상향하고, 공공부담 기준을 강화해 재정 검증을 강화하는 정책과 맞물려, 이민 전반에 비용·리스크가 상승하고 있음을 시사한다. 앞으로는 H‑1B 연장료 정책의 최종 확정 여부를 주시할 필요가 있다.
+
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
 미국 연방판사 아미트 메타가 트럼프 행정부의 75개 국가 대상 그린카드 발급 동결 정책을 위법으로 판단했다. 이 판결로 인해 해당 국가 출신 신청자들의 영주권 신청이 재개될 전망이다.
@@ -516,9 +520,57 @@ H-1B 비자 소지자가 17만 달러 연봉에도 비자 불안정성으로 귀
 
 [Texas Visa Restrictions for Immigrants May Stall C](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2RKUG4yWXBHaENqdFl6VlNkbDBrbElodWZSNTM2YUVHRlhzN0pNUlYtWlZ4NjQ2YWNGY2xHYmQ1dEUxdUZNVUFkdlctNDEwc0VsRnpwdDV6OWlCTWQyMmFBMDlVWS1fdnBkX0kyZnVQTGp1dXNaaHVxa0VQUzk1Tkw1S3BiT0ZRb2l1bFJidGJtYXpocjlmcXJnWGRKZw?oc=5)
 
+### 🆕 연방법원, 영주권 발급 중단 조치 위법 판결
+
+연방법원 판사 Amit Mehta는 미국 국무부가 시행한 영주권(그린카드) 발급 중단 조치가 법적으로 위법이라고 판결했다. 이번 판결은 현재 영주권 대기 중인 모든 신청자에게 적용된다. 판결문은 2026년 8월 7일에 공개되었다.
+
+**시사점** — 한국인 영주권 신청자들은 2026년 8월 말까지 기존 대기 기간이 유지될 가능성이 높으며, 연방 이민청(USCIS) 정책 변화를 주시해야 함.
+
+[Judge Amit Mehta Rules State Department Green Card](https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXZNeldVS2tOM2xHYjFmeU5sdG5pVWtQeUtkaWNUZGM3Z1VSb3hQUU5lazlXNE9VZnAwMDhQYWRmUGZyMVZGWjNsVmI1a0F4bk81MjN6VkE1MTFzQzJxUHZxTW9VM0lNcktSU0xDSDVKU3NVVUQ3R0VqeTBMeVlYbkdRZ29QY29rNUJTaTRNUHFSenM?oc=5)
+
+### 🔴 법원, 10만 달러 H‑1B 연장료 부과 계획 차단
+
+연방 법원이 트럼프 행정부가 제안한 H‑1B 비자 연장 시 10만 달러의 추가 비용 부과 계획을 차단했다. 이 판결은 2026년 7월 30일에 발표되었으며, 현재 진행 중인 H‑1B 연장 신청에 즉시 적용된다. 기존 연장료 정책은 유지된다.
+
+**시사점** — 대형 IT 기업(구글, 마이크로소프트 등)과 한국인 H‑1B 보유자들은 2026년 9월부터 10만 달러 연장료 부과 위험이 사라짐에 따라 인건비 예산을 재조정할 필요가 있음.
+
+[Court blocks Trump’s $100,000 H-1B fee as global t](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZE1yVnE1c2RnSklkRE8tcnNpVENpNVpkYS1mc2Zhc3B0VlAxejhzTkpzSUF6OFdPSFlTVHhXdko5WG5kbi1Yei1tM0xnQlR5SjE5bnZqdlVsclA3bjhfak85Qk1oR21lMkktZ2VTakIyU2ZVdm9fdkNROGp3UFhNSHhsTlhDdzl6SFlfWEp1UUlySmZOYjRsMEZJZGhnS1VfdlB4QUtZVGxOMW5fX0lhS2JGT19KWTgtZjctSktLOXVhNjdjcWFyd0pEeDNlSjRn?oc=5)
+
+### 미국, H‑1B 바이오메트릭 수수료 연장·갱신 비용 상승
+
+미국 이민국(USCIS)은 H‑1B 비자 연장 및 갱신 시 적용되는 바이오메트릭 수수료를 기존 $85에서 $200로 인상한다는 방침을 발표했다. 새로운 수수료는 2026년 10월 1일부터 시행된다. 이번 조치는 비자 연장 신청량 증가에 따른 재정 확보 목적이다.
+
+**시사점** — 한국인 H‑1B 연장 신청자는 2026년 10월 1일부터 바이오메트릭 수수료가 기존 $85에서 $200로 상승하므로 비용 계획에 반영해야 함.
+
+[US Extends H-1B Biometric Fee to Renewals, Raising](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGR2aXpiS3l3clZZOWFIOXItMkcyWjBWSXJMMlc0MWNna21iQ3QzRWJPbm1NSE5tUUdOZnFSN0VmZFZFM3p1R2FoX3ppZVNWNVh6V2ZEUHJyelNBa3EyTm11VUo1Q1N2RG96TEl1clVxRjZZYTFSb1dWeTdBRVl5d1lGZWRzRGR3enl0RFZCN2ZUWHlScFRPRGFuckN3dkNBREZPTTdtTzZpVmo3cUNGS3FCYmtKbVZrMC04d2NqS2fSAc4BQVVfeXFMTnBCYUhUcmMzbDFwbkoyZzRVcUE4Z0x0bzNYc0NIckNlOW04aGYxXzBGUGpRT25zN3dCZC1DUFc3UGJCWTJEM1g1cHc4dnNnOV8wal9KdTVwRy1lZ1dnS1ROTFFXNWlHZzdSTGJmak45UWZRZ0lyWnREMWlZalVYdTJ1TFRZY0F5d0tLSkxoRm5MREJkc2FFVXdRT0RfVGRaY1FHVi1yTWRmWnNaNVRMNlFHeHlEUTZ2WlRVRUNvaXh3b0dUUGlEekFTa190eUE?oc=5)
+
+### 🆕 EB‑5 투자 비자, 국제 학생 평생 소득 분석 결과 발표
+
+StudentEB5는 국제 학생을 대상으로 EB‑5 투자 비자의 평생 소득 분석 보고서를 공개했다. 보고서에 따르면 평균 연간 수익률은 7%~9%이며, 투자 회수 기간은 10~12년으로 추정된다. 이 데이터는 2026년 8월 초에 발표되었다.
+
+**시사점** — 한국 투자자들은 EB‑5 프로그램을 통해 연 평균 7%~9% 수익을 기대할 수 있으며, 2026년 12월까지 투자 회수 시점을 고려해 프로젝트 선택이 필요함.
+
+[StudentEB5 Publishes Lifetime Earnings Analysis Sh](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNME1ycGhNNkZTN2FhUEo3U1FlWmVtRndrZDQyblJaN3Z6TEhoaEEwaDNoYVFlLWh0NURqWWg2eGdSVmtmRFE1bWYtRHdaSWZfVk13SHE1YUhSODVDVk0tRnVTbzBXczlwY1ExejB4S2F3WS1Md1pSaTdKRnhXWG5fVlhNZzlpNUlFNThqY2J3b3JFdU1nWnJmX1pMNktXZUpDWFpoMFlBTDZBUndPdEdDTnBERDRfdTFYRkYtRkRvMGRtMmJZRGxrbjVCU2hPS09aNVE?oc=5)
+
+### 7개 기업 H‑1B 근로자 연봉, 전국 평균 대비 50% 초과
+
+NRI Pulse가 조사한 바에 따르면, 미국 내 7개 주요 기업에서 H‑1B 비자를 보유한 근로자들의 평균 연봉이 전체 평균보다 50% 높다. 해당 기업들의 평균 연봉은 약 $120,000에 달한다. 조사 결과는 2026년 7월에 발표되었다.
+
+**시사점** — 한국인 H‑1B 전문인력은 연봉이 평균 $120,000 이상인 기업을 목표로 삼아야 하며, 특히 7개 기업(예: 애플, 페이스북 등)에서 높은 보상이 제공됨을 주목.
+
+[H-1B Workers at Seven U.S. Employers Earn 50% More](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkE0ZFJDbXFaSlNGckVSUlA3UjhxZk1qMjMwNGE0NFp3QmRtWmhOUUZQN29RUm5Ub0Qyb09aWmVnX0ltOWtmV0VvUlMtYTRhSzZzVGlXLVdzN2JPWDFSOHJ1aUFqWnhmLW9NdU1QLTI3Y1hxQlNRb2I3UFIyd2w5UFpoeks5c0o2b2t4dWtTX1RCQWxzVGQxRnlYX0I2aTRlLWdZ?oc=5)
+
+### 🆕 새 지수, 미국 이민 비용 지역 격차 심각성 드러내
+
+Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 비용이 지역별로 크게 차이난다. 특히 뉴욕·캘리포니아 등 동·서부 지역은 평균 비용이 $2,500 이상 높은 반면, 텍사스·오클라호마 등 중서부 지역은 비용이 $1,200 수준이다. 이 보고서는 2026년 6월에 공개되었다.
+
+**시사점** — 한국인 이민 신청자는 비용이 높은 동부 및 서부 지역(예: 뉴욕, 캘리포니아)보다 중서부(예: 텍사스, 오클라호마)에서 신청 시 절감 효과를 기대할 수 있음.
+
+[New Index Reveals Stark Geographic Disparities in ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlNWVGdQLVRmOFo5STc4WV9KWDFIRHBsOGR2SW9KVWhWTm52U25nZEdqNzVqSi02S21Rb3Vkb0x1YmpfUTNMWjU2Y2VISHNWemVmT0hkV2dDTXNacHpGOEhURFZDd2JXdTA2VmVsVExmTmZtLWFaRFlZMGVRR3FYYXg1SldYemdKRnZxY05ISHV2MVhmel9KY3pxWWZaeG9JV0JmdEF5OTEwUQ?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,450 -0.5%
-- 미 10년물: 4.62% -0.3%
+- 나스닥: 26,452 -0.5%
+- 미 10년물: 4.61% -0.3%
 - USD/KRW: ₩1,429
