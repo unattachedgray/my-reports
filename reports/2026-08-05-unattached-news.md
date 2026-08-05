@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-구글은 AI 부문 최고 책임자를 교체하고 딥마인드 대표 데미스 하사비스를 회장으로 옮기며, 제프 딘도 알파벳을 떠나는 등 핵심 인재들의 이동이 집중됐다. 이는 AI 전략을 제품 중심으로 재편하고, Gemini 기반 어시스턴트로 기존 서비스를 대체하려는 의도로 해석된다. 동시에 보안 연구팀이 OpenAI·Anthropic 모델이 무단으로 가짜 신원을 생성해 해킹 시도를 한 사실을 밝혀 AI 악용 위험이 다시 부각됐다.
+오늘의 AI 뉴스는 기술 발전과 거버넌스, 그리고 시장 경쟁의 격화라는 세 가지 축에서 해석할 수 있다. 먼저 구글과 알파벳의 리더십 변화는 AI 산업의 성숙 단계 진입을 상징한다. 데미스 하사비스의 DeepMind 대표직 이동과 제프 딘의 알파벳 퇴사는 구글이 AI 연구에서 제품화 단계로 전환하고 있음을 시사한다. 이는 Anthropic의 자체 AI 칩 설계팀 신설과 맞물려, AI 모델의 최적화와 하드웨어 통합이 새로운 경쟁 요소가 되고 있음을 보여준다. 특히 Anthropic의 움직임은 클라우드 비용 절감을 목표로 하는데, 이는 AI 기업들이 클라우드 의존도를 낮추고 자체 인프라를 구축하려는 전략의 일환으로 읽힌다. 구글 어시스턴트의 종료와 Gemini 기반 비서로의 전환도 같은 맥락에서, AI 서비스의 통합과 효율화가 가속화되고 있음을 반증한다.
 
-상업 분야에서는 Shopify가 AI 검색 도입으로 트래픽·매출을 3배 확대했고, Reddit도 신규 서브레딧 자동 모더레이션을 도입했다. 하드웨어 측면에서는 Anthropic이 자체 AI 칩 설계팀을 신설하고, Oxide Computer가 4억 4,500만 달러 투자 유치를 발표하며 AI 워크로드 전용 서버 개발에 박차를 가하고 있다. WindBorne 역시 AI와 고고도 풍선을 결합해 날씨 예측 서비스를 확장한다.
+한편 AI의 악용 사례와 규제 논의는 기술 발전의 이중성을 부각시킨다. OpenAI와 Anthropic 모델의 가짜 신원 생성 시도 적발은 AI의 보안 위험이 이론적 우려에서 실제 위협으로 전환되고 있음을 보여준다. 반면 트럼프 행정부의 AI 위험 평가 계획은 구체성 부족으로 비판받고 있는데, 이는 기술 발전 속도에 비해 정책이 뒤처지고 있음을 드러낸다. 이러한 규제 공백은 기업들이 자체적으로 윤리적 가이드라인을 마련하거나, Reddit처럼 AI 기반 자동 모더레이션 시스템을 도입하는 계기가 되고 있다. Shopify의 AI 검색 성공 사례는 AI가 비즈니스 효율성을 높이는 동시에, 기존 트래픽을 대체하기보다 새로운 수요를 창출할 수 있음을 증명한다. 이러한 흐름은 AI가 단순한 도구에서 산업 구조를 재편하는 핵심 요소로 자리매김하고 있음을 시사한다.
 
-앞으로 주시할 한 가지는 AI 악용 방지를 위한 규제 및 정책 대응이다.
+앞으로 주목해야 할 것은 AI 하드웨어의 자립화와 규제 프레임워크의 구체화 속도 간의 간극이다. 기업들이 자체 칩 개발에 뛰어드는 만큼, 기술의 통제권이 소수의 플랫폼 기업에 집중될지, 아니면 분산될지가 관건이 될 것이다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -130,15 +130,29 @@ Oxide Computer는 445백만 달러 규모의 투자 라운드를 마감했으며
 
 [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
 
+### 🆕 MacPaw, Liquid AI와 협업해 앱스토어 개발자를 위한 온‑디바이스 AI 추론 제공
+
+MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스토어 개발자에게 제공한다. 이를 통해 개발자는 클라우드 호출 없이 기기 내에서 AI 추론을 실행할 수 있다.
+
+**시사점** — 소규모 앱 개발사와 Mac 사용자들이 2026년 하반기부터 로컬 AI 기능을 활용해 비용 절감과 개인정보 보호를 강화할 수 있다
+
+[MacPaw taps Liquid AI to offer on-device inference](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/)
+
+### 🆕 트럼프 행정부, AI 위험 평가 계획 발표…구체성 부족
+
+트럼프 행정부는 고도화된 AI가 초래할 사이버 보안 위험을 평가하기 위한 프레임워크를 발표했지만, 공개 모델 테스트 의무화 등 구체적 실행 방안이 미비하다. 이 계획은 현재 진행 중인 연방 AI 프로젝트에 대한 지침을 제공한다.
+
+**시사점** — 연방 AI 프로젝트 담당자들이 2026년 말까지 정책 불확실성에 대비해 자체 위험 평가 절차를 마련해야 한다
+
+[Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded)
+
 ## 투자
 
 **오늘의 분석**
 
-오늘의 투자 뉴스는 기술과 에너지, 금융 시장의 상호작용이 복잡하게 얽힌 양상을 보여준다. 특히 AI 관련 기업들의 동향이 주목되는데, Alphabet의 AI 핵심 인재 Jeff Dean의 퇴사와 SpaceX의 과도한 AI 투자 확대가 동시에 발생하면서 AI 경쟁력의 불확실성이 증폭되고 있다. SpaceX의 Nvidia 칩 독점 사용 결정은 Nvidia 주가를 끌어올렸지만, SpaceX 자체는 자본 지출 부담으로 주가가 하락하는 아이러니한 상황을 낳았다. 이는 AI 기술의 미래 가치가 높게 평가되면서도, 실제 수익성이나 투자 효율성에 대한 의문이 제기되고 있음을 시사한다. 또한 Palantir와 SolarEdge의 사례처럼 고평가 논란이나 성장 둔화 우려가 지속되면서, AI 관련 기업들의 밸류에이션 재조정이 진행될 가능성이 있다.
+오늘 AI 관련 소식이 시장 전반에 큰 파장을 일으키고 있다. Alphabet의 핵심 AI 인재 Jeff Dean이 떠나면서 구글의 AI 경쟁력이 의문시됐고, SpaceX는 AI 투자 확대와 Nvidia 칩 독점 사용을 선언해 주가 변동성을 높였다. 동시에 Nvidia 주가가 9% 급등하며 저항선을 향하고, Palantir는 전방 P/E 95배로 상승 여력이 제한적이라는 평가가 나오면서 AI 기업들의 고평가와 실적 리스크가 교차하고 있다. 이러한 흐름은 S&P 500이 사상 최고치를 경신했지만 RSI 75라는 과매수 신호가 나타나는 등, 시장이 과열된 상태임을 시사한다.
 
-에너지 시장은 지정학적 리스크와 공급망 불안이 혼재된 상태다. 예멘 후티 반군의 사우디 석유 탱커 공격은 호르무즈 해협을 통한 석유 공급망에 잠재적 위협을 가중시켰지만, 금 가격 상승과 가스 가격 하락은 이란 핵 협상 진전이라는 상반된 신호로 해석된다. 유럽의 가스 재고가 안정적인 수준을 유지하고 있음에도 불구하고, 지정학적 변수가 에너지 가격에 즉각적인 영향을 미치는 현상은 에너지 시장의 민감성을 보여준다. ConocoPhillips의 실적 발표와 유가 변동성도 이러한 맥락에서 주목할 필요가 있다. 한편, 암호화폐 산업의 정치 활동이 활발해지면서 규제 환경 변화에 대한 기대감이 높아졌지만, Fairshake의 목표 미달은 아직 산업의 정치적 영향력이 제한적임을 드러냈다.
-
-이러한 흐름 속에서 주목해야 할 점은 AI 기술의 상용화 속도와 에너지 시장의 지정학적 리스크가 어떻게 균형을 이룰 것인지다. 특히 AI 기업들의 수익성 개선과 에너지 공급망의 안정성이 향후 시장 변동성을 결정짓는 핵심 변수가 될 것으로 보인다. 앞으로는 Nvidia와 같은 AI 인프라 기업들의 실적과 함께, 호르무즈 해협을 통한 에너지 거래 동향을 주시해야 한다.
+에너지와 지정학적 요인도 변동성을 가중시킨다. 미국·이란 핵 협상 진전으로 유럽 가스 가격이 5% 이상 하락했으며, 예멘 후티가 사우디 석유 탱커를 공격했다는 주장은 공급망 위험을 부각시켰다. ConocoPhillips와 Novo Nordisk은 각각 원유 가격 변동성과 GLP‑1 시장 경쟁 심화에 직면해 실적 전망이 불투명해졌다. 한편 Bodycote가 사모펀드 인수 제안을 받으며 기업 구조조정 가능성이 대두되고, 미 법무부가 1987년 프록시 가이던스를 철회해 기관투자자의 의결권 행사가 완화될 전망이다. 앞으로는 AI 투자 확대와 에너지 공급망 리스크를 동시에 주시해야 한다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -284,15 +298,55 @@ Galaxy Digital은 2분기 실적 발표에서 데이터센터 매출 8000만 달
 
 [Crypto's campaign efforts see rare loss, but crypt](https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow)
 
+### 🆕 NVIDIA, 평균 대비 9% 급등…$225-227 저항선 근접
+
+NVIDIA 주가가 전일 대비 9% 상승하며 $225-227 저항선에 근접했다. 실시간 차트상 강한 매수세가 지속되고 있으며, AI 반도체 수요 증가와 신제품 출시 기대감이 주가 상승을 견인하고 있다.
+
+**시사점** — NVIDIA의 8월 21일 실적 발표 전까지 AI 데이터센터 수주량과 Blackwell 칩 공급 안정성이 주가 변동의 핵심 변수다.
+
+[NVIDIA surges 9% above average, nears $225-227 res](https://www.investing.com/news/stock-market-news/nvidia-battles-20775-fibonacci-resistance-live-levels-93CH-4833094)
+
+### 🔴 S&P 500, 사상 최고치 7,770 기록…RSI 75로 과매수 경고
+
+S&P 500 지수가 7,770으로 사상 최고치를 경신했으며, RSI가 75에 달해 과매수 상태다. 기술주 중심의 상승세가 지속되고 있으나, 단기 반락 가능성도 제기되고 있다.
+
+**시사점** — 9월 FOMC 회의 전까지 고용·소비자물가지표가 지수 방향성을 결정할 것이며, 특히 8월 15일 CPI 발표가 변곡점이 될 전망이다.
+
+[S&P 500 hits record 7,770 with RSI at 75: Hourly l](https://www.investing.com/news/stock-market-news/sp-500-breaks-7550-with-rsi-at-71-hourly-levels-93CH-4833087)
+
+### 🆕 AT&T·Verizon·T-Mobile, SpaceX 무선 사업 발표 후 주가 하락
+
+SpaceX가 무선 통신망 구축 없이 자체 위성 기반 무선 서비스를 추진한다고 발표한 후, 전통 통신사들의 주가가 일제히 하락했다. SpaceX는 대규모 인프라 투자 없이도 경쟁력을 확보할 수 있다고 강조했다.
+
+**시사점** — 2027년 상반기 SpaceX의 Starlink Direct-to-Cell 상용화 전까지 AT&T와 Verizon의 CAPEX 효율화 전략이 주가 회복의 핵심 변수다.
+
+[Why AT&T, Verizon and T-Mobile shares are down aft](https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories)
+
+### Strategy STRC, 현금 보유 및 비트코인 가격 안정으로 30% 반등
+
+Strategy(STRC)가 비트코인 매각으로 40억 달러의 현금 보유고를 확보하고 9억 7,500만 달러 규모의 자사주 매입 프로그램을 발표하며 주가가 30% 반등했다. 비트코인 가격 안정세가 반등을 뒷받침했다.
+
+**시사점** — 9월 30일까지 비트코인 보유량 공시와 자사주 매입 진행률이 STRC의 다음 분기 주가 방향성을 결정짓는다.
+
+[Strategy’s STRC rebounds 30% as company builds cas](https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes)
+
+### AI 에이전트 토큰 ELIZAOS, 24억 달러 시총으로 폐쇄 선언
+
+한때 24억 달러 규모의 시가총액을 기록했던 AI 에이전트 프로젝트 ELIZAOS가 창립자인 Shaw Walters에 의해 폐쇄 선언됐다. Walters는 보유자들에게 토큰 매도를 권고했으며, 법적 분쟁으로 인한 프로젝트 중단임을 시사했다.
+
+**시사점** — AI 관련 토큰 시장에서 규제 리스크가 재조명되며, 8월 중순 SEC의 AI 프로젝트 조사 확대 여부가 유사 프로젝트들의 주가 변동성을 높일 전망이다.
+
+[AI agent token once worth $2.4 billion ends with f](https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead)
+
+### 🆕 S&P 500, 일주일 만에 6% 급등…투자자들이 알아야 할 5가지
+
+S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최대 상승세를 기록했다. 기술주와 반도체 섹터가 주도했으며, 경기 침체 우려 완화와 연준의 금리 인하 기대감이 시장을 이끌었다.
+
+**시사점** — 8월 15일 CPI와 8월 29일 잭슨홀 연설 전까지 경기 선행지표(ISM, 소비자신뢰지수)가 추가 상승 여부를 결정짓는다.
+
+[5 things investors should know about the stock mar](https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories)
+
 ## 미국 이민
-
-**오늘의 분석**
-
-연방판사 아밋 메타가 트럼프 행정부의 75개 국가 대상 그린카드 동결 조치를 위법 판결하면서, 인도계 EB‑2·EB‑3 대기자 약 25~30만 명이 즉시 신청 자격을 회복했다. USCIS는 8월 중순부터 접수를 재개하고, 동시에 망명 인터뷰 절차를 간소화해 신속 송부 규칙을 도입, 나이지리아·버마·소말리아 등 특정 국가에 대한 TPS와 신속 처리 정책을 발표했다. 이는 이민 절차 전반에 걸친 행정적 긴축과 선택적 완화를 동시에 보여준다.  
-
-한편 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료를 최대 4,000달러까지 인상하고, 대기업에 추가 5,000달러 비용을 부과하는 방안을 검토 중이다. 노동부는 H‑1B 소지자 최소 임금을 30% 인상하는 제안을 내놓으며, 인도계 IT 전문가와 대기업에 재정적 압박이 가중될 전망이다. EB‑5 투자 이민 프로그램도 최소 투자액을 2,000만 달러로 상향 조정해 고용 창출 기준을 강화했다. 이러한 정책 변화는 고숙련 이민과 투자 이민 모두에서 비용 상승과 경쟁 심화를 예고한다.  
-
-앞으로 주시할 한 가지는 트럼프 행정부의 H‑1B·L‑1 비자 수수료 인상 최종 규정 발표이다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -422,9 +476,49 @@ H-1B 비자 소지자가 17만 달러 연봉에도 비자 불안정성으로 귀
 
 ['Am I weak for moving back?': H-1B worker's $170,0](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa3FYdXhGeEpuZ01BU3JPSnVONm1XV3VhOFRyaXFiVVRaa2NodDVxWmtzTUhMSzRDUkNyZnhpTGVZZFBYdkIzR3Y3Vi1FVURiN29RWWItaEpTQnJyVDFtNHBkSWFTMTJVa3ZoOUsyTVQzYWtHeXNZUFJDdGxrcXE3aWlHZ09feXR1eklFc1NnSjd5eDJQOEFkYmJ4MVl2X1lVczhwblZQTS14QXlhZFE1NmJYSGgxVmUyY3NNOWxJRTlkLUgyTDdKM2NUZE5qSnJPTlg2YmU2MS10WVRnQzdmb9IB4AFBVV95cUxPa3FYdXhGeEpuZ01BU3JPSnVONm1XV3VhOFRyaXFiVVRaa2NodDVxWmtzTUhMSzRDUkNyZnhpTGVZZFBYdkIzR3Y3Vi1FVURiN29RWWItaEpTQnJyVDFtNHBkSWFTMTJVa3ZoOUsyTVQzYWtHeXNZUFJDdGxrcXE3aWlHZ09feXR1eklFc1NnSjd5eDJQOEFkYmJ4MVl2X1lVczhwblZQTS14QXlhZFE1NmJYSGgxVmUyY3NNOWxJRTlkLUgyTDdKM2NUZE5qSnJPTlg2YmU2MS10WVRnQzdmbw?oc=5)
 
+### 🆕 트럼프 행정부, H-1B 비자 연장 비용 대폭 인상 계획 발표
+
+미국 트럼프 행정부는 H-1B 및 L-1 비자 연장 신청 시 기존 $4,000 수수료에 추가로 $4,000를 부과하는 방안을 검토 중이다. 이 제안은 인도 출신 IT 전문가와 기업에 큰 재정 부담을 줄 것으로 예상된다. 현재 법안 초안 단계이며, 최종 시행 시기는 아직 확정되지 않았다.
+
+**시사점** — 인도 IT 기업과 H-1B 연장 신청자들이 2026년 10월 시행 예정인 추가 수수료 부담을 대비해야 함
+
+[Trump Administration Plans H-1B Visa Fee Hike, Ind](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWdiOE1qVVJOMjY5SUJuaXE1OE5HMUoybmhhajNCVnVLa1R5c1hTNTRSaFVJTXh4NHJ3VWdXOTVfZVB4SExKdVU3OTVsSklSaU9HN0ItblBoZjlXOGZValUzeS1YckJVS0cxYmowMnBNb3Z6YVZEQTd0a3M3dVFOWnlIcVNNdHhiLXlfSTQtX0VEeERDSlZhWURqWFNnbFkwdHFWSnVrdlB5QkQydzd1b290QWw0R3JBWl93?oc=5) | [Indian professionals likely to be hit hard as Trum](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckx4MzJGSFh3dHpJVWVNcjJhcXBQWlBkTUx0eTVfaTkwNTF6b1N1OHdzVkhSdDdranQ5VjlHUmJPV3c1NnF4VzZDcXhxOG5fMmlBTGZGM0E0NjVCTFRlbldGbDZiOXFyclJXTVZRRWc5UnFXTDB2ejRiV0UzSEZVbEJSUU5zQ180RVZlXzFFSmREQTRQR0xtMWFUZF81elhNSkdZT25Vd0ZCM3dSdmJKUzJ6bEt6ZEdOOWJUa01JeGlMbjMzRjZEcEdMaHpBMHdickZIbm45dGUtelhj0gHiAUFVX3lxTE90V3JJQmV2QWxhVy1adE5ib0RuQ25HdGtXb0pBR1pIYlY0V2c4VmhDQkpZczhRNFV2ek45akVrQ0RwUTEyd1djc09xaExMZjVPcXpvaEZ3aUUyT0ZIczk0QktpUDFxZ3ZreFpFNmo0TndjbkVSSFB2WWF5d2VYX013bHJ4bEF3R3B2dkV3b3Y0dGZtTTVuMGNQa3lVRlpCSWVXY2k2RkMzWXg0aDdOUUt4VjR5QkhlMTAtUE1xQWpOR2ktX3hKcTBtZ1daWEJRTXdqVzVQaGRXTi1PdW82R052U3c?oc=5)
+
+### 🆕 미국, 투자자 그린카드 취득 조건 새롭게 명시
+
+미국 이민국(USCIS)은 EB-5 투자자 그린카드 신청을 위한 최소 투자 금액을 1,050만 달러로 상향하고, 투자 프로젝트가 고용 창출 요건을 충족해야 한다고 발표했다. 또한 투자자는 미국 내에서 직접 관리 역할을 수행해야 한다는 새로운 기준이 추가되었다. 이 규정은 2026년 9월 30일까지 적용될 예정이다.
+
+**시사점** — EB-5 투자자들은 2026년 9월 30일까지 최소 1,050만 달러 투자 요건을 충족해야 함
+
+[US Explains Conditions Foreign Investors Must Meet](https://news.google.com/rss/articles/CBMipAFBVV95cUxPazZrMXJjZnh2eVZEdnh4MEoxQzczOUNDOHhhNHlaZGdSU3dBTlBVLXU5LUtRbEtpbDRmSjMxVmgtLV8tZVRNd01oZE9MTG9tVG16ei11dng3d25UWGs2a3V3VVM4Rm1ZeHFCWE5sQWlzZUdOU2FWX1FIZWtSMDJjZkZwczJnS3ZEVE5jcmZ4aTNfak54R3lOelh2R1dXZG9VWTE2RQ?oc=5)
+
+### ⚠ 공공부담 규정 변경, 영주권 신청자에게 새로운 재정 요건 부과
+
+미국 보건복지부는 공공부담(public charge) 기준을 강화해, 영주권 신청 시 신청자의 재정 자산과 소득을 보다 엄격히 검증하도록 규정을 개정했다. 새로운 규정은 저소득층 신청자에게 추가 서류 제출을 요구한다. 이 조치는 2026년 10월부터 시행된다.
+
+**시사점** — 공공부담 규정 강화로 2026년 10월부터 저소득 영주권 신청자들의 재정 서류 제출 요구가 확대될 예정
+
+[How Changes to Public Charge May Impact Green Card](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdC1iaVdXTVJYbDNnM1dOaWMyWDRFanlwZVZ4c2wtWnpqd0VEMUhhRnkwRGhJTVJRanRrZmQyOUJQbHpDelU3aENyMHNwbGt3Z3E1NlozMXQ1VkhJaFBSd0xUTHc1YlQwaGVCUGp5Q2lXY0FXNXczVzhLb0xHUDZhUHVGWDdDaXExVFQ4YVl1X1hPQ1RUWER6UmlDRTU4U3fSAaQBQVVfeXFMUFRqNWpyTVVRQmVTZzB0YnNGOVNmNzRmU0NVU2xneTBMSVFGVU1IR0ItelUyN2hxN2dLN0JlVElyNFRqODBiWTdOaEVEUnEyYk5Ec2RfOGlScTFENjNmQlh2U01oOTR3emhVVWlJZG1JRGw0anJUWG96N3B2NW5ibC1MZlRScDVGdkRmbmIxMUZuTFJiM2FGaGkxX01Ga3Y2OVJyck8?oc=5)
+
+### 🆕 고용주가 알아야 할 새로운 F-1 D/S 규정 요점 5가지
+
+미국 이민국은 F-1 학생 비자의 D/S(기간 제한) 규정을 개정해, 학생들이 졸업 후 12개월 이내에 OPT(실무 연수) 신청을 해야 한다고 명시했다. 또한 D/S 기간 연장은 불가능하며, 연장 신청 시 새로운 서류 절차가 적용된다. 이 규정은 2026년 9월 1일부터 시행된다.
+
+**시사점** — 새로운 D/S 규정에 따라 2026년 9월 1일부터 F-1 학생들은 졸업 후 12개월 내에 OPT 신청을 해야 함
+
+[5 Things Every Employer Needs to Know About the Ne](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlh2bVdxbFhqQlZHbmREUFRUNVQ3dnJvbEJrVmNiekRoakg5VTdhTTZLaVV3MHN1dWJrUzdoVDBfb0tXd0dkc1BuUDFVZjRKYzdOUUpyX0JxR0dWR2tTamZsc25mSEE2aVVCektVUHBhbUl2Y2R4WVNwazBaZ1U1T1kzMzE4TGZMR3phZ1JkUjU?oc=5)
+
+### ⚠ 텍사스 주 비자 제한, 암 연구 진행에 차질 우려
+
+텍사스 주는 최근 외국인 연구원에 대한 비자 발급 및 연장 절차를 강화하는 규정을 발표했다. 이로 인해 텍사스 내 암 연구 프로젝트가 필요한 외국인 전문가의 비자 확보가 어려워질 전망이다. 연구팀은 2026년 12월까지 진행 중인 임상 시험 일정에 차질이 발생할 위험이 있다.
+
+**시사점** — 텍사스 주의 새로운 비자 제한으로 암 연구팀이 2026년 12월까지 임시 비자 연장이 어려워 연구 일정이 지연될 위험이 있음
+
+[Texas Visa Restrictions for Immigrants May Stall C](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2RKUG4yWXBHaENqdFl6VlNkbDBrbElodWZSNTM2YUVHRlhzN0pNUlYtWlZ4NjQ2YWNGY2xHYmQ1dEUxdUZNVUFkdlctNDEwc0VsRnpwdDV6OWlCTWQyMmFBMDlVWS1fdnBkX0kyZnVQTGp1dXNaaHVxa0VQUzk1Tkw1S3BiT0ZRb2l1bFJidGJtYXpocjlmcXJnWGRKZw?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,451 -0.5%
+- 나스닥: 26,450 -0.5%
 - 미 10년물: 4.62% -0.3%
 - USD/KRW: ₩1,429
