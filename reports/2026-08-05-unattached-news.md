@@ -158,11 +158,11 @@ MacPaw는 Liquid AI의 모델을 활용해 로컬 AI 비서 ‘Eney’를 앱스
 
 **오늘의 분석**
 
-Alphabet의 최고 과학자 Jeff Dean이 구글을 떠나 자체 AI 회사를 설립하면서 AI 인재 확보 경쟁이 격화되고 있다. 동시에 SpaceX는 AI 분야에 640 억 달러 규모의 자본을 투입한다는 추정이 나오며, 대규모 CAPEX와 락업 만료가 주가에 압박을 가하고 있다. Elon Musk가 Nvidia 칩만을 사용하겠다고 선언한 뒤 Nvidia 주가가 9 % 급등했으며, AI 반도체 수요가 전체 시장 분위기를 견인하고 있다. 이러한 흐름은 AI 기술이 핵심 성장 동력으로 자리매김하고 있음을 시사한다.  
+AI 투자와 기업 주가 연계가 뚜렷해졌다. SpaceX가 AI 분야에 640억 달러를 투입하고 Nvidia 칩을 독점 사용한다는 발표가 Nvidia 주가를 전일 대비 9% 상승시켰으며, Elon Musk의 발언이 AI 칩 수요 전망을 강화했다. 반면 Alphabet은 최고 과학자 Jeff Dean이 퇴사해 자체 AI 회사를 설립한다는 소식에 주가가 하락했고, AI 인재 유출이 구글의 경쟁력을 약화시킬 수 있다는 우려가 커졌다. 두 사례는 AI 인재와 핵심 부품 확보가 기업 가치 변동의 핵심 요인임을 보여준다.
 
-한편 미국과 이란 간 핵 협상 진전 소식이 네덜란드와 영국 가스 가격을 5 % 이상 하락시키는 등 에너지 시장에 직접적인 영향을 미치고 있다. 금 가격은 달러 약세와 호르무즈 해상 거래 기대감으로 2월 초 이후 최고치를 기록했으며, 원유는 후티 반군의 공격 위협과 협상 기대 사이에서 급등락을 반복하고 있다. 또한 미 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 보다 자유로워질 전망이다.  
+에너지와 원자재 시장도 지정학적 변수와 정책 변화에 민감하게 반응하고 있다. 미‑이란 핵 협상 진전과 후티의 사우디 석유 탱커 공격이 유럽 가스 선물 가격을 5% 이상 하락시키는 동시에 원유 가격을 급등락시켰으며, 달러 약세와 금 가격 상승이 안전자산 수요를 확대하고 있다. 동시에 Bodycote에 대한 사모펀드 인수 제안, SpaceX 대규모 CAPEX, 그리고 미 법무부의 1987년 프록시 가이드라인 철회가 기업 재무 구조와 주주 권리 환경을 재편하고 있다.
 
-앞으로는 미국과 이란 간 핵 협상의 진전 여부를 주시할 필요가 있다.
+앞으로 주시할 한 가지는 AI 칩 공급망과 규제 변화가 주요 기술주와 에너지 기업 실적에 미칠 파급 효과이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -452,15 +452,63 @@ Citi가 발표한 2026년 SMid Cap 종목 순위에서 에토스 테크놀로지
 
 [Top SMid Cap Pick: Ethos Technologies Leads Citi’s](https://www.investing.com/news/stock-market-news/top-smid-cap-pick-ethos-technologies-leads-citis-rankings-93CH-4839054)
 
+### 🔴 Ares Management, 22억 달러 규모 헬스케어 대출 주도
+
+Ares Management가 22억 달러 규모의 헬스케어 대출을 주도했다. 이번 대출은 2026년 초 경기 둔화에도 불구하고 의료 부문 자금 수요를 충족시키기 위한 것으로 알려졌다.
+
+**시사점** — 중소병원 및 의료 서비스 제공업체가 2026년 말까지 자금 조달 환경 개선을 기대하며, 대출 규모와 금리 변동을 주시해야 함
+
+[Ares Management leads $2.2B healthcare loan amid s](https://www.investing.com/news/stock-market-news/ares-management-leads-22b-healthcare-loan-amid-slow-year--bloomberg-93CH-4839069)
+
+### CDC 국장 에리카 슈워츠 상원 확인
+
+상원이 에리카 슈워츠를 CDC 국장으로 확정했다. 이 직책은 1년간 공석이었으며, 그녀는 전염병 대응 및 백신 정책에 중점을 둘 예정이다.
+
+**시사점** — 연방 보건 정책과 코로나19 대응 전략에 영향을 미치는 CDC가 2026년 하반기까지 새로운 방역 지침을 발표할 가능성이 있어 보건업계와 제약사가 주목
+
+[Senate confirms Erica Schwartz as CDC director aft](https://www.investing.com/news/economy-news/senate-confirms-erica-schwartz-as-cdc-director-after-yearlong-vacancy-93CH-4839063)
+
+### 🆕 Evercore ISI, Uber 주식 'Outperform' 재평가
+
+Evercore ISI가 Uber 주식에 대한 'Outperform' 의견을 유지했다. 이는 최근 주가 급락에도 불구하고 장기 성장 전망을 긍정적으로 본 것이다.
+
+**시사점** — 2026년 말까지 라이드쉐어와 배달 서비스 수요 회복을 기대하며, 투자자는 Uber의 매출 성장률과 규제 변화를 주시해야 함
+
+[Evercore ISI reiterates Outperform on Uber stock a](https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-uber-stock-amid-selloff-93CH-4839062)
+
+### 🆕 SanDisk 실적 발표, 메모리 시장에 파급
+
+SanDisk의 최신 실적이 메모리 시장에 영향을 미쳤다. 매출 감소와 비용 절감 조치가 Micron, Western Digital, Seagate 주가에 변동성을 주었다.
+
+**시사점** — 2026년 3분기 메모리 수요 회복 여부와 가격 변동을 판단하기 위해 주요 메모리 기업들의 재무 지표와 재고 수준을 관찰해야 함
+
+[Sandisk earnings impact on Micron, Western Digital](https://www.investing.com/news/stock-market-news/sandisk-earnings-impact-on-micron-western-digital-and-seagate-93CH-4839061)
+
+### 🆕 주요 주에서 세금 투표 진행, 미주리 주 소득세 유지
+
+미주리 주에서 소득세 폐지 제안이 거부되었으며, 플로리다와 캘리포니아에서도 세금 관련 투표가 다가오고 있다. 이로써 지방 정부 재정 정책이 변동될 가능성이 있다.
+
+**시사점** — 2026년 가을 선거에서 플로리다와 캘리포니아의 세금 정책 변화가 기업 세부담과 소비자 지출에 미칠 영향을 주시해야 함
+
+[Taxes are on the ballot this fall as Republicans a](https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories)
+
+### 🆕 Oppenheimer, Kymera Therapeutics 목표주가 상향
+
+Oppenheimer가 Kymera Therapeutics의 목표주가를 상향 조정했다. 이는 임상 시험 일정이 앞당겨질 가능성을 반영한 것이다.
+
+**시사점** — Kymera의 주요 치료제 임상 시험이 2026년 4분기에 시작될 경우, 바이오 투자자들은 해당 기업의 주가 변동성을 주목해야 함
+
+[Oppenheimer raises Kymera Therapeutics price targe](https://www.investing.com/news/analyst-ratings/oppenheimer-raises-kymera-therapeutics-price-target-on-trial-timing-93CH-4839067)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-연방판사의 최근 판결은 트럼프 행정부가 시행한 75개국 대상 영주권 발급 중단 조치를 위법으로 규정하며, 인도계 EB‑2/EB‑3 대기자 약 30만 명에게 즉시 신청 자격을 회복시켰다. 동시에 H‑1B·L‑1 비자 연장 수수료 인상안을 법원이 차단하면서, 정부의 비용 부담 확대 시도가 사법적 제재를 맞았다. 이러한 판결은 이민 정책 전반에 대한 법적 검증이 강화되고 있음을 보여준다.
+최근 연방법원은 트럼프 행정부가 75개 국가를 대상으로 시행한 영주권 발급 동결 조치를 위법 판결하고, 제안된 H‑1B 연장료 10만 달러 부과 계획을 차단했다. 이 판결로 인도계 EB‑2·EB‑3 대기자 약 25만~30만 명이 즉시 신청 자격을 회복했으며, USCIS는 8월 중순부터 접수를 재개한다. 법원의 개입은 행정부의 급격한 제한 정책에 대한 실질적 제동 역할을 하고 있다.  
 
-USCIS는 망명 인터뷰 절차 간소화·즉시 법원 이송 규칙, TPS 연장 지침, EB‑5 투자 최소액 상향 등 다수의 규제 변화를 동시에 추진하고 있다. 특히 비자 연장료와 바이오메트릭 비용 상승은 기업, 특히 인도계 IT 기업에 재정적 압박을 가중시키며, 고용주가 요구하는 급여·고용조건에도 영향을 미친다. 버마·소말리아 TPS 연장과 신규 EB‑5 요건은 투자자와 보호 대상자의 체류 전망을 재조정하게 만들며, 지역별 비용 격차와 공공부담 규제 강화도 동시에 논의되고 있다.
+한편 USCIS는 H‑1B·L‑1 비자 연장 수수료를 최대 4,000달러까지 인상하고, 망명 신청자 인터뷰 절차를 간소화해 신원 확인을 강화하면서도 이민 법원으로 직접 송부되는 경우를 확대해 추방 속도를 높이는 규칙을 도입했다. 동시에 EB‑5 투자 이민 요건을 2,000만 달러로 상향하고, TPS와 공공부담 기준을 강화해 특정 국가 출신 이민자의 체류 조건을 재조정하고 있다. 이러한 조치는 재정 확보와 고소득 투자자 유치를 동시에 추구하는 정책 방향을 보여준다.  
 
-앞으로는 H‑1B 연장료 인상 제안에 대한 최종 규정 발표를 주시해야 한다.
+앞으로는 H‑1B 연장료 인상안의 최종 확정 여부를 주시해야 한다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -766,9 +814,17 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [Potential added fine for H-1B renewals still waiti](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTFVNVhQQU44VlBlY3JDTE9zc2ZHd2RWMlUwOURDNnpQdzk0VHJtZVVwWFEwUWRmTHItbXI1M3ZwYmMxQ2VzQzI2WFZVanRkN3k4aF9rMUZYSzJ0RTFBeEFva3NPU3lyaDBpQkI1S0MtMUxaY0RMN2hwWXZmZWJRWk12YmE3M2tDVWhIVFVsMXl4YndlNFlhR0JtdUxLQlU?oc=5)
 
+### 🆕 의회, ‘조정 3.0’ 법안으로 H-1B 개혁 시작 가능
+
+워싱턴 타임스는 의회가 ‘조정 3.0’ 법안을 통해 H-1B 비자 제도의 개혁을 추진할 수 있다고 보도했다. 이 법안은 연간 비자 쿼터 조정, 고임금 기준 확대, 그리고 프리미엄 프로세싱 비용 인상을 포함한다.
+
+**시사점** — 2026년 9월부터 시행될 H-1B 쿼터 변동에 대비해 2026년 4분기까지 한국 기업과 한국인 지원자들이 신규 고임금 기준을 검토해야 함
+
+[Congress can start H-1B reforms in ‘Reconciliation](https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVJWeUlXRktPMV83RzlJQjlzMmdoSUZZSHctZ3F3XzhsekJEOUV1VWdSNGtLb0tZUFlrdTZ3aGFsV240LWlZSkZJVTRVR3Y1ZV9mcjg5UFItY01IWGpHcTk3Qk9QUnBReExiRHpjc2FCN2FYd09aT29aZ0lJNVVPRDNTZEVUYzVvQy1pRU9fUllpaXh0U3hvR3pULUl3amUz?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,440 -0.5%
+- 나스닥: 26,427 -0.6%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
