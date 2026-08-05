@@ -416,11 +416,11 @@ Meta가 개발자용 AI 코딩 도우미인 Muse Code를 베타 형태로 공개
 
 **오늘의 분석**
 
-오늘의 미국 이민 뉴스는 트럼프 행정부의 이민 정책이 법적 도전과 실무적 혼란 속에서 균열을 보이고 있음을 보여준다. 연방판사 아밋 메타의 판결로 트럼프 행정부가 추진한 75개국 대상 그린카드 발급 동결 조치가 위법으로 판명되면서, 특히 인도계 지원자 약 25~30만 명이 즉각적인 혜택을 받게 됐다. 이는 행정부가 법적 근거 없이 이민 규제를 강화하려던 시도가 사법부의 견제를 받았음을 의미하며, EB-2/EB-3 카테고리 대기자들이 신속히 신청을 재개할 수 있는 길을 열었다. 그러나 이러한 판결이 일시적인 해법에 그칠 수 있다는 점도 주목해야 한다. USCIS의 망명 인터뷰 간소화나 직접 이민 법원으로의 송부 규칙처럼, 행정부는 여전히 절차적 변화를 통해 이민 통제력을 유지하려 하고 있기 때문이다.
+연방판사의 최근 판결이 트럼프 행정부의 이민 제한 정책을 연속적으로 무효화하고 있다. 75개 국가 대상 그린카드 발급 동결 조치를 위법 판결함으로써 인도계 EB‑2/EB‑3 대기자 약 25~30만 명이 신청을 재개할 수 있게 되었으며, 동시에 H‑1B 연장료 10만 달러 부과 계획을 차단한 연방법원 판결도 이어졌다. 이러한 사법적 개입은 이민 청의 강경 정책에 대한 견제 역할을 강화하고 있다.  
 
-한편, H-1B와 L-1 비자 관련 정책 변화는 인도계 IT 전문가와 대기업에 집중된 경제적 부담을 가중시키고 있다. 트럼프 행정부가 제안한 비자 연장 수수료 인상(최대 4,000달러)과 바이오메트릭 수수료 인상(85달러→200달러)은 이미 높은 인건비와 운영 비용을 감당해야 하는 기업들에게 추가적인 재정 압박으로 작용할 전망이다. 특히 인도계 IT 기업들이 미국 내 인력을 유지하기 위해 연간 수십억 달러의 추가 비용을 부담해야 할 가능성이 제기되면서, 인력 유출이나 해외 이전 검토로 이어질 수 있다. 또한, H-1B 비자 소지자의 귀국 고민 사례는 비자 불안정성이 실질적인 인재 유출로 이어질 수 있음을 보여준다. 이러한 정책들이 단기적으로는 정부 재정 확보나 국내 인력 보호라는 명분을 내세울 수 있지만, 장기적으로는 미국 내 기술 인력 부족과 기업 경쟁력 약화를 초래할 위험이 있다.
+그럼에도 불구하고 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료를 현재보다 크게 인상하고, EB‑5 투자 이민 최소 투자액을 2,000만 달러로 상향 조정하는 등 새로운 재정 부담을 제시하고 있다. USCIS는 망명 인터뷰 절차 간소화·즉시 법원 송부, TPS 업데이트, 공공부담 기준 강화 등 신청 절차를 엄격히 바꾸면서 비용 상승과 심사 속도 가속을 동시에 추진하고 있다. 이처럼 사법적 제재와 행정적 확대가 교차하는 상황에서 이민 정책의 향방은 불확실하다.  
 
-이민 시스템의 복잡성은 절차 간소화와 규제 강화의 이중성에서도 드러난다. USCIS가 I-130과 I-485 동시 접수로 3개월 만에 영주권을 승인한 사례는 신속 처리의 가능성을 보여주지만, 이는 개별 사례에 불과하며 시스템 전반의 불확실성을 해소하지는 못한다. 반면, 공공부담 규정 강화나 F-1 비자 D/S 규정 개정은 저소득층 이민자와 유학생들에게 새로운 장벽을 세우고 있다. 이러한 모순된 흐름은 이민 정책이 정치적 목적과 경제적 현실 사이에서 균형을 찾지 못하고 있음을 반증한다. 앞으로 주시해야 할 것은 연방 법원의 판결이 일시적인 조치에 그칠지, 아니면 행정부의 이민 정책 전반에 대한 구조적 재검토로 이어질지의 여부다.
+앞으로 주시할 한 가지는 H‑1B·L‑1 연장료 인상안의 최종 확정 여부이다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -710,9 +710,17 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [CM seeks simplification of H-1B visa processing, r](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSE93Z3o0Yjl3Nk9hXy1PdHVvNEUyZjFRRjk0ZkFjeWwtUHhwd09EeGdqN1FZREp5QkJtNFBuTXE1MzZiRW8yNXJLczN3TmhJckZZY1ZRTl90WjhzZFlGZ2NMR3RIdTVXdzNZMURUZUZXTF9YeHVfYno5Y3JTc2lDWktBczItbFU2Z2YzOThYb0k2NWFRN2hDVEpwWnZsNUZtNUl2SkI4Q3VMRnlHTXg5RXl0NHhVZG9FWWs5aWJCOGgyZEdwMkQwMjRoVE5CSEFLT0c1aE96T0hLRTBRV2FSWG5rZTBERWRt0gHoAUFVX3lxTFBIT3dnejRiOXc2T2FfLU90dW80RTJmMVFGOTRmQWN5bC1QeHB3T0R4Z2o3UVlESnlCQm00UG5NcTUzNmJFbzI1cktzM3dOaElyRlljVlFOX3RaOHNkWUZnY0xHdEh1NVd3M1kxRFRlRldMX1h4dV9iejljclNzaUNaS0FzMi1sVTZnZjM5OFhvSTY1YVE3aENUSnBadmw1Rm01SXZKQjhDdUxGeUdNeDlFeXQ0eFVkb0VZazlpYkI4aDJkR3AyRDAyNGhUTkJIQUtPRzVoT3pPSEtFMFFXYVJYbmtlMERFZG0?oc=5)
 
+### 🆕 H‑1B 수수료 인상 및 비자 연장 절차 마찰 구조 분석
+
+미국 이민국(USCIS)은 2024년 6월에 H‑1B 신규 신청 및 연장에 대한 수수료를 기존 1,710달러에서 2,500달러로 인상하고, 연장 시 추가 2,500달러를 부과한다는 제안을 발표했다. 연간 50명 이상 고용 기업에 대해서는 4,000달러의 추가 프리미엄 수수료를 도입한다는 내용도 포함됐다. 이 조치는 2025 회계연도부터 적용되며, 비자 발급·연장 절차에 평균 2~3개월의 지연이 예상된다.
+
+**시사점** — 2025년 10월 이전에 비자 연장을 계획 중인 한국인 H‑1B 보유자와 이를 스폰서하는 한국 기업은 추가 비용 2,500달러·연장 지연을 감안해 예산과 일정 재조정이 필요하다.
+
+[The Structural Mechanics of H1B Fee Expansion and ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVC01V1V0bTZ4aEMzazdVSVROZHlCQ01mSVdMNDR0cTFpZXg5YjVXcVRlbF9tTlJRalJHb3B4MDhLQlJUNzNyWmprNWxoWEViZWVvemdqWlZJMHVVN2VuNnYtU3R5bGI2bEZYUEhDTlBNaUdVM2N0VVFqcEVrOUZpaEpyZ3ljQjdvcnN1NDdzMklKeElSWUFrblR1V1RoaWM?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,451 -0.5%
+- 나스닥: 26,443 -0.5%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
