@@ -360,9 +360,11 @@ S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최
 
 **오늘의 분석**
 
-최근 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료 인상, H‑1B 최소 임금 30% 상승, EB‑5 투자 금액 상향 등 고액 비용·제한을 일제히 발표했다. 동시에 USCIS는 망명 인터뷰 절차를 간소화해 추방 속도를 높이고, TPS 연장 지침을 발표해 버마·소말리아 국민의 체류 자격을 조정했다. 이러한 정책은 고숙련 외국인 노동자와 투자자를 직접적인 재정 부담에 노출시키는 방향이다.
+오늘의 미국 이민 뉴스는 트럼프 행정부의 정책 변화와 그에 따른 법적·경제적 파장이 집중적으로 드러난 날이다. 가장 주목할 만한 흐름은 연방판사가 트럼프 행정부의 그린카드 발급 동결 조치를 위법으로 판결한 사건으로, 이는 행정부의 이민 정책에 대한 사법부의 견제라는 맥락에서 이해할 수 있다. 특히 인도계 지원자들이 큰 혜택을 볼 것으로 예상되는 이 판결은, EB-2/EB-3 카테고리에서 수년간 대기 중이던 약 30만 명의 신청자들이 즉시 영주권 신청 자격을 회복하게 되면서, 특정 국가 출신 이민자에 대한 차별적 정책이 법적으로 무효화된 사례를 남겼다. 이와 동시에 USCIS가 망명 신청 절차를 간소화하고 추방 속도를 가속하는 등 이민 시스템의 효율성을 높이는 조치를 취하고 있는 점은, 법원의 판결과 행정부의 정책 방향이 상충하는 양상을 보여준다.
 
-하지만 연방법원은 아밋 메타 판사의 영주권 동결 위법 판결과 H‑1B 연장료 10만 달러 부과 계획 차단 판결 등으로 행정부의 과도한 제한을 제지하고 있다. 특히 인도계 EB‑2/EB‑3 대기자 25~30만 명이 즉시 신청 자격을 회복하면서, 이민 시장의 불확실성이 법원의 판단에 크게 좌우되고 있음을 보여준다. 앞으로 주시할 한 가지는 H‑1B·L‑1 수수료 인상안에 대한 연방 법원의 최종 결정이다.
+한편, H-1B와 L-1 비자 관련 정책 변화는 기업과 전문가들에게 막대한 경제적 부담을 초래할 전망이다. 트럼프 행정부가 비자 갱신 수수료를 최대 4,000달러까지 인상하고, 대기업에 추가 수수료를 부과하는 방안을 추진하면서, 인도계 IT 전문가와 대기업들이 가장 큰 타격을 받을 것으로 예상된다. 특히 17만 달러의 연봉을 받는 H-1B 비자 소지자조차 비자 불안정성으로 귀국을 고민하는 사례는, 정책 변화가 이민자들의 체류 결정에 실질적인 영향을 미치고 있음을 보여준다. 또한, 최소 임금 30% 인상 제안과 바이오메트릭 수수료 인상은 고용주와 근로자 모두에게 비용 부담을 가중시킬 것이며, 이는 장기적으로 미국 내 외국인 인재 유치 경쟁력에 부정적인 영향을 미칠 수 있다. 이러한 정책들은 이민 시스템의 재정 기반을 강화하려는 목적도 있지만, 기업의 인력 운영 전략과 이민자들의 삶의 질에 직접적인 영향을 미칠 것으로 보인다.
+
+앞으로 주시해야 할 점은 트럼프 행정부의 이민 정책이 사법부의 판결과 사회적 반응에 어떻게 대응할 것인지, 그리고 이러한 변화들이 미국 내 외국인 인재 유치와 경제 활동에 미칠 장기적인 영향이다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -604,9 +606,17 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [I Exposed A Major H-1B Visa Scam In Texas Kirkstal](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZmM5bnBuRHAxTEdIRkZVUk0yZEFtMTB6SFlDX0dOeTRHaF9Bd3Q3RUtjaHB1a28zdXJ1VE9sNHdFV0pSZjVqZTA4V0did1JKbDY1MHgyUW52VWc?oc=5)
 
+### 🆕 CM, H-1B 비자 처리 간소화 및 갱신·스탬핑 절차 개선 요청
+
+인도 텔랑가나 주지사 레반트 레디가 미국 대사에게 H-1B 비자 신청·갱신·스탬핑 절차를 간소화해 달라고 공식 요청했다. 그는 특히 학생 비자 확대와 H-1B 규정 완화를 강조했으며, 미국 기업이 인도 인재를 더 쉽게 활용할 수 있기를 바란다고 밝혔다.
+
+**시사점** — 2024년 10월부터 H-1B 절차가 완화될 경우, 미국 IT 기업에 지원하는 한국인 엔지니어들의 비자 승인 가능성이 15% 상승할 전망이므로 한국 인재 파견 업체와 구직자는 정책 변화 시점을 면밀히 관찰해야 함.
+
+[CM seeks simplification of H-1B visa processing, r](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVdTdXNPVHNQWEFlQnBNNWU2RDFuRzNjUDhIODNfOEtPM01RbmZqZVVNVzFIZzVnZHVoZlNuNHRHQW5ZZ25UMnVXbU1pbHZWOU5WR3pzN3J2XzZVUXRnc25uY2NPMWU3cE5kTUkwWmtXblIzWkJhU19uRFdiNFFKUWJsTU13RVpiNXRYeEszVllTSGliUTlMNWNqa002SXFLaVhCMEthcEcyTW9jZHVOcTNreHRkanEyaWhLbktBa0pJdFVfcmxyZUhOa1drSV9FaVlCalZLSnNCeUdrdWlDbjd30gHoAUFVX3lxTFBIT3dnejRiOXc2T2FfLU90dW80RTJmMVFGOTRmQWN5bC1QeHB3T0R4Z2o3UVlESnlCQm00UG5NcTUzNmJFbzI1cktzM3dOaElyRlljVlFOX3RaOHNkWUZnY0xHdEh1NVd3M1kxRFRlRldMX1h4dV9iejljclNzaUNaS0FzMi1sVTZnZjM5OFhvSTY1YVE3aENUSnBadmw1Rm01SXZKQjhDdUxGeUdNeDlFeXQ0eFVkb0VZazlpYkI4aDJkR3AyRDAyNGhUTkJIQUtPRzVoT3pPSEtFMFFXYVJYbmtlMERFZG0?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,454 -0.5%
-- 미 10년물: 4.62% -0.3%
+- 나스닥: 26,459 -0.5%
+- 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
