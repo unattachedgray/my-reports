@@ -456,11 +456,11 @@ Citi가 발표한 2026년 SMid Cap 종목 순위에서 에토스 테크놀로지
 
 **오늘의 분석**
 
-연방판사의 최근 판결이 트럼프 행정부의 이민 제한 정책을 연속적으로 무효화하고 있다. 75개 국가 대상 그린카드 발급 동결 조치를 위법 판결함으로써 인도계 EB‑2/EB‑3 대기자 약 25~30만 명이 신청을 재개할 수 있게 되었으며, 동시에 H‑1B 연장료 10만 달러 부과 계획을 차단한 연방법원 판결도 이어졌다. 이러한 사법적 개입은 이민 청의 강경 정책에 대한 견제 역할을 강화하고 있다.  
+연방판사의 최근 판결은 트럼프 행정부가 시행한 75개국 대상 영주권 발급 중단 조치를 위법으로 규정하며, 인도계 EB‑2/EB‑3 대기자 약 30만 명에게 즉시 신청 자격을 회복시켰다. 동시에 H‑1B·L‑1 비자 연장 수수료 인상안을 법원이 차단하면서, 정부의 비용 부담 확대 시도가 사법적 제재를 맞았다. 이러한 판결은 이민 정책 전반에 대한 법적 검증이 강화되고 있음을 보여준다.
 
-그럼에도 불구하고 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료를 현재보다 크게 인상하고, EB‑5 투자 이민 최소 투자액을 2,000만 달러로 상향 조정하는 등 새로운 재정 부담을 제시하고 있다. USCIS는 망명 인터뷰 절차 간소화·즉시 법원 송부, TPS 업데이트, 공공부담 기준 강화 등 신청 절차를 엄격히 바꾸면서 비용 상승과 심사 속도 가속을 동시에 추진하고 있다. 이처럼 사법적 제재와 행정적 확대가 교차하는 상황에서 이민 정책의 향방은 불확실하다.  
+USCIS는 망명 인터뷰 절차 간소화·즉시 법원 이송 규칙, TPS 연장 지침, EB‑5 투자 최소액 상향 등 다수의 규제 변화를 동시에 추진하고 있다. 특히 비자 연장료와 바이오메트릭 비용 상승은 기업, 특히 인도계 IT 기업에 재정적 압박을 가중시키며, 고용주가 요구하는 급여·고용조건에도 영향을 미친다. 버마·소말리아 TPS 연장과 신규 EB‑5 요건은 투자자와 보호 대상자의 체류 전망을 재조정하게 만들며, 지역별 비용 격차와 공공부담 규제 강화도 동시에 논의되고 있다.
 
-앞으로 주시할 한 가지는 H‑1B·L‑1 연장료 인상안의 최종 확정 여부이다.
+앞으로는 H‑1B 연장료 인상 제안에 대한 최종 규정 발표를 주시해야 한다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -758,9 +758,17 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [The Structural Mechanics of H1B Fee Expansion and ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVC01V1V0bTZ4aEMzazdVSVROZHlCQ01mSVdMNDR0cTFpZXg5YjVXcVRlbF9tTlJRalJHb3B4MDhLQlJUNzNyWmprNWxoWEViZWVvemdqWlZJMHVVN2VuNnYtU3R5bGI2bEZYUEhDTlBNaUdVM2N0VVFqcEVrOUZpaEpyZ3ljQjdvcnN1NDdzMklKeElSWUFrblR1V1RoaWM?oc=5)
 
+### H-1B 연장 시 추가 벌금 부과 가능성, 최종 판결 대기
+
+미국 이민청(USCIS)은 H-1B 비자 연장 신청에 대한 추가 벌금 부과 여부에 대한 최종 판결을 아직 내리지 않았다. 현재 연장 절차를 진행 중인 기업과 개인은 기존 연장 비용에 변동이 있을 수 있다.
+
+**시사점** — 2026년 7월 말까지 H-1B 연장 신청을 계획 중인 한국인 기업과 개인은 추가 벌금 부과 가능성을 주시해야 함
+
+[Potential added fine for H-1B renewals still waiti](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTFVNVhQQU44VlBlY3JDTE9zc2ZHd2RWMlUwOURDNnpQdzk0VHJtZVVwWFEwUWRmTHItbXI1M3ZwYmMxQ2VzQzI2WFZVanRkN3k4aF9rMUZYSzJ0RTFBeEFva3NPU3lyaDBpQkI1S0MtMUxaY0RMN2hwWXZmZWJRWk12YmE3M2tDVWhIVFVsMXl4YndlNFlhR0JtdUxLQlU?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,430 -0.6%
+- 나스닥: 26,440 -0.5%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
