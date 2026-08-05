@@ -360,11 +360,7 @@ S&P 500이 지난 5일간 6% 이상 급등하며 작년 관세 분쟁 이후 최
 
 **오늘의 분석**
 
-오늘의 미국 이민 뉴스는 트럼프 행정부의 정책 변화와 그에 따른 법적·경제적 파장이 집중적으로 드러난 날이다. 가장 주목할 만한 흐름은 연방판사가 트럼프 행정부의 그린카드 발급 동결 조치를 위법으로 판결한 사건으로, 이는 행정부의 이민 정책에 대한 사법부의 견제라는 맥락에서 이해할 수 있다. 특히 인도계 지원자들이 큰 혜택을 볼 것으로 예상되는 이 판결은, EB-2/EB-3 카테고리에서 수년간 대기 중이던 약 30만 명의 신청자들이 즉시 영주권 신청 자격을 회복하게 되면서, 특정 국가 출신 이민자에 대한 차별적 정책이 법적으로 무효화된 사례를 남겼다. 이와 동시에 USCIS가 망명 신청 절차를 간소화하고 추방 속도를 가속하는 등 이민 시스템의 효율성을 높이는 조치를 취하고 있는 점은, 법원의 판결과 행정부의 정책 방향이 상충하는 양상을 보여준다.
-
-한편, H-1B와 L-1 비자 관련 정책 변화는 기업과 전문가들에게 막대한 경제적 부담을 초래할 전망이다. 트럼프 행정부가 비자 갱신 수수료를 최대 4,000달러까지 인상하고, 대기업에 추가 수수료를 부과하는 방안을 추진하면서, 인도계 IT 전문가와 대기업들이 가장 큰 타격을 받을 것으로 예상된다. 특히 17만 달러의 연봉을 받는 H-1B 비자 소지자조차 비자 불안정성으로 귀국을 고민하는 사례는, 정책 변화가 이민자들의 체류 결정에 실질적인 영향을 미치고 있음을 보여준다. 또한, 최소 임금 30% 인상 제안과 바이오메트릭 수수료 인상은 고용주와 근로자 모두에게 비용 부담을 가중시킬 것이며, 이는 장기적으로 미국 내 외국인 인재 유치 경쟁력에 부정적인 영향을 미칠 수 있다. 이러한 정책들은 이민 시스템의 재정 기반을 강화하려는 목적도 있지만, 기업의 인력 운영 전략과 이민자들의 삶의 질에 직접적인 영향을 미칠 것으로 보인다.
-
-앞으로 주시해야 할 점은 트럼프 행정부의 이민 정책이 사법부의 판결과 사회적 반응에 어떻게 대응할 것인지, 그리고 이러한 변화들이 미국 내 외국인 인재 유치와 경제 활동에 미칠 장기적인 영향이다.
+연방판사 아밋 메타가 트럼프 행정부의 75개국 대상 영주권 발급 동결 조치를 위법 판결하면서, 인도계 EB‑2·EB‑3 대기자 약 30만 명이 신청 자격을 회복했다. 이는 최근 H‑1B·L‑1 비자 연장 수수료를 대폭 인상하려는 행정부의 비용 부담 확대 정책과 동시에 진행돼, 인도·한국 등 고숙련 외국인 노동자들의 이민 비용이 급격히 상승하는 구조적 변화를 보여준다. 한편 USCIS는 망명 인터뷰 절차를 간소화하고 나이지리아·버마·소말리아 대상 TPS를 조정하는 등, 신속 추방과 보호를 동시에 추진하는 정책을 연달아 발표했으며, 이는 이민 심사 속도와 인도주의적 기준 사이의 긴장을 고조시킨다. 앞으로 주시할 한 가지는 연방 법원이 H‑1B 연장료 인상안에 대해 최종 결정을 내릴 시점이다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -614,9 +610,33 @@ Citybuzz가 발표한 새로운 지수에 따르면, 미국 내 이민 신청 �
 
 [CM seeks simplification of H-1B visa processing, r](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVdTdXNPVHNQWEFlQnBNNWU2RDFuRzNjUDhIODNfOEtPM01RbmZqZVVNVzFIZzVnZHVoZlNuNHRHQW5ZZ25UMnVXbU1pbHZWOU5WR3pzN3J2XzZVUXRnc25uY2NPMWU3cE5kTUkwWmtXblIzWkJhU19uRFdiNFFKUWJsTU13RVpiNXRYeEszVllTSGliUTlMNWNqa002SXFLaVhCMEthcEcyTW9jZHVOcTNreHRkanEyaWhLbktBa0pJdFVfcmxyZUhOa1drSV9FaVlCalZLSnNCeUdrdWlDbjd30gHoAUFVX3lxTFBIT3dnejRiOXc2T2FfLU90dW80RTJmMVFGOTRmQWN5bC1QeHB3T0R4Z2o3UVlESnlCQm00UG5NcTUzNmJFbzI1cktzM3dOaElyRlljVlFOX3RaOHNkWUZnY0xHdEh1NVd3M1kxRFRlRldMX1h4dV9iejljclNzaUNaS0FzMi1sVTZnZjM5OFhvSTY1YVE3aENUSnBadmw1Rm01SXZKQjhDdUxGeUdNeDlFeXQ0eFVkb0VZazlpYkI4aDJkR3AyRDAyNGhUTkJIQUtPRzVoT3pPSEtFMFFXYVJYbmtlMERFZG0?oc=5)
 
+### 🆕 DHS, H‑1B·L‑1 연장 신청 수수료 인상 계획 발표
+
+미국 국토안보부는 H‑1B와 L‑1 비자 연장 신청에 대한 수수료를 기존보다 크게 인상할 방안을 제시했다. 이번 제안은 인도 IT 기업과 미국 내 H‑1B 연장 신청자들에게 비용 부담을 가중시킬 것으로 예상된다.
+
+**시사점** — 인도 IT 기업과 미국 내 H‑1B 연장 신청자들은 인상된 수수료를 감당하기 위해 예산을 재조정해야 한다.
+
+[Inside the Hidden DHS Fee Hikes Threatening H-1B a](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDZ3ckNZTEhjWGNyT1FFRWFCNWkzT2xTRTZYd2ZPaVlWY2Y1ZWRzTkRZQ0taZDdKbnJ3SGo0Y2tiajBuWk80SjFHWjlQRjdpLVNZbTFzeFJrWllpVDNxdVlub3FfWGt0NGdIaldfaTF2cjVaUUVoTW9VYzJuQzdNTk9RRC1ZVGg4VWdVTTU1QjVGRHJIZnNQWURrZw?oc=5)
+
+### 연방 법원, 트럼프 행정부의 영주권 발급 중단 조치 위헌 판결
+
+연방 법원은 트럼프 행정부가 시행한 영주권(그린카드) 발급 중단 조치가 위법이라고 판결했다. 이 판결으로 기존에 보류된 영주권 신청이 재개될 가능성이 열렸다.
+
+**시사점** — 영주권 신청자들은 즉시 케이스 재개를 요청하고, 2026년 12월 말까지 처리 지연을 최소화하기 위해 변호사와 협의해야 한다.
+
+[US Court Rules Trump Green Card Freeze Unlawful - ](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0t3aTV3TDZwUWVvOU9TUWl6dEx2R2c5TDRiUVg5cVlpLVdQQjNqaWY3MzdVRnNxVFZWMHJ5X2ZiN0RpWW1NanB6LU9rbXVYS1p4QURqQTZwUFZyWE1PWXZKdEhQa2ZnclMwWjBKY3JSbDdBVHRoVmJqZTNucEVsR0x5ajQ0TFF3ZkI3aGk1dHREdWh5U0lGNl9BTUVGaWJ4Wk1uMVY0S2RnbnpZdDNPLS1oYzNHdXp0ejdfQXVR?oc=5)
+
+### 연방 법원, 100,000달러 H‑1B 연장 수수료 부과 중단
+
+연방 법원은 트럼프 행정부가 제안한 100,000달러 규모의 H‑1B 비자 연장 수수료 부과를 일시 중단했다. 이 판결은 미국 내 대형 IT 기업들의 인재 확보 전략에 직접적인 영향을 미친다.
+
+**시사점** — 구글·마이크로소프트 등 대형 IT 기업은 2026년 9월 1일 시행 예정이던 고액 수수료가 중단됨에 따라 기존 인재 확보 전략을 재검토해야 한다.
+
+[Court Blocks Trump’s $100,000 H-1B Fee as US Compa](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXU1Y2VIWDlIb0p4aTNFMEpKWHlWTFd1MGlKWk5pWGtJUlVOR3ZsQ0NOUklLSUdlQkJmeVVaaFA4T0tma1p6QkxiT3I1Y3dVaW84SVBqMnhPbDNYMmdRY2ZJVzFYcTZaakhzek5uVVJVSm5EaTRWRmFJa2RWbmcwLUF5bjM4aUpXclh1Y2szYm00NFA3WHlES0k0VHViM0RHYUQ1a0d3dmhBWEFGOUFyTFhBeFpwOXBCWHfSAb8BQVVfeXFMTWkyWDlONmx5LTE5bEZjSHpxX2xpVHRHUmVyTlhSMjVub3ZzN3VnSnR1S1hkUVFRWFQ0QktUNG9hTUF3SExYQVpDanFfU1dWcFJfaXJ5UTUxZTdEemRRMEtyajd1anJhNXpzNUR2UGxYaXVQMlJyV1U1RUEzeTR6TkZhOGhma2dEWHlSTWJieUR0WVdHUFFxNzNtdmttWlZZZElVb0pOa2NzbWNISG1yeFhVSm5KR1J5eUc1cHdmV0E?oc=5)
+
 ## 시장 지표
 
 - KOSPI: 6,359 +1.6%
-- 나스닥: 26,459 -0.5%
+- 나스닥: 26,462 -0.5%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
