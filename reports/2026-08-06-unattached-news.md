@@ -6,9 +6,11 @@
 
 **오늘의 분석**
 
-LLM이 연속적인 미분 연산만 지원하고 이산적인 ‘점프’ 연산을 구현하지 못한다는 한계는 기존 체인‑오브‑생각 프롬프트가 일시적인 완화책에 불과함을 보여준다. 동시에 Neon이 발표한 오픈 소스 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 정확도를 달성한다는 사실은 비용 구조를 재편하고 대형 기업의 독점적 지배를 견제하려는 기술·경제적 움직임을 시사한다. 이러한 흐름은 AI 연구와 산업이 효율성과 개방성을 동시에 추구해야 함을 강조한다.  
+LLM이 연속 미분 연산에만 국한되고 이산 ‘점프’ 연산을 구현하지 못한다는 연구 결과는, 현재 대형 언어 모델이 복합적인 논리 전개에 한계가 있음을 보여준다. 동시에 Neon이 발표한 오픈 소스 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 검색 정확도를 제공한다는 사실은, 비용 효율성을 중시하는 실용적 AI 적용이 급속히 확대되고 있음을 시사한다. 이러한 흐름은 기존 체인‑오브‑생각 프롬프트가 한계를 완화하긴 하지만 근본적인 구조적 개선이 필요하다는 논점과 맞물려, 연구와 산업 양쪽에서 새로운 연산 패러다임을 모색하게 만든다.
 
-Android에서 Linux로 전환하는 개인 사례와 OpenAI가 Apple을 상대로 제기한 무역 비밀 소송은 개방성과 규제의 갈등을 구체화한다. 사용자는 비용 효율적인 오픈 모델에 매력을 느끼고 플랫폼 독립성을 추구하지만, 대기업은 지적 재산권 보호를 위해 법적 대응을 강화한다. 시장 자유에만 의존하면 혁신이 제한될 위험이 있으나, 과도한 규제는 경쟁을 억제할 수 있다. 앞으로 주시할 한 가지는 규제 프레임워크가 오픈 AI 생태계에 어떻게 적용될지이다.
+한편 OpenAI가 애플의 무역 비밀 소송을 ‘근본적으로 부패’라며 기각을 요청한 사건과 네이버가 1조 파라미터 규모의 멀티모달 모델 ‘클라우드AI‑9’를 출시한 소식은, AI 기술을 둘러싼 법적·정책적 갈등과 국가 주도의 대형 모델 개발이 동시에 진행되고 있음을 보여준다. 기업 간 소송은 지적 재산권 보호와 혁신 촉진 사이의 균형을 시험하고, 한국의 대규모 모델 출시는 국내 AI 생태계의 경쟁력을 강화하려는 정책적 의지를 반영한다. 이러한 양상은 기술 발전이 규제와 시장 구조에 어떻게 영향을 받는지를 가늠하게 한다.
+
+앞으로 주시할 한 가지는 AI 모델의 연산 방식과 규제 프레임워크가 어떻게 조화될지이다.
 
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
@@ -43,7 +45,23 @@ OpenAI는 애플이 제기한 무역 비밀 도용 소송을 연방 판사가 �
 
 [OpenAI says Apple’s trade secrets lawsuit is ‘rott](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request)
 
+### 🔴 네이버, 1조 파라미터 초대형 멀티모달 모델 ‘클라우드AI‑9’ 출시
+
+네이버가 1조 파라미터 규모의 멀티모달 대형 모델 ‘클라우드AI‑9’를 공개했다. 이 모델은 텍스트·이미지·음성 입력을 동시에 처리하며, 한국어 이해 정확도가 기존 최고 수준을 15% 상회한다.
+
+**시사점** — 네이버 클라우드 서비스 이용 기업들은 2026년 4분기까지 신규 AI 비용 절감 효과를 검토해야 한다.
+
+[The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+
 ## 한국
+
+**오늘의 분석**
+
+오늘날 정치·경제·안보 영역에서 감시와 규제 움직임이 동시에 강화되고 있다. 민주당 돈봉투 의혹과 양평 고속도로 특검, 국고채 입찰 담합 조사 등은 권력·재정 투명성을 둘러싼 사법·감독 체계가 활발히 작동하고 있음을 보여준다. AI 윤리 사건과 구글 핵심 엔지니어 이탈은 기술 분야에서도 책임과 인재 관리가 중요한 과제로 떠오르고 있다.
+
+경제면에서는 김정관 산업통상부 장관이 반도체 R&D에 주52시간제 예외를 검토하고, 포스코퓨처엠이 LFP 양극재 2.7조원 규모 공급 계약을 체결하면서 성장 전략을 추진한다. 동시에 주택 시장은 수도권 분양 전망 하락과 호남·충청권 상승으로 지역 격차가 확대되고, 최저임금 상승 둔화와 비정규직 비중 증가가 임금불평등을 심화시킨다. 기록적 폭염은 생산 차질·식품 물가 상승을 촉발하고, 청와대는 긴급 안보 상황 점검 회의를 소집하는 등 정부의 전방위 대응을 요구한다. 청년 정신건강 지원환경 실태조사 착수는 사회적 약자 보호에도 관심이 집중되고 있음을 시사한다.
+
+앞으로 주시할 한 가지는 북한의 연속적인 미사일 발사와 한미 연합훈련 전후 안보 상황이다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -269,15 +287,23 @@ OpenAI는 애플이 제기한 무역 비밀 도용 소송을 연방 판사가 �
 
 [박균택 의원 "메가특구특별법으로 기업이 투자하고픈 환경 만들어야"[와이드이슈] - KBC광](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iRlE0WTJEYmN6VmRIZlhMeXZiaE9nUDN6M2pJSnNmV1NUOWQ2UE9tcW0xUFl2V3Z1ckJNU0h1TGs4SG04RGFCYmtTRnpYQ1FFTUpHZ0ZjNmw1bWY0M09RRTFB?oc=5)
 
+### 🔴 북, 한미 연합훈련 앞두고 동해상 단거리 탄도미사일 발사
+
+북한이 6일 동해상으로 단거리 탄도미사일 1발을 발사했다. 이번 발사는 42일 만에 이달 예정된 한미 연합훈련 ‘을지 자유의 방패’를 앞두고 이루어졌다. 한국과 미국은 즉각적인 대응을 준비 중이다.
+
+**시사점** — 한미 연합훈련 시작 전까지 북한의 미사일 발사가 지역 안보 긴장을 고조시키므로, 동해 연안 방위 체계와 미군 함대 배치를 주시해야 한다.
+
+[北, 한미 UFS 연습 앞두고 동해상에 탄도미사일 발사](https://www.donga.com/news/Politics/article/all/20260806/134433652/1)
+
 ## 세계
 
 **오늘의 분석**
 
-북한의 러시아 미사일 부대 배치와 중국의 J-20 미사일 시험, 시노펙의 러시아 원유 확대 수입, 후티 반군의 홍해 공격과 미 해군의 대응이 맞물리며 북·중·러·이란 연계 축이 군사·에너지·해상 운송 전방위에서 미국의 동맹 체제를 압박하는 양상이다. 우크라이나 패트리엇 지원 축소와 대만 한광훈련의 봉쇄 시뮬레이션은 전선 확대 시 서방의 억제력 공백을 예고한다.
+최근 러·우 전쟁이 격화되면서 안보 구도가 복합적으로 얽히고 있다. 러시아는 서부 지역에 북한 미사일 부대를 배치했다는 주장을 내세우고, 우크라이나 대통령도 동일한 주장을 제기했다. 미국은 우크라이나에 대한 패트리엇 미사일 지원을 3분의 1 수준으로 축소했으며, 러시아는 7월에 사상 최대인 8,300발의 유도공중폭탄을 투하했다. 동시에 미·이란이 호르무즈 해협 통제권 협상을 모색하고, 미 해군이 레드씨에서 상선을 무력화하는 등 지역 안보가 다층적으로 전개되고 있다.
 
-유럽 폭염발 원전·수력 출력 급감과 홍해 항로 우회에 따른 물류비 상승, TSMC 3나노 증산과 중국 AI의 아프리카 진출은 안보 위기가 기술·에너지·공급망의 구조적 취약성을 동시에 건드리고 있음을 보여준다. 일본 기시다 총리의 비핵 3원칙 모호화와 소비세 인하 논쟁, 한국의 독도 훈련과 일본의 반발은 국내 정치적 필요성이 역내 긴장을 부채질하는 순환을 드러낸다.
+에너지와 기술 분야에서도 긴장이 확대된다. 유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면했으며, 중국은 러시아 극동 원유 수입을 30% 확대해 중동산 공급 감소를 메우려 한다. 대만은 TSMC의 3nm 웨이퍼 18만장 생산 계획을 발표해 반도체 공급 안정에 나섰고, 일본은 소비세 인하 논의 속에 저소득층 지원 부족을 비판받으며 사회적 불평등이 부각된다. 이러한 흐름은 시장 자유방임보다 체계적 규제와 사회 정의 구현이 필요함을 시사한다.
 
-앞으로는 우크라이나 전장의 북한군 실전 투입 여부와 홍해·대만해협 동시 위기 시 미국의 자원 분산 한계가 임계점에 달할 시점을 주시해야 한다.
+앞으로는 러시아와 우크라이나 사이의 무기 지원 흐름을 주시할 필요가 있다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -479,15 +505,63 @@ The Goa bench of the Bombay High Court overturned a 2021 trial court verdict cle
 
 [中시노펙, 중동산 대신 러 원유 수입 대폭 확대](https://www.yna.co.kr/view/AKR20260806142400009)
 
+### 🔴 러, 7월 한 달간 유도공중폭탄 8300발 역대 최다 투하
+
+러시아는 7월에 유도공중폭탄 8,300발을 투하했으며, 이는 월별 최다 기록이다. 이번 폭격 규모는 러시아의 공중전 강도를 크게 높인 것으로 평가된다.
+
+**시사점** — 한국 방위산업 관계자는 2026년 4분기까지 NATO와 연계한 미사일 방어 체계 가동 여부를 주시해야 한다.
+
+[하늘서 쏟아지는 ‘지옥’…러, 7월 한 달간 유도공중폭탄 8300발 역대 최다 투하 [핫이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTUdTS1BRaXU3dm1iYmlpMllHbElWYlMzYktGNHdlWVFGakQ2MmVpaHY4RHdXNlZ2OGxYSWx0VjByUi1zTFNfTnRvX05TcXVFWGZjSl9JZnN0bkhNWmNiNk1OTDZodkVRWWljRnBuUDc?oc=5)
+
+### 미·이란 협상 가시권…이란 ‘호르무즈 통제권’ 윤곽
+
+미국과 이란이 스트레이트 오브 호르무즈 통제권에 대한 잠정 합의를 향해 나아가고 있다. 합의가 성립하면 선박 통행료가 최대 7%까지 변동될 가능성이 있다.
+
+**시사점** — 한국 석유 수입업체는 2026년 9월 말까지 최종 합의 여부와 운임 변동을 모니터링해야 한다.
+
+["美간섭에 합의 지연"…트럼프, '이란 호르무즈 통제권' 수용할까 - 한국무역협회-KITA](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGFCcGlzWHU1azJoSS10dkxfSnFuX19LWU54Y00zSUdrWkxna1JwZDFsS0NwSGlOb1VIUkx4MHQ3OWUwQ2REdUEwZXVydENQWi1RdF9kZnN5elNBM2poVmRuaERUVjI5bm4tb1kzMDNZMVFiVmRIdVVvZWN0eHpvbDBRSWFkTmhsa0pZMGhUMjRlR3VmMUtGajFJOXR5b3poeTdHUE0xTV9acEpUc21zQmN2V0E4WkFJbW9uTVh3bWZDSVlmZkJndFBIN0xYYkdrRUM0cmNn?oc=5)
+
+### ⚠ 리투아 국방 "러, 우크라 드론으로 발트국 위장공격 할수도"
+
+러시아가 발트해 연안 국가들을 상대로 위장 깃발 작전으로 우크라이나 무인기를 이용한 공격을 고려하고 있다는 정찰이 포착되었다. 이는 NATO 동맹국들의 방어 태세에 새로운 위협을 제기한다.
+
+**시사점** — 한국 국방 분석가들은 2026년 4분기 NATO 연합훈련 일정과 발트해 지역 군사 동향을 집중 관찰해야 한다.
+
+[리투아 국방 "러, 우크라 드론으로 발트국 위장공격 할수도"](https://www.yna.co.kr/view/AKR20260806151600098)
+
+### 베이징, 찜통더위에 전력수요 사상 최고…냉방이 45% 차지
+
+중국 베이징은 기록적인 폭염으로 전력수요 사상 최고치를 기록했으며, 냉방이 전체 전력 부하의 45%를 차지했다. 전력망에 큰 부담이 가해지고 있다.
+
+**시사점** — 한국 전력·배터리 기업은 2026년 8월까지 중국의 피크 부하 예측을 참고해 수출 전략을 조정해야 한다.
+
+[베이징, 찜통더위에 전력수요 사상 최고…냉방이 45% 차지 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNWJhSFJZYXE1UVZBUmd5eV9hYjItVGgzQzJJcnY1Z3ZYSTVReUFQcE9OX0VDVUdVaG9uSDFKc0JGTEFWamVkTjB5UDJLUGE3SmcwbG1SWWNldjhoV1lUTjlOc1JYeTQ?oc=5)
+
+### '최연소 흑인' 영국 명문대 스타 교수, 표절 의혹에 사임
+
+케임브리지대에서 최연소 흑인 교수로 임명됐던 제이슨 아데이가 표절 및 연구 성과 조작 의혹으로 사임했다. 대학 측은 조사에 착수했다.
+
+**시사점** — 한국 대학은 2027년 대학 인증 심사 전에 연구 윤리 강화와 다양성 채용 정책을 재검토해야 한다.
+
+['최연소 흑인' 영국 명문대 스타 교수, 표절 의혹에 사임](https://www.yna.co.kr/view/AKR20260806149600085)
+
+### 🆕 나이지리아 군경, 납치 피해자 308명 구출…역대 하루 최대
+
+나이지리아 군경이 북부 콰라주 지역에서 진행한 합동 작전으로 308명의 납치 피해자를 구출했다. 이는 하루 최대 구출 규모다.
+
+**시사점** — 한국 인도주의 단체는 2026년 12월 선거 전 서아프리카 현지 프로젝트 진행 시 인질 위험을 평가해야 한다.
+
+[나이지리아 군경, 납치 피해자 308명 구출…"역대 하루 최대"](https://www.yna.co.kr/view/AKR20260806150200099)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원의 Digital Asset Market Clarity Act가 아직 본회의에 올라오지 않아 규제 불확실성이 지속되는 가운데, S&P 500이 2조 달러 규모의 암호화폐 시가총액을 편입했지만 비트코인 가격은 큰 변동 없이 65,000달러 근처를 유지했다. 이는 기관 투자자의 ETF 기대와 동시에 지정학적 완화—호르무즈 해협 긴장 완화와 이란 핵합의 전망—가 위험 회피 흐름을 억제한 결과로 풀이된다.
+미국과 이란 외교 진전 기대가 유럽 증시를 사상 최고치로 견인하는 등 지정학적 리스크 완화가 전통 자산 랠리를 뒷받침했다. 동시에 S&P 500의 암호화폐 2조 달러 시가총액 편입으로 디지털 자산의 제도권 편입이 가속화됐으나, 상원 휴회 전 디지털 자산 시장 명확성 법안 처리가 불투명해지며 규제 불확실성이 상존한다. 비트코인이 6만 5천 달러 부근에서 안정세를 보이는 것은 기관 자금 유입과 ETF 기대감이 규제 공백을 부분적으로 상쇄한 결과로 읽힌다.
 
-아시아에서는 DBS가 자산 5천억 싱가포르 달러 돌파와 사상 최고 이익을 기록하고, NTT와 헨켈이 실적 전망을 상향 조정하며 주가 상승을 견인했다. 유럽 주식은 기술·소비재 섹터 호조와 미국‑이란 낙관감으로 사상 최고치를 경신했지만, 우즈베키스탄 부실채권 확대와 셀시우스·샌디스크 등 기업의 실적 부진은 신흥시장 및 암호화폐 대출 부문의 위험을 부각시킨다. 또한 스페이스X 내부자 매각이 주가 하락을 제한하는 한편, AI 트래픽 증가에 대한 레일먼드 제임스의 Fastly 목표주가 상승은 새로운 성장 동력을 시사한다.
+기업 실적은 AI 인프라와 자산 관리 부문 강세, 소비자향 기술과 메모리·핀테크 약세로 뚜렷하게 갈렸다. 노르딕 세미컨덕터와 NTT, 패슬리 등 AI 수혜주는 사상 최대 실적이나 가이던스 상향을 기록한 반면, 허브스팟과 샌디스크, 피서브, 셀시우스는 성장 둔화와 비용 부담, 신용 위험으로 목표가 하향이나 주가 급락을 피하지 못했다. 스페이스X 내부자 매각과 헤지펀드 기술주 강제 청산은 AI 자본지출 강도에 대한 밸류에이션 민감도를 보여주며, SK하이닉스 반등은 국지적 매도 압력 소진을 시사한다.
 
-앞으로는 디지털 자산 규제 입법 진행 상황을 주시해야 한다.
+상원 휴회 전 디지털 자산 법안 처리 여부가 암호화폐 제도화의 분수령이 될 전망이다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -653,15 +727,61 @@ SK하이닉스 주가가 사전 거래에서 30% 급락했으나 대부분 회�
 
 [Morgan Stanley cuts HubSpot stock price target to ](https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-hubspot-stock-price-target-to-287-on-growth-concerns-93CH-4840798)
 
+### 🔴 SpaceX, AI 지출 우려로 주가 하락
+
+SpaceX 주가가 AI 관련 지출 확대 우려로 급락했다. 투자자들은 초기 수익에도 불구하고 향후 AI 프로젝트 비용 증가가 수익성을 압박할 수 있다고 보고 있다.
+
+**시사점** — AI 투자 확대가 SpaceX와 위성 발사 서비스 매출에 미칠 영향을 주시해야 하며, 2026년 4분기 발사 일정과 비용 구조 변화를 관찰한다.
+
+[SpaceX slides as AI spending worries overshadow ea](https://www.investing.com/news/stock-market-news/spacex-slides-as-ai-spending-worries-overshadow-early-returns-4841342)
+
+### 헤지펀드, 기술주 매도 강제…소매 투자자 주도 가능성
+
+JPMorgan 전략가들은 7월 기술주 매도 사태로 주요 헤지펀드들이 포지션을 축소했으며, 이로 인해 시장이 소매 투자자들의 거래에 더 크게 의존할 수 있다고 경고했다.
+
+**시사점** — 대형 헤지펀드의 매도 감소가 2026년 3분기 기술주 변동성에 직접적인 영향을 미칠 것이므로, 주요 펀드와 소매 거래량을 모니터링한다.
+
+[Hedge funds forced out of tech stocks may leave th](https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories)
+
+### 🆕 소프트뱅크, 오픈AI 무관한 실적 초과 달성
+
+소프트뱅크는 인텔 투자 수익 덕분에 기대치를 넘어선 실적을 기록했으며, OpenAI와의 연계 없이도 성장세를 유지했다.
+
+**시사점** — 인텔 주식 보유 비중이 높은 투자자들은 2026년 4분기 인텔 실적 변동에 따라 소프트뱅크 주가를 주시해야 한다.
+
+[SoftBank earnings exceed expectations, even withou](https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories)
+
+### SanDisk·Western Digital 주가 10% 급락, 비트코인 채굴 비용 우려
+
+SanDisk와 Western Digital의 주가가 각각 10% 하락했으며, 투자자들은 이들 기업의 반도체 공급이 비트코인 채굴 비용 상승에 영향을 줄 수 있다고 우려한다.
+
+**시사점** — 비트코인 채굴 비용 상승이 2026년 5월부터 채굴 장비 수요에 영향을 미칠 가능성이 있어, 채굴 기업과 반도체 공급망을 추적한다.
+
+[Why Sandisk and Western Digital crashed 10% and wh](https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin)
+
+### Fiserv, 2026 가이던스 축소로 주가 급락
+
+미국 결제 처리 기업 Fiserv가 2026년 매출 전망을 낮추면서 주가가 크게 하락했으며, 이는 디지털 결제 성장 둔화와 경쟁 심화가 원인으로 분석된다.
+
+**시사점** — 디지털 결제 시장의 성장률이 2026년 2분기부터 둔화될 것으로 예상되므로, 결제 서비스 제공업체와 경쟁 구도를 관찰한다.
+
+[Fiserv stock tumbles after cutting 2026 guidance](https://www.investing.com/news/earnings/fiserv-stock-tumbles-after-cutting-2026-guidance-93CH-4841354)
+
+### 🆕 비트코인·이더, 안전자산 선호로 상승
+
+코인마켓에서 비트코인과 이더가 안전자산으로 떠오르며 가격이 상승했으며, 알트코인들은 하락세를 보이고 있다.
+
+**시사점** — 2026년 8월 말까지 주요 암호화폐 포트폴리오에서 비트코인과 이더 비중을 높이는 전략이 위험 회피 성향 투자자에게 유리할 것이다.
+
+[Bitcoin, ether benefit as traders seek safety of l](https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-행정부의 절차적·재정적 장벽 높히기가 전방위로 감지된다. USCIS가 서류 미비 신청을 RFE·NOID 없이 즉시 거부할 수 있게 한 정책 메모(8월 5일)와 H-1B·L1 연장 수수료 대폭 인상 예고, 탬파 베이 지역의 공공부담 심사 강화, ICE의 공항 검문 확대와 경미한 위반에도 구금으로 이어지는 집행 강도가 맞물려 '전략적 후퇴'라는 평가대로 신청자 부담을 구조적으로 키우는 양상이다.
+USCIS가 불완전한 신청서를 사전 통보 없이 즉시 거부하도록 권한을 확대하고, 플로리다 탬파 베이 지역에서 공공부담 기준을 강화하는 등 행정적 규제가 급격히 강화되고 있다. 동시에 ICE는 H‑1B·F‑1 비자 소지자에 대한 공항 검문을 확대하고, 구금된 간호사·청소년 사례처럼 이민 절차가 형사 집행과 얽히면서 취약 계층의 불확실성이 커졌다. 이러한 조치는 TPS 수혜자와 같은 보호 대상자에게도 고용 허가(EAD) 중단 위험을 초래한다.
 
-사법부는 엇갈린 신호를 보냈다. 트럼프 행정부의 영주권 동결을 인도계 판사들이 연이어 제동 건 반면, 엘살바도르·우크라이나·수단 TPS 수혜자의 고용허가 만료를 허용해 취약 계층의 생계 기반을 흔들었다. 한편 고숙련 이민 축소 압력에 대해 파딜라 상원의원의 쿼터 완화 법안 발의와 텔랑가나 주지사의 외교적 로비, 인도계 단체의 호소가 맞물리며 입법·외교적 돌파구 모색이 병행되고 있다.
-
-구금 간호사 후원 요구, 한국인 청소년 영주권 중단, TPS 노동자 실직 위기 등 개별 삶이 정책 변화의 직접적 타격이 되고 있으며, OpenAI 스폰서십 감독권 이관처럼 기업 채용 자율성에도 제도적 개입이 확대된다. 앞으로 주시할 점은 즉시 거부 권한 확대와 수수료 인상이 실제 심사 처리 속도와 승인율 통계에 어떻게 반영될지다.
+그에 대한 반발로는 인도계 이민 단체와 레반스·텔랑가나 주지사의 로비, 알렉스 파딜라 상원의원 발의 H‑1B 보유자를 위한 영주권 확대 법안 등이 있다. 연방 판사는 트럼프 행정부의 영주권 동결 명령을 차단하고, TPS 관련 판결에서도 절차적 제한을 강조하며 행정권 남용을 견제하고 있다. 규제 강화와 고숙련 인재 확보 사이의 균형이 정책 논쟁의 핵심이다. 앞으로 주시할 한 가지는 파딜라 법안의 입법 진행 상황이다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -782,6 +902,30 @@ SK하이닉스 주가가 사전 거래에서 30% 급락했으나 대부분 회�
 **시사점** — 2026년 4분기까지 OpenAI 등 AI 기업에 지원하는 한국인 엔지니어는 영주권 승인 지연 위험이 커져 H‑1B 연장 및 대체 비자 전략을 재검토해야 함
 
 [Trump’s DOJ gains oversight of OpenAI’s green-card](https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2VjdVdfdGhTU2pTYlZlWWRUblVUbzhFOXhTS1Jtci01YXhHUWI2Ym9iekxDQzVEYXBVVzR4MmZtVnFXTEs4OTNCaldBY2RZR3ZNd1RMVkE3MzVhX0dyTWtxa0docEl3T3cxaWNrQUJQUURrR0xLLUxGaldDX3NuVXV1WlBhcVlER29aUWlOUlZlMXAzNUhteEhJMS0?oc=5)
+
+### 🔴 그린카드 신청자에게 10만 달러 보석금 요구 검토
+
+미국 이민청(USCIS)은 그린카드 신청자에게 100,000달러 규모의 보석금을 부과하는 방안을 검토 중이다. 해당 제안은 현재 공개된 초안에만 포함돼 있으며, 최종 결정은 내년 초에 이루어질 예정이다.
+
+**시사점** — 한인 투자자 및 EB‑5 투자자들은 2026년 12월까지 제안된 10만 달러 보석금 도입 여부를 주시해야 함
+
+[The US is considering introducing a 100 thousand U](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTE1HeHJkLWdLNzF1S1ZrYl9haGlha2RsNlZKRkR6WXl1N3RKcE5UUi0xUXFqUE1LcnFDN21GTkZDOFdBREVxMU9VRHVnMVN1U2xIVVJMdXladi1Fbng2b3RUMlFYQXVsekV2VURkbGtOSWlBOVBRQV94V1p0LXJtX0ZDWjI5WGNvcGdmR1VqcDN1bXlTVTdjMHZHUlRrYW1OLVFQazZCT1lFMXZRWFFsVDFGYWFiZ01IVFNGLS1lSklodWlJRzVLaU1tZElaREk1RmVldG02U040MEI5dWc?oc=5)
+
+### 🆕 H‑1B·F‑1 비자 소지자, ICE 공항 단속이 인도인에게 미치는 영향
+
+미국 이민 및 관세 집행국(ICE)이 공항에서 H‑1B와 F‑1 비자 소지자를 대상으로 무작위 검문을 확대한다는 보도가 나왔다. 이번 단속은 특히 인도 출신 학생·전문가들에게 입국 시 추가 서류 확인을 요구할 가능성을 높인다.
+
+**시사점** — 한국인 H‑1B·F‑1 비자 소지자는 2026년 8월 중순부터 공항 ICE 단속 강화로 입국 시 추가 서류 검증 위험이 커짐
+
+[H-1B or F-1 visa holder? What ICE airport crackdow](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlZDeDZmSWVpUW5oQjhubXNfdnlFRTBScnZaMFpQbDhyVnRtdVd4Y2YwU1VNR3JPQmdEQ0tCNjNnYm1KWDNDZlFmdW4tbUpRTlZZQnJZMDdqMDBuUDVMYzZ1Q3UtVS13SmlHd2hUTlZsODh5OUk4ZGJrX2ZaakhWOEszRDhBTno0OUlVVzNwRVd2MmpXTnN3N1FhWWp6dnZGcnRXeG9yMmVnZ0E3cExGWUtDT0pUdnJYa2t4M2F4OVBnajZBa3U40gHMAUFVX3lxTE1Rb2JsZUZEYmhIQ3M1Q25hc3p3UlZZMUJ3anNpSTJ6X3NpTFZSeWlRbUstMUtfTjNBb3lYcDAyS2lHRGRwbkctUlRpYXByS2tCUURrT2xuZmFENHYwLU1MZllEaGdSLWNWZEFJbnJ0aUxMQTAxWndsQVk0Z2VRUHREcTFvM0lmcVJaamtXcGVEQzFqWWJEYi02T2cxaU4wSzNEaTdtOTB2NTQ3RjNjVlRBS0JCUVFFZ0FuUWo5MXM0Sl9MTnhBWjllQl90RQ?oc=5)
+
+### ⚠ 제프리 엡스타인, LGBTQ 결혼 사기와 그린카드 획득 시도 의혹
+
+전직 금융인 제프리 엡스타인이 LGBTQ 결혼을 가장해 파트너의 그린카드 신청을 도운 혐의가 제기되었다. 관련 이메일이 공개돼 이민 사기 수법이 드러났으며, 연방 검찰이 추가 조사를 진행 중이다.
+
+**시사점** — 한국 내 LGBTQ 커뮤니티와 이민 변호사는 엡스타인 사기 사례를 참고해 그린카드 신청 시 부정 행위 위험을 경계해야 함
+
+[Jeffrey Epstein Tried Exploiting LGBTQ Marriage Wh](https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2w0aTF6SHhRSndVdmNlV2NMRl82cHU1djdGdklZUzF6RUdBbHppcUVHeWZfRFVyUGJTcUpiSUcybm5WMkt3QVJFRTZoUmpveElmaG9WYWlwZERWS2tYX3ROYkp3LVh3MEZEelN5eU9mYzJZYWo4N3RERW56dXJYQTFQd29XV3NtaUE?oc=5)
 
 ## 시장 지표
 
