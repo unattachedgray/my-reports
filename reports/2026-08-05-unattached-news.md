@@ -6,9 +6,9 @@
 
 **오늘의 분석**
 
-구글은 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 회장으로 옮기는 등 대대적인 리더십 재편을 발표했다. 동시에 기존 구글 어시스턴트를 9월 1일 종료하고 Gemini 기반 비서로 전환한다는 계획은 구글이 AI 제품 라인업을 통합하고 차세대 모델에 집중하고 있음을 보여준다. 제프 딘의 알파벳 탈퇴와 맞물려 구글 내부의 연구·사업 구조가 크게 재편될 전망이다.
+구글이 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 다른 직책으로 이동하면서, 기존 구글 어시스턴트를 Gemini 기반 비서로 대체해 9월 말 서비스 종료를 발표했다. 이는 AI 모델을 핵심 인프라와 직접 연결하려는 움직임으로, Anthropic이 자체 AI 칩 설계팀을 신설하고, 메타가 1조 파라미터 규모 Llama 3.0을 오픈소스로 공개한 것과 맞물려 하드웨어‑소프트웨어 통합 경쟁을 가속화한다. Zed가 실시간 벡터 검색을 지원하는 DeltaDB를 출시한 점도 대규모 모델 운영 효율성을 높이는 흐름을 보여준다.
 
-한편 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 악용된 사례가 드러나면서 AI 거버넌스 위험이 재조명되었다. Anthropic은 자체 AI 칩 설계팀을 신설해 Claude 시리즈 효율성을 높이고, 메타는 1조 파라미터 Llama 3.0을 오픈소스로 공개하며 Muse Code로 코드베이스 자동화를 강화한다. EU는 AI 투명성 규제를 확대하고, Shopify와 Reddit은 각각 AI 검색과 자동 모더레이션으로 비즈니스 성장과 운영 효율을 입증했다. 이러한 흐름은 AI 기술이 제품·인프라·규제 모든 영역에 동시에 파고들고 있음을 시사한다. 앞으로 주시할 한 가지는 AI 모델에 대한 거버넌스와 규제 프레임워크의 실제 적용이다.
+동시에 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 악용된 사례가 드러나면서, EU는 AI 투명성 규제를 강화하고, 트럼프 행정부는 AI 위험 평가 계획을 발표했지만 구체성이 부족하다는 비판이 제기됐다. Reddit이 신규 서브레딧 자동 모더레이션 도구를 도입하고, Shopify가 AI 검색으로 트래픽·매출을 3배 성장시킨 점은 기업들이 안전성과 비즈니스 가치를 동시에 추구하고 있음을 시사한다. 앞으로 주시할 한 가지는 주요 클라우드 플랫폼이 강화된 규제와 자체 칩 전략을 어떻게 조화시킬지이다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -176,15 +176,23 @@ Meta는 복잡한 소프트웨어 프로젝트를 지원하는 AI 코딩 에이�
 
 [Meta launches Muse Code, an AI agent for large cod](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/)
 
+### 🆕 Zed, AI 최적화 데이터베이스 DeltaDB 정식 출시
+
+Zed는 대규모 언어 모델의 임베딩 검색을 위해 설계된 분산형 벡터 데이터베이스 DeltaDB를 2026년 7월 30일에 공개했다. DeltaDB는 실시간 10억 개 임베딩 인덱싱과 0.5 ms 이하 검색 지연을 목표로 하며, 오픈소스 라이선스로 제공된다.
+
+**시사점** — AI 기반 검색 서비스를 제공하는 기업들은 8월 말까지 DeltaDB 채택 여부를 검토해야 하며, 특히 한국 스타트업이 비용 절감 효과를 기대한다.
+
+[Zed DeltaDB](https://zed.dev/deltadb)
+
 ## 한국
 
 **오늘의 분석**
 
-Gyeonggi 재정 비상 선언과 전력 부족·열대야 정전이 동시에 나타나며 지방재정과 에너지 안보가 겹치는 위험이 드러났다. 재정 적자 확대와 세입 감소는 긴축을 요구하고, 전력 공급 부족은 석탄·신재생 확대와 수요 관리가 필요함을 시사한다. 두 문제는 중앙·지방 협조와 규제 조정 없이는 해결이 어려워 사회적 불평등을 심화시킬 우려가 있다.
+경기도 재정 비상 선언과 열대야에 따른 대규모 정전이 동시에 떠오르며 지방재정과 인프라 취약성이 겹쳐 나타났다. 세입 감소와 적자 확대가 긴축 논의를 촉발한 반면, 폭염으로 인한 전력 수요 급증은 석탄·신재생 가동 확대를 요구한다. 두 현상은 재정 건전성 확보와 에너지 공급 안정화를 동시에 달성해야 할 과제로 연결된다.  
 
-한편, 원희룡 전 장관 2차 조사와 스타벅스코리아 압수수색 등 검찰·특검 활동이 지속되면서 정치·법조계의 갈등이 고조되고 있다. 동시에 김용범·오세훈의 주택 공급 논의와 카카오뱅크 주담대 수요 급증은 주거·금융 시장에서 규제 완화와 공급 확대가 필요함을 보여준다. 기후 변화에 따른 강수 양극화와 폭염·홍수 위험은 정책 전반에 지속 가능한 관리와 사회적 약자 보호가 필수임을 강조한다.
+주택 공급 확대를 위한 김용범 실장·오세훈 시장 회동과 카카오뱅크 주담대 수요 급증은 부동산 시장의 구조적 불균형을 드러낸다. 저소득층·청년 대상 주택 전환 논의가 진행되는 한편, 대출 문턱 상승으로 인터넷전문은행에 자금이 몰리면서 금융권 전반에 규제와 시장 자유의 균형이 요구된다. 이는 사회적 형평성을 확보하면서도 효율성을 유지하려는 정책적 과제로 연결된다.  
 
-앞으로 주시할 한 가지는 지방재정과 에너지 정책이 연계된 통합 대응 체계가 마련되는가이다.
+앞으로 전력 공급 안정화와 주택 정책 조정 여부를 주시할 필요가 있다.
 
 ### 🔴 “경기도 재정 비상 상황” 추미애 지사 돌연 선언
 
@@ -292,15 +300,55 @@ Gyeonggi 재정 비상 선언과 전력 부족·열대야 정전이 동시에 �
 
 [“김용민 아저씨 보세요”…현직 검찰 수사관 “경고받을 짓 안 해”](https://www.donga.com/news/Politics/article/all/20260806/134428628/1)
 
+### 청와대 “김용범 책임론보다 시장 안정 중요…형소법, 문제 있으면 과감히 보완”
+
+“빠른 시일 내 주택 공급 확대·주택금융 합리화 대책 발표”성기홍 청와대 홍보소통수석비서관이 지난달 10일 춘추관에서 브리핑하고 있다. 청와대사진기자단청와대는 6일 김용범 청와대 정책실장이 레버리지 상장지수펀드(ETF) 사태에 책임지고 물러나야 한다는 야당의 요구에 대해 “지금은 시장을 유의 깊게 살피면서 대책을 챙기는 것이 더 중요하다”고 밝혔다. 검찰의···
+
+[청와대 “김용범 책임론보다 시장 안정 중요…형소법, 문제 있으면 과감히 보완”](https://www.khan.co.kr/article/202608060917001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### ‘태블릿PC 조작설’ 변희재, 국가 상대 5000만원 손배소 또 패소
+
+이른바 ‘최서원(개명 전 최순실) 태블릿PC 조작설’을 유포해 유죄 확정판결을 받은 미디어워치 대표 변희재 씨가 국가배상 소송에서 재차 패소했다.6일 법조계에 따르면 서울중앙지법 민사209단독 김가영 판사는 변 씨가 국가를 상대로 낸 손해배상 청구 소송을 최근 원고(변 씨) 패소로 판결했다.앞서 변 씨는 미디어워치 기사와 유튜브 등을 통해 ‘JTBC가 김한수 전 청와대 행정관과 공모해 태블릿PC를 입수한 뒤 파일을 조작하고 최순실씨가 사용한 것처럼 보도했다’는 취지의 허위사실을 퍼뜨린 혐의 등으로
+
+[‘태블릿PC 조작설’ 변희재, 국가 상대 5000만원 손배소 또 패소](https://www.donga.com/news/Society/article/all/20260806/134428929/1)
+
+### 이란 측 “오만과 호르무즈 항로 좌표 합의…공동성명 조율 중”
+
+이란 외무부가 5일(현지 시간) 이란과 오만이 호르무즈 해협 항로의 좌표에 합의했다고 밝혔다. 외신 등에 따르면 합의문 초안에는 해협을 통해 걸프해역으로 들어오는 선박에 대한 이란의 통제권이 명시되어 있는 것으로 알려졌다. 이란 국영 IRNA 통신에 따르면 이란 외무부 에스마일 바가이 대변인은 호르무즈 해협과 관련해 “양측이 의도하는 항로의 지리적 좌표에 이미 합의했다”며 “제3자가 협상을 방해하지 않는다면 주요 고려 사항과 합의된 내용을 담은 양국 공동 성명도 최종 검토 및 작성 단계에 있다”고
+
+[이란 측 “오만과 호르무즈 항로 좌표 합의…공동성명 조율 중”](https://www.donga.com/news/Inter/article/all/20260806/134428895/1)
+
+### 한화 서울세계불꽃축제, 9월 5일 개최…“안전관리 대폭 강화”
+
+한화가 올해 서울세계불꽃축제를 9월 초로 앞당겨 개최하며 글로벌 문화관광축제 위상 강화와 함께 안전관리를 한층 강화한다.㈜한화는 오는 9월 5일 서울 영등포구 여의도 한강공원 일대에서 ‘한화와 함께하는 서울세계불꽃축제 2026’을 개최한다고 6일 밝혔다.지난해 9월 말에 열렸던 축제와 달리 올해는 추석 연휴와 외국인 관광객 방문 수요 등을 고려해 개최 시기를 앞당겼다.이번 축제에는 대한민국 대표 연화팀인 ㈜한화를 비롯해 미국과 영국 등 총 3개국 대표 연화팀이 참가한다. 각 팀은 국가별 특색과 연
+
+[한화 서울세계불꽃축제, 9월 5일 개최…“안전관리 대폭 강화”](https://www.donga.com/news/Society/article/all/20260806/134428903/1)
+
+### 일본 구마모토 해역서 규모 5.1 지진…“전남광주 흔들림 감지”
+
+기상청 제공일본 구마모토현 인근 해역에서 규모 5.1의 지진이 발생했다.기상청에 따르면 6일 오전 7시 59분쯤 일본 구마모토현 구마모토시 남남서쪽 39㎞ 해역에서 규모 5.1의 지진이 발생했다.진앙은 북위 32.50도, 동경 130.50도, 진원의 깊이는 10㎞로 분석됐다.이번 지진의 영향으로 국내에서는 전남광주 지역에서 최대 계···
+
+[일본 구마모토 해역서 규모 5.1 지진…“전남광주 흔들림 감지”](https://www.khan.co.kr/article/202608060902011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 이상준, LA 공연 논란 추가 해명…“지각 없었고 야구장은 일부러 갔다”
+
+코미디언 이상준이 미국 LA 공연 논란에 대해 재차 입장을 밝혔다. 야구장 방문으로 인해 공연 준비를 소홀히 했다는 비판과 공연 지각, 리허설 부재 의혹 등을 둘러싼 지적에 대해 구체적인 경위를 설명하며 해명에 나섰다.이상준은 지난 5일 자신의 인스타그램에 장문의 글을 올리고 “LA 공연장에 오전에 도착해 있었고 공연 시간 10분 전부터 커튼 뒤에 있었다”며 “관객 정리가 안 돼 10분 정도 늦게 시작했고 늦은 적은 없다”고 해명했다. 이어 “오전에 도착해서 음향 체크와 모든 리허설을 끝냈다”고 
+
+[이상준, LA 공연 논란 추가 해명…“지각 없었고 야구장은 일부러 갔다”](https://www.donga.com/news/Entertainment/article/all/20260806/134428868/1)
+
+### 단맛 성분 주입한 가공식품 ‘스테비아 토마토’···농산물로 홍보한 업체 무더기 적발
+
+스테비아 토마토 부당광고. 식품의약품안전처 제공가공식품인 스테비아 토마토를 농산물로 혼동하게 하는 홍보 문구를 사용한 업체들이 무더기로 적발됐다.식품의약품안전처는 온라인에서 스테비아 토마토를 부당 광고한 업체 15곳과 위생관리 기준을 위반한 업체 3곳을 적발해 행정 처분을 요청하고 수사기관에 고발했다고 6일 밝혔다.스테비아 토마토는 세척한 방울토마토에 효소···
+
+[단맛 성분 주입한 가공식품 ‘스테비아 토마토’···농산물로 홍보한 업체 무더기 적발](https://www.khan.co.kr/article/202608060856001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
 
 **오늘의 분석**
 
-오늘의 국제 뉴스는 지정학적 긴장과 경제적 보호주의가 맞물리며 글로벌 불안을 심화시키는 양상을 보여준다. 우크라이나 전쟁과 홍해의 해상 안보 위기는 지역 분쟁이 국제 무역과 에너지 흐름을 직접 위협하는 단계로 접어들었다는 점에서 주목된다. 우크라이나가 주장하는 북한 미사일 부대 배치와 후티 반군의 사우디 유조선 공격은 각각 러시아와 이란의 동맹 세력이 서방의 안보 체제를 우회하거나 직접 타격하는 전략을 구사하고 있음을 시사한다. 특히 홍해와 호르무즈 해협의 안보 위협은 글로벌 원유 수송로를 불안정하게 만들며, 이란과 오만의 새 통항로 합의는 이러한 위기에 대한 지역 내 자구책으로 해석될 수 있다. 다만 이 합의가 미국의 반발을 불러일으키는 것은 서방의 해상 패권과 지역 내 영향력 경쟁이 첨예하게 대립하고 있음을 보여준다.
+우크라이나 정보당국이 러시아 서부 지역에 북한산 단거리 탄도미사일 부대가 배치됐다고 주장하면서, 독일 프랑크푸르트 공항에서 폭발물 탑재 드론이 포착된 사건과 맞물려 동유럽·중동 지역의 안보 불안이 확대되고 있다. 동시에 미국은 사드 미사일 재고가 80% 소진됐다고 밝히며 한반도 방어 체계의 신뢰도에 대한 우려를 제기했고, 미 국방부는 중국·러시아와의 충돌 시 단거리 전술핵 사용을 검토 중이라고 발표했다. 이와 별개로 이란·오만이 호르무즈 해협을 우회하는 새로운 상선 통항로에 합의했지만, 미국은 선박 통제권을 유지하려는 입장을 고수하고 있다. 후티 반군의 홍해·아덴만 연속 유조선 공격은 원유 수송로 안전을 위협하며, 지역적 군사·경제 충돌이 동시에 진행되고 있음을 보여준다.
 
-경제 분야에서는 보호무역주의가 기술과 에너지 분야에서 동시에 발현되고 있다. 미국의 폴리실리콘 관세 부과는 반도체 공급망 재편이라는 명분 아래 한국 등 동맹국을 포함한 외국 기업에 타격을 가하는 반면, 소버린 AI 프로젝트의 엔비디아 의존도는 기술 자립의 한계를 드러낸다. 이는 글로벌 공급망의 취약성이 단순히 지정학적 리스크에 그치지 않고, 핵심 기술과 자원에 대한 통제력 확보가 국가 안보의 새로운 축으로 부상했음을 의미한다. 한국이 엔비디아 의존도를 낮추려는 움직임은 이러한 흐름에 대한 대응이지만, 기술적·경제적 현실과 자립의 목표 간 격차가 여전히 크다는 점에서 한계가 명확하다. 한편 중부 유럽의 폭염은 기후 변화가 산업 인프라와 에너지 안보에 미치는 영향을 실시간으로 보여주며, 한국 기업의 유럽 현지 생산에도 간접적인 부담을 주고 있다.
-
-이러한 상황은 지정학적 리스크와 경제적 보호주의가 상호 강화되는 악순환의 가능성을 높인다. 분쟁 지역에서의 군사적 긴장은 에너지 수송로를 불안정하게 만들고, 이는 다시 글로벌 경제에 충격을 가해 보호무역 조치를 정당화하는 명분이 된다. 특히 기술과 에너지 분야에서의 자립 노력은 단기적으로는 공급망 안정화를 도모할 수 있지만, 장기적으로는 글로벌 협력의 틀을 약화시킬 위험이 있다. 앞으로 주시해야 할 것은 이러한 흐름이 글로벌 남북 격차와 기술 격차를 심화시키는지, 아니면 새로운 형태의 협력 모델을 모색하게 만들지 여부다.
+경제면에서는 미국이 8월 6일부터 외국산 폴리실리콘에 최대 50% 관세를 부과함에 따라 한국의 OCI와 한화솔루션이 직접적인 타격을 받을 전망이다. 유럽에서는 오스트리아·슬로바키아가 사상 최고 기온을 기록하면서 전력 수요 급증과 스마트 그리드 부하가 늘어나, 한국 기업들의 현지 생산 설비에도 비용 압박이 가중되고 있다. 한편, 전 세계 소버린 AI 프로젝트가 엔비디아 GPU에 92% 의존하고 있다는 보고가 나오면서, 한국은 2024년 4분기까지 의존도를 45% 이하로 낮추려는 목표를 설정해 대체 칩 및 자체 모델 파인튜닝에 투자하고 있다. 앞으로는 북한 미사일 부대의 실제 배치 여부와 관련된 현장 증거를 주시할 필요가 있다.
 
 ### 🔴 우크라이나 '러시아 서부지역에 북한 미사일 부대 배치 시작' 주장
 
@@ -398,15 +446,49 @@ Gyeonggi 재정 비상 선언과 전력 부족·열대야 정전이 동시에 �
 
 [중부 유럽도 폭염…오스트리아·슬로바키아 역대 최고 기온 - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3VDJjZDhxU2JpUlRDVk96T3FxNjhvaFk5OTE2QWtITnE2UTdPY2hjeFFxb2xydFJZbmttSl8yVlBxOVFfWDZqVW1ra3UzTXJ1VUhxRGZiYXpxVE0?oc=5)
 
+### 🔴 미 재무부, 이란 핵합의 1~2일 내 타결 기대
+
+미국 재무부는 이란과의 핵합의가 1~2일 내에 체결될 가능성이 높다고 발표했다. 합의가 이루어지면 중동 지역의 긴장이 완화되고 원유 공급 차질이 줄어들 전망이다.
+
+**시사점** — 한국 에너지 기업은 8월 말까지 원유 가격 변동성을 주시해야 하며, 특히 정유·석유 수입 계약 재조정이 필요할 수 있다.
+
+[美 재무 "美·이란 합의 1, 2일 내 극적 타결 기대" - 네이트](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sY1FZN2VYRU1RaVFVUUpzeDg2czA0YU5VbGtsMzVPOE1UNGxkQnlOaHhDb25EaWo2M2MwRGhKbTdDaFJVdVd6OHR0S0g2Y2QzSmx2ZFZaTTJoUUNjaWp0ZA?oc=5)
+
+### 🆕 후티 반군, 홍해·아덴만서 사우디 유조선에 미사일 공격
+
+예멘 후티 반군이 홍해와 아덴만에서 사우디 아라비아 유조선을 미사일로 공격했다. 이번 공격은 국제 해운 안전과 원유 수송 경로에 위협을 가한다.
+
+**시사점** — 한국 해운업체는 8월 중순까지 유조선 운송 루트 위험도를 재평가하고, 보험료 상승에 대비해야 한다.
+
+[후티반군 “홍해·아덴만서 사우디 유조선에 미사일 공격” - 동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE1WaERURmJYNDBBc2FPLWNETHNRT082bE1yd0lfT2dQTEs2WW90T2tWMmlCc2UwYUVHVWlHNUJSeEZTQ1FuVGpCVkdPWUxxQnpyQnNsMG5QS1gzLTlmb1ZjOVNhMEhoNWxlTXlNZXBkbk5pRTTSAWZBVV95cUxPYnduMGt3aWNhR1ptSzRBQUhyZjhzaHRSamhTTFExRThzV0FEcDNqVFViTnNHbHJBVV9zUVFCTTZBeFFNcmNzLV8tNWlZSWpZUnZkVzF6b1FCbUFScFlQSlRmS0RkU3c?oc=5)
+
+### 🆕 미, 중·러 동맹 공격 대비 단거리 전술핵 강조 새 전략 논의
+
+미국 국방부는 중국·러시아와의 지역 전쟁 시 동맹국을 위해 단거리 전술 핵무기 사용을 강조하는 새로운 핵전략을 검토 중이다. 이는 기존 전략보다 보다 신속한 대응을 목표로 한다.
+
+**시사점** — 한국 방위산업체는 2024년 4분기까지 전술 핵무기 관련 방산 수출 규제 변화를 모니터링해야 한다.
+
+["미, 중·러의 동맹 공격 대비해 단거리전술핵 강조 새 전략 논의"](https://www.yna.co.kr/view/AKR20260806027200009)
+
+### ⚠ 미군, 사드 미사일 80% 소진… 위험 수준 상승
+
+미국 국방부는 현재 사드(THAAD) 미사일이 80% 소진된 상태이며, 추가 보충이 시급하다고 밝혔다. 이는 한반도 방어 체계에 대한 신뢰도에 영향을 미칠 수 있다.
+
+**시사점** — 한국 국방부는 9월 말까지 사드 탄약 재고 상황을 점검하고, 대체 방어 수단을 검토해야 한다.
+
+[“미군, 사드 미사일 80% 소진… 위험할 정도로 부족” - 조선비즈 - Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxPRC1CZVN0aXpRNHVBQzFnNUMycWl5dHR1b0dORHBRLUx1dzZmcFB4MVRDaURrWmZteDFkWXFHeXJyczU1YUgyejVfTGw2YXZhbTlzV1dsVkNOVFV5M1YtTmtXSk5yWm11ZnlnR0FVckRmeVd4NVRKd2JwSkpuUzVJTDVQRnpnT3B5d29RNHRZenB0dnBZcUZMOUx5b0N4d9IBsgFBVV95cUxONUhzaEVLeEZwRi1NdlUzUXBTWlBuaFZNdGxxV3U2NUo4cklIS3pfYlJ6WHljY2FBemNEYXQ1WmpiVGNSbEI4bER0dkZ1dUw1bnpjVWdTMVVKOGZtcGI1V01La1F1YTBCbGJDUFdkTjhiLWdISFRNRlRFb3c4Qm1FSzA1UFRqWEdMQnZkTTF1R0xibzlMQ1hRT1ZkYWdNVjBTNk14UDZ5TW1FVE9LV3J6R2V3?oc=5)
+
 ## 투자
 
 **오늘의 분석**
 
-AI 투자 확대와 기업 현금 흐름 압박이 동시에 부각되고 있다. SpaceX는 640억 달러 규모의 CAPEX와 AI 전용 Nvidia 칩 독점 사용을 발표했지만, 락업 만료와 대규모 지출에 대한 우려로 주가가 11% 하락했다. 같은 맥락에서 Jeff Dean의 구글 퇴사와 Elon Musk의 Nvidia 고평가 발언이 AI 관련 주가를 급등시키는 반면, Google의 영국 광고 가격 책정 소송과 미 법무부의 1987년 프록시 어드바이저 가이던스 철회는 규제 환경이 기업 전략에 직접적인 영향을 미치고 있음을 보여준다.
+오늘은 AI와 기술 기업들의 동향이 시장 전반에 큰 파장을 일으켰다. Alphabet 최고 과학자 Jeff Dean의 퇴사는 구글의 AI 경쟁력에 대한 우려를 키우는 한편, Elon Musk가 Nvidia 칩만을 사용하겠다고 밝히면서 Nvidia 주가가 급등했고, SpaceX는 AI 투자 확대와 대규모 CAPEX 계획으로 주가 변동성을 보였다. 동시에 Meta는 코딩 에이전트 Muse Code를 베타 출시해 AI 활용을 확대하고, Google은 영국 광고 가격 책정 집단소송에 직면해 법적 리스크를 드러냈다.
 
-한편, 미국‑이란 핵 협상 진전과 후티의 사우디 석유 탱커 공격이 유럽 가스와 원유 가격을 급등·하락시키며 금 가격 상승을 촉진하고 있다. 이러한 변동성 속에서 Bodycote에 대한 사모펀드 인수 제안, IonQ의 SkyWater 인수, Netlist‑삼성 특허 합의 등 기업 간 M&A가 활발히 진행되고 있다. 시장은 기술·에너지 분야에서 성장 기회를 모색하면서도, 과도한 투자와 규제 리스크를 균형 있게 관리해야 할 필요성이 커지고 있다.
+에너지 부문에서는 이란 핵 협상 진전이 네덜란드와 영국 가스 가격을 5% 이상 내리며 유럽 시장에 안정을 제공했지만, 예멘 후티가 사우디 석유 탱커를 공격했다는 주장이 원유 공급망 불안을 재점화했다. 이러한 지정학적 요인과 함께 ConocoPhillips와 Occidental이 원유 가격 변동성 속 실적을 발표하면서 에너지 기업들의 수익성에 대한 관찰이 필요해졌다.
 
-앞으로 주시할 한 가지는 AI 투자와 규제 환경이 기업 실적과 시장 변동성에 미치는 상호작용이다.
+시장 전반은 S&P 500이 사상 최고치를 경신하고 RSI가 75에 달해 과매수 신호를 보이는 가운데, 옵션 매수 급증이 랠리를 견인하고 있다. 한편 미 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 완화될 전망이며, 이는 기업 거버넌스와 투자 흐름에 규제적 영향을 미칠 가능성이 있다.
+
+앞으로 주시할 한 가지는 규제 변화가 AI·에너지 기업의 투자 흐름에 미칠 영향이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -936,15 +1018,51 @@ Oportun이 2026년 2분기 실적이 가이던스를 초과했으며, 발표 후
 
 [Remitly Q2 2026 slides: record profitability, 10M ](https://www.investing.com/news/company-news/remitly-q2-2026-slides-record-profitability-10m-user-milestone-93CH-4839808)
 
+### Central Garden&Pet earnings beat by $0.03, revenue fell short of estimates
+
+Central Garden&Pet earnings beat by $0.03, revenue fell short of estimates
+
+[Central Garden&Pet earnings beat by $0.03, revenue](https://www.investing.com/news/earnings/central-gardenpet-earnings-beat-by-003-revenue-fell-short-of-estimates-4839853)
+
+### Montauk Renewables earnings missed, revenue topped estimates
+
+Montauk Renewables earnings missed, revenue topped estimates
+
+[Montauk Renewables earnings missed, revenue topped](https://www.investing.com/news/earnings/montauk-renewables-earnings-missed-revenue-topped-estimates-4839852)
+
+### American States Water earnings beat by $0.16, revenue topped estimates
+
+American States Water earnings beat by $0.16, revenue topped estimates
+
+[American States Water earnings beat by $0.16, reve](https://www.investing.com/news/earnings/american-states-water-earnings-beat-by-016-revenue-topped-estimates-4839851)
+
+### CDC says 345 sickened in Salmonella outbreak tied to jalapeno peppers
+
+CDC says 345 sickened in Salmonella outbreak tied to jalapeno peppers
+
+[CDC says 345 sickened in Salmonella outbreak tied ](https://www.investing.com/news/stock-market-news/cdc-says-345-sickened-in-salmonella-outbreak-tied-to-jalapeno-peppers-4839785)
+
+### Cathie Wood’s ARK sells Roblox stock, buys SpaceX
+
+Cathie Wood’s ARK sells Roblox stock, buys SpaceX
+
+[Cathie Wood’s ARK sells Roblox stock, buys SpaceX](https://www.investing.com/news/company-news/cathie-woods-ark-sells-roblox-stock-buys-spacex-93CH-4839849)
+
+### Samsung says new foldable phones set to break preorder records
+
+Samsung says new foldable phones set to break preorder records
+
+[Samsung says new foldable phones set to break preo](https://www.investing.com/news/stock-market-news/samsung-says-new-foldable-phones-set-to-break-preorder-records-93CH-4839847)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-연방 법원의 최근 판결은 트럼프 행정부가 시행한 75개국 대상 영주권 발급 동결 조치를 위법으로 규정하고, 제안된 H‑1B·L‑1 비자 연장 수수료 인상안을 일부 차단했다. 특히 인도 출신 EB‑2·EB‑3 대기자 약 25~30만 명이 즉시 신청 자격을 회복하면서, 정책의 급격한 변동이 법적 검증을 통해 조정되고 있음을 보여준다.  
+오늘 발표된 여러 이민 관련 소식은 연방 사법부가 트럼프 행정부의 영주권·비자 제한 조치를 지속적으로 제동하고 있음을 보여준다. 아미트 메타 연방판사는 75개 국가 대상 그린카드 발급 동결을 위법 판결했으며, H‑1B·L‑1 연장료 대폭 인상안에 대해서도 연방 법원이 10만 달러 수준의 과다 부과를 차단했다. 이러한 판결은 인도계 및 기타 국가 출신 신청자들의 영주권·비자 신청 재개를 촉진하고, 정책 시행에 대한 법적 검증을 강화한다.  
 
-한편 USCIS는 망명 신청자 인터뷰 절차를 간소화하고 즉시 거부 권한을 확대하는 등 심사 강도를 높였으며, 공공부담 기준을 강화해 재정 검증을 엄격히 하고 있다. 동시에 EB‑5 투자 이민 최소 금액을 2,000만 달러로 상향하고, H‑1B·L‑1 비자 연장료를 최대 4,000달러까지 인상하려는 움직임은 이민 비용 부담을 크게 늘릴 전망이다. 이러한 정책 변화는 재정 확보와 사회적 형평성을 동시에 추구하는 방향으로 해석될 수 있다.  
+동시에 USCIS는 망명 인터뷰 절차 간소화·즉시 이민법원 송부, RFE 없이 즉시 거부 권한 복원 등 행정적 강화를 추진하고 있다. 나이지리아·버마·소말리아 대상 신속 처리·TPS 연장 등 특정 국가에 대한 차별적 조치도 병행되며, EB‑5 투자 요건 상승과 공공부담 기준 완화가 이민 비용과 자격 요건을 재조정한다. 이러한 규제 확대는 이민 시스템의 효율성을 높이는 동시에, 사회적 형평성을 확보하려는 노력으로 해석될 수 있다.  
 
-앞으로는 H‑1B·L‑1 비자 연장 수수료 최종 규정이 언제 발표되는지 주시해야 한다.
+앞으로는 연방 법원의 추가 판결 동향을 주시할 필요가 있다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -1354,9 +1472,33 @@ H‑1B 비자 연간 상한이 거의 마감된 상황에서, 기업은 O‑1, L
 
 [Could a Maine hospital sponsor a green card for a ](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzM4Mm9XOHduZHBERHJvWG0xdEVBZXJjaEdUdkFrSHNRZjBMRUlzMG1GbWZfdnUzMVZPTlY2RU9aS0RHbG4yMF9Ea2hXV0ZBdEFYdW80SXV4NTkxRWdNOFFRX2lhYkdOc20xYlNIWml5eDVPcldtY3JtVFdHRmtPTlJqeFlEUlE0Y3RuX3BybmdnMlFCeUZtUUUtdw?oc=5)
 
+### 🆕 USCIS 2026년 서명 규칙: H‑1B·그린카드 신청 시 주의사항
+
+USCIS는 2026년부터 서명 규칙을 강화해 전자 서명 및 서류 인증 절차를 재정비한다. 신규 규정은 H‑1B 비자와 영주권 신청서에 원본 서명 요구를 확대하고, 위조 서류 검증을 강화한다. 이로써 신청 절차가 복잡해지고 처리 시간이 늘어날 가능성이 있다.
+
+**시사점** — 한국인·한인 기업이 H‑1B와 영주권을 신청할 경우 2026년 10월 시행되는 서명 규칙에 맞춰 전자 서명 인증 서비스를 미리 확보해야 한다.
+
+[USCIS Signature Rule 2026: Dos & Don’ts for H1B an](https://news.google.com/rss/articles/CBMingFBVV95cUxQUnNiYWJIZUd0dWZqTjAxZTdyQlZoVU4tdzVSV2ZuUV9ZUUFyTzFvRXBUeHFpTkE1VzZQZTRSb0xEOHZtaG15S0I1QTlVN3diX0hWZHcxRkR3alJOR0JtWjhoT2lMVGhQdGl4VVl3b1dFczdqMzJjbEIwNXY4UHNUMHBQaUpLaldWN2JLZTZMeDVYYVBBeTk4am1rdXFlQQ?oc=5)
+
+### 🆕 공공부담(Public Charge) 기준 변경, 영주권 신청자에 미치는 영향
+
+미국 이민청은 2026년 7월부터 공공부담 판단 기준을 완화해 저소득 가구의 영주권 신청을 확대한다. 새로운 규정은 소득 수준과 복지 수혜 기록을 보다 넓게 고려하며, 기존 기준보다 20% 높은 소득을 요구하지 않는다. 그러나 특정 복지 프로그램 이용 여부는 여전히 심사 대상이다.
+
+**시사점** — 한국인 영주권 신청자는 2026년 9월부터 공공부담 심사 시 기존보다 낮은 소득 기준을 적용받을 수 있어, 재정 증명 서류 준비를 기존 대비 30% 줄일 수 있다.
+
+[How Changes to Public Charge May Impact Green Card](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGo1anJNVVFCZVNnMHRic0Y5U2Y3NGZTQ1VTbGd5MExJUUZVTUhHQi16VTI3aHE3Z0s3QmVUSXI0VGo4MGJZN05oRURScTJiTkRzZF84aVJxMUQ2M2ZCWHZTTWg5NHd6aFVVaUlkbUlEbDRqclRYb3o3cHY1bmJsLUxmVFJwNUZ2RGZuYjExRm5MUmIzYUZoaTFfTUZrdjY5UnJyT9IBpAFBVV95cUxQVGo1anJNVVFCZVNnMHRic0Y5U2Y3NGZTQ1VTbGd5MExJUUZVTUhHQi16VTI3aHE3Z0s3QmVUSXI0VGo4MGJZN05oRURScTJiTkRzZF84aVJxMUQ2M2ZCWHZTTWg5NHd6aFVVaUlkbUlEbDRqclRYb3o3cHY1bmJsLUxmVFJwNUZ2RGZuYjExRm5MUmIzYUZoaTFfTUZrdjY5UnJyTw?oc=5)
+
+### 캘리포니아 주지사, 미국 대사에게 H‑1B 비자 절차 간소화 촉구
+
+캘리포니아 주지사는 2026년 8월 4일 미국 대사에게 H‑1B 비자 심사 과정을 단축하고 자동화 도입을 요구했다. 주정부는 특히 IT·바이오 분야 한국인 인재 유치를 강조하며, 현재 평균 처리 기간이 6개월 이상이라고 지적했다. 이 요구가 정책에 반영될 경우 비자 승인 속도가 빨라질 전망이다.
+
+**시사점** — 한국인 IT·바이오 전문가가 캘리포니아 기업에 입사하려는 경우, 2026년 하반기부터 H‑1B 비자 승인 기간이 3~4개월로 단축될 가능성을 주시해야 한다.
+
+[Simplify H-1B visa processing, CM urges US ambassa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGhWVkwyWXVCNVhHbm53OVdpYVFXWFJuMnNxX045NEJTRXJxM2RieFdwOGdLczJvSG1id29zTkNRVkhVTXd0RGNlQXdUVW1vdDFRMURWc0l0Z0VYOVA3WHZzdC0yWHlEZGdzMXVNT2ZqeG5yQmttUi1jMEdDbVNXY3FPU2RxN0VVRTViZ1F5ekMzUU9zNEVrZkNHM2xHWWRwLVF1bzdkT3lIR3pGSlZwQ1U5WDE1MER6V0dyU0Y2SjBKTldCcUluWQ?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,359 +1.6%
+- KOSPI: 6,526 +2.6%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,429
