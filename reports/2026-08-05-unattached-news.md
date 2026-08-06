@@ -6,9 +6,9 @@
 
 **오늘의 분석**
 
-구글은 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 이사회 직책으로 이동하면서, Gemini 기반 비서로 전환해 기존 구글 어시스턴트를 9월 말에 종료한다. 동시에 Anthropic은 자체 AI 칩 설계팀을 신설해 모델‑하드웨어 공동 최적화를 꾀하고, 메타는 1조 파라미터 규모 Llama 3.0을 오픈소스로 공개하고 대규모 코드베이스용 에이전트 ‘Muse Code’를 출시했다. 이러한 움직임은 AI 서비스를 차별화하기 위해 하드웨어와 소프트웨어를 일체화하려는 대기업들의 전략적 전환을 보여준다.
+구글이 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 다른 직책으로 이동하면서, 기존 구글 어시스턴트를 Gemini 기반 비서로 대체한다는 발표가 이어졌다. Anthropic이 자체 AI 칩 설계팀을 신설하고, Oxide Computer가 4억 4,500만 달러를 유치했으며, MacPaw가 Liquid AI와 협업해 온‑디바이스 추론을 제공한다. 주요 기업들이 모델‑하드웨어 통합과 비용 절감을 위한 전략적 재편을 가속화하고 있다.
 
-보안 측면에서는 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 해킹 시도를 한 사실이 드러나며, 레딧은 신규 서브레딧 자동 모더레이션 도구를 도입해 악용 방지를 강화하고 있다. 유럽연합은 AI 투명성 규제 강화를 통해 고위험 시스템에 라벨링·실시간 감시를 의무화했으며, 트럼프 행정부도 AI 위험 평가 계획을 발표했지만 구체성이 부족하다. 기업들의 급속한 AI 확산과 동시에 규제·감시 체계가 조율되는 흐름이 뚜렷해지고 있다. 앞으로 주시할 한 가지는 대규모 AI 모델에 대한 실시간 투명성 라벨링과 감시 체계의 실제 적용 여부이다.
+동시에 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 해킹 시도를 한 사례가 밝혀졌고, EU는 AI 투명성 규제를 강화해 라벨링 의무를 확대한다. Meta는 AI 생성 아동 성착취 이미지가 포함된 광고가 게재된 사실을 확인해 검증 체계를 재점검했으며, Reddit은 신규 서브레딧 자동 모더레이션 도구를 도입해 악용 방지를 시도한다. 이러한 사건들은 AI 악용 위험을 줄이기 위한 실효성 있는 감시와 공정한 규제의 필요성을 강조한다. 앞으로는 AI 모델의 실시간 감시와 투명성 라벨링 제도의 실제 적용 여부를 주시해야 한다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -192,15 +192,23 @@ Elon Musk가 설립한 xAI의 AI 기반 온라인 백과사전 Grokipedia가 몇
 
 [Elon Musk’s attempt at an AI Wikipedia hasn’t been](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead)
 
+### ⚠ Meta, AI 생성 아동 성착취 이미지 포함 광고 게재 사실 적발
+
+Meta는 최근 자사 광고 플랫폼에서 AI가 만든 아동 성착취 이미지를 포함한 광고가 게재된 사례를 확인했다. 해당 광고는 자동화된 검증 시스템을 우회했으며, 즉시 차단 및 내부 조사 절차가 진행 중이다.
+
+**시사점** — 광고 플랫폼 운영자와 AI 이미지 생성 서비스 제공자가 규제 감시 대상이 될 가능성이 높으며, 8월 말까지 미국 연방거래위원회(FTC) 조사 확대를 주시해야 함.
+
+[Meta Ran Ads That Contained AI-Generated Child Sex](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+
 ## 한국
 
 **오늘의 분석**
 
-경기도가 재정 비상 상황을 선언하면서 지방재정 건전성에 대한 우려가 커졌다. 동시에 전국에 이어진 폭염과 열대야는 전력 수요 급증을 초래해 수도권을 중심으로 대규모 정전 사태를 일으켰으며, 전력 회사는 석탄·신재생 에너지 가동 확대와 설비 점검을 서두르고 있다. 재정 압박과 에너지 공급 불안이 겹치면서 지방정부와 중앙정부가 조율해야 할 정책 과제가 급증하고 있다.
+경기도가 재정 비상 상황을 선언하고 전력 부족으로 대규모 정전이 발생한 가운데, 여름 폭염과 강수 양극화가 기후 위험을 가중시키고 있다. 재정 적자와 전력 공급 불안은 지방정부와 전력사의 구조조정 압박을 초래하며, 동시에 6월 사상 최대 경상수지 기록이 보여주듯 수출 중심 성장에도 불균형이 존재한다는 점을 시사한다.  
 
-정치권에서는 경찰의 스타벅스코리아 압수수색과 종합특검의 원희룡·한동훈 의원 조사 등으로 검찰·수사권 논쟁이 지속되고 있다. 한편 김용범 실장과 오세훈 시장의 주택 공급 회동, 카카오뱅크 주담대 수요 급증은 부동산·금융 시장의 구조적 불균형을 드러내며, 대출 규제 완화와 동시에 저소득층·청년을 위한 주거 안정을 위한 공급 확대가 필요함을 시사한다. 6월 경상수지가 사상 최대 규모를 기록한 점은 반도체 호황이 수출을 견인하고 있음을 보여준다.
+주택 공급 확대를 위한 김용범·오세훈 회동과 카카오뱅크 주담대 수요 급증은 부동산·금융 시장의 구조적 수요를 드러낸다. 그러나 원희룡 전 장관·한동훈 의원에 대한 특검 조사와 검찰·정치권 간 갈등은 정책 추진 과정에서 투명성과 책임성을 확보해야 함을 강조한다. 규제 완화와 사회적 형평성을 동시에 고려한 정책 설계가 요구된다. 또한 기후 변화에 대응한 에너지 전환 정책이 재정 건전성과 지역 격차 해소에 얼마나 기여할지 평가가 필요하다.  
 
-앞으로는 전력 공급 안정화와 관련된 정책 전개를 주시할 필요가 있다.
+앞으로는 전력 공급 안정화와 주택·금융 정책의 연계 효과를 주시해야 한다.
 
 ### 🔴 “경기도 재정 비상 상황” 추미애 지사 돌연 선언
 
@@ -374,15 +382,15 @@ Elon Musk가 설립한 xAI의 AI 기반 온라인 백과사전 Grokipedia가 몇
 
 [8세대 ‘아반떼’ 역대급 관심… 계약 개시 첫날 1만1094대 기록](https://www.donga.com/news/list/article/all/20260806/134429557/2)
 
+### 🔴 카카오, 광고·금융 앞세워 역대 최대 실적…카카오톡에 쿠팡이츠 넣는다
+
+카카오는 2026년 1분기 광고와 금융 사업의 성장으로 사상 최대 매출을 기록했다. 회사는 카카오톡에 쿠팡이츠 배달 서비스를 연동해 AI 기반 물류 플랫폼을 구축할 계획을 발표했다.
+
+**시사점** — 카카오의 실적 상승과 AI 배달 서비스 도입은 2026년 하반기 국내 핀테크·물류 스타트업 투자 흐름을 좌우할 전망이다.
+
+[카카오, 광고·금융 앞세워 역대 최대 실적…카카오톡에 쿠팡이츠 넣는다](https://www.khan.co.kr/article/202608061111011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
-
-**오늘의 분석**
-
-우크라이나가 러시아 서부에 북한산 미사일 부대를 배치했다고 주장하고, 예멘 후티가 홍해·아덴만에서 사우디 유조선을 연속 공격하는 등 동맹·적대 세력 간 군사적 마찰이 심화되고 있다. 이와 동시에 이스라엘이 레바논 남부를 공습하고, 이란‑오만이 호르무즈 해협을 우회하는 새 항로를 합의한 점은 에너지 운송 루트의 불안정을 가중시키며, 독일 공항에서 발견된 폭발물 탑재 드론은 전쟁 위험이 전역에 확산될 가능성을 시사한다.
-
-한편 미국이 8월 6일부터 폴리실리콘에 최대 50 % 관세를 부과하면서 한국의 OCI·한화솔루션 등 반도체 소재 기업이 직접적인 타격을 입고 있다. 세계 주요 국가의 소버린 AI 프로젝트가 엔비디아 GPU에 92 % 의존하고 있다는 보고와, 유럽 중부의 폭염으로 전력 수요가 급증하는 현상은 공급망 다변화와 규제 기반 관리의 필요성을 강조한다. 이러한 흐름은 에너지·반도체·디지털 인프라 전반에 걸친 리스크를 동시에 확대하고 있다.
-
-앞으로는 국제 에너지 수송 경로의 안정성을 주시해야 한다.
 
 ### 🔴 우크라이나 '러시아 서부지역에 북한 미사일 부대 배치 시작' 주장
 
@@ -560,13 +568,25 @@ Elon Musk가 설립한 xAI의 AI 기반 온라인 백과사전 Grokipedia가 몇
 
 ["수십조 운용 월가 헤지펀드들 대상 해킹 시도 발생"](https://www.yna.co.kr/view/AKR20260806044400009)
 
+### 🆕 중국 전문가, 미중 무역 마찰이 9월 정상회담에 영향 없을 것 전망
+
+미국과 중국이 연이어 무역 제재와 보복 조치를 시행했지만, 중국 전문가에 따르면 9월에 예정된 미중 정상회담 일정에는 큰 영향을 미치지 않을 것으로 보인다. 양국은 여전히 무역 마찰을 완화하려는 논의를 진행 중이다.
+
+**시사점** — 한국 기업은 9월 정상회담 전까지 무역 정책 변동을 주시하고, 수출입 관세 변동에 대비해야 한다.
+
+[中전문가 "미중 무역 마찰, 9월 정상회담엔 영향 없을 것"](https://www.yna.co.kr/view/AKR20260806065100083)
+
 ## 투자
 
 **오늘의 분석**
 
-Bodycote가 사모펀드 CVC·Veritas Capital의 인수 제안을 받으며 전략적 대안을 검토하고, Netlist와 삼성전자가 5년간 지속된 메모리 특허 분쟁을 합의한 점은 기업 가치 재평가와 규제 환경 변화가 M&A 흐름에 직접적인 영향을 미치고 있음을 보여준다. 동시에 미국 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 보다 자유로워졌지만, 과도한 옵션 매수와 S&P 500의 과매수 신호(RSI 75) 등 시장 구조적 불균형이 여전히 존재한다는 점은 투자자 보호와 투명성 제고를 위한 규제 필요성을 시사한다.  
+AI 칩 수요가 주가에 직접적인 영향을 미치고 있다. Nvidia는 엘론 머스크의 AI 전용 칩 사용 선언에 힘입어 9% 급등했으며, SpaceX는 AI 투자 확대와 640억 달러 CAPEX 계획으로 주가가 11% 하락했다. 동시에 Alphabet은 핵심 AI 임원 Jeff Dean의 퇴사 소식에 주가가 급락했고, Google은 영국 광고 가격 책정 집단소송에서 차단 시도가 기각돼 수익성에 압박을 받고 있다. 이러한 흐름은 기술주 중심의 S&P 500이 사상 최고치를 기록했지만 RSI 75로 과매수 신호가 나타나는 등 시장 변동성을 고조시키고 있다.  
 
-AI와 반도체 분야에서는 Jeff Dean의 구글 퇴사와 Elon Musk의 Nvidia 칩 독점 사용 선언이 각각 구글과 SpaceX의 주가에 부정적·긍정적 영향을 주었으며, Nvidia 주가가 9 % 급등해 저항선에 근접하는 등 AI 수요가 주가 변동성을 확대하고 있다. 이러한 기술 주도 성장과 동시에 GLP‑1 치료제 시장에서 Novo Nordisk이 Eli Lilly에 점유율을 내주고, 원유 가격이 호르무즈 해협 협상과 후티 공격 위험에 따라 급등락하는 등, 실물 경제와 정책 리스크가 겹쳐 전반적인 시장 변동성을 높이고 있다. 앞으로 주시할 한 가지는 미국 법무부의 프록시 가이던스 철회가 기관투자자의 행동에 어떤 구체적 변화를 가져올지이다.
+에너지와 헬스케어 부문에서도 지형이 급변하고 있다. 미국‑이란 핵 협상 진전으로 네덜란드와 영국 가스 선물 가격이 5% 이상 하락했으며, 예멘 후티의 사우디 석유 탱커 공격 위협이 원유 가격을 급등락시키고 있다. 제약 시장에서는 Novo Nordisk의 Ozempic이 Eli Lilly의 Mounjaro에 밀리면서 GLP‑1 경쟁이 격화돼 양사 모두 매출 변동성을 겪고 있다.  
+
+규제 측면에서는 미 법무부가 1987년 프록시 어드바이저 가이던스를 철회해 기관투자자의 의결권 행사가 완화될 전망이며, Google의 영국 광고 소송은 기업의 시장 지배력에 대한 감시가 강화될 가능성을 시사한다. 이러한 정책 변화가 AI·데이터 활용 기업의 성장 경로에 직접적인 영향을 미칠 수 있다.  
+
+앞으로 주시할 한 가지는 규제 당국의 AI 및 데이터 관련 정책 방향이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -1168,15 +1188,27 @@ Birks Group director Emilio Imbriglio resigns from board
 
 [Birks Group director Emilio Imbriglio resigns from](https://www.investing.com/news/company-news/birks-group-director-emilio-imbriglio-resigns-from-board-93CH-4839944)
 
+### I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?
+
+“I was surprised — and flattered — to find myself on the guest list.”
+
+[I got two email invitations from friends. Is this ](https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories)
+
+### ‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?
+
+“He has never been particularly generous or nurturing.”
+
+[‘I don’t wish to be cold-hearted’: My elderly rela](https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-최근 법원이 트럼프 행정부의 그린카드 동결과 과도한 H‑1B 수수료 제안을 무효화하면서 인도 출신 신청자 30만 명 이상이 영주권 신청 자격을 회복했고, 10만 달러 규모의 추가 비용 부과도 중단됐다. 행정부는 여전히 H‑1B·L‑1 비자 연장 시 수수료 인상과 최소 임금 30% 상승을 추진해 노동시장 통제를 강화하려 한다.  
+최근 이민 정책 전반에 걸쳐 규제 강도가 동시에 상승하고 있다. 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료를 현행보다 크게 인상하고, 노동부는 최소 임금을 30% 확대할 방안을 제시했다. 이러한 조치는 인도계 IT 전문가와 대기업에 재정적 부담을 가중시키는 한편, 연방판사 아밋 메타가 75개국 대상 그린카드 동결 조치를 위법 판결하면서 고숙련 이민자들의 영주권 신청이 재개되는 긍정적 흐름도 동시에 나타났다.
 
-한편 USCIS는 망명 인터뷰 절차를 간소화하고, RFE 없이 즉시 거부할 수 있는 권한을 복원하는 등 심사 강도를 높였으며, TPS 연장 및 EB‑5 투자 요건 상향을 발표했다. 이러한 정책은 비용 부담을 늘리고 취약계층의 이민 기회를 제한해 사회적 형평성 문제를 부각시킨다.  
+한편 USCIS는 망명 인터뷰 절차를 간소화하고, 나이지리아·버마·소말리아 대상 TPS와 신속 처리 규칙을 발표하며 특정 국가에 대한 보호를 확대했다. 반면 텍사스와 캘리포니아 등 주에서는 비자 발급 제한과 비용 부담을 강화해 지역별 차별을 심화시키고 있다. 이러한 정책 이질성은 이민 절차의 효율성과 형평성을 동시에 확보해야 한다는 과제를 남긴다.
 
-앞으로는 H‑1B 수수료 인상안의 최종 입법 과정을 주시할 필요가 있다.
+앞으로는 H‑1B·L‑1 비자 연장 수수료 인상 시행 시점과 그 실효성을 주시해야 한다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -1618,9 +1650,25 @@ USCIS는 2026년부터 서명 규칙을 강화해 전자 서명 및 서류 인�
 
 [CM Revanth Reddy seeks simpler H-1B visa process -](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlRrYjV4MHBWaXllNE5Odmo0QXZNZDExT2dhalhaeWFFOFZCUDFhamItTFZWOTA2VkY2WV9RZzJEOXdwSWprSGxmOURUcXNJZUNVVFcwZVAwOGsyaGU2RmtFU2VsVWd0dWw2YVlYZno2RjJ4TVlaTjBibWxsWEZoRzI0dVpJLXF0a2x5dldJN2hwcjFGNTh0WEdmMmdnYllITzlMZDBfd2owcHPSAbABQVVfeXFMT1hEY0xaQ0RtZm9PdWFfYU9SNXJTX3FtTTFHUEdLeVAwZklnX2FEaThzVlZ3eFNTakFYc09pZ25vU1ZnY2dqSUgtaVNEakJOZ3NQNzZzYWRXNEF1OGY5TUljTlEwdkhPYXZFRmdvNHBUUHVUcDY0TGc4VVJOcXFUUFJwOHFVNDJOS0NiT2tUUVZGVkpPYzVyMGE5TERnOHFtQzVGTTV4VmQtU3lqcmliSXI?oc=5)
 
+### 🆕 미국, 이민 혜택 처리 규정 강화…불완전 신청 즉시 거부 허용
+
+미국 이민국(USCIS)이 불완전한 비자·그린카드 신청을 추가 증거 요청 없이 즉시 거부할 수 있는 규정을 도입했다. 이 규정은 2026년 9월 1일부터 시행된다. 신청자는 모든 서류를 완비해야만 심사 대상이 된다.
+
+**시사점** — 2026년 9월부터 한국인·한인 신청자는 서류 누락 시 즉시 거부 위험이 커지므로, 8월 말까지 모든 I‑485·I‑130 서류를 완전하게 준비해야 한다.
+
+[US tightens immigration benefit processing rules, ](https://news.google.com/rss/articles/CBMiogJBVV95cUxOXzFYeUVHUkt0VnRWWWdLZGp1XzN4Q0FfZ2gxZ1FHeUdLMFhGY2IyODVmd3VtbUo2T1c2SVlPZ3ZjSXBpYkE2OHdRXzlpMFYzVXZoUy1Xc21zQVFfMVhZZkRhR2pmR3Qta0h2Tm9pNkNibndpeS0yZmltMkp3ZU96VloyQ0p3R1F1Ukc3ODh3aVdNdkV0Q3hiMDZfYl9yQmxTd2NpV3JjcnpMYTNEb3RuYkZVUEl5bEpIYklXM2JSRGsxbnJQa3pSVXFnUzFuU2lPTEFhTFo3c25COXJab00yS0xZOUxGRXZhVEVXbHB5YTdoVDF5cU9LaGM1ODNlWVpXcFdRUjNrNk40ZnNTempReFpkQ2FEQlJFSjZfdEFuN3p2UQ?oc=5) | [USCIS Tightens Rules, Can Reject Incomplete Immigr](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmk3ZENrTU81a1gzUFpUS0UwMUxKV3FBOW9ZVmFidzUzNE1vU2dVQVpkZlpocFpHbERkckJyWGpQdE5yOFV3TVNjRUxvc20xaXNWSGtsS05uelh3ZGhBbFh5eXNIWXBGZjhSYUctNk9zTU93a2tjR3hsWTgzYS1yQ3RzOGxiMVk1ZHItQmhFOVFudjBXRFQ2QUxOM0JKNDVxTU1Cb1QzUG92eXY4X0lLaExRVndRSmVxM1RKQzZoaDA0VDlkYnFv?oc=5)
+
+### 트리나 주지사, 미국 학생 비자 확대·H‑1B 절차 간소화 촉구
+
+인도 트리나 주지사(Chief Minister)가 미국 대사 고르(Gor)에게 한국을 포함한 아시아 학생 비자 수량 확대와 H‑1B 비자 처리 간소화를 요청했다. 해당 요청은 2026년 8월 5일 발표된 성명에서 제기되었다.
+
+**시사점** — 한국인 유학생 및 H‑1B 지원자는 2026년 9월 비자 청구량 변동을 주시하고, 트리나 주지사의 요청이 정책에 반영되는지 4분기 말까지 확인해야 한다.
+
+[T’gana CM urges Ambassador Gor to increase US visa](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmFMX3RXS0V6SE9NU25vSDFKM3JuWDVaOEdjV0UxVWdhZzlzZVZJOF94cDNoa2ROS2dhbWUtdDV4ZmRRZHg2ZThjTUlwTWY2MERnN3dabm13TFJFZmpCM19icXFBVkJtaXNjanozVzlEa0QzVXNNMkhybDFzQWxBSjh5eDBTTUJyMTA3VGVackd5NmdOV3h2cGJscE9IMXdUbjZzbmxmR2VRY1QtVExFbDAtX2VPOWRadEdsdE41ZTNLMjg5WmtjYngyVdIBywFBVV95cUxNdmFMX3RXS0V6SE9NU25vSDFKM3JuWDVaOEdjV0UxVWdhZzlzZVZJOF94cDNoa2ROS2dhbWUtdDV4ZmRRZHg2ZThjTUlwTWY2MERnN3dabm13TFJFZmpCM19icXFBVkJtaXNjanozVzlEa0QzVXNNMkhybDFzQWxBSjh5eDBTTUJyMTA3VGVackd5NmdOV3h2cGJscE9IMXdUbjZzbmxmR2VRY1QtVExFbDAtX2VPOWRadEdsdE41ZTNLMjg5WmtjYngyVQ?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,334 -4.0%
+- KOSPI: 6,287 -4.7%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
