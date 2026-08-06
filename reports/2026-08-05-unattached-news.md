@@ -204,11 +204,9 @@ Meta는 최근 자사 광고 플랫폼에서 AI가 만든 아동 성착취 이�
 
 **오늘의 분석**
 
-경기도가 재정 비상 상황을 선언하고 전력 부족으로 대규모 정전이 발생한 가운데, 여름 폭염과 강수 양극화가 기후 위험을 가중시키고 있다. 재정 적자와 전력 공급 불안은 지방정부와 전력사의 구조조정 압박을 초래하며, 동시에 6월 사상 최대 경상수지 기록이 보여주듯 수출 중심 성장에도 불균형이 존재한다는 점을 시사한다.  
+경기도가 재정 비상 상황을 선언하고 전력 공급 부족으로 대규모 정전이 발생하면서, 지방재정의 취약성과 기후변화에 따른 에너지 수급 위험이 동시에 드러났다. 이에 따라 정부와 지방자치단체는 긴축 조치와 동시에 전력 공급 확대·신재생 에너지 가동을 검토하고 있으며, 주택 공급 확대를 위한 김용범·오세훈 회동은 재정 압박 속에서도 주거 안정을 위한 정책 연계 필요성을 시사한다.  
 
-주택 공급 확대를 위한 김용범·오세훈 회동과 카카오뱅크 주담대 수요 급증은 부동산·금융 시장의 구조적 수요를 드러낸다. 그러나 원희룡 전 장관·한동훈 의원에 대한 특검 조사와 검찰·정치권 간 갈등은 정책 추진 과정에서 투명성과 책임성을 확보해야 함을 강조한다. 규제 완화와 사회적 형평성을 동시에 고려한 정책 설계가 요구된다. 또한 기후 변화에 대응한 에너지 전환 정책이 재정 건전성과 지역 격차 해소에 얼마나 기여할지 평가가 필요하다.  
-
-앞으로는 전력 공급 안정화와 주택·금융 정책의 연계 효과를 주시해야 한다.
+한편, 원희룡 전 장관에 대한 2차 조사와 스타벅스코리아 본사 압수수색은 권력 남용과 공공 책임을 둘러싼 검찰·사법 개혁 논쟁을 재점화시키고 있다. 여기에 카카오뱅크 주담대 신청 급증은 대출 규제 완화가 신용 위험을 확대할 수 있음을 보여주며, 금융시장에 대한 적절한 감독이 요구된다. 폭염과 강수 양극화가 동시에 나타난 가운데, 기후 대응 정책과 사회적 약자 보호를 위한 규제 강화가 시급하다. 앞으로는 지방재정과 에너지 정책의 연계, 그리고 검찰·사법 개혁의 구체적 진행 상황을 주시해야 한다.
 
 ### 🔴 “경기도 재정 비상 상황” 추미애 지사 돌연 선언
 
@@ -390,7 +388,23 @@ Meta는 최근 자사 광고 플랫폼에서 AI가 만든 아동 성착취 이�
 
 [카카오, 광고·금융 앞세워 역대 최대 실적…카카오톡에 쿠팡이츠 넣는다](https://www.khan.co.kr/article/202608061111011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 “피해자 더 있었다”…아동 성범죄 혐의 최영중 전 의원 구속 송치
+
+최영중 전 청주시의원이 아동 성매매 및 성폭력 혐의로 구속 송치되었다. 검찰은 추가 피해자 존재를 확인했으며, 이번 사건은 정치권 내 윤리 논란을 촉발시킬 전망이다.
+
+**시사점** — 보수·진보 진영 모두에서 향후 지방선거 후보자 검증 과정에 최영중 사건이 핵심 변수로 작용하므로, 선거 일정(9월) 전까지 여론 동향을 주시해야 함.
+
+[“피해자 더 있었다”…아동 성범죄 혐의 최영중 전 의원 구속 송치 [지금뉴스] - KBS ](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zZ2xoNjhkcE92bDJYQ21fcUl0UGF4dVFIRVdVSWxEQXNEOEJWNGxYbkxfNkZXdDUtd0NzOFgzajVHYkEzUnpiSjJpQXV0UkdWYTlkOVNMM19qZ1k?oc=5)
+
 ## 세계
+
+**오늘의 분석**
+
+최근 보고서는 러시아가 벨라루스 인근에 북한 미사일 부대를 배치했다는 우크라이나 주장과, 독일 프랑크푸르트 공항에서 드론 폭발물 발견, 미국 사드·패트리엇 탄약 고갈 등 안보 위협이 동시에 확대되고 있다. 이와 동시에 후티 반군의 홍해·아덴만 유조선 공격과 이스라엘의 레바논 남부 공습은 중동 해상·육상 교통을 불안정하게 만들며, 원유 공급망과 지역 안보에 연쇄적 압력을 가한다.  
+
+에너지와 반도체 분야에서도 변동이 심화된다. 미국이 8월 6일부터 폴리실리콘에 50 % 관세를 부과하면서 OCI·한화솔루션 등 한국 기업이 직접 타격을 받을 전망이며, 이란·오만이 호르무즈 해협 새 항로를 합의해 통행료 수취권을 확보함으로써 석유 운송 비용 구조가 재편될 가능성이 있다. 한편 세계 소버린 AI가 엔비디아 GPU에 92 % 의존하고 있다는 보고는 한국이 45 % 이하로 낮추려는 다변화 정책의 필요성을 강조한다.  
+
+앞으로 주시할 한 가지는 중동 해상 교통 안전과 관련된 국제적 대응 움직임이다.
 
 ### 🔴 우크라이나 '러시아 서부지역에 북한 미사일 부대 배치 시작' 주장
 
@@ -575,6 +589,14 @@ Meta는 최근 자사 광고 플랫폼에서 AI가 만든 아동 성착취 이�
 **시사점** — 한국 기업은 9월 정상회담 전까지 무역 정책 변동을 주시하고, 수출입 관세 변동에 대비해야 한다.
 
 [中전문가 "미중 무역 마찰, 9월 정상회담엔 영향 없을 것"](https://www.yna.co.kr/view/AKR20260806065100083)
+
+### 🔴 유럽, 기록적인 폭염·가뭄으로 전력 제한·원전 차질 겪어
+
+유럽 전역에서 사상 최고 수준의 폭염과 가뭄이 지속되면서 전력 공급에 제한이 내려졌다. 냉각수 부족으로 일부 원자력 발전소가 가동을 중단하거나 감축했다. 이는 유럽 전력 시장의 불안정을 초래하고, 에너지 가격 상승 압력을 높이고 있다.
+
+**시사점** — 한국 전력·가스 기업은 8월 말까지 유럽 전력 가격 변동을 모니터링하고, LNG 수입 계약 재협상을 검토해야 한다.
+
+[유럽 폭염·가뭄에 전력 제한…냉각수 부족에 원전도 차질](https://www.yna.co.kr/view/AKR20260806062300009)
 
 ## 투자
 
@@ -1202,14 +1224,6 @@ Birks Group director Emilio Imbriglio resigns from board
 
 ## 미국 이민
 
-**오늘의 분석**
-
-최근 이민 정책 전반에 걸쳐 규제 강도가 동시에 상승하고 있다. 트럼프 행정부는 H‑1B·L‑1 비자 연장 수수료를 현행보다 크게 인상하고, 노동부는 최소 임금을 30% 확대할 방안을 제시했다. 이러한 조치는 인도계 IT 전문가와 대기업에 재정적 부담을 가중시키는 한편, 연방판사 아밋 메타가 75개국 대상 그린카드 동결 조치를 위법 판결하면서 고숙련 이민자들의 영주권 신청이 재개되는 긍정적 흐름도 동시에 나타났다.
-
-한편 USCIS는 망명 인터뷰 절차를 간소화하고, 나이지리아·버마·소말리아 대상 TPS와 신속 처리 규칙을 발표하며 특정 국가에 대한 보호를 확대했다. 반면 텍사스와 캘리포니아 등 주에서는 비자 발급 제한과 비용 부담을 강화해 지역별 차별을 심화시키고 있다. 이러한 정책 이질성은 이민 절차의 효율성과 형평성을 동시에 확보해야 한다는 과제를 남긴다.
-
-앞으로는 H‑1B·L‑1 비자 연장 수수료 인상 시행 시점과 그 실효성을 주시해야 한다.
-
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
 미국 연방판사 아미트 메타가 트럼프 행정부의 75개 국가 대상 그린카드 발급 동결 정책을 위법으로 판단했다. 이 판결로 인해 해당 국가 출신 신청자들의 영주권 신청이 재개될 전망이다.
@@ -1666,9 +1680,17 @@ USCIS는 2026년부터 서명 규칙을 강화해 전자 서명 및 서류 인�
 
 [T’gana CM urges Ambassador Gor to increase US visa](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmFMX3RXS0V6SE9NU25vSDFKM3JuWDVaOEdjV0UxVWdhZzlzZVZJOF94cDNoa2ROS2dhbWUtdDV4ZmRRZHg2ZThjTUlwTWY2MERnN3dabm13TFJFZmpCM19icXFBVkJtaXNjanozVzlEa0QzVXNNMkhybDFzQWxBSjh5eDBTTUJyMTA3VGVackd5NmdOV3h2cGJscE9IMXdUbjZzbmxmR2VRY1QtVExFbDAtX2VPOWRadEdsdE41ZTNLMjg5WmtjYngyVdIBywFBVV95cUxNdmFMX3RXS0V6SE9NU25vSDFKM3JuWDVaOEdjV0UxVWdhZzlzZVZJOF94cDNoa2ROS2dhbWUtdDV4ZmRRZHg2ZThjTUlwTWY2MERnN3dabm13TFJFZmpCM19icXFBVkJtaXNjanozVzlEa0QzVXNNMkhybDFzQWxBSjh5eDBTTUJyMTA3VGVackd5NmdOV3h2cGJscE9IMXdUbjZzbmxmR2VRY1QtVExFbDAtX2VPOWRadEdsdE41ZTNLMjg5WmtjYngyVQ?oc=5)
 
+### 🔴 USCIS, 서류 미비 신청서 즉시 거부 권한 부여… RFE·NOID 없이 거절 가능
+
+USCIS가 이민 심사관에게 서류가 불완전한 신청서를 추가 증거 요청(RFE)이나 거부 의향 통지(NOID) 없이 즉시 거부할 수 있는 권한을 부여하는 새 지침을 시행했다. 기존에는 심사관이 누락 서류를 보완할 기회를 주었으나, 이제는 최초 제출 시 완벽한 서류 구비가 필수가 됐다.
+
+**시사점** — 한국인 취업·투자·가족이민 신청자 전원이 대상이며, 특히 H-1B·EB-2/3·E-2 등 변호사 의존도가 높은 케이스에서 누락 서류 하나로 즉시 거절돼 재신청 비용·시간 손실이 커진다.
+
+[USCIS Empowers Officers To Deny Incomplete Immigra](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMVhjWkFZOVlPdk5rWkdLUTd5c2RlNmlQU01YNDZUTXZiY05Lb1pMSkF0SUs5RTczTW1lVFE4aXpNSWFsVzJ3SE5nT21JTTVBZGZYeUtxR3R5UVBtTzJiTXBUUHY5ajFxSU93YWt5c2VKTWZlNDF0YVFkVm5zN2NkSE9GNWVpcVZjZXBzSDZKcUN4M2ZtRGFrbzBraVptZjBXQmp5SHh1aWpTZ3VYd2ZBbTd1S2lUSFJaV1Z3NkE3dDdBVVFCWFF5a0VnbjZvQdIBzgFBVV95cUxOMVhjWkFZOVlPdk5rWkdLUTd5c2RlNmlQU01YNDZUTXZiY05Lb1pMSkF0SUs5RTczTW1lVFE4aXpNSWFsVzJ3SE5nT21JTTVBZGZYeUtxR3R5UVBtTzJiTXBUUHY5ajFxSU93YWt5c2VKTWZlNDF0YVFkVm5zN2NkSE9GNWVpcVZjZXBzSDZKcUN4M2ZtRGFrbzBraVptZjBXQmp5SHh1aWpTZ3VYd2ZBbTd1S2lUSFJaV1Z3NkE3dDdBVVFCWFF5a0VnbjZvQQ?oc=5) | [USCIS empowers officers to deny incomplete immigra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVVrYkRlSmdDMWdheFFiay1NcGZxLWV6VENMaW9ta3NDX2xleUJORUFPQ3Z0WlZEVjNyMG1lMXBjc3Q2bW1YeXFmVHVYZ2JKUHUtN2VGOWVTMDgtZnUxODNRM1J3ZXQ0Y2xzV3N2SjZrdzV2blRMNEYxaERBTDF1REk2dEMxdFFYVlhtaTFVc0w3WjBWZXNXUjlJUDBWOF9KNFNjQVI3YzNYekZsOE94dlZpTXFwNGoxVWs4VmgxYlQ1UnUzRzF3djZJMEU1V0gwYWhV?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,287 -4.7%
+- KOSPI: 6,332 -4.0%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
