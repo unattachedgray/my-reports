@@ -4,6 +4,14 @@
 
 ## AI
 
+**오늘의 분석**
+
+최근 연구가 대형 언어 모델이 연속적인 미분 연산만 지원하고 이산적인 ‘점프’ 연산을 구현하지 못한다는 한계를 확인했다. 체인‑오브‑생각 프롬프트가 일시적 완화 효과를 보이지만, 근본적인 해결책이 없다는 점은 모델의 논리적·수학적 응용 범위를 제한한다.  
+
+Neon이 공개한 최신 오픈 소스 모델은 검색 기반 작업에서 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 정확도를 유지한다. 연산 비용 절감과 실시간 응답 속도는 AI 서비스의 접근성을 확대하지만, 비용 효율성만으로 품질과 공정성을 지속적으로 검증해야 한다. 이러한 비용 절감이 과도한 데이터 독점이나 알고리즘 편향을 방지하기 위해 투명한 평가 체계와 규제 프레임워크와 함께 이루어져야 한다.  
+
+앞으로는 LLM이 이산 연산을 효율적으로 구현할 수 있는 방법을 주시할 필요가 있다.
+
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
 최근 연구에서 대형 언어 모델이 연속적인 미분 연산만을 지원하고 이산적인 ‘점프’ 연산을 구현하지 못한다는 한계가 밝혀졌다. 해당 논문은 기존 체인‑오브‑생각(Chain‑of‑Thought) 프롬프트가 이 한계를 완화시키지만 근본적인 해결책은 아님을 지적한다.
@@ -12,13 +20,21 @@
 
 [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 
+### 🆕 오픈 모델, GPT‑5.6 Sol 대비 100배 저렴한 비용으로 검색 성능 우위
+
+Neon이 발표한 최신 오픈 소스 모델은 검색 기반 작업에서 GPT‑5.6 Sol보다 비용 효율성이 100배 높으며 동일한 정확도를 달성한다. 이 모델은 연산 비용을 크게 낮추면서도 실시간 검색 응답 속도를 유지한다.
+
+**시사점** — 기업·스타트업이 비용 부담 없이 고성능 검색 서비스를 구축하려면 8월 말까지 Neon 모델 도입을 검토해야 한다.
+
+[Beating GPT-5.6 Sol on retrieval with 100x cheaper](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+
 ## 한국
 
 **오늘의 분석**
 
-민주당 돈봉투 의혹과 원희룡 전 장관에 대한 2차 특검 소환은 정치·행정 분야에서 책임성을 강화하려는 움직임으로 해석된다. 동시에 김정관 산업통상부 장관이 반도체 R&D에 주52시간제 예외를 검토하고, 수도권 아파트 분양 전망이 금리·대출 규제로 하락하는 반면 호남·충청권은 반도체 투자 기대감으로 상승하는 등 정책과 시장이 교차한다. 이러한 상황은 규제 완화와 사회적 책임 사이의 균형을 시험한다.
+민주당 돈봉투 의혹과 양평 고속도로 특검 소환은 공공권력에 대한 감시가 강화되고 있음을 보여준다. 두 사건 모두 정치·행정 인사의 책임성을 묻는 과정에서 법·검찰의 역할이 강조되며, 향후 정책 추진에 대한 신뢰 확보가 과제로 남는다.
 
-폭염이 기록적 수준에 이르면서 기업은 생산 차질과 인건비 상승에 직면하고, 청소년 정신건강 지원환경 실태조사와 최근 보고서가 지적한 임금불평등 심화가 노동시장 전반에 불안 요소로 작용한다. 특히 비정규직 비중 확대와 최저임금 상승 둔화는 소득 격차를 확대시키며, 사회적 안전망 강화와 공정한 노동조건 확보가 요구된다. 앞으로 주시할 한 가지는 정부의 기후·노동 정책이 경제 회복과 형평성 확보를 동시에 달성할 수 있느냐이다.
+김정관 장관이 반도체 R&D에 주52시간제 예외를 검토하고, 최저임금 상승 둔화와 비정규직 비중 증가가 임금불평등을 심화시킨다는 보고가 나오면서 규제와 성장 사이의 균형이 요구된다. 금리 인상과 대출·세제 규제로 수도권 아파트 분양 전망이 하락한 반면, 호남·충청권은 반도체 기대감으로 상승했으며, 기록적 폭염으로 기업 생산 차질과 인건비 상승이 우려된다. 청소년 정신건강 실태조사와 같은 사회복지 정책도 동시에 강화돼야 한다. 앞으로는 반도체 R&D 분야의 노동시간 예외 적용과 AI 인재 유출이 산업 경쟁력에 미치는 영향을 주시할 필요가 있다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -84,15 +100,19 @@
 
 [최근 5년 새 임금불평등 다시 커졌다…최저임금 둔화·비정규직 증가 영향](https://www.khan.co.kr/article/202608061411001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 구글 ‘전설’도 떠났다…AI 인력이탈 가속에 조직개편 나선 알파벳
+
+구글의 AI 연구 핵심 엔지니어 제프 딘이 27년 만에 회사를 떠났으며, 주요 AI 연구팀도 함께 이동했다. 알파벳은 인재 유출을 막기 위한 조직 개편을 진행 중이다.
+
+**시사점** — AI 인재 경쟁이 심화되는 가운데, 구글·알파벳의 차세대 모델 개발 일정과 투자 전략을 7월 말까지 주시해야 한다.
+
+[구글 ‘전설’도 떠났다…AI 인력이탈 가속에 조직개편 나선 알파벳](https://www.khan.co.kr/article/202608061512001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
 
 **오늘의 분석**
 
-러시아가 서부 지역에 북한 미사일 부대가 배치됐다고 주장하고, 우크라이나도 동일한 주장을 제기하면서 동유럽 안보가 급격히 악화되고 있다. 이는 서방과 러·중·북 사이의 대리전 양상이 심화되고 있음을 시사한다. 동시에 미국 해군이 레드씨에서 상선을 무력화하고, 예멘 후티가 사우디 유조선을 공격하면서 중동 해상 교통도 불안정해졌다.
-
-유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면해 에너지 공급 압박이 커지고 있다. 이러한 외부 충격에도 반도체 수요는 TSMC의 3nm 웨이퍼 생산 확대 계획에서 확인되듯 견조하다. 일본은 비핵 3원칙을 흐리게 언급한 기시다 총리의 발언과 소비세 인하 논쟁으로 안보와 내수 정책 사이의 균형을 놓고 논란이 확대되고 있다.
-
-앞으로는 러시아와 북한의 군사 협력 진전 상황을 면밀히 주시할 필요가 있다.
+러시아 서부 북한 미사일 부대 배치와 후티 반군의 홍해 공격, 대만 한광훈련 사고가 동시다발적으로 터지며 유라시아와 인도태평양, 중동 전역에서 안보 위기가 연쇄적으로 확산되고 있다. 북·러 군사협력이 우크라이나 전장을 넘어 동북아 안보 지형을 직접 흔드는 가운데, 홍해 항로 우회로 인한 물류비 급등과 유럽 폭염발 원전·수력 출력 제한은 기후 위기가 안보·경제 복합 위기로 전이됨을 보여준다. 일본 총리의 비핵 3원칙 언급 회피와 소비세 인하 논쟁 속 저소득층 소외는, 대외 팽창과 내부 불평등이 맞물리며 동북아 질서 재편을 가속화하는 신호다. 앞으로 북·러 군사 기술 이전 수준이 어디까지 심화되어 한반도 직접 위협으로 이어질지 주시해야 한다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -158,13 +178,51 @@ TSMC는 2024년 4분기에 3nm 공정 웨이퍼 18만장을 생산할 계획이�
 
 [폭염·가뭄 덮친 유럽…원전 출력 제한에 수력발전도 감소 - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE1SeDVJQ052M2t5cGJtREhxdFFvck1vbjkwWUR3VXM5NFZTWUppRXdvLU1kSjNEYjdRVWFaS3VTakgtYV9qRHBwS0N3bDd4SXd6VURubHhTWDdHMjRLcXV6SWpMam91N0xLUC1XWFdQU1Q?oc=5)
 
+### 대만 F-16 착륙 도중 활주로 이탈…한광훈련 첫날 사고 잇달아
+
+(타이베이=연합뉴스) 김철문 통신원 = 대만이 중국의 무력 침공을 상정해 실시하는 연례 합동군사훈련인 한광 42호 훈련 첫날 대만의 최신예 F-...
+
+[대만 F-16 착륙 도중 활주로 이탈…한광훈련 첫날 사고 잇달아](https://www.yna.co.kr/view/AKR20260806103800009)
+
+### Outrage as Ugandan football captain murdered in street gang attack
+
+The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.
+
+[Outrage as Ugandan football captain murdered in st](https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss)
+
+### Indian journalist Tarun Tejpal convicted in rape case
+
+The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.
+
+[Indian journalist Tarun Tejpal convicted in rape c](https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss)
+
+### 세계의 날씨(8월6일)
+
+(15:00)
+
+[세계의 날씨(8월6일)](https://www.yna.co.kr/view/AKR20260806107600009)
+
+### 미인대회서 비단뱀과 춤춘 스리랑카 여성…동물학대 벌금형
+
+(자카르타=연합뉴스) 손현규 특파원 = 미인대회에서 보호종인 비단뱀과 함께 춤을 춘 스리랑카 여성이 동물 학대 혐의로 벌금형을 선고받았다.
+
+[미인대회서 비단뱀과 춤춘 스리랑카 여성…동물학대 벌금형](https://www.yna.co.kr/view/AKR20260806106600104)
+
+### 키르기스·우즈베크, 토지 교환 시작…국경협정 이행 절차
+
+(서울=연합뉴스) 유창엽 기자 = 키르기스스탄과 우즈베키스탄이 4년 전 체결한 국경협정 이행 차원의 토지 교환 절차를 시작했다.
+
+[키르기스·우즈베크, 토지 교환 시작…국경협정 이행 절차](https://www.yna.co.kr/view/AKR20260806103700009)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원의 디지털 자산 시장 명확성 법안 처리가 여름 휴회 전 불투명해지면서 가상자산 업계는 규제 공백에 따른 불확실성을 지속적으로 떠안게 됐다. 반면 DBS가 2분기 사상 최대 이익과 관리 자산 5천억 싱가포르 달러 돌파를 기록한 사실은, 명확한 규제 체계와 안정적 환경 속에서 전통 금융이 자산 관리 수요를 흡수하며 성장을 이어감을 보여준다. 두 소식은 신생 자산 군이 제도권 편입을 기다리는 사이 검증된 금융 인프라가 부의 축적 효과를 독점하는 현재 금융 지형의 단면을 드러낸다.
+미국 상원이 Digital Asset Market Clarity Act를 본회의에 올릴지 여부를 아직 밝히지 않은 상황은 규제 불확실성이 지속될 가능성을 남긴다. 동시에 S&P 500이 이번 달 약 2조 달러 규모의 암호화폐 시가총액을 편입한 것은 기관 투자자의 수요가 증가하고, ETF 승인 기대가 시장에 긍정적 신호를 주고 있음을 시사한다. 이러한 흐름은 규제 명확성이 투자 확대에 중요한 역할을 할 수 있음을 보여준다.
 
-규제의 부재가 혁신 공간이 아니라 리스크 회피와 자본 이탈을 부르는 요인으로 작용한다는 점에서, 미국 입법 지연은 디지털 자산의 제도적 성숙을 늦추는 반면 DBS의 실적은 규제 확실성이 담보된 환경에서 자금이 어떻게 움직이는지를 입증한다. 싱가포르가 질서 있는 혁신을 유도해온 점과 대조적으로 미국의 입법 공백은 산업 신뢰도 하락으로 이어질 수 있다. 앞으로 주시할 한 가지는 미국 상원이 휴회 후 법안 처리 시 시장 구조와 투자자 보호 사이의 균형을 어떤 수준에서 맞출지다.
+DBS가 2026년 2분기에 자산 5천억 싱가포르 달러를 돌파하며 사상 최고 이익을 기록한 것은 고액 고객의 투자 확대와 주식·부동산 시장 호조가 복합적으로 작용한 결과다. 특히 고액 투자자들이 암호화폐와 연계된 금융상품에 관심을 보이고 있다는 점은 S&P 500 편입과 맞물려 전통 금융기관이 디지털 자산을 포트폴리오에 적극 포함시키는 추세를 반영한다. 이는 규제 환경이 안정될 경우 자산 운용 규모가 더욱 확대될 가능성을 뒷받침한다.
+
+앞으로는 디지털 자산 시장 명확성 법안의 최종 통과 여부를 주시해야 한다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -182,13 +240,21 @@ DBS는 2026년 2분기에 사상 최고 이익을 발표했으며, 부자산 규
 
 [DBS Q2 2026 slides: record profit as wealth pushes](https://www.investing.com/news/company-news/dbs-q2-2026-slides-record-profit-as-wealth-pushes-past-sgd-500bn-93CH-4840026)
 
+### 🆕 S&P 500, 이번 달 암호화폐 2조 달러 시가총액 전부 편입… 비트코인 반응은 미미
+
+S&P 500 지수가 이번 달에 약 2조 달러 규모의 암호화폐 시가총액을 편입했다. 비트코인 가격은 큰 변동 없이 안정세를 유지했다. 편입 배경으로는 기관 투자자 수요 증가와 연관 ETF 승인 기대가 언급되었다.
+
+**시사점** — 기관 투자자와 연금 펀드가 S&P 500 편입을 통해 암호화폐 노출을 확대할 가능성이 높아, 10월 말까지 주요 디지털 자산 운용사의 순자산 변동을 주시해야 함.
+
+[S&P 500 has added crypto's $2 trillion market cap ](https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 재량을 확대한 정책과 ICE가 H‑1B·F‑1 비자 소지자를 대상으로 공항 검문을 강화한 조치는 이민 관리의 사전 차단·예방적 접근을 강화하고 있다. 동시에 연방 지방 법원이 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가 발급을 중단하도록 판결한 점은 일시 보호 신분 보유자에 대한 불확실성을 높이며, 전반적인 이민 절차의 경직성을 드러낸다.
+USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 권한을 확대한 뒤, 동일 내용이 재차 강조된 점은 기존 RFE·NOID 절차를 우회해 신청을 차단하는 전략적 후퇴로 해석된다. 이와 동시에 연방 지방 법원의 TPS 수혜자 고용 허가 중단 판결과 ICE의 공항 검문 강화는 전반적인 이민·체류 관리 강화를 보여준다.
 
-이러한 규제 강화는 인도 신청자에게도 영향을 미쳐 비자·그린카드 요건을 엄격히 재조정하고, 메인 주 간호사 협회가 구금된 간호사의 그린카드 후원을 촉구하는 사례처럼 인도주의적 요구와 충돌한다. 보안·효율을 중시하는 정책이 사회정의와 평등을 어떻게 조화시킬지에 대한 논의가 필요하다. 앞으로는 USCIS 정책 변화가 이민 절차 전반에 미치는 영향을 주시해야 한다.
+그러나 인도 출신 H‑1B·EB‑2 신청자를 위한 우선일자·쿼터 조정 법안 발의와 레반스·대사의 H‑1B 위기 제기는 숙련 인력 확보를 위한 완화 요구와 충돌한다. 메인 주 간호사 협회의 구금 간호사 그린카드 후원 촉구는 인도주의적 차원에서 규제 강화에 대한 반발을 드러낸다. 앞으로 주시할 한 가지는 연방 입법부가 이중적 압력 속에서 어떤 균형 정책을 제시할지이다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -230,9 +296,33 @@ USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있�
 
 [On an H-1B or F-1 visa? ICE's reported airport che](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjBIc1BJLVV6UzhRTG9kY2FUNnVxdVBmcFJnR2VucVh5NnRBbVR6Rmd0dEZJMDB4YU9QYW1jS090NVRQd1BfY0V5a054aXRSS1hiUmhvMi05LXdHZ29HUjNqRE1yUnFZbUdpM0k4WlVMOXFWT0RNdkx1Z0xiTFJ0THE1WE0zYWhPTmtXZ21TRmo4Si1UNGFTaFhwMDRXUFczbW9QeU5DRGd5anllZF92UV9USy01b011RWhWc1c4NFFIZkROcERIQ0FEWHNSdFhsTVE2MtIB2gFBVV95cUxOX3dkcTNVb3JOWjVaRVh4bWpiNVNaWkEzVUxOVTBzZnE0TXQ0YXVDMll4bVZDdkVyMm1tSG1kaFpTVnhBdXBQZHN4N25zTHpMV3M3Q1RzaVRaNG5iUDdldzVhOXJBOE1oUThudkdhSDR1MU9BdWlOb3YtMm9ZNVVaTW9IcnJTV2ZCem9TMEkta1UxY2ZUQlJFbERBc0RLYlNENUVmamx0YlBYaTh1SlZlNW56bENwZjRNV2x6ajNjWDY4bklEQnpXcUl5SjZOY0xXdHBWS0w0YUxKZw?oc=5)
 
+### 🔴 USCIS, 불완전 신청서 즉시 거부 규정 강화
+
+미국 이민청(USCIS)이 불완전한 이민 신청서를 추가 검토 없이 즉시 거부할 수 있는 권한을 부여했다. 이 조치는 RFE(추가 증거 요청)와 NOID(거부 통지) 절차를 생략한다.
+
+**시사점** — 2026년 8월 말까지 영주권·비자 신청을 준비 중인 한국인·한인 지원자들은 서류 완전성을 최우선으로 검토해야 하며, 9월 초 이민 변호사 수요가 급증할 전망이다.
+
+[USCIS tightens rules on immigration filings, incom](https://news.google.com/rss/articles/CBMizAFBVV95cUxPenFxWHpGdzY1U0MtYUhSZ2pndlRCeWhYRXVYcXVfQ1JzdFFhUU1YTVBIMTV2TG1RcTE2TEx1MkdqYzZWZHpTLVMtXy0xY1l6a3NoSFZYOFA0NktnNVNObllQM2tWUmNoTFFWRUVJc3ZKTVBYbjZHaU04N25XMng4dGJPQnlFUU9EMk9wSHJRRW0zeEJYS3dPT3hOWF9XbkNoWWRHb3NySEw0dUdGVXNOU01LeUlEcENyVFk0Q2NWOWhvdGFWZUc1MHRTYW0?oc=5)
+
+### 🆕 알렉스 파딜라 상원의원, 인도 H‑1B 보유자를 위한 영주권 법안 제안
+
+미국 상원의 알렉스 파딜라가 인도 출신 H‑1B 비자 소지자에게 영주권(그린카드) 신청 경로를 확대하는 법안을 발의했다. 해당 법안은 연간 비자 쿼터 제한을 완화하고, 우선순위 날짜를 조정한다.
+
+**시사점** — 2026년 9월 입법 절차를 주시하며, 인도 출신 H‑1B 보유자와 IT 기업은 이 법안 통과 여부에 따라 인재 확보 전략을 재조정해야 한다.
+
+[Alex Padilla's green card bill could offer some In](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjNsc2d5dGFBcVJvS1hVTTJPNjdLaVh4Snk2cjF5WXVQUEFFSWtNV19uNF9INFdzZkNJQ3dvSWs4VFdiTUpPa1dibENlUTQzYXUySm5DQmt5Tmp4ak90X1BxVVd2VkRrem00UFZYVGhjNTNLbXYtalZRa2F4NVhMcmNWeG9mVXhsU1g1WGZ1WWRXRWY1MGZnQjNyNE1zQmNoazVnMEJrZVplTXAxNElTVkpicGtFal9qQnlIdnBWSHZha3U3cXpSS1dQNFE5cDQwWmxhcw?oc=5)
+
+### 레반스, 미국 대사와 함께 H‑1B 비자 위기 제기
+
+인도계 이민 단체 레반스가 미국 대사에게 H‑1B 비자 수급 부족과 기업 인력 충원 문제를 공식적으로 호소했다. 대사는 현 상황을 검토하고 정책 조정을 약속했다.
+
+**시사점** — 2026년 4분기까지 H‑1B 비자 신청 급증이 예상되며, 특히 한국인·한인 IT 기업은 채용 일정에 차질이 없도록 비자 대기 시간을 고려해야 한다.
+
+[Revanth Raises H 1B Visa Crisis With US Ambassador](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJGOFRuczhVbzY0bDc1VnNlY0h0RlVaSXJNTlVZUGc5QzBYRlBWNklzUGExM1RWRURPb083Qi1xZzdMeGJIQzg0VGNLM0lMWUZwN0g4NS1xX3NrZjh5TW5QMkwxMk9nSTQtQTlSMnRHRUU1UktOZ1hONWJURDgwR3dKaUVHX0lGTF8xbklZMjBqS3hBMk54SWdoQ2pYcnfSAZ8BQVVfeXFMTVgyRjhUbnM4VW82NGw3NVZzZWNIdEZVWklyTU5VWVBnOUMwWEZQVjZJc1BhMTNUVkVET29PN0ItcWc3THhiSEM4NFRjSzNJTFlGcDdIODUtcV9za2Y4eU1uUDJMMTJPZ0k0LUE5UjJ0R0VFNVJLTmdYTjViVEQ4MEd3SmlFR19JRkxfMW5JWTIwakt4QTJOeElnaENqWHJ3?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,325 -4.1%
+- KOSPI: 6,292 -4.6%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
