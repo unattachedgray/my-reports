@@ -2,15 +2,23 @@
 
 > 자동 발행: https://www.unattached.me/news/#2026-08-06
 
+## AI
+
+### LLM은 ‘점프’ 연산을 수행할 수 없어
+
+최근 연구에서 대형 언어 모델이 연속적인 미분 연산만을 지원하고 이산적인 ‘점프’ 연산을 구현하지 못한다는 한계가 밝혀졌다. 해당 논문은 기존 체인‑오브‑생각(Chain‑of‑Thought) 프롬프트가 이 한계를 완화시키지만 근본적인 해결책은 아님을 지적한다.
+
+**시사점** — AI 연구자들은 2026년 9월까지 이 한계 극복을 위한 새로운 아키텍처 설계에 주목해야 함
+
+[Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
+
 ## 한국
 
 **오늘의 분석**
 
-오늘 발표된 여러 사안은 정치·경제·사회 전반에 걸친 통합적 압력을 보여준다. 대법원 3부가 송영길 전 보좌관에게 정치자금법 위반 혐의로 징역 1년 2개월을 선고한 것은 정당 내부 부패에 대한 사법적 견제가 강화되고 있음을 시사한다. 동시에 원희룡 전 장관이 양평 고속도로 특검에 2차 소환된 점은 공공사업 투명성 확보를 위한 수사 확대와 연계돼 정치·행정 영역 전반에 걸친 감시가 심화되고 있음을 보여준다.
+민주당 돈봉투 의혹과 원희룡 전 장관에 대한 2차 특검 소환은 정치·행정 분야에서 책임성을 강화하려는 움직임으로 해석된다. 동시에 김정관 산업통상부 장관이 반도체 R&D에 주52시간제 예외를 검토하고, 수도권 아파트 분양 전망이 금리·대출 규제로 하락하는 반면 호남·충청권은 반도체 투자 기대감으로 상승하는 등 정책과 시장이 교차한다. 이러한 상황은 규제 완화와 사회적 책임 사이의 균형을 시험한다.
 
-경제면에서는 김정관 산업통상부 장관이 반도체 R&D 분야에 주52시간제 예외 적용을 검토하면서 성장 동력 확보와 노동권 보호 사이의 균형을 모색하고 있다. 이러한 정책 논의는 금리 상승과 대출·세제 규제로 수도권 아파트 분양 전망이 하락한 반면, 호남·충청권은 반도체 투자 기대감으로 상승한 현상과 맞물려 지역별 성장 격차를 완화하려는 시도로 해석될 수 있다. 또한 기록적 폭염에 대한 대통령의 전방위 대응과 기업의 생산·인건비 압박은 기후 위기가 경제·사회 전반에 미치는 영향을 드러낸다. 이러한 상황에서 정책 입안자는 단기적 재난 대응과 장기적 성장 전략을 동시에 고려해야 한다.
-
-앞으로는 52시간제 예외 적용 여부가 노동시장과 산업 경쟁력에 미칠 파급 효과를 주시해야 할 것이다.
+폭염이 기록적 수준에 이르면서 기업은 생산 차질과 인건비 상승에 직면하고, 청소년 정신건강 지원환경 실태조사와 최근 보고서가 지적한 임금불평등 심화가 노동시장 전반에 불안 요소로 작용한다. 특히 비정규직 비중 확대와 최저임금 상승 둔화는 소득 격차를 확대시키며, 사회적 안전망 강화와 공정한 노동조건 확보가 요구된다. 앞으로 주시할 한 가지는 정부의 기후·노동 정책이 경제 회복과 형평성 확보를 동시에 달성할 수 있느냐이다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -68,7 +76,23 @@
 
 [“청소년 시각에서 정신건강 환경 진단”… 멘탈헬스코리아 청소년위원회, 실태조사 착수](https://www.donga.com/news/Society/article/all/20260806/134430154/1)
 
+### 🆕 최근 5년 새 임금불평등 다시 커졌다…최저임금 둔화·비정규직 증가 영향
+
+노동조합과 연구기관이 발표한 보고서에 따르면 2020년대 들어 한국의 임금불평등이 다시 심화되고 있다. 최저임금 상승 둔화와 비정규직 비중 증가가 주요 원인으로 지목되었다.
+
+**시사점** — 2026년 연말까지 최저임금 인상과 비정규직 비중 변화를 주시해야 한다.
+
+[최근 5년 새 임금불평등 다시 커졌다…최저임금 둔화·비정규직 증가 영향](https://www.khan.co.kr/article/202608061411001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
+
+**오늘의 분석**
+
+러시아가 서부 지역에 북한 미사일 부대가 배치됐다고 주장하고, 우크라이나도 동일한 주장을 제기하면서 동유럽 안보가 급격히 악화되고 있다. 이는 서방과 러·중·북 사이의 대리전 양상이 심화되고 있음을 시사한다. 동시에 미국 해군이 레드씨에서 상선을 무력화하고, 예멘 후티가 사우디 유조선을 공격하면서 중동 해상 교통도 불안정해졌다.
+
+유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면해 에너지 공급 압박이 커지고 있다. 이러한 외부 충격에도 반도체 수요는 TSMC의 3nm 웨이퍼 생산 확대 계획에서 확인되듯 견조하다. 일본은 비핵 3원칙을 흐리게 언급한 기시다 총리의 발언과 소비세 인하 논쟁으로 안보와 내수 정책 사이의 균형을 놓고 논란이 확대되고 있다.
+
+앞으로는 러시아와 북한의 군사 협력 진전 상황을 면밀히 주시할 필요가 있다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -118,7 +142,29 @@ TSMC는 2024년 4분기에 3nm 공정 웨이퍼 18만장을 생산할 계획이�
 
 [“재정 따위 알 게 뭐야” 日 소비세 인하론 뒤엔 ‘지원 사각지대’의 분노 - 국민일보](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbkw5cE1SUUY1Tk5Uc3NQb0pJQk1WYlNHMmFBdFJXQmZaY29xWld6Rmw1S0E3MUpTdGVtV3Q1cVNxdWNnZzJkbGU3YVM1NmlVSXllRTVIX0lNYXBkb3pvcWRGclYtbmvSAWxBVV95cUxNYmp3VXg0ekJaamxYOW5iWV9JUTNNX053clU5X0cwNGp3XzNEal8tblVOV2dkc0ZaZnlQTjBjNW9sbFdDRU5qMnk4NExmc2pSSUs2TTZGbGI2Sm81a25TM09SVC1TTzBTZnNZSFE?oc=5)
 
+### 🔴 우크라, 러 서부에 북한 미사일 부대 배치 주장
+
+우크라나 대통령은 러시아 서부 지역에 북한이 미사일 부대를 파견했다고 주장했다. 이 주장은 최근 러-우 전쟁 격화와 맞물려 국제 안보 우려를 증폭시켰다.
+
+**시사점** — 한국 국방부는 10월 1일까지 러시아 서부에 배치된 북한 미사일 부대의 움직임을 면밀히 감시하고, 관련 정보를 한미 연합 정찰 회의에 포함시켜야 한다.
+
+[우크라 “북한, 미사일 부대 러시아에 배치” - 천지일보](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMkdNS0drX2tkRm1EVFYwVWVySkxiaDl6N0lvZnBDc1UtSVN6bWR2YjBpUTliTkM4V3Z3Q3NKNlM1MWFsQWZMb2VlVm4zSWxhekx1T09pS0E1YzNJRmNUbVRsWDNQVUFqLUE?oc=5)
+
+### 🆕 유럽, 폭염·가뭄으로 원전 출력 제한·수력발전 감소
+
+유럽 전역에서 기록적인 폭염과 가뭄이 지속되면서 원자력 발전소의 냉각수 부족으로 출력 제한이 내려졌다. 동시에 수력발전도 물량 감소로 가동률이 급락했다.
+
+**시사점** — 한국 전력거래소는 10월 말까지 유럽 전력 가격 변동을 주시하고, LNG 수입 계약 재조정 시점을 검토해야 한다.
+
+[폭염·가뭄 덮친 유럽…원전 출력 제한에 수력발전도 감소 - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE1SeDVJQ052M2t5cGJtREhxdFFvck1vbjkwWUR3VXM5NFZTWUppRXdvLU1kSjNEYjdRVWFaS3VTakgtYV9qRHBwS0N3bDd4SXd6VURubHhTWDdHMjRLcXV6SWpMam91N0xLUC1XWFdQU1Q?oc=5)
+
 ## 투자
+
+**오늘의 분석**
+
+미국 상원의 디지털 자산 시장 명확성 법안 처리가 여름 휴회 전 불투명해지면서 가상자산 업계는 규제 공백에 따른 불확실성을 지속적으로 떠안게 됐다. 반면 DBS가 2분기 사상 최대 이익과 관리 자산 5천억 싱가포르 달러 돌파를 기록한 사실은, 명확한 규제 체계와 안정적 환경 속에서 전통 금융이 자산 관리 수요를 흡수하며 성장을 이어감을 보여준다. 두 소식은 신생 자산 군이 제도권 편입을 기다리는 사이 검증된 금융 인프라가 부의 축적 효과를 독점하는 현재 금융 지형의 단면을 드러낸다.
+
+규제의 부재가 혁신 공간이 아니라 리스크 회피와 자본 이탈을 부르는 요인으로 작용한다는 점에서, 미국 입법 지연은 디지털 자산의 제도적 성숙을 늦추는 반면 DBS의 실적은 규제 확실성이 담보된 환경에서 자금이 어떻게 움직이는지를 입증한다. 싱가포르가 질서 있는 혁신을 유도해온 점과 대조적으로 미국의 입법 공백은 산업 신뢰도 하락으로 이어질 수 있다. 앞으로 주시할 한 가지는 미국 상원이 휴회 후 법안 처리 시 시장 구조와 투자자 보호 사이의 균형을 어떤 수준에서 맞출지다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -128,15 +174,21 @@ TSMC는 2024년 4분기에 3nm 공정 웨이퍼 18만장을 생산할 계획이�
 
 [Here are the possible outcomes for Clarity right n](https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now)
 
+### 🔴 DBS 2026년 2분기 슬라이드: 자산 5천억 SGD 돌파로 사상 최고 이익 기록
+
+DBS는 2026년 2분기에 사상 최고 이익을 발표했으며, 부자산 규모가 5천억 싱가포르 달러를 넘어섰다고 밝혔다. 이는 주식 및 부동산 시장 호조와 고액 고객의 투자 증가에 기인한다.
+
+**시사점** — 싱가포르 은행주 투자자는 DBS의 배당 정책과 2026년 4분기 실적 발표 전까지 자산 증가 추세를 주시해야 한다.
+
+[DBS Q2 2026 slides: record profit as wealth pushes](https://www.investing.com/news/company-news/dbs-q2-2026-slides-record-profit-as-wealth-pushes-past-sgd-500bn-93CH-4840026)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부하도록 재량을 확대한 정책과 연방 지방 법원이 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가 발급을 중단한 판결은, 이민 행정이 절차적 완화보다 엄격한 관리에 무게를 두고 있음을 보여준다. 신청 절차를 단축하고 사전 검토를 강화함으로써 행정 효율성을 높이려는 의도는 분명하지만, 서류 미비만으로 즉각 거부되는 경우 취업 기회와 체류 안정성을 급격히 위협한다.
+USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 재량을 확대한 정책과 ICE가 H‑1B·F‑1 비자 소지자를 대상으로 공항 검문을 강화한 조치는 이민 관리의 사전 차단·예방적 접근을 강화하고 있다. 동시에 연방 지방 법원이 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가 발급을 중단하도록 판결한 점은 일시 보호 신분 보유자에 대한 불확실성을 높이며, 전반적인 이민 절차의 경직성을 드러낸다.
 
-동시에 메인 주 간호사 협회가 구금 중인 간호사의 그린카드 후원을 촉구하고, 인도 신청자를 대상으로 비자·그린카드 요건을 강화한 보도가 이어지면서, 규제 강화 속에서도 사회 정의와 평등을 요구하는 목소리가 부각되고 있다. 정책의 경직성이 특정 직종·국적에 불리하게 작용할 경우, 전문 인력의 유입과 인도적 보호가 동시에 약화될 위험이 있다.
-
-앞으로는 TPS 연장 절차와 USCIS 정책의 구체적 시행 방안을 주시할 필요가 있다.
+이러한 규제 강화는 인도 신청자에게도 영향을 미쳐 비자·그린카드 요건을 엄격히 재조정하고, 메인 주 간호사 협회가 구금된 간호사의 그린카드 후원을 촉구하는 사례처럼 인도주의적 요구와 충돌한다. 보안·효율을 중시하는 정책이 사회정의와 평등을 어떻게 조화시킬지에 대한 논의가 필요하다. 앞으로는 USCIS 정책 변화가 이민 절차 전반에 미치는 영향을 주시해야 한다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -170,9 +222,17 @@ USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부하도록 재
 
 [US immigration gets stricter: What Indian applican](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXd4Q2xMTW85TWlKMEZCX3NhNTRZUGlTZ3E3TEs1THJ4alMyQS15Smgyd2xBb2VuRi05UUt3eHVqWkhwUHZxcm9FTGo2NHFNWUJobmdGWjM3RW5IVWlqN09xYjhlOENXOFFOQlBNdlpRYU5iMWhzRXZ1eGNOb1B3bTA3aThwLXZKLVk2Y3FOVDk3bXJfUnp1a0g5M05zQXVXa0ktZ1ZHUjg5ZU5nY3hlbzNhLXdIRjlXRWRoT0VTNFcweXlHOFZRMjlCUEZRUdIB0wFBVV95cUxQSEhUcnF2eHJyYjhlRVp4WjBMZWktTDFiUk51U3BzV25PcV83QjNSNU9URmxCOVNqY1loZVp3ekVNY3JBcFprSzA4QURPN1hZUWl0dUd1N0JDTXQ3TjNIMXVvLUtoS1FZRDhZUUJSc3FrbEQ5LUU3UWkxYkVvWkk0aHhkYWZQcmxRSksydUpmQXRXY3RTYXZrZktRcGlFNU0tZ3k1MW9IS0pENm1tMGplZGtwQW90M3F6ZG9VWGFLWE5BMFFwUUl3d0YwOEpKV0JkUGJF?oc=5)
 
+### 🆕 ICE, H‑1B·F‑1 비자 소지자 공항 검문 강화… 여행에 지연 우려
+
+미국 이민세관집행기관(ICE)이 H‑1B와 F‑1 비자를 소지한 여행객을 대상으로 공항에서 추가 신원 확인 절차를 실시한다는 보고가 나왔다. 이 조치는 보안 강화와 불법 체류 방지를 목표로 하며, 검문 과정에서 여행 일정이 지연될 가능성이 있다.
+
+**시사점** — 다음 달 1주일 내에 미국 입국을 계획 중인 한국인 H‑1B·F‑1 비자 소지자는 공항 체류 시간을 최소 30분 이상 늘릴 준비가 필요하다.
+
+[On an H-1B or F-1 visa? ICE's reported airport che](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjBIc1BJLVV6UzhRTG9kY2FUNnVxdVBmcFJnR2VucVh5NnRBbVR6Rmd0dEZJMDB4YU9QYW1jS090NVRQd1BfY0V5a054aXRSS1hiUmhvMi05LXdHZ29HUjNqRE1yUnFZbUdpM0k4WlVMOXFWT0RNdkx1Z0xiTFJ0THE1WE0zYWhPTmtXZ21TRmo4Si1UNGFTaFhwMDRXUFczbW9QeU5DRGd5anllZF92UV9USy01b011RWhWc1c4NFFIZkROcERIQ0FEWHNSdFhsTVE2MtIB2gFBVV95cUxOX3dkcTNVb3JOWjVaRVh4bWpiNVNaWkEzVUxOVTBzZnE0TXQ0YXVDMll4bVZDdkVyMm1tSG1kaFpTVnhBdXBQZHN4N25zTHpMV3M3Q1RzaVRaNG5iUDdldzVhOXJBOE1oUThudkdhSDR1MU9BdWlOb3YtMm9ZNVVaTW9IcnJTV2ZCem9TMEkta1UxY2ZUQlJFbERBc0RLYlNENUVmamx0YlBYaTh1SlZlNW56bENwZjRNV2x6ajNjWDY4bklEQnpXcUl5SjZOY0xXdHBWS0w0YUxKZw?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,299 -4.5%
+- KOSPI: 6,325 -4.1%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
