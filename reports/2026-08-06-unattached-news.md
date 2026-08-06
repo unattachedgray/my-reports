@@ -6,9 +6,11 @@
 
 **오늘의 분석**
 
-최근 연구가 LLM의 이산적 ‘점프’ 연산 불가 한계를 지적하면서도 체인‑오브‑생각 프롬프트가 부분적 완화책임을 보였고, 동시에 네온의 오픈 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동등한 검색 성능을 입증해 오픈 소스 대형 모델의 비용 효율성이 부각되고 있다. 네이버의 1조 파라미터 ‘클라우드AI‑9’와 메타의 ‘Muse Code·Spark 1.2’ 공개는 멀티모달 대형 모델이 오픈 생태계로 빠르게 확산되고 있음을 보여준다.
+오늘 발표된 연구는 대형 언어 모델이 연속 미분 연산만 지원하고 이산적 ‘점프’ 연산을 구현하지 못한다는 한계를 제시한다. 이는 기존 체인‑오브‑생각 프롬프트가 완전한 해결책이 아님을 의미한다. 동시에 Neon이 공개한 오픈 소스 모델은 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 검색 정확도를 유지해 비용 효율성을 강조한다. 네이버와 Meta가 각각 1조 파라미터 멀티모달 모델 ‘클라우드AI‑9’와 Muse Code·Spark 1.2를 공개하면서, 대규모 멀티모달 기술 경쟁이 가속화되고 있다.  
 
-구글 지도가 에이전시 기능을 탑재해 음식 주문·호텔 예약을 대화형 AI로 처리하고, 미렌딜이 구글 클라우드와 1억 달러 규모 인프라 계약을 맺어 대규모 모델의 자기 최적화를 지원하는 등 상용화 인프라가 강화되고 있다. 옴닐리아의 6,700만 달러 시리즈 B와 전 스포티파이 직원들의 1,000만 달러 시드 투자는 고객 지원과 전자상거래 추천 분야에서 실시간 학습 AI가 수익 모델로 자리잡고 있음을 시사한다. 오픈AI가 애플 무역비밀 소송을 ‘근본적으로 부패’라며 기각을 요청하고, 한 개발자가 안드로이드에서 리눅스 폰으로 전환한 사례는 플랫폼 경쟁과 법적 분쟁이 병행되고 있음을 보여준다. 앞으로 주시할 한 가지는 오픈 소스 대형 모델의 라이선스·배포 정책이 규제 논의와 어떻게 맞물릴지이다.
+이와 같은 기술 확장은 법·사회적 논쟁을 동반한다. OpenAI는 애플의 무역 비밀 소송을 ‘근본적으로 부패’라며 기각을 요청했고, AI 데이터센터 건설에 대한 환경·지역사회 반발이 확대되고 있다. Suno가 도입한 음악 워터마크는 저작권 보호를 위한 실용적 조치이며, 구글은 지도 서비스에 주문·예약 에이전시 기능을 추가해 사용자 의도 파악을 강화한다. 구글 AI 조직 개편과 Mirendil‑Google 1억 달러 파트너십은 기업 간 경쟁과 협력이 동시에 진행되고 있음을 보여준다. 이러한 흐름은 비용 절감과 성능 향상이 동시에 이루어지는 동시에, 데이터 처리와 저작권 보호, 환경 부담 등 사회적 비용을 최소화하려는 노력과 충돌한다.  
+
+앞으로 주시할 한 가지는 AI 모델의 연산 효율과 환경 영향을 동시에 최적화하는 기술 개발이다.
 
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
@@ -91,13 +93,39 @@ Meta AI 연구팀이 Muse Code와 최신 버전 Muse Spark 1.2를 오픈소스�
 
 [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 
+### 🆕 구글 AI 조직개편 뒤의 복잡한 정치 상황
+
+구글은 최근 대규모 AI 조직 개편을 발표했으며, 내부 정치적 갈등이 드러났다. 알파벳 최고경영진은 새로운 AI 연구팀과 기존 팀 간 역할 재조정을 강조했다. 이번 조치는 구글의 차세대 AI 경쟁력 확보를 목표로 한다.
+
+**시사점** — 구글 AI 조직개편은 2026년 4분기까지 주요 AI 서비스 로드맵에 영향을 미치며, 경쟁사와 투자자들이 주목할 핵심 변수다.
+
+[The messy politics behind Google’s big AI shakeup](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind)
+
+### 🆕 AI 데이터센터 반대 여론, 좌우 모두 동의
+
+The Verge 정책 기자 Gaby Del Valle와의 인터뷰를 통해 AI 데이터센터에 대한 사회적 반발이 확대되고 있다. 환경 단체와 지방 정부는 전력 소비와 탄소 배출을 이유로 데이터센터 건설을 제한하려는 움직임을 보이고 있다. 정책 입안자들은 이에 대한 규제 방안을 검토 중이다.
+
+**시사점** — 2026년 9월까지 발표될 전력 사용 규제 초안이 AI 데이터센터 투자와 운영에 직접적인 영향을 줄 전망이다.
+
+[The left and right agree on one thing: no data cen](https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan)
+
+### 🆕 Suno, 음악 워터마크 기능 도입
+
+음악 생성 AI 스타트업 Suno가 저작권 보호를 위해 곡에 디지털 워터마크를 삽입하는 기능을 출시했다. 이 조치는 현재 진행 중인 여러 법적 분쟁과 맞물려 있다. 워터마크는 추적 및 인증을 가능하게 하여 저작권 침해 위험을 낮춘다.
+
+**시사점** — 2026년 10월까지 음악 스트리밍 플랫폼이 Suno의 워터마크를 채택할 경우, 저작권 관리 비용이 15% 감소할 것으로 예상된다.
+
+[Amid legal battles, Suno says it will start waterm](https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/)
+
 ## 한국
 
 **오늘의 분석**
 
-오늘 발표된 여러 사안은 정치·경제·사회 전반에 걸친 구조적 긴장을 드러낸다. 대법원이 송영길 전 보좌관에게 정치자금법 위반 혐의로 징역을 선고한 것은 당내 부패 단속이 강화되고 있음을 시사한다. 동시에 산업통상부가 반도체 R&D에 주52시간제 예외를 검토한다는 발표는 고용안정과 혁신 촉진 사이의 정책적 균형을 요구한다. 주택시장에서는 수도권 분양 전망이 금리·대출 규제로 하락하는 반면, 호남·충청권은 반도체 투자 기대감으로 상승해 지역 격차가 심화되고 있다.  
+오늘 발표된 민주당 돈봉투 의혹과 원희룡 전 장관에 대한 2차 특검 소환은 정치·행정 영역에서 책임성을 강화하려는 움직임으로 해석된다. 동시에 김정관 산업통상부 장관이 반도체 R&D 분야에 주 52시간제 예외 적용을 검토한다는 발표는 성장 산업에 대한 규제 완화 요구와 노동권 보호 사이의 갈등을 드러낸다. 이러한 이슈들은 국가 경쟁력 확보와 공정한 절차 사이의 균형을 놓고 논쟁이 확대될 전망이다.
 
-폭염 대응과 노동시장 불평등도 동시에 부각된다. 대통령이 전방위 자원 동원을 선언한 반면, 기업은 인건비 상승과 생산 차질을 우려하고 있다. 청년 정신건강 조사와 최저임금 둔화·비정규직 증가가 임금불평등을 재확산시키는 요인으로 지적되었다. 이러한 상황에서 구글 AI 핵심 인재 이탈과 국고채 입찰 담합 의혹은 기술·금융 분야의 투명성 확보 필요성을 강조한다. 앞으로 반도체 R&D 분야 52시간제 예외 적용 여부를 주시해야 한다.
+폭염으로 인한 기업 생산 차질과 식품 가격 상승, 그리고 청년·이주노동자에 대한 안전·복지 요구가 동시에 부각되면서 사회적 불평등이 심화되고 있다. 주택 시장에서도 수도권 분양 전망이 하락하는 반면, 호남·충청권은 반도체 기대감으로 상승하는 등 지역 격차가 뚜렷해졌다. 구글 AI 인재 이탈과 국내 기업의 인재 확보 경쟁은 규제와 지원 정책의 적절한 조율이 필요함을 시사한다.
+
+앞으로는 반도체 R&D 분야 52시간제 예외 적용 여부를 주시할 필요가 있다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -389,15 +417,47 @@ Meta AI 연구팀이 Muse Code와 최신 버전 Muse Spark 1.2를 오픈소스�
 
 [김정관 ‘장시간 노동 특구’ 피력 “일할 의지, 제도가 막아선 안 돼”](https://www.khan.co.kr/article/202608062154005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 폭염에 23명 사망·고령층에 피해 집중 - KBS News
+
+지난 주 전국에 기록적인 폭염이 지속되면서 23명이 사망했으며, 사망자 중 65세 이상 고령층이 78%를 차지했다. 보건당국은 8월 말까지 추가 사망 위험이 남아 있다고 경고하고, 지방자치단체에 냉방 지원 확대를 요청했다.
+
+**시사점** — 고령층(65세 이상) 주민이 주요 위험군이며, 지방자치단체와 보건당국의 냉방 지원 확대가 8월 말까지 사망자 추가를 방지하는 핵심 변수다.
+
+[폭염에 23명 사망·고령층에 피해 집중 - KBS News](https://news.google.com/rss/articles/CBMiZkFVX3lxTE53QzVzeXgzZDVrMVV1bmJwSTV4YWR6d0VqYXlHd091bHExME8tUW9CYTVBbWpsZEFkX2tPR2ZOblJnb3U3SXMxT3YzamZjb09WcVVQSTdhVDhOOUtZQ2sxajNNY2RIZw?oc=5)
+
+### 🆕 포스코퓨처엠, LFP 시장 뚫었다…북미 ESS용 양극재 장기 공급 합의
+
+포스코퓨처엠은 북미 배터리 제조업체와 2027년까지 연간 5GWh 규모의 LFP 양극재를 장기 공급하기로 합의했다. 이번 계약은 에너지저장장치(ESS)용 배터리 가격 안정에 기여할 전망이다.
+
+**시사점** — 2027년까지 연간 5GWh 양극재 공급량이 전기차·ESS 시장 가격 변동성을 완화하는 핵심 변수이며, 포스코퓨처엠과 주요 북미 배터리 업체의 계약 진행 상황을 주시해야 한다.
+
+[포스코퓨처엠, LFP 시장 뚫었다…북미 ESS용 양극재 장기 공급 합의](https://www.donga.com/news/K-TECH Global Leaders/article/all/20260806/134434968/1)
+
+### 개미들 주가 폭락 신음에 집권 여당 책임 통감해야
+
+코스피가 연속 3일 동안 10% 이상 급락하면서 개인 투자자 평균 손실이 약 1천만원에 이르고 있다. 전문가들은 연말까지 변동성이 지속될 가능성을 경고하고 있다.
+
+**시사점** — 개인투자자(평균 손실 1천만원)와 연말까지 지속될 시장변동성이 투자자 보호와 정책 대응의 핵심 변수다.
+
+[[광화문에서/조권형]개미들 주가 폭락 신음에 집권 여당 책임 통감해야](https://www.donga.com/news/Opinion/article/all/20260806/134434558/2)
+
+### 🆕 교육교부금 개혁, 교육개혁의 시작이다
+
+정부는 내국세와 자동 연동되는 교육교부금 산식을 개편해 2027학년도부터 지방교육재정 배분 비율을 15% 낮추기로 발표했다. 교육계는 재정 감소에 따른 교육 현장 영향에 우려를 표하고 있다.
+
+**시사점** — 2027학년도부터 지방교육재정 배분 비율 15% 감소가 지방 교육청 예산 운영에 직접적인 영향을 미치는 핵심 변수다.
+
+[교육교부금 개혁, 교육개혁의 시작이다[기고/박대권]](https://www.donga.com/news/Opinion/article/all/20260806/134434361/2)
+
 ## 세계
 
 **오늘의 분석**
 
-러시아 서부에 북한 미사일 부대가 배치됐다는 주장과 우크라이나의 동일 주장, 러시아가 7월에 사상 최다 유도공중폭탄을 투하한 사실, 미 해군이 레드씨에서 상선을 무력화한 사례가 연이어 보도되면서 동유럽·동아시아 안보 긴장이 고조되고 있다. 북한·러시아·우크라이나 간의 미사일·드론 활용 가능성이 확대되면서 지역 내 군사 억제력 재조정이 요구되는 상황이다.
+러시아가 서부 지역에 북한 미사일 부대를 배치했다는 주장과 우크라이나가 이를 비난하면서, 양국 간 군사 협력의 심화가 국제 안보에 새로운 불확실성을 더하고 있다. 동시에 미국이 우크라이나에 대한 패트리엇 미사일 지원을 3분의 1 수준으로 축소하고, 이란과의 호르무즈 해협 통제권 협상이 진행되는 등 주요 강대국들의 군사·외교 행보가 맞물리면서 동유럽·중동·동아시아 지역에서 갈등 격화 위험이 확대되고 있다. 일본과 대만, 한국도 각각 비핵 3원칙 논란, 한광 훈련, 독도 영해 훈련 등으로 자국 안보 정책을 재조정하고 있어, 지역 안보 체계 전반에 걸친 긴장감이 고조되고 있다.  
 
-동시에 유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면하고, 중국은 전력수요 사상 최고치를 기록하며 냉방 부하가 전체 전력의 45%를 차지한다. 러시아는 극동 지역 원유 수입을 확대하고, 중국 AI 기업이 가성비를 앞세워 아프리카 시장을 빠르게 장악하고 있다. 이러한 상황은 각국이 에너지 전환 정책과 공급 다변화를 가속화할 압박을 높이고 있다.
+한편, 유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면하고, 중국은 러시아 극동산 원유 수입을 대폭 확대하며 에너지 공급 구조를 재편하고 있다. 이러한 기후·에너지 위기는 전력 수요 급증과 물류 차질을 초래하고, 기업들은 TSMC의 3나노 생산 확대와 같은 기술 투자로 경쟁력을 유지하려는 움직임을 보인다. 일본의 소비세 인하 논의와 미국 해군의 상선 무력화 작전 역시 시장 안정성을 위협하는 요소로 작용한다.  
 
-앞으로는 유럽·아시아 지역의 에너지 공급 안정성을 주시할 필요가 있다.
+앞으로는 러시아와 북한의 군사 협력 진전 여부를 주시할 필요가 있다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -695,11 +755,49 @@ The Goa bench of the Bombay High Court overturned a 2021 trial court verdict cle
 
 [가뭄에 원전 멈출 판…다뉴브강에 바지선까지 가라앉혀 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWi1ZS3k2bDdSX0tBTEoza2xLOWs2OFE5QlhySGxScG41b1FxQXYwdFZDWThIM0N6eS1SQmtwNDB2dWlJalVpWkhFRHAwSU1IZnNpODFwZ3p5cHZxV1lTUEpsX3Ixc2M?oc=5) | [원전 멈출 판…다뉴브강에 바지선까지 가라앉혔다](https://www.yna.co.kr/view/AKR20260806154200109)
 
+### US Senate committee votes to hold Fauci in contempt over Covid hearing
+
+The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.
+
+[US Senate committee votes to hold Fauci in contemp](https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss)
+
+### 영국도 파라마운트·워너브러더스 인수합병 승인
+
+(런던=연합뉴스) 김지연 특파원 = 파라마운트 스카이댄스(이하 파라마운트)와 워너브러더스 디스커버리(워너브러더스)의 초대형 인수·합병(M&amp...
+
+[영국도 파라마운트·워너브러더스 인수합병 승인](https://www.yna.co.kr/view/AKR20260806156700085)
+
+### 모녀 숨지게 한 차량 돌진…아프간 난민, 독일서 종신형
+
+(브뤼셀=연합뉴스) 현윤경 특파원 = 지난해 2월 독일 뮌헨의 한 노조 집회 현장에 차량을 돌진시켜 2명을 숨지게 한 25세의 아프가니스탄 출신...
+
+[모녀 숨지게 한 차량 돌진…아프간 난민, 독일서 종신형](https://www.yna.co.kr/view/AKR20260806156600098)
+
+### DR Congo river boat under quarantine for Ebola after five deaths
+
+The health minister says all the passengers are being screened as a precautionary measure.
+
+[DR Congo river boat under quarantine for Ebola aft](https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss)
+
+### 미얀마 대통령, 태국 방문…아세안과 관계 개선 모색(종합)
+
+(하노이=연합뉴스) 박진형 특파원 = 군사정권 수장에서 민간정부 수반으로 변신한 민 아웅 흘라잉 미얀마 대통령이 6일(현지시간) 태국을 찾아 아...
+
+[미얀마 대통령, 태국 방문…아세안과 관계 개선 모색(종합)](https://www.yna.co.kr/view/AKR20260806136851084)
+
+### Livestreamer's murder raises questions over relations between Mexico's creators and cartels
+
+The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.
+
+[Livestreamer's murder raises questions over relati](https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원의 디지털 자산 시장 명확성 법안이 아직 본회의에 올라가지 않은 상황은 암호화폐가 S&P 500에 편입된 현황과 맞물려 시장의 규제 불확실성을 지속시키고 있다. 규제 프레임워크가 조기에 확정되면 기관 투자자의 수요가 확대돼 비트코인·이더리움 가격 안정과 변동성 감소가 기대되지만, 현재 변동성 저하가 유동성 축소와 레버리지 포지션 축소에 따른 위험 신호일 수 있다는 분석도 있다. 한편 유럽 주식은 실적 호조와 미국‑이란 외교 낙관감으로 사상 최고치를 기록했으며, 기술 섹터의 압박에도 불구하고 전반적인 상승세를 유지하고 있다. 아시아에서는 DBS와 NTT가 자산 규모와 매출 전망을 상향 조정하며 지역 성장 동력을 보여주고, 신흥시장 우즈베키스탄의 부실채권 확대는 TBC 은행 주가에 부정적 영향을 미쳐 위험 관리 필요성을 강조한다. 전반적으로 규제 투명성과 국제 협력이 투자 흐름을 안정시키는 핵심 요소로 부각되고 있다. 앞으로는 미국 상원의 디지털 자산 법안 통과 여부를 주시해야 한다.
+미국 상원의 Digital Asset Market Clarity Act가 본회의에 올려질지 여부가 미확정인 가운데, S&P 500이 2조 달러 규모의 암호화폐 시가총액을 편입했음에도 비트코인 가격은 큰 변동 없이 안정세를 유지하고 있다. 변동성 감소는 레버리지 포지션 축소와 유동성 위축을 의미한다는 분석이 나오면서, 규제 불확실성이 시장 위험을 지속시킬 가능성이 제기된다. 한편 유럽 주식은 기업 실적 호조와 미국‑이란 외교 낙관감에 힘입어 사상 최고치를 기록했지만, 기술 섹터의 압박이 상승세를 제한하고 있다.
+
+아시아에서는 DBS가 자산 5천억 SGD 돌파와 사상 최고 이익을 발표해 고액 고객 투자 확대를 보여주었으며, NTT도 1분기 실적이 시장 기대치를 앞섰다. 반면 우즈베키스탄 부실채권 확대와 TBC 은행 주가 5% 급락, UBS의 멕시코 은행 평가 하향 등 신흥시장 신용 위험이 부각되고 있다. SpaceX는 AI 지출 확대 우려와 내부자 매각으로 주가 압박을 받고, 헤지펀드가 기술주 매도를 강제하면서 소매 투자자 의존도가 높아졌다. 이러한 흐름은 규제와 기업 실적이 동시에 시장 방향을 좌우하고 있음을 시사한다. 앞으로는 디지털 자산 관련 입법 진행 상황을 면밀히 관찰해야 한다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -973,15 +1071,29 @@ Earnings call transcript: Whirlpool of India posts record Q1 2026 revenue, misse
 
 [Earnings call transcript: Whirlpool of India posts](https://www.investing.com/news/transcripts/earnings-call-transcript-whirlpool-of-india-posts-record-q1-2026-revenue-misses-eps-93CH-4842300)
 
+### 🆕 Hadrian, 방위 수요 확대에 힘입어 13억 달러 자금 조달
+
+Hadrian은 방위 산업 수요 증가를 배경으로 13억 달러 규모의 투자 라운드를 마감했다. 이번 자금은 차세대 무기 시스템 개발과 생산 능력 확대에 사용될 예정이다.
+
+**시사점** — 미국 방위 기업과 공급망 투자자들이 2026년 말까지 신규 계약 규모와 기술 로드맵을 주시해야 한다.
+
+[Hadrian raises $1.37B as defense demand drives exp](https://www.investing.com/news/stock-market-news/hadrian-raises-137b-as-defense-demand-drives-expansion-93CH-4842824)
+
+### Appian, 2026년 2분기 실적 하락… 클라우드 성장 가속 및 마진 확대
+
+Appian은 2026년 2분기 매출이 전년 대비 감소했지만, 클라우드 서비스 매출이 빠르게 증가했다. 동시에 영업 마진이 확대돼 수익성 개선 신호를 보였다.
+
+**시사점** — 기업용 클라우드 솔루션을 검토 중인 대기업 IT 담당자들이 2026년 3분기 제품 로드맵을 주목해야 한다.
+
+[Appian Q2 2026 slides: cloud growth accelerates, m](https://www.investing.com/news/company-news/appian-q2-2026-slides-cloud-growth-accelerates-margins-expand-93CH-4842822)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-최근 USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 권한을 확대하고, ICE가 H‑1B·F‑1 비자 소지자를 대상으로 공항 검문을 강화하면서 인도 출신 전문인·학생들의 불확실성이 커졌다. 이러한 조치는 기존 RFE·NOID 절차를 우회해 신청을 차단할 수 있게 하며, 보안·불법 체류 방지를 명분으로 규제 강화를 보여준다.  
+최근 미국 이민청(USCIS)과 ICE는 서류 미비 신청을 사전 통보 없이 즉시 거부하고, H‑1B·F‑1 비자 소지자에 대한 공항 검문을 확대하는 등 행정 절차를 강화했다. 동시에 공공부담 기준을 지역별로 강화하고, 그린카드 신청자에게 10만 달러 보석금 부과를 검토하는 등 재정적·규제적 압박이 늘어나고 있다. 이러한 조치는 고액 연봉을 받는 H‑1B 근로자조차도 추가 증빙 요구와 수수료 인상에 직면하게 만든다.
 
-한편 연방 지방 법원의 TPS 고용 허가 중단 판결, 알렉스 파딜라 상원의원의 인도 H‑1B 영주권 확대 법안 발의, 그리고 트럼프 행정부의 H‑1B·L1 수수료 인상에 대한 연방 판사의 위법 판결 등은 규제 완화와 법적 보호를 요구하는 움직임을 드러낸다. 메인 주 간호사 협회의 ICE 구금 간호사 그린카드 후원 촉구도 인도주의적 차원에서 정책 재검토를 요구한다.  
-
-앞으로는 연방 법원이 USCIS의 즉시 거부 정책에 대한 적법성 여부를 재검토할 가능성을 주시해야 한다.
+이에 반해 연방 법원은 TPS 수혜자의 고용 허가 종료를 제한하고, 트럼프 행정부의 H‑1B 수수료·그린카드 동결 명령을 위법 판결했다. 인도계 의원과 단체는 H‑1B 영주권 경로 확대와 쿼터 완화를 위한 법안을 제시하며, 주·지자체 차원에서도 구금된 간호사의 그린카드 후원을 촉구하고 있다. 규제 강화와 법·정책적 완화 사이의 긴장이 지속되는 가운데, USCIS의 즉시 거부 정책에 대한 최종 법적 검토가 주목된다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -1166,6 +1278,18 @@ USCIS는 모든 H‑1B, F‑1 학생비자 및 영주권 신청자에게 적용�
 **시사점** — 한국인 난민 및 취업 희망자는 2026년 6월 마이애미 박람회에서 직접 USCIS와 만나 고용 기회를 탐색할 수 있다.
 
 [U.S. Minority Chamber of Commerce Welcomes USCIS M](https://news.google.com/rss/articles/CBMiywJBVV95cUxOSUhGdnU1T2xWZDZaWmF3TTVqU2xCQ3lWYnJ5aWo4TVRyM1R3WF95dUN6ZWNWYUZNU3ZaUzR4NjNOcF8zNGdyendpZGY3XzQzX21CZ1JETjlBdC0tSGFqOGZZVkZ1dmpJd3pOZEg1Yi1faUdWYTBoTjNfcUc5SWljZi0yT3pTZFdpSU1kNVBDbi0wMk1RSFQxOEk1dU9jRjV1TTlYbUlTOUpmODRFdGp5ZDNnZ0ExMFh2bGhQSVNfcVdabHRkZEFsa0FaWVZyTjBYelNwRW52YllycTMzeUFWcEtRVGNLVHJaTUxIcmdxVU1EalFVZWw5bzBrbTB1Vzg1ME51RWdPRjd2b0lKQVVlTkI3a1FUQjFXWV9WMFBCd3dnN3BSellhR3I1QWluZnBzV0ZFUGxGNFR4b3BvVWFQQzFPRUpTbG9GdFpF?oc=5)
+
+### Telangana CM Revanth Reddy Meets US Ambassador, Seeks Faster H-1B Visa Processing - WION
+
+Telangana CM Revanth Reddy Meets US Ambassador, Seeks Faster H-1B Visa Processing    WION
+
+[Telangana CM Revanth Reddy Meets US Ambassador, Se](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmpBbm50REdRdnQ2WGkzclJrcGhzcnNvUDk5MEwtR1VudHlWZVZCS0N1aXg0SVJhQ09STFlVbmo4R21qai1TVXZEcE5pRGN6NzdoQkFZWG5EWFZzaWxCUUc5aHRLZWl3MmRkN1Nab3Baem1KR3VIbzN0eEdoWk12V1VwQmFMVWpQS1hKNktCM2gtNjFQUXI1RlVXSlU1VTI1NC1ibGxBZXRCLVF6Q3EwRGtUdnZRYW95d3drSGRJRkdlTUXSAcgBQVVfeXFMTzdySE82ZC02RFJmeHpwRkRyU0JFS09OQTgwTVBIcFlIa2RRUTBIbzFOZ2xETDBjc04tNmx3Y2xIZ3UtTUVKT1gtODhMM001MHJSMm8tMGlUaUduZGRVb3pyMXZfTWpaTGl1Nmw1cTU5d1ExUnBYX3RQSjUzNUFEUFltUGg5M3NOMjd4cmh6dTEySXdmc2d6MG1NOW91X2h4cW5adjBRVVFtb1NzUWh5cW5CREpiWTMxeHc5QzhkdEQzLUhIdlBid3o?oc=5)
+
+### "Entrapment": Trump's immigration delays fuel jump in ICE arrest targets - Axios
+
+"Entrapment": Trump's immigration delays fuel jump in ICE arrest targets    Axios
+
+["Entrapment": Trump's immigration delays fuel jump](https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWks1RUtkZ0RsLTAta0VZQi0xcU1UMWVha0NiZE5HWVRudnBEek1lTDJlZ21XRkxDR1Q5WG5XLTQ4VEVlb0ZMWFhCMzF5a19ZbVNMbnhreFVUQm9rVnRMdDNEUFpIajAzUWs2SXFwMkYxdExOeUdiSWNDVlk?oc=5)
 
 ## 시장 지표
 
