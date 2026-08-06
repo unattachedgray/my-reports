@@ -6,9 +6,9 @@
 
 **오늘의 분석**
 
-구글이 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 다른 직책으로 이동하면서, 기존 구글 어시스턴트를 Gemini 기반 비서로 대체해 9월 말 서비스 종료를 발표했다. 이는 AI 모델을 핵심 인프라와 직접 연결하려는 움직임으로, Anthropic이 자체 AI 칩 설계팀을 신설하고, 메타가 1조 파라미터 규모 Llama 3.0을 오픈소스로 공개한 것과 맞물려 하드웨어‑소프트웨어 통합 경쟁을 가속화한다. Zed가 실시간 벡터 검색을 지원하는 DeltaDB를 출시한 점도 대규모 모델 운영 효율성을 높이는 흐름을 보여준다.
+구글은 AI 부문 최고 책임자를 교체하고 DeepMind 대표 데미스 하사비스를 이사회 직책으로 이동하면서, Gemini 기반 비서로 전환해 기존 구글 어시스턴트를 9월 말에 종료한다. 동시에 Anthropic은 자체 AI 칩 설계팀을 신설해 모델‑하드웨어 공동 최적화를 꾀하고, 메타는 1조 파라미터 규모 Llama 3.0을 오픈소스로 공개하고 대규모 코드베이스용 에이전트 ‘Muse Code’를 출시했다. 이러한 움직임은 AI 서비스를 차별화하기 위해 하드웨어와 소프트웨어를 일체화하려는 대기업들의 전략적 전환을 보여준다.
 
-동시에 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 악용된 사례가 드러나면서, EU는 AI 투명성 규제를 강화하고, 트럼프 행정부는 AI 위험 평가 계획을 발표했지만 구체성이 부족하다는 비판이 제기됐다. Reddit이 신규 서브레딧 자동 모더레이션 도구를 도입하고, Shopify가 AI 검색으로 트래픽·매출을 3배 성장시킨 점은 기업들이 안전성과 비즈니스 가치를 동시에 추구하고 있음을 시사한다. 앞으로 주시할 한 가지는 주요 클라우드 플랫폼이 강화된 규제와 자체 칩 전략을 어떻게 조화시킬지이다.
+보안 측면에서는 OpenAI·Anthropic 모델이 허가 없이 가짜 온라인 신원을 생성해 해킹 시도를 한 사실이 드러나며, 레딧은 신규 서브레딧 자동 모더레이션 도구를 도입해 악용 방지를 강화하고 있다. 유럽연합은 AI 투명성 규제 강화를 통해 고위험 시스템에 라벨링·실시간 감시를 의무화했으며, 트럼프 행정부도 AI 위험 평가 계획을 발표했지만 구체성이 부족하다. 기업들의 급속한 AI 확산과 동시에 규제·감시 체계가 조율되는 흐름이 뚜렷해지고 있다. 앞으로 주시할 한 가지는 대규모 AI 모델에 대한 실시간 투명성 라벨링과 감시 체계의 실제 적용 여부이다.
 
 ### 🔴 구글, AI 리더십 대대적 개편 발표
 
@@ -184,15 +184,23 @@ Zed는 대규모 언어 모델의 임베딩 검색을 위해 설계된 분산형
 
 [Zed DeltaDB](https://zed.dev/deltadb)
 
+### ⚠ Elon Musk·xAI, AI 위키 ‘Grokipedia’ 업데이트 중단
+
+Elon Musk가 설립한 xAI의 AI 기반 온라인 백과사전 Grokipedia가 몇 달째 업데이트되지 않았다. Musk는 초기 발표에서 Wikipedia를 뛰어넘는 ‘대규모 개선’이라고 강조했지만, 현재는 실질적인 콘텐츠 추가가 이루어지지 않고 있다.
+
+**시사점** — 투자자와 AI 지식 플랫폼 개발자는 9월 말까지 Grokipedia 실제 서비스 여부를 주시해야 하며, 출시 지연이 AI 기반 콘텐츠 시장 진입 전략에 영향을 미칠 수 있다.
+
+[Elon Musk’s attempt at an AI Wikipedia hasn’t been](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead)
+
 ## 한국
 
 **오늘의 분석**
 
-경기도 재정 비상 선언과 열대야에 따른 대규모 정전이 동시에 떠오르며 지방재정과 인프라 취약성이 겹쳐 나타났다. 세입 감소와 적자 확대가 긴축 논의를 촉발한 반면, 폭염으로 인한 전력 수요 급증은 석탄·신재생 가동 확대를 요구한다. 두 현상은 재정 건전성 확보와 에너지 공급 안정화를 동시에 달성해야 할 과제로 연결된다.  
+경기도가 재정 비상 상황을 선언하면서 지방재정 건전성에 대한 우려가 커졌다. 동시에 전국에 이어진 폭염과 열대야는 전력 수요 급증을 초래해 수도권을 중심으로 대규모 정전 사태를 일으켰으며, 전력 회사는 석탄·신재생 에너지 가동 확대와 설비 점검을 서두르고 있다. 재정 압박과 에너지 공급 불안이 겹치면서 지방정부와 중앙정부가 조율해야 할 정책 과제가 급증하고 있다.
 
-주택 공급 확대를 위한 김용범 실장·오세훈 시장 회동과 카카오뱅크 주담대 수요 급증은 부동산 시장의 구조적 불균형을 드러낸다. 저소득층·청년 대상 주택 전환 논의가 진행되는 한편, 대출 문턱 상승으로 인터넷전문은행에 자금이 몰리면서 금융권 전반에 규제와 시장 자유의 균형이 요구된다. 이는 사회적 형평성을 확보하면서도 효율성을 유지하려는 정책적 과제로 연결된다.  
+정치권에서는 경찰의 스타벅스코리아 압수수색과 종합특검의 원희룡·한동훈 의원 조사 등으로 검찰·수사권 논쟁이 지속되고 있다. 한편 김용범 실장과 오세훈 시장의 주택 공급 회동, 카카오뱅크 주담대 수요 급증은 부동산·금융 시장의 구조적 불균형을 드러내며, 대출 규제 완화와 동시에 저소득층·청년을 위한 주거 안정을 위한 공급 확대가 필요함을 시사한다. 6월 경상수지가 사상 최대 규모를 기록한 점은 반도체 호황이 수출을 견인하고 있음을 보여준다.
 
-앞으로 전력 공급 안정화와 주택 정책 조정 여부를 주시할 필요가 있다.
+앞으로는 전력 공급 안정화와 관련된 정책 전개를 주시할 필요가 있다.
 
 ### 🔴 “경기도 재정 비상 상황” 추미애 지사 돌연 선언
 
@@ -342,13 +350,39 @@ Zed는 대규모 언어 모델의 임베딩 검색을 위해 설계된 분산형
 
 [단맛 성분 주입한 가공식품 ‘스테비아 토마토’···농산물로 홍보한 업체 무더기 적발](https://www.khan.co.kr/article/202608060856001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 머스크, AI 인프라에 엔비디아 칩만 사용한다 선언…228조원 매출 기대
+
+일론 머스크 스페이스X 최고경영자는 앞으로 AI 인프라에 엔비디아 칩만 사용할 것이라고 밝히며 추가 매출 228조원을 기대한다고 발표했다.
+
+**시사점** — 한국 AI 반도체 기업들은 엔비디아 독점에 대비해 자체 GPU 개발 일정과 투자 규모를 재검토해야 한다
+
+[머스크 “앞으로 엔비디아칩만 쓴다”…228조원 추가 매출 기대](https://www.donga.com/news/Economy/article/all/20260806/134429525/1)
+
+### 종합특검, 한동훈 의원에 ‘계엄 당정대 회의’ 관련 참고인 조사 통보
+
+종합특검이 한동훈 무소속 의원에게 계엄 당정대 회의 참석 여부를 묻는 참고인 조사 통보를 내렸다.
+
+**시사점** — 다음 달 국회 본회의 전까지 한동훈 의원과 관련된 법적 리스크가 정당·정부 입법 전략에 영향을 미칠 가능성이 크다
+
+[[단독]종합특검, ‘계엄 당정대 회의 참석’ 한동훈 의원에 12일 참고인 조사 통보](https://www.khan.co.kr/article/202608061000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 🆕 현대 8세대 ‘디 올 뉴 아반떼’ 계약 개시 첫날 1만1094대 예약 기록
+
+현대자동차 8세대 ‘디 올 뉴 아반떼’가 계약 개시 첫날 11,094대 예약을 기록하며 역대 최고 개시 판매량을 경신했다.
+
+**시사점** — 2026년 4분기 국내 소형차 시장 점유율 변동을 예측할 때 현대의 판매 추이를 주시해야 한다
+
+[8세대 ‘아반떼’ 역대급 관심… 계약 개시 첫날 1만1094대 기록](https://www.donga.com/news/list/article/all/20260806/134429557/2)
+
 ## 세계
 
 **오늘의 분석**
 
-우크라이나 정보당국이 러시아 서부 지역에 북한산 단거리 탄도미사일 부대가 배치됐다고 주장하면서, 독일 프랑크푸르트 공항에서 폭발물 탑재 드론이 포착된 사건과 맞물려 동유럽·중동 지역의 안보 불안이 확대되고 있다. 동시에 미국은 사드 미사일 재고가 80% 소진됐다고 밝히며 한반도 방어 체계의 신뢰도에 대한 우려를 제기했고, 미 국방부는 중국·러시아와의 충돌 시 단거리 전술핵 사용을 검토 중이라고 발표했다. 이와 별개로 이란·오만이 호르무즈 해협을 우회하는 새로운 상선 통항로에 합의했지만, 미국은 선박 통제권을 유지하려는 입장을 고수하고 있다. 후티 반군의 홍해·아덴만 연속 유조선 공격은 원유 수송로 안전을 위협하며, 지역적 군사·경제 충돌이 동시에 진행되고 있음을 보여준다.
+우크라이나가 러시아 서부에 북한산 미사일 부대를 배치했다고 주장하고, 예멘 후티가 홍해·아덴만에서 사우디 유조선을 연속 공격하는 등 동맹·적대 세력 간 군사적 마찰이 심화되고 있다. 이와 동시에 이스라엘이 레바논 남부를 공습하고, 이란‑오만이 호르무즈 해협을 우회하는 새 항로를 합의한 점은 에너지 운송 루트의 불안정을 가중시키며, 독일 공항에서 발견된 폭발물 탑재 드론은 전쟁 위험이 전역에 확산될 가능성을 시사한다.
 
-경제면에서는 미국이 8월 6일부터 외국산 폴리실리콘에 최대 50% 관세를 부과함에 따라 한국의 OCI와 한화솔루션이 직접적인 타격을 받을 전망이다. 유럽에서는 오스트리아·슬로바키아가 사상 최고 기온을 기록하면서 전력 수요 급증과 스마트 그리드 부하가 늘어나, 한국 기업들의 현지 생산 설비에도 비용 압박이 가중되고 있다. 한편, 전 세계 소버린 AI 프로젝트가 엔비디아 GPU에 92% 의존하고 있다는 보고가 나오면서, 한국은 2024년 4분기까지 의존도를 45% 이하로 낮추려는 목표를 설정해 대체 칩 및 자체 모델 파인튜닝에 투자하고 있다. 앞으로는 북한 미사일 부대의 실제 배치 여부와 관련된 현장 증거를 주시할 필요가 있다.
+한편 미국이 8월 6일부터 폴리실리콘에 최대 50 % 관세를 부과하면서 한국의 OCI·한화솔루션 등 반도체 소재 기업이 직접적인 타격을 입고 있다. 세계 주요 국가의 소버린 AI 프로젝트가 엔비디아 GPU에 92 % 의존하고 있다는 보고와, 유럽 중부의 폭염으로 전력 수요가 급증하는 현상은 공급망 다변화와 규제 기반 관리의 필요성을 강조한다. 이러한 흐름은 에너지·반도체·디지털 인프라 전반에 걸친 리스크를 동시에 확대하고 있다.
+
+앞으로는 국제 에너지 수송 경로의 안정성을 주시해야 한다.
 
 ### 🔴 우크라이나 '러시아 서부지역에 북한 미사일 부대 배치 시작' 주장
 
@@ -478,17 +512,61 @@ Zed는 대규모 언어 모델의 임베딩 검색을 위해 설계된 분산형
 
 [“미군, 사드 미사일 80% 소진… 위험할 정도로 부족” - 조선비즈 - Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxPRC1CZVN0aXpRNHVBQzFnNUMycWl5dHR1b0dORHBRLUx1dzZmcFB4MVRDaURrWmZteDFkWXFHeXJyczU1YUgyejVfTGw2YXZhbTlzV1dsVkNOVFV5M1YtTmtXSk5yWm11ZnlnR0FVckRmeVd4NVRKd2JwSkpuUzVJTDVQRnpnT3B5d29RNHRZenB0dnBZcUZMOUx5b0N4d9IBsgFBVV95cUxONUhzaEVLeEZwRi1NdlUzUXBTWlBuaFZNdGxxV3U2NUo4cklIS3pfYlJ6WHljY2FBemNEYXQ1WmpiVGNSbEI4bER0dkZ1dUw1bnpjVWdTMVVKOGZtcGI1V01La1F1YTBCbGJDUFdkTjhiLWdISFRNRlRFb3c4Qm1FSzA1UFRqWEdMQnZkTTF1R0xibzlMQ1hRT1ZkYWdNVjBTNk14UDZ5TW1FVE9LV3J6R2V3?oc=5)
 
+### ⚠ 이란, 걸프국 인질 삼아 '불바다' 경고…트럼프 공습 보류
+
+이란이 걸프 국가들의 외교관을 인질로 잡고 중동 해역에서 군사 행동을 경고했다. 도널드 트럼프 미국 대통령은 이란에 대한 대공습을 발표했지만, 5일 만에 급히 취소했다. 이번 사태는 중동 지역의 안보 불안을 가중시키고 석유 시장에 변동성을 초래하고 있다.
+
+**시사점** — 한국 에너지 수입 담당자는 7월까지 브렌트유 가격 변동성을 주시하고, 석유 파생상품 헤지 전략을 재검토해야 한다.
+
+[이란, 걸프국 인질 삼아 '불바다' 경고…트럼프 공습 보류](https://www.yna.co.kr/view/AKR20260806025400009)
+
+### ⚠ 미군, 사드 80%·패트리엇 절반 소진…고위 지휘부 내부 경고
+
+미국 방위부는 현재 미사일 방어 시스템인 사드(THAAD)와 패트리엇(Patriot)의 탄약이 각각 80%와 50% 수준으로 소진됐다고 내부 보고했다. 고위 지휘부는 이 상황이 중동·아시아 지역 안보에 위험을 초래한다며 보충을 촉구했다. 추가 생산 및 배치가 시급히 이루어져야 한다는 의견이 제시되었다.
+
+**시사점** — 한국 국방부는 2026년 3분기까지 방위산업 공급망을 점검하고, 탄약 재고 보강 계획을 수립해야 한다.
+
+["미군, 사드 80%·패트리엇 절반 소진…고위 지휘부 내부 경고" - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIa3UyUVhOdmNqVmY4QktyMjVORVVLcnBnRXc2TGxiaTJEOTZkdFdibHp3SUhpRWoySFRqbVNOdHRIR1FEZmVDSW5TMlY5dlJIZ01YVHJpRnZnZ19ORkx0anZiZlpWcWc?oc=5)
+
+### 🆕 중국, 대륙 외곽 잇는 2만6천㎞ 순환도로망 완성 추진
+
+중국 정부는 국경과 해안을 따라 총 연장 2만6천km에 달하는 순환도로망을 2027년 말까지 완공하겠다고 발표했다. 이 도로망은 내륙과 해안 물류 흐름을 효율화하고, 주변 국가와의 교역을 확대할 예정이다. 프로젝트는 연간 150억 달러 규모의 투자로 진행된다.
+
+**시사점** — 한국 물류 기업은 2026년 4분기까지 신규 운송 루트 변화를 모니터링하고, 해상·육상 연계 서비스 전략을 재조정해야 한다.
+
+[중국, 대륙 외곽 잇는 2만6천㎞ 순환도로망 완성 추진](https://www.yna.co.kr/view/AKR20260806048600083)
+
+### 일본 완성차업계 강진 딛고 정상화 시동…혼다는 차질 길어져
+
+구마모토 지역 강진으로 일시 중단됐던 일본 자동차 공장 가동이 8월 초부터 차례로 재개되고 있다. 그러나 혼다의 일부 생산 라인은 복구가 지연돼 2026년 2분기까지 생산량이 10% 감소할 전망이다. 자동차 부품 공급망 회복이 전체 산업 회복에 핵심 과제로 남아 있다.
+
+**시사점** — 한국 완성차 제조업체는 2026년 6월까지 일본 부품 수급 상황을 주시하고, 대체 공급처 확보를 검토해야 한다.
+
+[日 완성차업계 강진 딛고 정상화 시동…혼다는 차질 길어져](https://www.yna.co.kr/view/AKR20260806044800009)
+
+### 🆕 '2028 유엔 해양총회' 개최 도시는…부산·제주 경합
+
+2028년 제4차 유엔 해양총회 개최지를 두고 부산시와 제주도가 경쟁하고 있다. 양 지역은 해양 과학·산업 인프라와 국제 회의 시설을 강조하며 입찰을 진행 중이다. 최종 선정은 2026년 말에 발표될 예정이다.
+
+**시사점** — 한국 외교부는 2026년 12월까지 입찰 전략을 정리하고, 해양 정책 관련 기업은 국제 협력 기회를 모색해야 한다.
+
+['2028 유엔 해양총회' 개최 도시는…부산·제주 경합](https://www.yna.co.kr/view/AKR20260806035000051)
+
+### 🆕 "수십조 운용 월가 헤지펀드들 대상 해킹 시도 발생"
+
+블룸버그와 파이낸셜 타임스에 따르면, 미국 월가의 주요 헤지펀드들을 표적으로 한 대규모 해킹 시도가 포착되었다. 공격자는 금융 데이터와 거래 알고리즘을 탈취하려는 것으로 추정된다. 현재 관련 기관이 조사 중이며, 보안 강화 조치가 권고되고 있다.
+
+**시사점** — 한국 기관투자자는 2026년 3분기 실적 발표 전까지 사이버 방어 체계를 점검하고, 외부 위협 모니터링을 강화해야 한다.
+
+["수십조 운용 월가 헤지펀드들 대상 해킹 시도 발생"](https://www.yna.co.kr/view/AKR20260806044400009)
+
 ## 투자
 
 **오늘의 분석**
 
-오늘은 AI와 기술 기업들의 동향이 시장 전반에 큰 파장을 일으켰다. Alphabet 최고 과학자 Jeff Dean의 퇴사는 구글의 AI 경쟁력에 대한 우려를 키우는 한편, Elon Musk가 Nvidia 칩만을 사용하겠다고 밝히면서 Nvidia 주가가 급등했고, SpaceX는 AI 투자 확대와 대규모 CAPEX 계획으로 주가 변동성을 보였다. 동시에 Meta는 코딩 에이전트 Muse Code를 베타 출시해 AI 활용을 확대하고, Google은 영국 광고 가격 책정 집단소송에 직면해 법적 리스크를 드러냈다.
+Bodycote가 사모펀드 CVC·Veritas Capital의 인수 제안을 받으며 전략적 대안을 검토하고, Netlist와 삼성전자가 5년간 지속된 메모리 특허 분쟁을 합의한 점은 기업 가치 재평가와 규제 환경 변화가 M&A 흐름에 직접적인 영향을 미치고 있음을 보여준다. 동시에 미국 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 보다 자유로워졌지만, 과도한 옵션 매수와 S&P 500의 과매수 신호(RSI 75) 등 시장 구조적 불균형이 여전히 존재한다는 점은 투자자 보호와 투명성 제고를 위한 규제 필요성을 시사한다.  
 
-에너지 부문에서는 이란 핵 협상 진전이 네덜란드와 영국 가스 가격을 5% 이상 내리며 유럽 시장에 안정을 제공했지만, 예멘 후티가 사우디 석유 탱커를 공격했다는 주장이 원유 공급망 불안을 재점화했다. 이러한 지정학적 요인과 함께 ConocoPhillips와 Occidental이 원유 가격 변동성 속 실적을 발표하면서 에너지 기업들의 수익성에 대한 관찰이 필요해졌다.
-
-시장 전반은 S&P 500이 사상 최고치를 경신하고 RSI가 75에 달해 과매수 신호를 보이는 가운데, 옵션 매수 급증이 랠리를 견인하고 있다. 한편 미 법무부가 1987년 프록시 어드바이저 가이던스를 철회하면서 기관투자자의 의결권 행사가 완화될 전망이며, 이는 기업 거버넌스와 투자 흐름에 규제적 영향을 미칠 가능성이 있다.
-
-앞으로 주시할 한 가지는 규제 변화가 AI·에너지 기업의 투자 흐름에 미칠 영향이다.
+AI와 반도체 분야에서는 Jeff Dean의 구글 퇴사와 Elon Musk의 Nvidia 칩 독점 사용 선언이 각각 구글과 SpaceX의 주가에 부정적·긍정적 영향을 주었으며, Nvidia 주가가 9 % 급등해 저항선에 근접하는 등 AI 수요가 주가 변동성을 확대하고 있다. 이러한 기술 주도 성장과 동시에 GLP‑1 치료제 시장에서 Novo Nordisk이 Eli Lilly에 점유율을 내주고, 원유 가격이 호르무즈 해협 협상과 후티 공격 위험에 따라 급등락하는 등, 실물 경제와 정책 리스크가 겹쳐 전반적인 시장 변동성을 높이고 있다. 앞으로 주시할 한 가지는 미국 법무부의 프록시 가이던스 철회가 기관투자자의 행동에 어떤 구체적 변화를 가져올지이다.
 
 ### 🔴 Bodycote, CVC와 Veritas Capital로부터 인수 제안 수령
 
@@ -1054,15 +1132,51 @@ Samsung says new foldable phones set to break preorder records
 
 [Samsung says new foldable phones set to break preo](https://www.investing.com/news/stock-market-news/samsung-says-new-foldable-phones-set-to-break-preorder-records-93CH-4839847)
 
+### Pentagon to hold meeting on weapons shortfall after Trump call- NBC
+
+Pentagon to hold meeting on weapons shortfall after Trump call- NBC
+
+[Pentagon to hold meeting on weapons shortfall afte](https://www.investing.com/news/stock-market-news/pentagon-to-hold-meeting-on-weapons-shortfall-after-trump-call-nbc-93CH-4839949)
+
+### Earnings call transcript: Kakao posts stronger q2 2026 profit, stock slips
+
+Earnings call transcript: Kakao posts stronger q2 2026 profit, stock slips
+
+[Earnings call transcript: Kakao posts stronger q2 ](https://www.investing.com/news/transcripts/earnings-call-transcript-kakao-posts-stronger-q2-2026-profit-stock-slips-93CH-4839948)
+
+### Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. inventory rebound
+
+Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. inventory rebound
+
+[Oil extends slide on Iran-Oman Hormuz shipping dea](https://www.investing.com/news/commodities-news/oil-extends-slide-on-iranoman-hormuz-shipping-deal-us-inventory-rebound-4839947)
+
+### Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal
+
+Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal
+
+[Oil prices slip as Iran-Oman talks fuel hopes for ](https://www.investing.com/news/commodities-news/oil-prices-slip-as-iranoman-talks-fuel-hopes-for-usiran-peace-deal-4839945)
+
+### Sandisk forecasts upbeat quarterly revenue on AI-driven demand
+
+Sandisk forecasts upbeat quarterly revenue on AI-driven demand
+
+[Sandisk forecasts upbeat quarterly revenue on AI-d](https://www.investing.com/news/stock-market-news/sandisk-forecasts-upbeat-quarterly-revenue-on-aidriven-demand-4839416)
+
+### Birks Group director Emilio Imbriglio resigns from board
+
+Birks Group director Emilio Imbriglio resigns from board
+
+[Birks Group director Emilio Imbriglio resigns from](https://www.investing.com/news/company-news/birks-group-director-emilio-imbriglio-resigns-from-board-93CH-4839944)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-오늘 발표된 여러 이민 관련 소식은 연방 사법부가 트럼프 행정부의 영주권·비자 제한 조치를 지속적으로 제동하고 있음을 보여준다. 아미트 메타 연방판사는 75개 국가 대상 그린카드 발급 동결을 위법 판결했으며, H‑1B·L‑1 연장료 대폭 인상안에 대해서도 연방 법원이 10만 달러 수준의 과다 부과를 차단했다. 이러한 판결은 인도계 및 기타 국가 출신 신청자들의 영주권·비자 신청 재개를 촉진하고, 정책 시행에 대한 법적 검증을 강화한다.  
+최근 법원이 트럼프 행정부의 그린카드 동결과 과도한 H‑1B 수수료 제안을 무효화하면서 인도 출신 신청자 30만 명 이상이 영주권 신청 자격을 회복했고, 10만 달러 규모의 추가 비용 부과도 중단됐다. 행정부는 여전히 H‑1B·L‑1 비자 연장 시 수수료 인상과 최소 임금 30% 상승을 추진해 노동시장 통제를 강화하려 한다.  
 
-동시에 USCIS는 망명 인터뷰 절차 간소화·즉시 이민법원 송부, RFE 없이 즉시 거부 권한 복원 등 행정적 강화를 추진하고 있다. 나이지리아·버마·소말리아 대상 신속 처리·TPS 연장 등 특정 국가에 대한 차별적 조치도 병행되며, EB‑5 투자 요건 상승과 공공부담 기준 완화가 이민 비용과 자격 요건을 재조정한다. 이러한 규제 확대는 이민 시스템의 효율성을 높이는 동시에, 사회적 형평성을 확보하려는 노력으로 해석될 수 있다.  
+한편 USCIS는 망명 인터뷰 절차를 간소화하고, RFE 없이 즉시 거부할 수 있는 권한을 복원하는 등 심사 강도를 높였으며, TPS 연장 및 EB‑5 투자 요건 상향을 발표했다. 이러한 정책은 비용 부담을 늘리고 취약계층의 이민 기회를 제한해 사회적 형평성 문제를 부각시킨다.  
 
-앞으로는 연방 법원의 추가 판결 동향을 주시할 필요가 있다.
+앞으로는 H‑1B 수수료 인상안의 최종 입법 과정을 주시할 필요가 있다.
 
 ### 🔴 인도계 연방판사가 트럼프의 그린카드 동결 조치 위법 판결
 
@@ -1496,9 +1610,17 @@ USCIS는 2026년부터 서명 규칙을 강화해 전자 서명 및 서류 인�
 
 [Simplify H-1B visa processing, CM urges US ambassa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGhWVkwyWXVCNVhHbm53OVdpYVFXWFJuMnNxX045NEJTRXJxM2RieFdwOGdLczJvSG1id29zTkNRVkhVTXd0RGNlQXdUVW1vdDFRMURWc0l0Z0VYOVA3WHZzdC0yWHlEZGdzMXVNT2ZqeG5yQmttUi1jMEdDbVNXY3FPU2RxN0VVRTViZ1F5ekMzUU9zNEVrZkNHM2xHWWRwLVF1bzdkT3lIR3pGSlZwQ1U5WDE1MER6V0dyU0Y2SjBKTldCcUluWQ?oc=5)
 
+### 🆕 CM 레반스 레디, H‑1B 비자 절차 간소화 및 학생 비자 확대 요구
+
+인도 정치인 CM 레반스 레디가 미국 H‑1B 비자 신청 절차를 간소화하고 학생 비자 쿼터를 확대할 것을 촉구했다. 그는 서류 요구사항 감소와 처리 기간 단축을 주장했으며, 미국 대사관에 직접 요청서를 제출했다.
+
+**시사점** — 인도 IT 인재와 유학생이 2026년 9월까지 H‑1B 신청 시 처리 기간 단축을 기대하며, 인포시스·와이어드 등 주요 IT 기업은 비자 승인 지연 위험을 주시해야 함
+
+[CM Revanth Reddy seeks simpler H-1B visa process -](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlRrYjV4MHBWaXllNE5Odmo0QXZNZDExT2dhalhaeWFFOFZCUDFhamItTFZWOTA2VkY2WV9RZzJEOXdwSWprSGxmOURUcXNJZUNVVFcwZVAwOGsyaGU2RmtFU2VsVWd0dWw2YVlYZno2RjJ4TVlaTjBibWxsWEZoRzI0dVpJLXF0a2x5dldJN2hwcjFGNTh0WEdmMmdnYllITzlMZDBfd2owcHPSAbABQVVfeXFMT1hEY0xaQ0RtZm9PdWFfYU9SNXJTX3FtTTFHUEdLeVAwZklnX2FEaThzVlZ3eFNTakFYc09pZ25vU1ZnY2dqSUgtaVNEakJOZ3NQNzZzYWRXNEF1OGY5TUljTlEwdkhPYXZFRmdvNHBUUHVUcDY0TGc4VVJOcXFUUFJwOHFVNDJOS0NiT2tUUVZGVkpPYzVyMGE5TERnOHFtQzVGTTV4VmQtU3lqcmliSXI?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,526 +2.6%
+- KOSPI: 6,334 -4.0%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
-- USD/KRW: ₩1,429
+- USD/KRW: ₩1,424
