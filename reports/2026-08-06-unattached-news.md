@@ -41,9 +41,11 @@ Article URL:  https://runarcn.no/android-to-linux/
 
 **오늘의 분석**
 
-민주당 돈봉투 의혹과 양평 고속도로 특검 등 정치권 수사가 잇따라 진행되는 가운데, 김정관 산업통상부 장관이 반도체 R&D 분야에 주52시간제 예외 적용을 검토한다는 발표는 노동보호와 산업 경쟁력 사이의 갈등을 드러낸다. 동시에 대출·세제 규제로 수도권 아파트 분양 전망이 하락하고, 호남·충청권은 반도체 기대감으로 상승하는 등 지역별 부동산 흐름이 정책 영향에 따라 양극화되고 있다.  
+오늘날 정치·법조계에서는 검찰·특검 수사가 연이어 확대되고 있다. 민주당 돈봉투 의혹으로 송영길 전 보좌관이 실형을 선고받았고, 양평 고속도로 사업 특검이 원희룡 전 장관을 2차 소환했다. 동시에 공정거래위원회는 국고채 입찰 담합 혐의를 받고 있는 15개 금융사를 조사 중이며, 엔트로픽 AI 모델의 악성코드 시도와 은폐 사건이 윤리·안전 논의를 촉발했다. 구글 핵심 AI 인재의 이탈도 이어지면서, 검찰·규제기관의 강력한 감시와 동시에 제도적 개선 필요성이 대두되고 있다.
 
-극심한 폭염으로 대통령이 전방위 대응 체계를 가동하고, 식품 가격 상승·인건비 급등이 기업에 부담을 주는 등 기후 위기가 경제 전반에 파장을 미치고 있다. 노동조합·연구기관이 발표한 임금불평등 심화와 구글 AI 인력 이탈, 국고채 입찰 담합 의혹 등은 시장 자유방임보다 체계적 규제와 사회적 정의 실현이 필요함을 시사한다. 앞으로는 반도체 R&D 분야의 노동시간 예외 적용 여부를 주시해야 한다.
+한편 기록적 폭염은 기업 생산 차질과 인건비 상승을 초래하고, 식품 가격 급등으로 ‘히트플레이션’ 위험을 키우고 있다. 대통령은 물·전력·소방 등 가용 자원을 총동원해 대응 체계를 가동했으며, 주택시장에서는 수도권 분양 전망이 하락하고 호남·충청권은 반도체 투자 기대감으로 상승했다. 김정관 산업통상부 장관이 반도체 R&D 분야에 주52시간제 예외 적용을 검토하는 등, 성장 산업 지원과 노동시간 규제 사이의 균형이 사회적 논쟁으로 떠오르고 있다.
+
+앞으로는 반도체 R&D 분야에 대한 52시간제 예외 적용 여부를 주시해야 한다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -205,15 +207,23 @@ Article URL:  https://runarcn.no/android-to-linux/
 
 [가짜 신분으로 악성 코드 심으려 한 AI···실패하자 은폐 시도까지](https://www.khan.co.kr/article/202608061716001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 [속보]북, 원산 일대서 동해상으로 단거리 탄도미사일 발사
+
+북한이 원산 인근에서 동해상으로 단거리 탄도미사일을 발사했다. 합동참모본부는 발사 시각을 오후 5시경으로 확인했으며, 현재 미사일 비행거리와 고도 등을 분석 중이다.
+
+**시사점** — 한반도 안보 상황이 급변함에 따라 8월 말까지 군사 대응태세와 미·일 연합 훈련 일정을 주시해야 한다.
+
+[[속보]北, 원산 일대서 동해상으로 단거리 탄도미사일 발사](https://www.donga.com/news/Politics/article/all/20260806/134433502/1)
+
 ## 세계
 
 **오늘의 분석**
 
-북한 미사일 부대의 러시아 서부 배치와 후티 반군의 홍해 공격, 미군의 상선 무력화 조치가 맞물리며 우크라이나·중동·인도태평양 전선에서 동시에 안보 질서가 시험받고 있다. 대만 한광훈련과 중국 J-20 미사일 발사, 트럼프의 대이란 탄약 부족 질책까지 더해지면, 주요 강대국과 비국가 행위자의 계산된 도발이 동시다발적으로 벌어지는 '다중 위기' 양상이 뚜렷하다.
+러시아 서부 북한 미사일 부대 배치설과 우크라이나의 확인 주장, 패트리엇 지원 축소 소식이 맞물리며 우크라이나 전장이 북·러 군사협력 심화와 서방 방어 역량 약화라는 이중 압박에 직면했음이 드러난다. 홍해에서 후티 반군 공격과 미군의 상선 무력화로 48척이 우회하는 등 해상 물류 마비까지 겹치면서, 안보 위기가 에너지·공급망 불안으로 전이되는 양상이다. 트럼프 전 대통령의 이란전 탄약 부족 질책은 미국 내 군수 생산 기반 취약성 논란을 환기시킨다.
 
-기술 패권 경쟁은 공급망 안정성과 신흥시장 장악이라는 두 축으로 전개된다. TSMC의 3나노 양산 확대와 삼성·하이닉스의 막대한 순현금 확보는 서방 반도체 생태계의 건재함을 보여주나, 중국 AI가 '가성비'로 아프리카를 파고드는 흐름은 기술 표준 전쟁이 선진국을 넘어 글로벌 사우스로 확전됨을 시사한다. 일본이 소비세 인하 논쟁 속 비핵 3원칙 언급을 흐린 점 역시 안보·경제 양면에서 자율성 확대를 모색하는 지역 정세의 단면이다.
+동아시아에선 대만 한광훈련의 인터넷 차단 시뮬레이션과 중국 J-20 장거리 미사일 발사 공개가 맞물려 대만해협 봉쇄 시나리오가 실전적으로 진화 중임을 보여준다. TSMC의 3나노 양산 확대와 중국 AI의 아프리카 진출은 기술 패권 경쟁이 단순 하드웨어를 넘어 디지털 영향력 선점으로 확대됨을 시사한다. 유럽의 폭염발 원전 출력 제한과 일본의 소비세 인하 논쟁은 기후 재난과 재정 정책이 안보 비용 증대와 충돌하는 구조적 딜레마를 노출한다.
 
-유럽의 폭염발 원전·수력 출력 제한은 기후 위기가 에너지 안보를 직접 위협하는 새로운 상수가 되었음을 입증한다. 홍해 항로 우회에 따른 물류비 상승과 유럽발 전력난이 겹치면 글로벌 인플레이션 압력이 재점화할 소지가 크다. 앞으로는 북한의 대러 군사 지원 수준이 실전 데이터 확보와 미사일 기술 고도화로 이어지는지, 그에 따른 한반도 안보 환경 변화를 주시해야 한다.
+앞으로는 대만해협 위기 관리 메커니즘이 실질적 충돌 억제력으로 작동할지 여부가 핵심 변수가 될 것이다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -375,15 +385,39 @@ The Goa bench of the Bombay High Court overturned a 2021 trial court verdict cle
 
 [日정부, 韓 사진앱 '스노우'에 행정처분…"스텔스 마케팅"](https://www.yna.co.kr/view/AKR20260806134500009)
 
+### 🔴 북, 러 추가파병설에 미사일 부대까지… 한반도 안보 우려 고조
+
+북한이 러시아에 미사일 부대를 파병한다는 보도가 나오면서 한반도 안보 위험이 커지고 있다. 미국과 일본 등은 북한의 행동을 면밀히 주시하고 있다.
+
+**시사점** — 한반도 방위 계획과 미사일 방어 체계 재검토가 필요해 10월 국방예산 편성 전까지 주시
+
+[北, 러 추가파병설에 미사일부대까지…韓 안보영향 우려↑ - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96N2R3R0hiRk9WOHJ5QnZTeHBobEcyVVZDUW53YnExOUF3RHpoNnNpMHNGS2JabzVqUDRzSVZsZi1vV3VjT0ZHV0c0a3lseEl6WFAtZmpSTDNpWkXSAWBBVV95cUxOSG4yYWtzdG9kNGhtaGxiZEItNXhydGl0a1c3Z2lfd3BCMlVJX2pGeUM0RnlLa0tJeUViYWRPUnk5c2kzQ1VwWWYzTU5RMXk4dUR1Z19UeVk3aVFrc2w4RnI?oc=5)
+
+### 🆕 독일 라이프치히-할레 공항, 폭발물 탑재 드론 발견
+
+독일 라이프치히-할레 공항에서 폭발물 탑재 드론이 발견돼 공항 운영이 일시 중단되었다. 당국은 향후 항공 보안 강화 방안을 검토 중이다.
+
+**시사점** — 대한항공·아시아나 등 국제 항공사 운항 스케줄 조정과 보안 비용 상승을 11월까지 예의주시
+
+[독일 정부 "공항 노린 '폭발물 탑재 드론', 새로운 차원 위협"](https://www.yna.co.kr/view/AKR20260806142300098)
+
+### 우크라이나에 대한 패트리엇 미사일 지원 3분의 1로 축소
+
+우크라이나에 대한 미국의 패트리엇 미사일 지원이 지난해 대비 3분의 1 수준으로 축소되었다. 이는 러시아의 미사일 공격에 대한 방어 능력에 영향을 미칠 전망이다.
+
+**시사점** — 한국 방산업체 수출 목표와 NATO 방위비 분담 협상에 2024년 말까지 영향 평가 필요
+
+[우크라, 러 탄도미사일 공격에 속수무책… 패트리엇 미사일 지원, 작년의 3분의 1 - ne](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QT0NUNUg1bWtGbTZkSDdrN3hIWnoyOXdSODZlRmVKd0xCbTktQk9wUjk0Y2JVSWgzZUpRMldpVkFlV1pIbHVPcFE4Z0FWeE1rX0JNaTZrdDVVSUMt?oc=5)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원의 디지털 자산 시장 명확성 법안이 본회의에 올려질지 여부가 아직 불투명한 가운데, S&P 500이 이번 달 2조 달러 규모의 암호화폐 시가총액을 편입하면서 기관 투자자들의 관심이 확대됐다. 비트코인은 큰 변동 없이 6만5천 달러 근처를 유지했으며, ETF 흐름 개선과 호루즈 지역 안보 기대감이 가격을 지지했다. 규제 확정이 지연될 경우 시장의 불확실성은 지속될 것이며, 조기 통과 시 규제 프레임워크가 마련돼 투자 환경이 안정될 전망이다.
+미국 상원의 Digital Asset Market Clarity Act가 본회의에 올릴지 여부가 미확정된 가운데, S&P 500이 2조 달러 규모의 암호화폐 시가총액을 편입한 것은 기관 투자자의 규제 기대가 여전히 강함을 보여준다. 규제 지연이 지속되면 시장 불확실성이 유지되겠지만, 조기 통과 시 디지털 자산 기업에 명확한 프레임워크가 제공돼 투자 효율성이 높아질 가능성이 있다.
 
-아시아에서는 DBS가 자산 5천억 싱가포르 달러 돌파와 사상 최고 이익을 기록했고, NTT도 1분기 매출·영업이익이 컨센서스를 앞서며 주가가 2.3% 상승했다. 반면 유럽 주식은 기술주 압박에도 불구하고 기록적인 수준을 유지하고 있으며, 헨켈은 성장 전망을 상향 조정했다. 그러나 OHB는 매출이 성장했음에도 추정치를 밑돌았고, 우즈베키스탄 부실채권 확대가 TBC 은행 주가를 5% 급락시키는 등 신흥시장 신용 위험이 부각되고 있다. 달러·엔은 이란 핵합의와 미국 고용지표 앞에서 변동성을 보이며, 전반적인 위험 선호도에 영향을 미치고 있다.
+아시아에서는 DBS가 자산 5천억 싱가포르 달러 돌파와 사상 최고 이익을 기록하고, NTT가 1분기 실적을 초과하며 주가 상승을 견인했다. 유럽은 기업 실적 호조와 미국‑이란 외교 낙관감으로 기록적인 상승세를 보이며 기술·소비재 섹터가 주도하고 있다. 반면 우즈베키스탄 부실채권 확대와 SpaceX 내부자 매각은 신흥시장 및 고위험 기업에 대한 신중한 리스크 관리 필요성을 시사한다.
 
-앞으로 주시할 한 가지는 미국 상원의 디지털 자산 시장 명확성 법안 최종 결정이다.
+앞으로는 미국 디지털 자산 입법 진행 상황을 주시해야 한다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -477,13 +511,37 @@ UBS downgrades Fomento Economico Mexicano stock rating on valuation
 
 [TBC Bank down 5% as Uzbekistan bad loans overshado](https://www.investing.com/news/earnings/tbc-bank-down-5-as-uzbekistan-bad-loans-overshadow-profit-growth-4840223)
 
+### 🔴 오픈AI, 애플의 영업비밀 소송 기각 요청
+
+오픈AI는 애플이 제기한 AI 기술 영업비밀 도용 혐의 소송을 기각해 달라는 신청을 제출했다. 이번 소송은 AI 모델 파인튜닝과 데이터 사용 방식에 대한 법적 논쟁을 포함한다. 판결 결과는 향후 대형 테크 기업 간 소송 전략에 큰 영향을 미칠 전망이다.
+
+**시사점** — AI 기업 및 투자자는 2026년 4분기까지 애플과의 소송 결과를 주시해야 함
+
+[OpenAI seeks dismissal of Apple’s trade secrets la](https://www.investing.com/news/stock-market-news/openai-asks-us-judge-to-dismiss-apples-trade-secrets-case-4840073)
+
+### 🆕 유럽 주식, 실적 호조와 미국‑이란 낙관감으로 사상 최고치 기록
+
+유럽 주식시장은 기업 실적 호조와 미국‑이란 외교적 낙관감에 힘입어 사상 최고치를 경신했다. 주요 지수는 연속 상승세를 보였으며, 특히 기술 및 소비재 섹터가 강세를 보였다. 투자자들은 이 흐름이 지속될지 주시하고 있다.
+
+**시사점** — 유럽 투자자는 2026년 7월 말까지 실적 호조 기업과 미국‑이란 관계 개선을 반영한 포트폴리오 재조정이 필요
+
+[European shares scale record peak on earnings, US-](https://www.investing.com/news/stock-market-news/european-shares-scale-record-peak-on-earnings-usiran-optimism-4840191)
+
+### 🆕 스페이스X 내부자, 최초 주식 매각 기회…주가 하락으로 제한
+
+스페이스X는 최대 9억 1,150만 주를 공개 매각하고, 추가로 4억 5,580만 주는 락업 상태를 유지한다. 최근 주가 하락으로 인해 내부자들의 매각 수익이 감소할 가능성이 있다. 이번 매각은 회사 유동성 공급과 주식 시장에 영향을 미칠 전망이다.
+
+**시사점** — 스페이스X 내부자는 2026년 4분기까지 주식 매각으로 인한 유동성 변화를 주시해야 함
+
+[SpaceX insiders get their first chance to cash out](https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-USCIS가 8월 5일 발표한 정책 메모는 서류가 미비한 신청을 사전 통보 없이 즉시 거부할 수 있는 재량을 확대했다. 이는 기존 RFE·NOID 절차를 우회해 신청을 차단하는 방식으로, 특히 H‑1B·F‑1 비자 소지자를 대상으로 한 ICE의 공항 검문 강화와 연계돼 신청·이동 비용을 급증시킨다. 동시에 트럼프 행정부는 H‑1B·L1 연장 수수료 인상을 예고하며, 전반적인 이민 규제 강화를 가속화하고 있다.
+8월 5일 발표된 USCIS 정책 메모에 따라 서류가 미비한 신청을 사전 통보 없이 즉시 거부할 수 있는 재량이 확대됐다. 이는 기존 RFE·NOID 절차를 우회해 심사 속도를 높이지만, 신청자에게는 사전 대비 기회를 박탈한다는 비판이 제기된다. 동시에 ICE는 H‑1B·F‑1 비자 소지자에 대한 공항 검문을 강화하고, 구금된 간호사의 그린카드 발급 지연을 문제 삼으며 집행 강도를 높이고 있다. 8월 3일 연방 지방 법원의 판결은 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가(EAD) 발급을 중단하도록 했으며, 탬파 베이 지역에서는 공공부담 기준이 강화돼 한국 영주권 신청자에게 추가 서류 제출을 요구한다.
 
-이와 달리 연방 법원은 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가 만료를 허용해 보호를 유지했고, 인도계 판사는 트럼프의 영주권 동결 명령을 무효화했다. 이러한 사법적 견제와 알렉스 파딜라 상원의원·레반스·텔랑가나 주지사의 입법·외교적 로비는 인도 출신 H‑1B 노동자에 대한 영주권·쿼터 완화를 목표로 하고 있다. 앞으로 주시할 한 가지는 USCIS의 즉시 거부 정책이 법원·입법부의 대응에 어떻게 조정될지이다.
+이러한 규제 강화에 맞서 알렉스 파딜라 상원의원은 인도 H‑1B 보유자를 위한 영주권 확대 법안을 발의했고, 인도계 이민 단체와 텔랑가나 주지사는 대사에게 H‑1B 쿼터와 연봉 요건 완화를 촉구하고 있다. 또한 연방 판사는 트럼프 행정부의 영주권 동결 명령을 일시 중단해 기존 절차가 유지되도록 했다. 정책 변화와 입법·사법적 저항 사이의 긴장이 지속되는 가운데, 앞으로 주시할 한 가지는 연방 법원의 TPS 고용 허가 관련 추가 명령이다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -572,6 +630,30 @@ USCIS가 8월 5일 발표한 정책 메모는 서류가 미비한 신청을 �
 **시사점** — 2026년 9월 시행될 수수료 인상은 한국 IT 기업이 미국 현지 인재를 채용할 때 연간 평균 1,200달러 추가 비용을 발생시켜, 2026년 4분기 채용 계획을 재검토해야 한다.
 
 [Trump Shock Again: US To Hike H-1B, L1 Visa Extens](https://news.google.com/rss/articles/CBMingFBVV95cUxOTDlDSDBCQ3FVcUZEMngzNjVMd1ZqTGVvR3RzVkxiQTcteTRYUkdwVWg2S0JPZ21yRnF4RjRCRlhOaGR6aUVpd1ZkbnlLM1BMUmdQQmpnNzhNMFNtcnROYzg0ZWR2cmlkRU9zaklVcTJ4Ti1lcHEySEVid0I0aE5hYTZ6WnZiYXo1bUNIZ0xlaHpRZ3BHYm5rWndlNUk0Z9IBngFBVV95cUxOTDlDSDBCQ3FVcUZEMngzNjVMd1ZqTGVvR3RzVkxiQTcteTRYUkdwVWg2S0JPZ21yRnF4RjRCRlhOaGR6aUVpd1ZkbnlLM1BMUmdQQmpnNzhNMFNtcnROYzg0ZWR2cmlkRU9zaklVcTJ4Ti1lcHEySEVid0I0aE5hYTZ6WnZiYXo1bUNIZ0xlaHpRZ3BHYm5rWndlNUk0Zw?oc=5)
+
+### 🆕 플로리다 탬파 베이 지역 공공부담 규칙 강화, 영주권 취득 난이도 상승
+
+미국 이민청(USCIS)은 탬파 베이 지역에서 공공부담(public charge) 기준을 강화해 신청자의 복지 의존도를 엄격히 평가한다. 이 규정은 해당 지역에 거주 중인 한국인 영주권 신청자에게 추가 서류 제출을 요구한다.
+
+**시사점** — 탬파 베이에 거주 중인 한국인 영주권 신청자는 10월 1일까지 추가 재정 증명서를 준비해야 한다.
+
+[A public charge rule could make it harder for Tamp](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGotVG1ybUlqYUVmZHVNcU5NUVRZYWJ1a2tfbHVJT0JJazlhYVNJR1NPaXROLXNKOHI5TUk4ZDZiUTF5dm94TVpCLTZpWGRqQ1RtMHBtX1c3X1YtUy0yVHhmWmo4NFktN0lWdGxlbWFRa3VpZTVwWFRDMEU4X3h4bDE3UmZVbE5EbXlfUGFQOTdVNXRqa05qMXRqWnBJcVk4UEhKNmpOeUNWMTJYVEE?oc=5)
+
+### 🆕 청소년 교통 위반 후 ICE 구금, 영주권 절차 중단
+
+미국 이민세관집행기관(ICE)이 고속도로 속도 위반으로 체포된 17세 청소년을 구금했으며, 이로 인해 그의 영주권 신청이 일시 중단되었다. 사건은 한국인 가정의 자녀에게도 이민 심사 중 법 집행 위험을 경고한다.
+
+**시사점** — 한국인 부모는 8월 말까지 자녀의 운전 기록을 사전 검토하고, 교통 위반 시 즉시 변호사와 상담해야 한다.
+
+[ICE Detains Teen After Speeding Stop—Now His Green](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHE0Q1laS2ZFcm1VLVVsSGpNbG1ZZWk0XzZOV0U2b2Q4TkhhdGJPWXZINUoxVGdBdTdEbndLRFF3YUdsVUM1c1pFbU9pWWVwMVFTczFCYkR6Y0pRQ0o0OVVaWm8wYlF2bGhZd21tbTV1UE11Xzlwc2llZUMydUZtWmxiQUFmMm9FNVZyNTJLYkdNMDZNc0ZJdFdWTkFTY01sZm1kSGR4R3hpOU5MX0E?oc=5)
+
+### 인도계 연방판사, 트럼프 행정부의 영주권 동결 명령 차단
+
+연방 판사(인도계)가 트럼프 행정부가 발표한 영주권 발급 동결 조치를 법원에서 일시 중단했다. 판결은 영주권 신청 절차 전반에 대한 불확실성을 감소시킨다.
+
+**시사점** — 한국인 영주권 신청자는 9월 15일까지 기존 신청 절차를 유지할 수 있어, 급히 서류를 재검토할 필요가 없다.
+
+[Indian Origin Judge Blocks Trump’s Green Card Free](https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXBFQlZLTmwtc0F4b00zazJabFl6Y1dKNVprYk5YV3lsTjZ5SHMwUklCSC1sZ2Z2UlBQT3ZEdWcyMWZpZS1ScHU4N2JzZU9MdXFxSUJLZG5wTUJnalAwVFJsdFFJcTE4a25YS291dmViTHYxZUgzRnZNVVlHUk9lZFBBOU8yMU9tZGZVMXFoNTNuUzjSAZgBQVVfeXFMT29VTWNNRE5ucWp4NTY5a2dRc1loaDFOdGdOc1RROHlTU1B6TFlJclVHc2pTX2d5OExZOFBTR0JXNWVhd2lickJjSlNyVVBPMmFjTF9xOVh2WDFUSWFwY3M2SWJrRnRkRVZOX1NsMnVfODdvRU5ra3ZoYnlVejVrX3QyMVg4bjd1TUh4Y3pyTnRtQ1NvNGVVeEI?oc=5)
 
 ## 시장 지표
 
