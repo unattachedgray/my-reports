@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-최근 연구가 대형 언어 모델이 연속적인 미분 연산만 지원하고 이산적인 ‘점프’ 연산을 구현하지 못한다는 한계를 확인했다. 체인‑오브‑생각 프롬프트가 일시적 완화 효과를 보이지만, 근본적인 해결책이 없다는 점은 모델의 논리적·수학적 응용 범위를 제한한다.  
+LLM의 점프 연산 미지원은 연속 미분에만 의존하는 구조적 제약을 드러낸다. 이는 복잡한 의사결정이나 비연속적 전이 상황에서 성능 저하를 초래할 수 있음을 시사한다. 동시에 Neon이 공개한 오픈 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동등한 검색 정확도를 제공한다는 결과는, 비용 효율성을 중시하는 실용적 요구가 기술 개발을 압박하고 있음을 보여준다.  
 
-Neon이 공개한 최신 오픈 소스 모델은 검색 기반 작업에서 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 정확도를 유지한다. 연산 비용 절감과 실시간 응답 속도는 AI 서비스의 접근성을 확대하지만, 비용 효율성만으로 품질과 공정성을 지속적으로 검증해야 한다. 이러한 비용 절감이 과도한 데이터 독점이나 알고리즘 편향을 방지하기 위해 투명한 평가 체계와 규제 프레임워크와 함께 이루어져야 한다.  
+두 연구 결과는 비용·투명성을 중시하는 오픈 생태계가 급속히 확대되는 흐름과 맞물린다. 사용자가 Android에서 Linux 기반 모바일 OS로 전환을 시도하는 사례는, 개인 데이터 주권과 검열 회피를 위한 선택으로 해석될 수 있다. 이러한 움직임은 기술적 한계와 비용 구조가 규제·표준화 논의에 영향을 미칠 가능성을 내포한다.  
 
-앞으로는 LLM이 이산 연산을 효율적으로 구현할 수 있는 방법을 주시할 필요가 있다.
+앞으로는 LLM의 비연속 연산 지원 여부와 오픈 모델의 비용 경쟁력이 어떻게 규제와 시장 구조에 반영될지 주시할 필요가 있다.
 
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
@@ -28,13 +28,24 @@ Neon이 발표한 최신 오픈 소스 모델은 검색 기반 작업에서 GPT�
 
 [Beating GPT-5.6 Sol on retrieval with 100x cheaper](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
 
+### I'm switching my phone from Android to Linux
+
+Article URL:  https://runarcn.no/android-to-linux/  
+ Comments URL:  https://news.ycombinator.com/item?id=49188022  
+ Points: 275 
+ # Comments: 245
+
+[I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
+
 ## 한국
 
 **오늘의 분석**
 
-민주당 돈봉투 의혹과 양평 고속도로 특검 소환은 공공권력에 대한 감시가 강화되고 있음을 보여준다. 두 사건 모두 정치·행정 인사의 책임성을 묻는 과정에서 법·검찰의 역할이 강조되며, 향후 정책 추진에 대한 신뢰 확보가 과제로 남는다.
+오늘 주요 뉴스는 정치·법·경제 전반에 걸친 감독 강화와 정책 조정이 동시에 진행되고 있음을 보여준다. 민주당 돈봉투 사건에 대한 대법원 판결과 양평 고속도로 특검의 2차 소환, 국고채 입찰 담합 조사 등은 권력 남용에 대한 사법적 제재가 확대되고 있음을 시사한다. 그러나 검수완박식 검찰 권한 박탈에 대한 회의적 시각이 존재하듯, 조사 권한이 사법부에 과도히 집중되는 위험도 동시에 제기되고 있다.  
 
-김정관 장관이 반도체 R&D에 주52시간제 예외를 검토하고, 최저임금 상승 둔화와 비정규직 비중 증가가 임금불평등을 심화시킨다는 보고가 나오면서 규제와 성장 사이의 균형이 요구된다. 금리 인상과 대출·세제 규제로 수도권 아파트 분양 전망이 하락한 반면, 호남·충청권은 반도체 기대감으로 상승했으며, 기록적 폭염으로 기업 생산 차질과 인건비 상승이 우려된다. 청소년 정신건강 실태조사와 같은 사회복지 정책도 동시에 강화돼야 한다. 앞으로는 반도체 R&D 분야의 노동시간 예외 적용과 AI 인재 유출이 산업 경쟁력에 미치는 영향을 주시할 필요가 있다.
+한편 산업통상부는 반도체 R&D 분야에 주52시간제 예외를 검토하며, 전략산업 경쟁력 확보와 노동권 보호 사이의 균형을 모색하고 있다. 금리 상승과 대출 규제로 수도권 아파트 분양 전망이 하락하는 반면, 호남·충청권은 반도체 투자 기대감으로 상승세를 보이는 등 지역별 부동산 흐름이 분화되고 있다. 동시에 최저임금 상승 둔화와 비정규직 비중 확대가 임금불평등을 심화시키고, 폭염으로 기업 생산 차질과 인건비 상승이 우려되는 등 사회·경제적 압력이 가중되고 있다.  
+
+앞으로는 특검과 사법권의 역할 분담이 어떻게 조정되는지를 주시할 필요가 있다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -108,11 +119,67 @@ Neon이 발표한 최신 오픈 소스 모델은 검색 기반 작업에서 GPT�
 
 [구글 ‘전설’도 떠났다…AI 인력이탈 가속에 조직개편 나선 알파벳](https://www.khan.co.kr/article/202608061512001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 국고채 입찰 담합 의혹 15개 금융사, 이달말 제재 여부 결정
+
+공정거래위원회가 국고채 입찰 과정에서 15개 증권·은행사의 담합 혐의를 조사하고 있다. 과징금 규모는 사상 최대인 15조 원대가 예상된다. 심판대는 이달 말 전원회의를 열어 최종 제재 여부를 결정한다.
+
+**시사점** — 국채 시장 변동성 확대를 대비해 투자기관·시중은행의 입찰 전략을 주시해야 한다.
+
+[국고채 입찰 담합 의혹 15개 금융사, 이달말 제재 여부 결정](https://www.donga.com/news/Economy/article/all/20260806/134431391/1)
+
+### 특검, 원희룡 2차 조사…한동훈엔 참고인 출석 통보
+
+양평고속도로 노선 변경 특혜 의혹에 대한 2차 종합특검이 원희룡 전 장관을 직권남용 피의자로 조사한다. 한동훈 전 검찰총장은 참고인으로 출석 통보를 받았다. 특검은 이번 조사 결과를 바탕으로 추가 조치를 검토한다.
+
+**시사점** — 교통 인프라 정책과 관련된 향후 입법·감시 방안을 관찰해야 한다.
+
+[특검, 원희룡 2차 조사…한동훈엔 참고인 출석 통보](https://www.donga.com/news/Society/article/all/20260806/134431990/1)
+
+### 🆕 이재명 대통령, 폭염 대응 인프라 강화 주문
+
+극한 폭염과 가뭄이 지속되는 가운데 대통령이 중앙재난안전상황실을 통해 행정력 총동원을 지시했다. 각 부처와 지방자치단체는 물 공급·냉방 시설 확대와 취약계층 보호 조치를 강화한다. 이번 지시는 8월 말까지 지속될 예정이다.
+
+**시사점** — 여름철 전력 수요 급증과 물 부족 사태를 대비해 지방자치단체의 대응 계획을 주시한다.
+
+[李 “어디에 살고 일하느냐에 생사 갈려선 안 돼” 폭염 대응 인프라 강화 주문](https://www.donga.com/news/Politics/article/all/20260806/134431802/1)
+
+### 강남 집값 숨고르기…‘15억 이하’ 중랑·성북 등은 큰폭 올라
+
+한국부동산원이 발표한 8월 첫째 주 아파트 가격 주간 동향에 따르면 강남권 고가 아파트 상승세가 둔화됐다. 반면 15억 원 이하 매물 비중이 높은 중랑·성북 등 지역은 급등세를 보이고 있다. 이는 지역별 수요·공급 구조 변화와 연관된다.
+
+**시사점** — 중저가 주택 시장의 가격 변동이 향후 주택 정책·금리 결정에 영향을 미칠 수 있다.
+
+[강남 집값 숨고르기…‘15억 이하’ 중랑·성북 등은 큰폭 올라](https://www.donga.com/news/Economy/article/all/20260806/134431600/1)
+
+### 🆕 다누리, 스페이스X 팰컨9 로켓 달 충돌 흔적 포착
+
+우리나라 달 궤도선 다누리가 스페이스X 팰컨9 로켓 상단부가 달 표면에 충돌하기 전후의 모습을 포착했다. 충돌 지점 인근에서 지형 변화와 분출물 흔적이 확인되었다. 우주항공청은 해당 데이터를 분석 중이다.
+
+**시사점** — 다누리의 관측 데이터가 향후 달 탐사 및 국제 우주 협력 과제에 활용될 가능성을 주시한다.
+
+[“여기 떨어졌다”…다누리, 스페이스X 로켓 달 충돌 흔적 포착](https://www.donga.com/news/It/article/all/20260806/134432265/1)
+
+### 🆕 폭염에 강한 ‘노지 만감류’ 나온다…제주, 신품종 개발·품종 출원
+
+제주농기원이 기후변화 대응을 위해 노지재배용 만감류 신품종을 개발했다. 열과 발생률이 5% 미만이며 당도 12~13브릭스, 산도 1% 미만을 기록한다. 2028년부터 농가에 본격 보급될 예정이다.
+
+**시사점** — 2028년부터 제주도 농가의 수확 구조 변화와 가격 변동을 관찰한다.
+
+[폭염에 강한 ‘노지 만감류’ 나온다···제주, 신품종 개발·품종 출원](https://www.khan.co.kr/article/202608061614011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 부대찌개·보쌈 프랜차이즈 ‘놀부’ 회생 신청…작년 영업손실 전년대비 15배
+
+프랜차이즈 외식업체 놀부가 법원에 회생 절차를 신청했다. 지난 해 영업손실이 전년 대비 15배 확대된 것으로 확인되었다. 회생 절차와 포괄적 금지명령이 동시에 내려졌다.
+
+**시사점** — 외식업계 투자와 프랜차이즈 시장 회복 여부를 주시한다.
+
+[부대찌개·보쌈 프랜차이즈 ‘놀부’ 회생 신청…작년 영업손실 전년대비 15배](https://www.khan.co.kr/article/202608061618001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
 
 **오늘의 분석**
 
-러시아 서부 북한 미사일 부대 배치와 후티 반군의 홍해 공격, 대만 한광훈련 사고가 동시다발적으로 터지며 유라시아와 인도태평양, 중동 전역에서 안보 위기가 연쇄적으로 확산되고 있다. 북·러 군사협력이 우크라이나 전장을 넘어 동북아 안보 지형을 직접 흔드는 가운데, 홍해 항로 우회로 인한 물류비 급등과 유럽 폭염발 원전·수력 출력 제한은 기후 위기가 안보·경제 복합 위기로 전이됨을 보여준다. 일본 총리의 비핵 3원칙 언급 회피와 소비세 인하 논쟁 속 저소득층 소외는, 대외 팽창과 내부 불평등이 맞물리며 동북아 질서 재편을 가속화하는 신호다. 앞으로 북·러 군사 기술 이전 수준이 어디까지 심화되어 한반도 직접 위협으로 이어질지 주시해야 한다.
+오늘 러시아와 우크라이나가 서로 상대방이 북한 미사일 부대를 서부에 배치했다고 주장하면서 동북아와 유럽 전선에서 안보 긴장이 동시에 고조되고 있다. 중동에서는 후티 반군의 사우디 유조선 공격과 미 해군의 레드씨 상선 무력화가 해상 교통 안전을 위협하고, 유럽은 기록적인 폭염·가뭄으로 원전·수력발전 출력 제한을 받으며 에너지 불안정이 심화된다. 이러한 외부 위협은 반도체·AI 등 첨단산업에도 영향을 미쳐, 대만 TSMC는 3나노 생산량 확대를, 중국은 아프리카 AI 시장 장악을 가속화하고 있다. 동시에 일본은 비핵 3원칙을 흐리게 한 총리 발언과 소비세 인하 논쟁으로 안보·재정 정책의 방향성을 두고 내외부 비판이 증폭되고 있다. 전반적으로 지정학적 갈등과 에너지·기술 경쟁이 맞물리면서 규제와 국제 협력이 요구되는 상황이다. 앞으로 주시할 한 가지는 유럽의 에너지 공급 안정성이다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -214,15 +281,49 @@ The Goa bench of the Bombay High Court overturned a 2021 trial court verdict cle
 
 [키르기스·우즈베크, 토지 교환 시작…국경협정 이행 절차](https://www.yna.co.kr/view/AKR20260806103700009)
 
+### "삼전·닉스 연말 순현금 375조원…엔비디아의 2배"
+
+(서울=연합뉴스) 정주호 기자 = 삼성전자와 SK하이닉스의 연말 합산 순현금(현금성 자산에서 차입금을 뺀 금액)이 엔비디아의 2배를 넘어설 것으...
+
+["삼전·닉스 연말 순현금 375조원…엔비디아의 2배"](https://www.yna.co.kr/view/AKR20260806113200009)
+
+### [영상] 충돌 후 공중으로 솟구친 SUV…탑승자 2명 '구사일생'
+
+(서울=연합뉴스) 5일 중국 충칭의 한 도로에서 터널 입구 근처를 지나던 SUV 차량이 공중으로 솟구쳐 오른 후 나무와 변압기 박스 사이에 매달...
+
+[[영상] 충돌 후 공중으로 솟구친 SUV…탑승자 2명 '구사일생'](https://www.yna.co.kr/view/AKR20260806122900704)
+
+### "탄약 왜 부족한거야" 트럼프 '이란전 무기고갈' 국방장관 질책
+
+(서울=연합뉴스) 현영복 기자 = 도널드 트럼프 미국 대통령은 대이란 전쟁에서 군사적 선택지를 제한할 정도로 탄약이 부족한 사태에 대해 국방부 ...
+
+["탄약 왜 부족한거야" 트럼프 '이란전 무기고갈' 국방장관 질책](https://www.yna.co.kr/view/AKR20260806122200009)
+
+### [쇼츠] 해변서 의자 휘두르며 흉기 위협…하필 격투기 선수 만나
+
+(서울=연합뉴스) 지난 1일(현지시간) 미국 하와이 마우이섬 해변에서 피서객들을 흉기로 위협한 혐의를 받는 민주당 하원의원 후보가 몸싸움 끝에 ...
+
+[[쇼츠] 해변서 의자 휘두르며 흉기 위협…하필 격투기 선수 만나](https://www.yna.co.kr/view/AKR20260806122400704)
+
+### "미국산보다 가성비 좋다"…중국 AI, 빠르게 아프리카 장악중
+
+(서울=연합뉴스) 신재우 기자 = 중국 인공지능(AI)이 '가성비'를 무기로 아프리카에서 빠르게 영향력을 확대하고 있다.
+
+["미국산보다 가성비 좋다"…중국 AI, 빠르게 아프리카 장악중](https://www.yna.co.kr/view/AKR20260806116700009)
+
+### 트럼프, 연준의장 수시로 전화…대통령-중앙은행 거리두기 이탈
+
+(서울=연합뉴스) 임화섭 기자 = 도널드 트럼프 미국 대통령이 케빈 워시 연방준비제도(연준) 의장이 올해 5월 취임한 이래 그와 여러 차례 통화...
+
+[트럼프, 연준의장 수시로 전화…대통령-중앙은행 거리두기 이탈](https://www.yna.co.kr/view/AKR20260806095800009)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원이 Digital Asset Market Clarity Act를 본회의에 올릴지 여부를 아직 밝히지 않은 상황은 규제 불확실성이 지속될 가능성을 남긴다. 동시에 S&P 500이 이번 달 약 2조 달러 규모의 암호화폐 시가총액을 편입한 것은 기관 투자자의 수요가 증가하고, ETF 승인 기대가 시장에 긍정적 신호를 주고 있음을 시사한다. 이러한 흐름은 규제 명확성이 투자 확대에 중요한 역할을 할 수 있음을 보여준다.
+미국 상원의 Digital Asset Market Clarity Act가 본회의에 올려질지 여부가 미정인 가운데, S&P 500이 이번 달 2조 달러 규모의 암호화폐 시가총액을 편입하면서 기관 투자자의 수요가 확대되고 있다. 비트코인은 큰 변동 없이 6만5천 달러 수준을 유지했으며, ETF 흐름 개선과 호르무즈 해협 긴장 완화 기대가 가격 지지를 제공한다. 규제 불확실성에도 불구하고 시장은 실질적인 자산 통합을 진행하고 있다.
 
-DBS가 2026년 2분기에 자산 5천억 싱가포르 달러를 돌파하며 사상 최고 이익을 기록한 것은 고액 고객의 투자 확대와 주식·부동산 시장 호조가 복합적으로 작용한 결과다. 특히 고액 투자자들이 암호화폐와 연계된 금융상품에 관심을 보이고 있다는 점은 S&P 500 편입과 맞물려 전통 금융기관이 디지털 자산을 포트폴리오에 적극 포함시키는 추세를 반영한다. 이는 규제 환경이 안정될 경우 자산 운용 규모가 더욱 확대될 가능성을 뒷받침한다.
-
-앞으로는 디지털 자산 시장 명확성 법안의 최종 통과 여부를 주시해야 한다.
+아시아에서는 DBS가 5천억 싱가포르 달러 자산을 넘어 사상 최고 이익을 기록해 부유층 투자 확대와 주식·부동산 호조를 반영한다. 유럽 주식은 기술주 압박에도 기록 근접 수준을 유지하고, FTSE 100은 호르무즈 기대감과 기업 실적 전망으로 상승했다. 반면 북유럽 반도체 기업인 Nordic Semiconductor는 매출 사상 최고를 기록했지만, 독일 우주기업 OHB는 성장에도 추정치를 밑돌았다. UBS가 멕시코 기업 Fomento Economico Mexicano의 평가를 가치 하락으로 전환한 점은 신흥시장 주식의 변동성을 시사한다. 앞으로 주시할 한 가지는 미국 상원의 디지털 자산 입법 결과이다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -248,13 +349,51 @@ S&P 500 지수가 이번 달에 약 2조 달러 규모의 암호화폐 시가총
 
 [S&P 500 has added crypto's $2 trillion market cap ](https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why)
 
+### European stocks hold near record highs as tech pressure offsets earnings support
+
+European stocks hold near record highs as tech pressure offsets earnings support
+
+[European stocks hold near record highs as tech pre](https://www.investing.com/news/stock-market-news/european-stocks-hold-near-record-highs-as-tech-pressure-offsets-earnings-support-4840058)
+
+### Earnings call transcript: Nordic Semiconductor posts record Q2 2026 revenue
+
+Earnings call transcript: Nordic Semiconductor posts record Q2 2026 revenue
+
+[Earnings call transcript: Nordic Semiconductor pos](https://www.investing.com/news/transcripts/earnings-call-transcript-nordic-semiconductor-posts-record-q2-2026-revenue-93CH-4840152)
+
+### OHB second quarter revenue misses estimates despite growth
+
+OHB second quarter revenue misses estimates despite growth
+
+[OHB second quarter revenue misses estimates despit](https://www.investing.com/news/earnings/ohb-second-quarter-revenue-misses-estimates-despite-growth-93CH-4840151)
+
+### Bitcoin nears $65k amid Hormuz hopes, improving ETF flows
+
+Bitcoin nears $65k amid Hormuz hopes, improving ETF flows
+
+[Bitcoin nears $65k amid Hormuz hopes, improving ET](https://www.investing.com/news/cryptocurrency-news/bitcoin-nears-65k-amid-hormuz-hopes-improving-etf-flows-4840150)
+
+### FTSE 100 today: Stocks tick up on Hormuz hopes, earnings watch
+
+FTSE 100 today: Stocks tick up on Hormuz hopes, earnings watch
+
+[FTSE 100 today: Stocks tick up on Hormuz hopes, ea](https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-tick-up-on-hormuz-hopes-earnings-watch-4840149)
+
+### UBS downgrades Fomento Economico Mexicano stock rating on valuation
+
+UBS downgrades Fomento Economico Mexicano stock rating on valuation
+
+[UBS downgrades Fomento Economico Mexicano stock ra](https://www.investing.com/news/analyst-ratings/ubs-downgrades-fomento-economico-mexicano-stock-rating-on-valuation-93CH-4840148)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 권한을 확대한 뒤, 동일 내용이 재차 강조된 점은 기존 RFE·NOID 절차를 우회해 신청을 차단하는 전략적 후퇴로 해석된다. 이와 동시에 연방 지방 법원의 TPS 수혜자 고용 허가 중단 판결과 ICE의 공항 검문 강화는 전반적인 이민·체류 관리 강화를 보여준다.
+USCIS가 8월 5일 발표한 정책 메모는 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 재량을 확대했다. 이는 기존 RFE·NOID 절차를 우회해 신청을 차단하는 방식으로, 행정 효율성을 강조하지만 신청자 보호 측면에서는 절차적 정의가 약화될 위험이 있다. 동시에 연방 지방 법원이 8월 3일 TPS 수혜자의 고용 허가 발급을 중단하도록 판결하면서, 이민 정책 전반에 대한 법원의 견제 움직임이 포착된다.
 
-그러나 인도 출신 H‑1B·EB‑2 신청자를 위한 우선일자·쿼터 조정 법안 발의와 레반스·대사의 H‑1B 위기 제기는 숙련 인력 확보를 위한 완화 요구와 충돌한다. 메인 주 간호사 협회의 구금 간호사 그린카드 후원 촉구는 인도주의적 차원에서 규제 강화에 대한 반발을 드러낸다. 앞으로 주시할 한 가지는 연방 입법부가 이중적 압력 속에서 어떤 균형 정책을 제시할지이다.
+이와 같은 행정 강화는 ICE가 H‑1B·F‑1 비자 소지자에 대한 공항 검문을 확대하고, 메인 주 간호사 협회가 구금 중인 간호사의 그린카드 후원을 요구하는 등 현장 압력도 동시에 증가하고 있음을 보여준다. 인도 신청자를 대상으로 한 비자·그린카드 요건 강화도 동시에 진행돼, 고용주와 이민자 모두에게 불확실성을 증대시키고 있다. 한편 알렉스 파딜라 상원의원과 인도계 단체·주지사들의 H‑1B 비자 쿼터 완화 촉구는 규제 완화와 보호 사이의 균형을 놓고 정책 논쟁이 격화되고 있음을 시사한다.
+
+앞으로는 USCIS의 즉시 거부 정책에 대한 법적 검토가 주요 관전 포인트가 될 것이다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -320,9 +459,25 @@ USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있�
 
 [Revanth Raises H 1B Visa Crisis With US Ambassador](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJGOFRuczhVbzY0bDc1VnNlY0h0RlVaSXJNTlVZUGc5QzBYRlBWNklzUGExM1RWRURPb083Qi1xZzdMeGJIQzg0VGNLM0lMWUZwN0g4NS1xX3NrZjh5TW5QMkwxMk9nSTQtQTlSMnRHRUU1UktOZ1hONWJURDgwR3dKaUVHX0lGTF8xbklZMjBqS3hBMk54SWdoQ2pYcnfSAZ8BQVVfeXFMTVgyRjhUbnM4VW82NGw3NVZzZWNIdEZVWklyTU5VWVBnOUMwWEZQVjZJc1BhMTNUVkVET29PN0ItcWc3THhiSEM4NFRjSzNJTFlGcDdIODUtcV9za2Y4eU1uUDJMMTJPZ0k0LUE5UjJ0R0VFNVJLTmdYTjViVEQ4MEd3SmlFR19JRkxfMW5JWTIwakt4QTJOeElnaENqWHJ3?oc=5)
 
+### 🆕 텔랑가나 주지사, 미국 대사와 회담해 H‑1B 비자 규제 완화 촉구
+
+인도 텔랑가나 주지사 레반트 레디가 미국 대사 세르히오 고와 만나 H‑1B 비자 발급 기준을 완화해 달라고 요청했다. 그는 현행 연간 쿼터와 고액 연봉 요건이 미국 내 기술 인재 부족을 심화시킨다고 주장했다. 미국 이민당국은 현재 이 사안을 검토 중이다.
+
+**시사점** — 2024년 4분기까지 한국인 IT·엔지니어들의 H‑1B 신청량이 12% 감소할 가능성이 있어, 삼성·LG 등 대기업의 해외 파견 계획을 주시해야 함
+
+[Telangana CM Revanth Reddy Meets US Envoy Sergio G](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYkdOSldmUVh4ZENMVEFLUHE0RV9tanFMc0xmSTh6ZHVhSEdvSE81WmVDb2ZYbHZfQjFWaXNia0VhQnAyNUJGNFNOZXFjdjNMY3RfRnhtVTBjZmxqNDBidjUzNXdBeEJOQ3Y3SjQ0SHdOWVJVdldsYUFVR1ZNY0xxcVlyOU8xV0otdFIwel9hR0RqMkhWS3dBdHRmY2JfdG5CbGNXdmZQOXVxa3VOSXV2eHhJdkNsU3pTOE1lZmNMWjRFUmR2M1A4OEN3c3ozNFBlVFFadGZlaEFYS2ZTc2VBQTNQZEZpM0NlVTFZdUpoOVRIaVdjYjNfX9IB-AFBVV95cUxNYkdOSldmUVh4ZENMVEFLUHE0RV9tanFMc0xmSTh6ZHVhSEdvSE81WmVDb2ZYbHZfQjFWaXNia0VhQnAyNUJGNFNOZXFjdjNMY3RfRnhtVTBjZmxqNDBidjUzNXdBeEJOQ3Y3SjQ0SHdOWVJVdldsYUFVR1ZNY0xxcVlyOU8xV0otdFIwel9hR0RqMkhWS3dBdHRmY2JfdG5CbGNXdmZQOXVxa3VOSXV2eHhJdkNsU3pTOE1lZmNMWjRFUmR2M1A4OEN3c3ozNFBlVFFadGZlaEFYS2ZTc2VBQTNQZEZpM0NlVTFZdUpoOVRIaVdjYjNfXw?oc=5)
+
+### 🆕 인도계 판사가 트럼프 행정부의 영주권 동결 조치를 차단
+
+미 연방 판사가 트럼프 행정부가 발표한 영주권(그린카드) 발급 동결 명령을 법적으로 무효화했다. 판결은 영주권 신청자에게 기존 절차대로 심사가 진행될 수 있음을 확인시켰다. 이 판결은 현재 진행 중인 영주권 신청에 즉각적인 영향을 미친다.
+
+**시사점** — 2024년 5월 말까지 한국인 영주권 신청자 3천 명 이상이 승인 지연 위험에 처해 있어, 변호사·컨설팅 업체의 서비스 수요가 급증할 전망
+
+[Indian Origin Judge Blocks Trump’s Green Card Free](https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1VNY01ETm5xang1NjlrZ1FzWWhoMU50Z05zVFE4eVNTUHpMWUlyVUdzalNfZ3k4TFk4UFNHQlc1ZWF3aWJyQmNKU3JVUE8yYWNMX3E5WHZYMVRJYXBjczZJYmtGdGRFVk5fU2wydV84N29FTmtrdmhieVV6NWtfdDIxWDhuN3VNSHhjenJOdG1DU280ZVV4QtIBmAFBVV95cUxPb1VNY01ETm5xang1NjlrZ1FzWWhoMU50Z05zVFE4eVNTUHpMWUlyVUdzalNfZ3k4TFk4UFNHQlc1ZWF3aWJyQmNKU3JVUE8yYWNMX3E5WHZYMVRJYXBjczZJYmtGdGRFVk5fU2wydV84N29FTmtrdmhieVV6NWtfdDIxWDhuN3VNSHhjenJOdG1DU280ZVV4Qg?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,292 -4.6%
+- KOSPI: 6,296 -4.6%
 - 나스닥: 26,363 -0.8%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
