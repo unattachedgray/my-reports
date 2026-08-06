@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-오늘 발표된 연구는 대형 언어 모델이 연속 미분 연산만 지원하고 이산적 ‘점프’ 연산을 구현하지 못한다는 한계를 제시한다. 이는 기존 체인‑오브‑생각 프롬프트가 완전한 해결책이 아님을 의미한다. 동시에 Neon이 공개한 오픈 소스 모델은 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 검색 정확도를 유지해 비용 효율성을 강조한다. 네이버와 Meta가 각각 1조 파라미터 멀티모달 모델 ‘클라우드AI‑9’와 Muse Code·Spark 1.2를 공개하면서, 대규모 멀티모달 기술 경쟁이 가속화되고 있다.  
+오늘날 AI 산업은 초대형 멀티모달 모델을 중심으로 급격히 재편되고 있다. 네이버가 1조 파라미터 규모의 ‘클라우드AI‑9’를 선보인 뒤, 메타가 Muse Code·Muse Spark 1.2를 오픈소스로 공개했으며, 구글 지도에 에이전시 기능을 추가해 텍스트·이미지·음성을 실시간으로 처리한다. 동시에 Neon이 발표한 오픈 모델은 검색 작업에서 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일 정확도를 유지해 비용 효율성을 강조한다. 이러한 흐름은 대규모 연산 자원을 확보하려는 기업들이 구글 클라우드와 1억 달러 규모 계약을 체결하는 등 인프라 투자와도 맞물려 있다.
 
-이와 같은 기술 확장은 법·사회적 논쟁을 동반한다. OpenAI는 애플의 무역 비밀 소송을 ‘근본적으로 부패’라며 기각을 요청했고, AI 데이터센터 건설에 대한 환경·지역사회 반발이 확대되고 있다. Suno가 도입한 음악 워터마크는 저작권 보호를 위한 실용적 조치이며, 구글은 지도 서비스에 주문·예약 에이전시 기능을 추가해 사용자 의도 파악을 강화한다. 구글 AI 조직 개편과 Mirendil‑Google 1억 달러 파트너십은 기업 간 경쟁과 협력이 동시에 진행되고 있음을 보여준다. 이러한 흐름은 비용 절감과 성능 향상이 동시에 이루어지는 동시에, 데이터 처리와 저작권 보호, 환경 부담 등 사회적 비용을 최소화하려는 노력과 충돌한다.  
+하지만 기술 확장은 규제·사회적 논쟁을 동반한다. 최신 연구는 대형 언어 모델이 이산적 ‘점프’ 연산을 구현하지 못한다는 한계를 지적하며, 이는 안전성·투명성 논의에 새로운 근거를 제공한다. OpenAI와 애플 간 무역 비밀 소송, Suno의 음악 워터마크 도입, 그리고 AI 데이터센터에 대한 환경·전력 소비 우려는 각각 지식 재산 보호와 지속가능성 문제를 부각시킨다. 이러한 사례들은 AI 활용에 대한 적절한 규제와 공정한 경쟁 환경이 필요함을 시사한다.
 
-앞으로 주시할 한 가지는 AI 모델의 연산 효율과 환경 영향을 동시에 최적화하는 기술 개발이다.
+앞으로 주시할 한 가지는 멀티모달 모델의 연산 효율 향상이 규제 프레임워크와 어떻게 조화될지이다.
 
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
@@ -117,15 +117,39 @@ The Verge 정책 기자 Gaby Del Valle와의 인터뷰를 통해 AI 데이터센
 
 [Amid legal battles, Suno says it will start waterm](https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/)
 
+### OpenAI, 애플 보안 관행이 무역 비밀 소송에 불리하게 작용한다 주장
+
+OpenAI는 최근 법원에 제출한 증거 자료를 통해 애플의 보안 및 퇴사 절차가 자사의 무역 비밀 소송에 부정적 영향을 미친다고 주장했다. 이 자료는 양측 간 법적 공방을 심화시킬 전망이다.
+
+**시사점** — 애플의 보안 정책이 소송 결과에 영향을 미칠 가능성이 있어, 2026년 4분기까지 양사 간 특허·기술 분쟁 동향을 주시해야 한다.
+
+[OpenAI says Apple’s own security practices undermi](https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/)
+
+### 🆕 소프트뱅크, 트럼프 도서관에 5천만 달러 기부 후 연방 데이터센터 계약 발표
+
+소프트뱅크는 1월 트럼프 대통령 도서관에 5천만 달러를 기부한 뒤, 연방 정부와 데이터센터 부지를 임대한다는 계약을 공개했다. 이 시점이 가까워지면서 정치적 기부와 정부 계약 사이의 연관성이 주목받고 있다.
+
+**시사점** — 연방 데이터센터 사업 일정이 2026년 9월까지 진행될 예정이므로, 미국 내 데이터센터 시장과 정치 기부 흐름을 관찰해야 한다.
+
+[SoftBank donated $50 million to Trump’s library ju](https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio)
+
+### 🆕 Gen Z 데이팅 앱, 스와이프 대신 AI 매칭 도입
+
+20대 초반 사용자를 주 타깃으로 하는 데이팅 앱이 스와이프 기반 매칭을 폐지하고 AI 매칭 엔진을 적용한다. 초기 베타 테스트에서 매칭 성공률이 기존 대비 18% 상승한 것으로 보고됐다.
+
+**시사점** — 2026년 4분기까지 AI 매칭 서비스를 제공하는 앱 기업과 20대 초반 사용자군의 유지율 변화를 주시해야 한다.
+
+[Gen Z dating apps like Ditto ditch swiping in favo](https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/)
+
 ## 한국
 
 **오늘의 분석**
 
-오늘 발표된 민주당 돈봉투 의혹과 원희룡 전 장관에 대한 2차 특검 소환은 정치·행정 영역에서 책임성을 강화하려는 움직임으로 해석된다. 동시에 김정관 산업통상부 장관이 반도체 R&D 분야에 주 52시간제 예외 적용을 검토한다는 발표는 성장 산업에 대한 규제 완화 요구와 노동권 보호 사이의 갈등을 드러낸다. 이러한 이슈들은 국가 경쟁력 확보와 공정한 절차 사이의 균형을 놓고 논쟁이 확대될 전망이다.
+오늘 뉴스는 경제와 안보, 사회 이슈가 복잡하게 얽힌 하루를 보여준다. 가장 눈에 띄는 흐름은 반도체 산업을 중심으로 한 경제적 양면성이다. 산업통상부 장관의 주 52시간제 예외 적용 검토는 반도체 R&D 분야의 경쟁력 강화를 위한 조치로, 기술 혁신과 인재 유출 방지를 명분으로 내세우고 있다. 그러나 이는 노동시간 규제 완화라는 비판을 피하기 어렵다. 특히 한국노동연구원의 취업자 증가 전망치 하향 조정은 반도체 호황이 고용 창출로 이어지지 않는다는 점을 드러낸다. 고용 없는 성장은 결국 임금불평등 심화와 맞물려 있다. 최근 5년간 임금불평등이 다시 커진 배경에는 최저임금 상승 둔화와 비정규직 증가라는 구조적 문제가 자리하고 있다. 반도체 산업의 호황이 일부 지역(호남·충청권)의 부동산 시장을 끌어올리고 있지만, 이는 수도권과 지방 간 격차를 더욱 벌리는 결과로 이어질 수 있다.
 
-폭염으로 인한 기업 생산 차질과 식품 가격 상승, 그리고 청년·이주노동자에 대한 안전·복지 요구가 동시에 부각되면서 사회적 불평등이 심화되고 있다. 주택 시장에서도 수도권 분양 전망이 하락하는 반면, 호남·충청권은 반도체 기대감으로 상승하는 등 지역 격차가 뚜렷해졌다. 구글 AI 인재 이탈과 국내 기업의 인재 확보 경쟁은 규제와 지원 정책의 적절한 조율이 필요함을 시사한다.
+안보 이슈는 북한의 잇단 미사일 발사와 이에 대한 정부의 대응으로 집중되었다. 북한의 단거리 탄도미사일 발사는 한미 연합훈련을 앞두고 진행된 것으로, 안보 긴장을 고조시키는 동시에 국내 정치 일정에 영향을 미치고 있다. 청와대의 긴급안보상황점검회의 소집은 즉각적인 대응을 보여주지만, 장기적으로는 북한의 군사적 도발에 대한 체계적인 대응 전략이 필요하다는 지적이 나온다. 한편, 폭염이라는 자연재난은 경제와 사회 양면에 걸쳐 부담을 가중시키고 있다. 기업들은 생산 차질과 인건비 상승에 직면했고, 고령층을 중심으로 한 인명 피해가 발생하면서 사회안전망의 취약성이 드러났다. 특히 폭염으로 인한 식품 가격 상승(히트플레이션)은 저소득층의 생계 부담을 가중시키고 있다. 이러한 상황에서 정부의 폭염 대응 인프라 강화 지시가 나왔지만, 단기적인 조치로는 한계가 있을 수밖에 없다.
 
-앞으로는 반도체 R&D 분야 52시간제 예외 적용 여부를 주시할 필요가 있다.
+이러한 이슈들은 서로 연결되어 있다. 반도체 산업의 경쟁력 강화는 경제 성장의 핵심 동력이지만, 그 혜택이 고르게 분배되지 않으면 사회 양극화를 심화시킬 위험이 있다. 북한의 도발은 안보 불안을 높이는 동시에 국내 정치의 불안정성을 부추길 수 있으며, 폭염은 경제 활동과 사회 안전망의 취약점을 동시에 노출시킨다. 앞으로 주목해야 할 것은 반도체 산업의 성장과 노동 환경 개선, 그리고 사회적 불평등 해소 사이의 균형점이다. 기술 혁신이 경제 성장을 이끌더라도, 그것이 고용과 임금, 지역 간 균형 발전으로 이어지지 않으면 지속 가능하지 않기 때문이다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -449,15 +473,73 @@ The Verge 정책 기자 Gaby Del Valle와의 인터뷰를 통해 AI 데이터센
 
 [교육교부금 개혁, 교육개혁의 시작이다[기고/박대권]](https://www.donga.com/news/Opinion/article/all/20260806/134434361/2)
 
+### 직장 불륜 발각된 40대 남성의 고민…“유포 동료 명예훼손·협박죄 고소 가능할까”
+
+직장 내 불륜 사실을 유포한 동료를 명예훼손이나 협박 혐의로 고소하려면 명확한 객관적 증거와 공포심을 유발할 정도의 해악 고지가 입증되어야 한다는 전문가 의견이 나왔다.지난 5일 유튜브 채널 ‘양나래 변호사’에는 회사 안팎으로 불륜 소문이 퍼진 뒤 출처로 의심되는 동료를 법적으로 처벌할 수 있는지 묻는 한 남성의 사연이 올라왔다.결혼 8년 차라는 40대 남성 A씨는 같은 회사 동료와 약 1년간 부적절한 관계를 이어왔다고 털어놨다. 두 사람의 관계는 출장 중 손을 잡고 다니는 모습을 같은 팀 직원이
+
+[직장 불륜 발각된 40대 남성의 고민…“유포 동료 명예훼손·협박죄 고소 가능할까”](https://www.donga.com/news/Society/article/all/20260807/134435105/1)
+
+### 김지수, ‘여행사 대표’ 변신 근황 “체코 프라하서 선풍기만 틀고 지내”
+
+배우이자 여행사 대표 김지수가 체코 프라하에서 근황을 공개했다. 김지수는 6일 소셜미디어에 “여름 프라하는 더운 날도 있지만 습도가 낮아서 여름나기가 그래도 훨씬 수월해요. 집에서도 선풍기만으로 지낼 수 있답니다”라는 글과 함께 사진 여러 장을 올렸다. 그는 “프라하 여름에는 볼타바 강변을 따라 토요일에만 열리는 파머스마켓이 있는데 가볼 만하니 추천해요”라고 했다. 이어 “여름에 프라하를 방문하게 된다면 파머스마켓이 먹을거리도 많고 버스킹도 하고 수제 제품들 구경하는 재미도 있고요”라고 덧붙였다.
+
+[김지수, ‘여행사 대표’ 변신 근황 “체코 프라하서 선풍기만 틀고 지내”](https://www.donga.com/news/Entertainment/article/all/20260807/134435102/1)
+
+### “저렴하고 빠르다”…한국 의료관광 열풍, 외신도 주목
+
+한국을 찾는 해외 여행객들이 관광 일정에 건강검진을 포함하는 사례가 늘고 있다. 저렴한 비용과 빠른 검사 결과, 외국어 지원 서비스 등이 강점으로 꼽히면서 한국이 글로벌 의료 관광지로 떠오르고 있다는 분석이다.지난달 24일(현지 시간) BBC에 따르면 한국은 혈액 검사와 초음파 등 종합 건강검진을 받기 위해 방문하는 해외 여행객이 증가하면서 “세계적 의료 허브로 부상하고 있다”고 보도했다.BBC는 미국 로스앤젤레스에서 한국을 찾은 리핑 차오 씨의 사례를 소개했다. 그는 서울 관광 대신 마포구의 한
+
+[“저렴하고 빠르다”…한국 의료관광 열풍, 외신도 주목](https://www.donga.com/news/Society/article/all/20260807/134435093/1)
+
+### “이런 분은 처음” 고속버스 기사가 공개한 청소노동자 사진
+
+운행을 마친 고속버스에서 바닥에 엎드린 채 구석구석 청소하는 노동자의 사진이 공개돼 감동을 주고 있다. 자동차 전문 커뮤니티 보배드림에는 5일 오후 ‘고속터미널 청소해주시는 분의 직업 정신’이라는 제목의 게시글이 올라왔다. 이와 함께 공개한 사진에는 버스 좌석 안쪽에 버려진 쓰레기를 치우기 위해 바닥에 엎드린 채 청소하는 한 청소노동자의 모습이 담겨 있다. 통로에는 좌석 아래에서 꺼낸 것으로 보이는 음료병과 휴지 등 각종 쓰레기가 널브러져 있었다.게시자는 “고속버스가 지방에서 올라오면 청소를 해주
+
+[“이런 분은 처음” 고속버스 기사가 공개한 청소노동자 사진](https://www.donga.com/news/Society/article/all/20260807/134435069/2)
+
+### “돈 문제 겪는 건 마멋도 마찬가지”…성인 플랫폼에 등장한 뜻밖의 스타
+
+미국의 한 생물학자가 연방정부 연구비 삭감으로 60년 넘게 이어온 야생동물 연구가 중단될 위기에 놓이자 성인 콘텐츠 플랫폼을 활용한 이색 모금에 나섰다. 다만 계정에 올라온 것은 성인물이 아닌 통통한 설치류 ‘마멋’의 자연스러운 모습이다.지난 5일(현지 시간) BBC에 따르면 미국 콜로라도에서 활동하는 생물학자 대니얼 블룸스타인 박사는 최근 성인 콘텐츠 플랫폼 ‘온리팬스(OnlyFans)’에 ‘온리맘스(OnlyMarms)’라는 계정을 개설하고 ‘검열 없는 마멋 콘텐츠’를 공개하기 시작했다.블룸스타
+
+[“돈 문제 겪는 건 마멋도 마찬가지”…성인 플랫폼에 등장한 뜻밖의 스타](https://www.donga.com/news/Inter/article/all/20260807/134435088/1)
+
+### “알몸 입장인데 합법?”…美 시청 인정받은 ‘누드’ 레스토랑 화제
+
+미국 플로리다주의 한 레스토랑에서 알몸으로 식사를 즐길 수 있는 이색 행사를 진행해 화제를 모으고 있다.4일(현지 시간) 미국 폭스뉴스는 플로리다주 남부 할리우드가에 위치한 한 스테이크하우스에서 매달 첫째주 월요일 성인 고객을 대상으로 ‘누드 다이닝’ 행사를 진행하고 있다고 보도했다.레스토랑의 오너이자 셰프인 마우라드 알리는 “모든 레스토랑에서 비슷한 스테이크를 판매하기 때문에 우리는 달라져야 했다”며 새로운 고객을 유치하기 위한 차별화 전략으로 이러한 아이디어를 구상했다고 밝혔다. 알리는 누드 
+
+[“알몸 입장인데 합법?”…美 시청 인정받은 ‘누드’ 레스토랑 화제](https://www.donga.com/news/Inter/article/all/20260807/134435085/1)
+
+### 입추에도 ‘낮 최고 39도’ 극한 더위…온열질환 주의
+
+입추이자 금요일인 7일은 전국 대부분 지역이 낮 최고 39도까지 치솟는 등 극심한 폭염이 이어지겠다.기상청은 “전국이 대체로 맑겠으나 제주도는 구름 많다가 밤부터 흐려지겠다”고 전날 예보했다.전국 대부분 지역에 폭염특보가 발효된 가운데 당분간 전국 대부분 지역에서 최고체감온도가 35도 안팎으로 올라 무덥겠다.폭염중대경보가 발표된 수도권과 강원내륙, 일부 전라권을 중심으로 극단적인 더위가 예상되니 건강관리에 각별히 유의해야겠다.에어컨·선풍기 등을 활용해 실내 온도를 시원하게 유지하며, 잠들기 전 물
+
+[입추에도 ‘낮 최고 39도’ 극한 더위…온열질환 주의](https://www.donga.com/news/Society/article/all/20260807/134435082/1)
+
+### 🆕 AI 시장 주도권, 결국 엔비디아가 쥔다…모건스탠리의 장담
+
+모건스탠리는 AI 인프라 분야에서 엔비디아가 향후 시장을 주도할 것이라고 전망했다. 보고서는 GPU 수요 증가와 데이터센터 확장으로 엔비디아 매출이 2027년까지 연평균 25% 성장할 것으로 예측했다.
+
+**시사점** — 2027년까지 엔비디아 매출 성장률을 주시해야 하며, 국내 데이터센터 투자 계획에 영향을 미칠 수 있다.
+
+[“AI 시장 주도권, 결국 엔비디아가 쥔다”…모건스탠리의 장담](https://www.donga.com/news/Economy/article/all/20260807/134435187/1)
+
+### 밥상 덮친 ‘히트플레이션’…채소값 치솟고 양식어류 45만마리 폐사
+
+최근 폭염으로 인해 채소 가격이 급등하고, 양식 어류 45만 마리가 대량 폐사했다. 이로 인해 식품물가 상승 압력이 커지고, 가계 지출이 늘어날 전망이다.
+
+**시사점** — 8월 말까지 식품물가 상승률을 모니터링하고, 농산물 공급망 이슈에 대비해야 한다.
+
+[밥상 덮친 ‘히트플레이션’…채소값 치솟고 양식어류 45만마리 폐사 - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSDhSRFBIQ1JpUmxfRkplUzNkTVlPUXJPaG1ycjRvWHlOczlRQWZ3N0ROTEowZzQ1OHVWUkRXazVPcGRuNFlNNTBPdGRvQjBOMTJaTS1qZ3ROcFBXX05VMkM1RDJYRmN5UjlGeXZvZnNmM1lwcmc?oc=5)
+
 ## 세계
 
 **오늘의 분석**
 
-러시아가 서부 지역에 북한 미사일 부대를 배치했다는 주장과 우크라이나가 이를 비난하면서, 양국 간 군사 협력의 심화가 국제 안보에 새로운 불확실성을 더하고 있다. 동시에 미국이 우크라이나에 대한 패트리엇 미사일 지원을 3분의 1 수준으로 축소하고, 이란과의 호르무즈 해협 통제권 협상이 진행되는 등 주요 강대국들의 군사·외교 행보가 맞물리면서 동유럽·중동·동아시아 지역에서 갈등 격화 위험이 확대되고 있다. 일본과 대만, 한국도 각각 비핵 3원칙 논란, 한광 훈련, 독도 영해 훈련 등으로 자국 안보 정책을 재조정하고 있어, 지역 안보 체계 전반에 걸친 긴장감이 고조되고 있다.  
+오늘의 국제 뉴스는 세 가지 핵심 축으로 연결된다. 첫째, 지정학적 긴장의 고조와 군사력 재편이 전 세계적으로 동시다발적으로 나타나고 있다. 러시아의 우크라이나 공격 지원에 북한 미사일 부대가 배치되고, 중국은 대만 해협에서 군사 훈련을 강화하며, 이란과 미국은 호르무즈 해협 통제권을 둘러싼 협상을 진행 중이다. 이러한 움직임은 냉전 이후 형성된 안보 질서가 급격히 재편되고 있음을 보여준다. 특히 북한의 미사일 파병과 발사는 한반도 안보에 직접적인 위협이 되면서, 미국과 동맹국들의 대응이 주목된다. 둘째, 기후 변화가 경제와 안보에 미치는 영향이 점점 더 현실화되고 있다. 유럽의 폭염과 가뭄은 원자력 발전소 가동 중단과 수력 발전 감소로 이어졌고, 중국 베이징의 전력 수요 급증은 냉방 수요가 에너지 시스템에 미치는 부담을 극명히 드러냈다. 이는 기후 위기가 단순히 환경 문제를 넘어 경제 안정성과 국가 안보까지 위협하는 복합적 위기로 진화하고 있음을 시사한다.
 
-한편, 유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면하고, 중국은 러시아 극동산 원유 수입을 대폭 확대하며 에너지 공급 구조를 재편하고 있다. 이러한 기후·에너지 위기는 전력 수요 급증과 물류 차질을 초래하고, 기업들은 TSMC의 3나노 생산 확대와 같은 기술 투자로 경쟁력을 유지하려는 움직임을 보인다. 일본의 소비세 인하 논의와 미국 해군의 상선 무력화 작전 역시 시장 안정성을 위협하는 요소로 작용한다.  
+셋째, 기술과 경제의 글로벌 경쟁이 새로운 국면을 맞이하고 있다. TSMC의 3나노 공정 생산 계획은 반도체 공급망의 핵심 역할을 재확인하는 동시에, 중국 AI 기술의 아프리카 시장 장악은 기술 패권 경쟁이 전통적인 서방 중심에서 벗어나 다극화되고 있음을 보여준다. 한편, 일본 소비자청의 스노우 앱 광고 처분이나 중국 시노펙의 러시아 원유 수입 확대 등은 글로벌 기업들이 지정학적 리스크를 회피하거나 활용하는 전략을 적극적으로 구사하고 있음을 반영한다. 이러한 흐름 속에서 각국의 정책 결정은 경제적 이익과 안보적 고려가 복잡하게 얽히면서, 전통적인 동맹 관계나 경제 협력 모델에도 변화를 요구하고 있다.
 
-앞으로는 러시아와 북한의 군사 협력 진전 여부를 주시할 필요가 있다.
+앞으로 주목해야 할 것은 중국과 미국의 기술·군사 경쟁이 글로벌 공급망과 안보 동맹에 미칠 파급 효과다. 특히 중국이 대만 통일 방침을 재확인하며 군사적 압박을 강화하는 가운데, 미국과 동맹국들이 어떻게 대응할지가 향후 동아시아 안보 질서의 향방을 결정짓게 될 것이다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -791,13 +873,85 @@ The murder of content creator César Gastélum on Tuesday raises questions about
 
 [Livestreamer's murder raises questions over relati](https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss)
 
+### 🔴 미군, 북한 미사일 발사에 동맹과 긴밀 협의…본토·동맹 방어 전념
+
+미군은 6일(현지시간) 북한이 탄도미사일을 발사한 후, 미국 본토와 동맹국들의 방어 태세를 강화한다고 발표했다. 이번 발사는 한반도 안보 상황을 급격히 악화시킬 가능성이 있다.
+
+**시사점** — 한반도 안보와 미군 주둔 비용을 주시해야 하며, 8월 말까지 미군 방어 태세 변화와 관련된 국방부 예산안을 관찰한다.
+
+[미군, 北미사일에 "동맹과 긴밀협의…美본토·동맹 방어 전념"](https://www.yna.co.kr/view/AKR20260806158400071)
+
+### 예멘 내전 격화…후티 미사일 공격으로 최소 38명 사망
+
+예멘 정부군이 후티 반군의 미사일 공격을 받아 최소 38명이 사망했다. 후티는 사우디아라비아 지원군이 증가하고 있다고 비난하며 전투를 확대했다.
+
+**시사점** — 석유 수출과 해상 물류에 민감한 한국 기업은 9월 초까지 예멘 해역 위험도와 선박 보험료 변동을 모니터링한다.
+
+[예멘 내전 다시 격화…"후티 미사일에 정부군 최소 38명 사망"(종합)](https://www.yna.co.kr/view/AKR20260806157651079)
+
+### 중국, 미국 신장 제재에 대응해 대미 드론 수출 통제·기업 제재 발표
+
+중국 정부는 미국의 신장 지역 인권 제재에 보복해 드론 부품 수출을 건별 심사하고, 관련 기업에 제재를 가한다는 방침을 발표했다. 이는 글로벌 공급망에 영향을 미칠 전망이다.
+
+**시사점** — 한국의 드론 제조업체와 부품 공급업체는 8월 말까지 수출 허가 절차와 제재 대상 기업 리스트를 확인해야 한다.
+
+[中 미국 신장 제재에 '강경 맞 보복' 대미 드론 수출 통제· 기업 제재 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jVUs0bEpjZFdhbE81SnJrYkVjeWRyZzFaaHFDWTh1S1BuUXlBLTNGTDVvUF9aNjdpSy1kX3lwVlRBZVYzNFc1MnhudGpFNXdWcDhjSjhvc3pZZjFS?oc=5)
+
+### 미국, 화웨이 계약 추진 아르헨티나 기업에 비자 취소 경고…중국 반발
+
+미국 정부가 중국 통신장비 업체 화웨이와 계약을 추진하는 아르헨티나 기업 임원들에게 미국 비자 취소 경고를 보냈다. 중국 외교부는 이를 '경제적 강압'으로 비난하며 반발했다. 아르헨티나 정부는 아직 공식 입장을 밝히지 않았다.
+
+**시사점** — 한국 반도체·통신 장비 업체(SK하이닉스, 삼성전자, LG유플러스)는 2026년 하반기부터 남미 5G 시장 진출을 준비 중인데, 미국 제재로 화웨이 배제가 확산되면 시장 점유율 경쟁이 치열해진다.
+
+[美, 화웨이 계약추진 아르헨 기업에 "비자 취소" 경고…中 반발](https://www.yna.co.kr/view/AKR20260807000300009)
+
+### 🆕 우간다, 가자지구 국제안정화군 파병 승인…아프리카 첫 참여
+
+우간다 의회가 가자지구 국제안정화군(ISF)에 자국 군대를 파병하기로 승인했다. 이는 아프리카 국가로는 최초 사례다. 우간다 정부는 이슬람 무장단체 알샤바브와의 전투 경험을 바탕으로 파병을 결정했다고 밝혔다.
+
+**시사점** — 한국은 2025년부터 가자지구 평화유지군에 300명 규모 파병을 검토 중인데, 우간다의 참여로 다국적 협력이 복잡해지면 한국군의 작전 범위와 안전 보장이 변수로 작용할 수 있다.
+
+[아프리카도 가자지구 국제안정화군 참여…우간다, 파병 승인](https://www.yna.co.kr/view/AKR20260807000500099)
+
+### 예멘 내전 재격화…후티 반군 미사일 공격으로 정부군 38명 사망
+
+예멘 정부군과 후티 반군이 충돌하며 내전이 재격화됐다. 후티 반군은 홍해와 아덴만에서 사우디 유조선을 잇따라 공격했다고 주장했으며, 정부군은 미사일 공격으로 최소 38명이 사망했다고 밝혔다.
+
+**시사점** — 한국 조선업(현대중공업, 삼성중공업)은 2026년 상반기까지 예멘 인근 홍해에서 LNG 운반선 5척을 인도할 예정인데, 후티 반군의 공격이 지속되면 보험료 상승과 항로 변경으로 1척당 500만 달러 추가 비용이 발생한다.
+
+[예멘 내전 다시 격화…"후티 미사일에 정부군 최소 38명 사망"(종합) - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWRlp0LURLYXRZRkFhWTZrRjJpRDFadU8xbVd4ZXdRSV9GX1g0WTBVX0tiM1lkVnFGQnVHV0NMYTJZdmJCbktrbTZkNnlhRF8yeGtrUWNKcTNaNGfSAWBBVV95cUxNa1JDcC1JcVladU1tU1BkN3VEYXdabWl4anRfemp3OVVRY3FFdkdNMmdUQWN5czNlc2lhMnJkR2ZKSmpEVkRRMUg3VDBFTTNsUHRlcE5TbW5VVUF6aTRnSWQ?oc=5)
+
+### 미국, 이란 공습 무기 부족으로 보류…트럼프 행정부 내부 갈등
+
+미국 국방부가 이란에 대한 공습을 무기 부족으로 보류하자 도널드 트럼프 대통령이 격노했다. 국방장관은 탄약 부족 원인으로 전 부장관의 조달 지연을 지적했으며, 이란은 휴전 중에도 미사일 비축을 계속하고 있다고 밝혔다.
+
+**시사점** — 한국 방산업체(한화에어로스페이스, LIG넥스원)는 2026년 4분기까지 미국에 155mm 포탄 50만 발을 납품하기로 계약했는데, 무기 재고 소진으로 추가 발주가 예상되면 3분기 실적에 2,000억 원 매출이 반영된다.
+
+[“무기 고갈돼 이란 공습 보류…트럼프, 헤그세스에 격노” - 동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTFBuS2E0RV9uMjhxNXFRWC05T0lvTGxpLUNFZlcySkd0el9NMTFJcWFvUk9POEpKdk4tVjY2Ml9rdDhYSHhDSF9POTdJSWMwOG5zNXZzbVRoeWN4M2FYN2NkOUZvM05hcDByRWFUQTVnNTJPVlXSAWZBVV95cUxNRDZ6T1FVRXpEWllZUXJSSlNEbjk2VmFPdVVabS1uMzNCNjhoZWhUUnQzRmpXZU1XLUh5dVVHZFQ5RURJb0EtdUJTMnV2d0hiVzB4NDkyYmpRdTRpa3BFYno4cUItVGc?oc=5)
+
+### 🆕 트럼프, 아프리카 국가에 '쓰레기' 발언 후 128억 원 로비로 공개 찬사
+
+도널드 트럼프 전 미국 대통령이 아프리카 국가들을 '쓰레기 같은 나라'라고 비난한 후, 해당 국가들로부터 128억 원 규모의 로비 자금을 받고 공개적으로 찬사를 받았다. 로비 업체는 트럼프의 발언이 투자 유치에 도움이 됐다고 설명했다.
+
+**시사점** — 한국 기업(포스코인터내셔널, 현대건설)은 2026년 하반기 아프리카 광산·인프라 프로젝트 3건(총 4조 원 규모)에 입찰 예정인데, 트럼프의 친아프리카 정책 전환으로 미국 기업과의 경쟁이 심화될 전망이다.
+
+[’쓰레기’라더니 공개 찬사…“트럼프에 아프리카국 거액 로비 효과“ - yonhapnewst](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0ZlN6akRTLXBPODd3TG04N3FJT3lxU2tORU05QXhBcVVRWXdfQ01MYjhhSW90T1czV250c2M3NTJLaWJqa3hKTHlzU240UG81RFBlZTdHdGY2RExYeVptMkhBNklaaFE?oc=5)
+
+### 시진핑, 대만 통일 재확인…'평화적 해결' 언급 없이 '타격' 강조
+
+시진핑 중국 국가주석이 대만 통일 방침을 재확인하며 '평화적 해결' 대신 '타격'을 강조했다. 중국 인민해방군은 대만 해협에서 대규모 군사 훈련을 진행 중이며, 미국은 이란 공습 계획까지 인공지능으로 예측했다고 밝혔다.
+
+**시사점** — 한국 반도체 업체(SK하이닉스, 삼성전자)는 대만 TSMC의 3nm 공급망에 70% 의존하고 있는데, 대만 해협 봉쇄 시 6개월 내 생산 차질로 1조 원 이상의 매출 손실이 예상된다.
+
+[시진핑, 대만 통일 재확인…평화 아닌 타격 강조 - yonhapmidas.com](https://news.google.com/rss/articles/CBMibkFVX3lxTFBneU1KOFZrVF9ZQ004cC1CZEx5Mm10a2hRVEZ6MElyZlBRU1dUNFY3a1V3djZlRFlCbENRZllzQW9FcmQyYnlsTGtrc04yOVVEdkJoUzl3Sl9ZR1hETjdRdTBuZkVVX0FOUGtGcWl3?oc=5)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 상원의 Digital Asset Market Clarity Act가 본회의에 올려질지 여부가 미확정인 가운데, S&P 500이 2조 달러 규모의 암호화폐 시가총액을 편입했음에도 비트코인 가격은 큰 변동 없이 안정세를 유지하고 있다. 변동성 감소는 레버리지 포지션 축소와 유동성 위축을 의미한다는 분석이 나오면서, 규제 불확실성이 시장 위험을 지속시킬 가능성이 제기된다. 한편 유럽 주식은 기업 실적 호조와 미국‑이란 외교 낙관감에 힘입어 사상 최고치를 기록했지만, 기술 섹터의 압박이 상승세를 제한하고 있다.
+디지털 자산에 대한 규제 불확실성이 여전히 남아 있는 가운데, 미국 상원의 Digital Asset Market Clarity Act가 본회의에 올려질지 여부가 시장의 향후 흐름을 좌우할 전망이다. 규제 프레임워크가 조기에 확정되면 S&P 500이 약 2조 달러 규모의 암호화폐 시가총액을 편입한 사례가 보여주듯 디지털 자산이 전통 지수에 통합될 가능성이 높아진다. 반면 비트코인 가격은 변동성이 역사적 최저 수준에 근접했지만, 이는 유동성 감소와 레버리지 포지션 축소에 따른 잠재적 위험을 내포하고 있다는 분석이 제시된다. 이러한 상황에서 Tether가 사우디아라비아 부동산을 토큰화하려는 시도는 실물 자산 연계형 스테이블코인으로 위험 완화와 투자자 신뢰 회복을 목표로 하는 전략으로 해석된다.
 
-아시아에서는 DBS가 자산 5천억 SGD 돌파와 사상 최고 이익을 발표해 고액 고객 투자 확대를 보여주었으며, NTT도 1분기 실적이 시장 기대치를 앞섰다. 반면 우즈베키스탄 부실채권 확대와 TBC 은행 주가 5% 급락, UBS의 멕시코 은행 평가 하향 등 신흥시장 신용 위험이 부각되고 있다. SpaceX는 AI 지출 확대 우려와 내부자 매각으로 주가 압박을 받고, 헤지펀드가 기술주 매도를 강제하면서 소매 투자자 의존도가 높아졌다. 이러한 흐름은 규제와 기업 실적이 동시에 시장 방향을 좌우하고 있음을 시사한다. 앞으로는 디지털 자산 관련 입법 진행 상황을 면밀히 관찰해야 한다.
+한편, DBS가 5천억 싱가포르 달러 자산을 넘어 사상 최고 이익을 기록하고, 유럽 주식이 실적 호조와 미국‑이란 외교 낙관감으로 사상 최고치를 경신하는 등 전통 기업 실적은 견조한 모습을 보인다. 그러나 미국 달러·엔은 이란 핵합의 진행과 고용지표 발표를 앞두고 변동성을 보이며, 우즈베키스탄 부실채권 확대가 TBC 은행 주가를 5% 급락시키는 등 신흥시장 위험도 동시에 부각된다. 또한 SpaceX가 AI 지출 확대 우려와 내부자 매각으로 주가 압박을 받는 등 기술주 전반에 대한 투자 심리가 복합적으로 작용하고 있다. 앞으로 주시할 한 가지는 디지털 자산에 대한 규제 입법 진행 상황이다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -1087,13 +1241,75 @@ Appian은 2026년 2분기 매출이 전년 대비 감소했지만, 클라우드 
 
 [Appian Q2 2026 slides: cloud growth accelerates, m](https://www.investing.com/news/company-news/appian-q2-2026-slides-cloud-growth-accelerates-margins-expand-93CH-4842822)
 
+### SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas
+
+SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas
+
+[SpaceX, Tesla to initially spend $16.8 billion on ](https://www.investing.com/news/stock-market-news/spacex-says-terafab-to-be-built-in-texas-with-initial-investment-of-168-billion-4842929)
+
+### Investec holds AGMs, appoints Baldock as group chair
+
+Investec holds AGMs, appoints Baldock as group chair
+
+[Investec holds AGMs, appoints Baldock as group cha](https://www.investing.com/news/company-news/investec-holds-agms-appoints-baldock-as-group-chair-93CH-4843076)
+
+### Tripadvisor Q2 2026 slides: TheFork sale amid growth slowdown
+
+Tripadvisor Q2 2026 slides: TheFork sale amid growth slowdown
+
+[Tripadvisor Q2 2026 slides: TheFork sale amid grow](https://www.investing.com/news/company-news/tripadvisor-q2-2026-slides-thefork-sale-amid-growth-slowdown-93CH-4843074)
+
+### Lloyd Doggett from Texas’s 37th district invests in Coca-Cola Company
+
+Lloyd Doggett from Texas’s 37th district invests in Coca-Cola Company
+
+[Lloyd Doggett from Texas’s 37th district invests i](https://www.investing.com/news/company-news/lloyd-doggett-from-texass-37th-district-invests-in-cocacola-company-93CH-4843073)
+
+### CareCloud Q2 2026 slides: revenue jumps 16%, AI investment pressures margins
+
+CareCloud Q2 2026 slides: revenue jumps 16%, AI investment pressures margins
+
+[CareCloud Q2 2026 slides: revenue jumps 16%, AI in](https://www.investing.com/news/company-news/carecloud-q2-2026-slides-revenue-jumps-16-ai-investment-pressures-margins-93CH-4843072)
+
+### Goodyear Q2 2026 slides show stabilization, but losses persist
+
+Goodyear Q2 2026 slides show stabilization, but losses persist
+
+[Goodyear Q2 2026 slides show stabilization, but lo](https://www.investing.com/news/company-news/goodyear-q2-2026-slides-show-stabilization-but-losses-persist-93CH-4843071)
+
+### 🔴 Tether, 사우디아라비아 부동산 토큰화 사업 진출
+
+스테이블코인 발행사 Tether는 사우디아라비아에서 부동산 자산을 토큰화하는 사업을 시작한다. 초기 대상은 기관 투자자를 위한 상업용 부동산이며, 향후 주거용 부동산으로 확대할 계획이다. 현지 규제 기관과 협력 체계를 구축한다.
+
+**시사점** — 중동 지역 기관 투자자는 Tether의 부동산 토큰화 파일럿을 2026년 12월까지 평가해야 한다.
+
+[Tether expands tokenization business into Saudi Ar](https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate)
+
+### 🆕 Solaris, 2026년 2분기 EBITDA 30% 급증·전망 상향 조정
+
+Solaris는 2026년 2분기에 EBITDA가 전년 대비 30% 상승했으며, 연간 가이던스를 상향했다. 재생 에너지 발전량이 증가했고, 신규 프로젝트 파이프라인이 확대되었다. 발표 직후 주가가 상승세를 보였다.
+
+**시사점** — 재생 에너지 투자자는 Solaris의 신규 프로젝트 일정과 EBITDA 성장률을 2026년 4분기까지 추적해야 한다.
+
+[Solaris Q2 2026 slides: EBITDA jumps 30%, guidance](https://www.investing.com/news/company-news/solaris-q2-2026-slides-ebitda-jumps-30-guidance-raised-93CH-4843363)
+
+### 🆕 Allstate, 2026년 2분기 결합비율 86.6% 기록하며 강력한 실적 발표
+
+Allstate는 2026년 2분기에 결합비율을 86.6%로 낮추며 수익성을 크게 개선했다. 총 손해액은 전년 대비 감소했으며, 보험료 수익이 증가했다. 배당 정책에도 변동이 없었다.
+
+**시사점** — 미국 재보험 시장에 진입하려는 투자자는 Allstate의 결합비율 변화를 2026년 4분기까지 모니터링해야 한다.
+
+[Allstate Q2 2026 slides: strong earnings, 86.6 com](https://www.investing.com/news/company-news/allstate-q2-2026-slides-strong-earnings-866-combined-ratio-93CH-4843367)
+
+### 🆕 LIC, 2026년 1분기 순이익 급증·마진 확대 발표
+
+영국 보험사 LIC는 2026년 1분기에 순이익이 전년 대비 크게 증가했고, 영업 마진이 확대되었다. 투자 포트폴리오 수익이 주요 요인으로 작용했으며, 솔벤시 비율도 개선되었다. 배당금은 기존 수준을 유지한다.
+
+**시사점** — 유럽 보험 투자 펀드 매니저는 LIC의 솔벤시 비율 변화를 2026년 연말까지 주시해야 한다.
+
+[Earnings call transcript: LIC posts strong Q1 2026](https://www.investing.com/news/transcripts/earnings-call-transcript-lic-posts-strong-q1-2026-profit-growth-as-margins-widen-93CH-4843370)
+
 ## 미국 이민
-
-**오늘의 분석**
-
-최근 미국 이민청(USCIS)과 ICE는 서류 미비 신청을 사전 통보 없이 즉시 거부하고, H‑1B·F‑1 비자 소지자에 대한 공항 검문을 확대하는 등 행정 절차를 강화했다. 동시에 공공부담 기준을 지역별로 강화하고, 그린카드 신청자에게 10만 달러 보석금 부과를 검토하는 등 재정적·규제적 압박이 늘어나고 있다. 이러한 조치는 고액 연봉을 받는 H‑1B 근로자조차도 추가 증빙 요구와 수수료 인상에 직면하게 만든다.
-
-이에 반해 연방 법원은 TPS 수혜자의 고용 허가 종료를 제한하고, 트럼프 행정부의 H‑1B 수수료·그린카드 동결 명령을 위법 판결했다. 인도계 의원과 단체는 H‑1B 영주권 경로 확대와 쿼터 완화를 위한 법안을 제시하며, 주·지자체 차원에서도 구금된 간호사의 그린카드 후원을 촉구하고 있다. 규제 강화와 법·정책적 완화 사이의 긴장이 지속되는 가운데, USCIS의 즉시 거부 정책에 대한 최종 법적 검토가 주목된다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -1291,9 +1507,41 @@ Telangana CM Revanth Reddy Meets US Ambassador, Seeks Faster H-1B Visa Processin
 
 ["Entrapment": Trump's immigration delays fuel jump](https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWks1RUtkZ0RsLTAta0VZQi0xcU1UMWVha0NiZE5HWVRudnBEek1lTDJlZ21XRkxDR1Q5WG5XLTQ4VEVlb0ZMWFhCMzF5a19ZbVNMbnhreFVUQm9rVnRMdDNEUFpIajAzUWs2SXFwMkYxdExOeUdiSWNDVlk?oc=5)
 
+### 🆕 미 연방법원, 트럼프 행정부의 그린카드 동결 명령 차단
+
+연방지방법원이 트럼프 행정부가 추진한 특정 영주권(그린카드) 발급 동결 조치를 일시 중단했다. 판결은 해당 정책이 법적 근거가 부족하다는 판단에 근거한다. 이 결정은 현재 진행 중인 영주권 신청 절차에 즉각적인 영향을 미친다.
+
+**시사점** — 한국인 고용 기반 영주권 신청자들은 이번 판결로 2026년 4분기까지 처리 지연 위험이 감소하므로, USCIS 정책 변화를 주시하고 변호사와 협의 필요
+
+[US Judge Blocks Trump Green Card Freeze | Major Se](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTE1YS21qZ1VETzZmVnhMd2N1ZHB4N3BZVHJxMlFUVTNKWkZ1U2YwUUpoZnNEOEVTUHpXQVZIa3loVkZoSUZlU200T3N0dXBVRlRJX2hJdW9NV0VBbkJ3UDlDVHgxX1U4Mm5TN0ZDTlowQXNpYldPQ0dPR3FZaTZENVRVSFV0V2N1QVNldWdFLVFjNXh0NzJ2bXpoTEVyN21SR1FiR3FRZW9WS3dTRkUzWFhKLV8yVFBjVW5kUzNpQ2pjQkRPYlR3UQ?oc=5)
+
+### 🆕 H‑1B·L‑1 비자 연장 비용 상승, 트럼프 행정 발표
+
+미국 이민청(USCIS)이 H‑1B와 L‑1 비자 연장 시 추가 수수료와 강화된 서류 요건을 적용한다는 새 규정을 발표했다. 연장 신청 비용이 기존 대비 수백만 달러 수준으로 증가할 가능성이 제기되었다.
+
+**시사점** — 한국 기업이 미국 현지 인재를 채용하거나 해외 파견 직원의 비자 연장을 준비할 때 비용 상승을 예산에 반영하고, 2026년 말까지 정책 시행 시점을 주시해야 한다.
+
+[H-1B, L-1 visa extensions may get costlier under T](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1ZxVERhcHYtdXFBdDFvSmJwZkgwZ1E2Q2IyRWt6b3JhY0FVblpZMlFpclZ4QUlWZFVFTWhkZklJRGl5M1MwejFqV2JtSnlSRUpFSnZSZ0hPZVBGV2NIWUZUcVgwTTFXS0xRMDgzQXVpRDRtTm5BS0dBd3loN1NPbkxYbDNZa0lHQjF1UVZ3QTQtYkVZSDBtZzk0cE1yNTVnbk1HaGlzQU13N0xnOW9TeG5hUmRNME5hOF9OTE9FMWk1V2dyQXYwetIBzwFBVV95cUxNdVROb1BneXZlaUp1b0llaHlqbXlhNjF1WTYxUFgycG9VTDQ0dlUyUnoxdlR2azJVTVliSk5Ud1FTanhPckFHUFM1UHVZVTZybnJWRmJOZnNrRjNJWUVHajZ4Wm1SMWNocHlpdUlXb1BkRU9tbG9uSmp0VWx1Q3pYczJ2MzhydTN5M0JKanVpMG5BWmxwUC1fMlY0UTlXX0ZSS1dEWDlyVnk2Qk4tQ2VUN2J5UFkyX1hhMHIwekd3a1VDSFdjejVoX2t5ZzVmS1U?oc=5)
+
+### 미국 기업, H‑1B 정책 변화에 맞춰 채용 플레이북 재설계
+
+최근 발표된 H‑1B 비자 정책 변화에 대응해 미국 기업들이 비자 스폰서십을 최소화하고 현지 인재 활용 및 대체 비자 프로그램을 모색하고 있다. 주요 기업들은 채용 전략을 재조정해 비용과 리스크를 관리하려는 움직임을 보이고 있다.
+
+**시사점** — 한국인 기술 인재가 미국 기업에 지원할 때 비자 스폰서십 감소 추세를 고려해 현지 기업과의 직접 협상 및 대체 비자 옵션을 미리 검토해야 한다.
+
+[US employers redesign H-1B hiring playbook as Trum](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVmVpX1lERERHUGlxMXN6RHRWY1JRWE5Kay1oa3lfUVJiRzJvbEZqenlnaWZiN3hEb25sWDR6azJhZ2REVk5pWVJkNGxodXc3bnY2NWJyWVFXTUJ6dnBmNHF2YU96ajY2RUtPSHFkNzVGVTdlZndmMnltaTJUeGlaeHI1Njhyc28zYklCMm5UblFseG1oVEhJNkMzOXEzRk5nR2YwTUZNVTZtaThKNHU0YTl1SjBoa1lhVEVrRGphZEdYcHlKTUxEc2VQWWthSFYzLUVjMUdHYm9VbHNGbE9QLVQ5UktpZjJTWnpNZnpiTGRUOWR1QklNblg0LWdVbHA2ek5UQjVnUmhSbDhsRUUyb2hB0gGXAkFVX3lxTE5DNWpaZE1pMzZQRXExZGpMdXRfajllRnRNeWdYNmx5a242WlRtMFk0dHFvVk12aVA1S1RtemI2dzZMaVhEc1JxNWNJOXAzS3h5TWxxcFZ6QnV4VFZhMkx2QTZwUVBfTjd3bjc0NGxueWlySENDMjE0R0ZmVW8xZy1YQnJOVUxMMHJnNHFWVEZtQVMxdmtnNkFmbkRXSWtUbHBvMGQ1ZUhQOFRFakxaM3lNa1NwaDY1MHk0YmN2eE1nd292RVRWbWtjd1VXdVhFYWNrd0dwWGVYamVLdE1lczRYT1ZsWTBNaFdoZjF4MEkyaGwxZHRUallfekE2UEdNZVFNTmdxenEzdlpwTFkxczhYMmJkOU9QRQ?oc=5)
+
+### ⚠ 미군 남성, 그린카드 인터뷰 중 아내 구금 사건 겪어
+
+미군인 남성이 그린카드 인터뷰 과정에서 아내가 구금된 사건이 보도되었다. 인터뷰 중 이민 당국이 체포 영장을 발부해 아내를 구금했으며, 이는 신청자 가족에게 큰 불안을 초래한다.
+
+**시사점** — 그린카드 신청자와 그 가족은 인터뷰 전후에 신원 확인 절차와 체포 위험을 사전에 파악하고, 필요 시 법률 자문을 확보해야 한다.
+
+[Soldier Says He Feels Betrayed After Wife Detained](https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1R1TkZ4N28ySUJ5SUxuT0MwN0RFeEJIc0tRWjczN29UTHdPOGVfbGwxcmFiT3RGQTRtREU3SXlYTlB4LUJXTzRrSk5TdTR2ek1BdTZGWU9zX0pMUnlNSHpsRW4tTnNCakx4TUVRVEdTZ0NDUTlxanhvaHZ0aXl6NlRiaTZTdDlRUGNxZFJJM0plUVI5NGdxOHhJRlFqbHpYdHJDeGVEY283amhl?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,296 -4.6%
-- 나스닥: 26,363 -0.8%
+- KOSPI: 6,598 +3.8%
+- 나스닥: 26,307 -0.2%
 - 미 10년물: 4.62% -0.2%
 - USD/KRW: ₩1,424
