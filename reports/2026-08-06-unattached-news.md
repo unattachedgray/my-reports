@@ -6,11 +6,9 @@
 
 **오늘의 분석**
 
-LLM이 연속 미분 연산에만 국한되고 이산 ‘점프’ 연산을 구현하지 못한다는 연구 결과는, 현재 대형 언어 모델이 복합적인 논리 전개에 한계가 있음을 보여준다. 동시에 Neon이 발표한 오픈 소스 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동일한 검색 정확도를 제공한다는 사실은, 비용 효율성을 중시하는 실용적 AI 적용이 급속히 확대되고 있음을 시사한다. 이러한 흐름은 기존 체인‑오브‑생각 프롬프트가 한계를 완화하긴 하지만 근본적인 구조적 개선이 필요하다는 논점과 맞물려, 연구와 산업 양쪽에서 새로운 연산 패러다임을 모색하게 만든다.
+최근 연구가 LLM의 이산적 ‘점프’ 연산 불가 한계를 지적하면서도 체인‑오브‑생각 프롬프트가 부분적 완화책임을 보였고, 동시에 네온의 오픈 모델이 GPT‑5.6 Sol 대비 100배 저렴한 비용으로 동등한 검색 성능을 입증해 오픈 소스 대형 모델의 비용 효율성이 부각되고 있다. 네이버의 1조 파라미터 ‘클라우드AI‑9’와 메타의 ‘Muse Code·Spark 1.2’ 공개는 멀티모달 대형 모델이 오픈 생태계로 빠르게 확산되고 있음을 보여준다.
 
-한편 OpenAI가 애플의 무역 비밀 소송을 ‘근본적으로 부패’라며 기각을 요청한 사건과 네이버가 1조 파라미터 규모의 멀티모달 모델 ‘클라우드AI‑9’를 출시한 소식은, AI 기술을 둘러싼 법적·정책적 갈등과 국가 주도의 대형 모델 개발이 동시에 진행되고 있음을 보여준다. 기업 간 소송은 지적 재산권 보호와 혁신 촉진 사이의 균형을 시험하고, 한국의 대규모 모델 출시는 국내 AI 생태계의 경쟁력을 강화하려는 정책적 의지를 반영한다. 이러한 양상은 기술 발전이 규제와 시장 구조에 어떻게 영향을 받는지를 가늠하게 한다.
-
-앞으로 주시할 한 가지는 AI 모델의 연산 방식과 규제 프레임워크가 어떻게 조화될지이다.
+구글 지도가 에이전시 기능을 탑재해 음식 주문·호텔 예약을 대화형 AI로 처리하고, 미렌딜이 구글 클라우드와 1억 달러 규모 인프라 계약을 맺어 대규모 모델의 자기 최적화를 지원하는 등 상용화 인프라가 강화되고 있다. 옴닐리아의 6,700만 달러 시리즈 B와 전 스포티파이 직원들의 1,000만 달러 시드 투자는 고객 지원과 전자상거래 추천 분야에서 실시간 학습 AI가 수익 모델로 자리잡고 있음을 시사한다. 오픈AI가 애플 무역비밀 소송을 ‘근본적으로 부패’라며 기각을 요청하고, 한 개발자가 안드로이드에서 리눅스 폰으로 전환한 사례는 플랫폼 경쟁과 법적 분쟁이 병행되고 있음을 보여준다. 앞으로 주시할 한 가지는 오픈 소스 대형 모델의 라이선스·배포 정책이 규제 논의와 어떻게 맞물릴지이다.
 
 ### LLM은 ‘점프’ 연산을 수행할 수 없어
 
@@ -53,15 +51,53 @@ OpenAI는 애플이 제기한 무역 비밀 도용 소송을 연방 판사가 �
 
 [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
+### 🔴 Mirendil, 구글 클라우드와 1억 달러 규모 AI 인프라 계약 체결
+
+Mirendil이 자체 개선형 AI 연구를 위해 구글 클라우드와 1억 달러 이상 규모의 컴퓨팅 파트너십을 체결했다. 이번 계약으로 대규모 모델의 자동 최적화와 지속적 자기 개선이 가능해진다.
+
+**시사점** — 자기 개선형 AI 경쟁이 가속화됨에 따라 2026년 말까지 대형 클라우드 서비스 제공업체와의 계약을 확대하는 기업을 투자 포트폴리오에 포함시켜야 한다.
+
+[Exclusive: Mirendil inks $100M+ Google Cloud deal ](https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/)
+
+### 구글 지도, 음식 주문·호텔 예약 등 에이전시 기능 추가
+
+구글은 지도 서비스에 에이전시 기능을 도입해 사용자가 길찾기 외에도 음식 주문, 호텔 예약 등을 직접 수행할 수 있게 했다. 이 기능은 대화형 AI와 결합돼 사용자 의도를 실시간으로 파악한다.
+
+**시사점** — 2026년 3분기까지 구글 지도 이용자 30%가 신규 에이전시 기능을 활용할 것으로 예상돼, 온라인 여행사와 배달 플랫폼의 시장 점유율 변동을 주시해야 한다.
+
+[Google Maps adds agentic features, including food ](https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/)
+
+### 🆕 전 전 Spotify 직원, 전자상거래 맞춤 추천 AI 스타트업에 1천만 달러 투자
+
+전 Spotify 직원들이 설립한 스타트업이 1천만 달러 시드 펀딩을 받아, 쇼핑몰 이용자의 행동을 실시간으로 학습해 다음에 구매할 상품을 예측하는 AI 플랫폼을 구축한다.
+
+**시사점** — 대형 전자상거래 플랫폼이 2026년 4분기까지 이 기술을 파일럿 적용하면 구매 전환율이 5%포인트 상승할 가능성이 있어, 쿠팡·위메프 등 주요 이커머스 업체를 주시해야 한다.
+
+[Ex-Spotify employees raise $10M to bring the AI be](https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/)
+
+### 🆕 Omilia, 고객 지원 AI 플랫폼 확장을 위해 6,700만 달러 시리즈 B 투자 유치
+
+고객 지원 솔루션 기업 Omilia가 6,700만 달러 시리즈 B 라운드에 성공해 연간 반복 매출을 10배 늘린 6천만 달러 수준으로 성장했다. 투자금은 다국어 음성 및 텍스트 AI 모델 확장에 사용된다.
+
+**시사점** — 다국어 고객 지원 수요가 급증하고 있어, 2026년 말까지 북미·유럽 주요 기업의 AI 콜센터 도입을 예의주시해야 한다.
+
+[Omilia raises $67M to scale its customer support p](https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/)
+
+### 🆕 Meta, Muse Code와 Muse Spark 1.2 공개 — 오픈소스 멀티모달 AI 툴킷
+
+Meta AI 연구팀이 Muse Code와 최신 버전 Muse Spark 1.2를 오픈소스로 공개했다. 이 툴킷은 텍스트·이미지·오디오를 동시에 처리하는 멀티모달 모델 구축을 지원한다.
+
+**시사점** — 오픈소스 멀티모달 툴킷이 2026년 2분기부터 스타트업의 프로토타입 개발 속도를 2배 이상 단축할 가능성이 있어, 초기 AI 기업 투자 전략에 반영해야 한다.
+
+[Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+
 ## 한국
 
 **오늘의 분석**
 
-폭염과 북한 도발이라는 두 가지 외부 충격이 정치·경제·사회 전방위로 파급되는 하루였다. 서울 37.9℃ 등 기록적 폭염은 전력·용수 비상대응과 취약계층 보호를 위한 행정력 총동원을 불렀고, 채소값 폭등·양식어류 폐사·기업 생산차질 등 '히트플레이션'으로 물가 상방 압력을 키웠다. 동시에 북한이 한미 연합훈련을 앞두고 단거리 탄도미사일을 발사하며 안보 긴장을 고조시켰고, 정부는 긴급안보회의를 열어 대응 태세를 점검했다. 기후 재난과 안보 위기가 맞물리면서 재정·행정 자원이 단기 대응에 쏠리고, 중장기 구조 개혁 동력이 약화될 수 있다는 점이 우려된다.
+오늘 발표된 여러 사안은 정치·경제·사회 전반에 걸친 구조적 긴장을 드러낸다. 대법원이 송영길 전 보좌관에게 정치자금법 위반 혐의로 징역을 선고한 것은 당내 부패 단속이 강화되고 있음을 시사한다. 동시에 산업통상부가 반도체 R&D에 주52시간제 예외를 검토한다는 발표는 고용안정과 혁신 촉진 사이의 정책적 균형을 요구한다. 주택시장에서는 수도권 분양 전망이 금리·대출 규제로 하락하는 반면, 호남·충청권은 반도체 투자 기대감으로 상승해 지역 격차가 심화되고 있다.  
 
-경제·산업 현장에서는 반도체 R&D 주52시간 예외 검토, 포스코퓨처엠의 2.7조 원 LFP 양극재 공급 계약, 카카오의 분기 최대 실적 등 미래 먹거리 확보 노력이 이어졌으나, 수도권 분양 전망 하락·놀부 회생 신청·포항 철강단지 불황·취업자 증가 전망 대폭 하향 등 내수·고용·지역 경제의 체감 경기는 여전히 차갑다. 임금불평등 심화와 최저임금 둔화, 비정규직 증가 통계가 이를 뒷받침한다. 정부는 반도체 특례와 메가특구특별법 등 규제 완화로 투자 유인을 높이려 하지만, 폭염 피해 지원과 특검·정치권 수사 등 현안 대응에 밀려 노동·분배 구조 개선 입법은 후순위로 밀리는 양상이다.
-
-사법·권력기관 영역에서는 송영길 전 보좌관 실형 확정, 원희룡 전 장관 특검 2차 소환, 한동훈 전 총장 참고인 통보, 국고채 담합 15개사 제재 임박 등 전·현직 고위층과 금융권에 대한 수사·제재가 동시다발로 진행 중이다. 역대 참모총장 46명이 사관학교 통합 재검토를 건의하며 군 인사 개편에 제동을 걸었고, 검찰 수사권 폐지 논란 속 '이만희 무죄 석방 가능성'까지 거론되는 등 형사사법 체계의 안정성 논쟁이 현재진행형이다. 앞으로 주시할 점은 폭염 장기화에 따른 물가·민생 안정 대책이 단기 현금 살포를 넘어 취약계층 보호와 기후적응 인프라 투자로 제도화될 수 있는지다.
+폭염 대응과 노동시장 불평등도 동시에 부각된다. 대통령이 전방위 자원 동원을 선언한 반면, 기업은 인건비 상승과 생산 차질을 우려하고 있다. 청년 정신건강 조사와 최저임금 둔화·비정규직 증가가 임금불평등을 재확산시키는 요인으로 지적되었다. 이러한 상황에서 구글 AI 핵심 인재 이탈과 국고채 입찰 담합 의혹은 기술·금융 분야의 투명성 확보 필요성을 강조한다. 앞으로 반도체 R&D 분야 52시간제 예외 적용 여부를 주시해야 한다.
 
 ### 🔴 민주당 돈봉투 의혹, 송영길 전 보좌관 징역 1년 2개월 확정
 
@@ -337,15 +373,31 @@ OpenAI는 애플이 제기한 무역 비밀 도용 소송을 연방 판사가 �
 
 [독일 “공항 폭발물 드론, 전문가 소행”…우크라 제기 ‘러시아 배후설’ 힘 실려](https://www.khan.co.kr/article/202608062109025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 6월 경상수지 흑자 497억 달러, 역대 최대 기록
+
+한국은행이 발표한 6월 국제수지 잠정 통계에 따르면, 경상수지는 497억 3천만 달러로 역대 최대 수준에 근접했다. 이는 반도체 ‘슈퍼사이클’에 힘입은 결과로 분석된다. 전년 대비 흑자 규모가 크게 확대되었다.
+
+**시사점** — 수출 기업 특히 반도체 분야는 2026년 7월 실적 발표 전까지 환율 변동과 무역 정책 변화를 주시해야 하며, 외환시장 변동성 확대 가능성이 있다.
+
+[경상흑자, 두달 연속 ‘역대 최대’](https://www.khan.co.kr/article/202608062152005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 🆕 김정관 장관, 반도체 R&D 분야 52시간제 예외 적용 검토
+
+산업통상부 김정관 장관은 반도체 연구·개발(R&D) 분야에 주 52시간 근로제 예외를 검토 중이라고 밝혔다. 그는 젊은 인재의 일하려는 의지를 제도가 가로막지 말아야 한다며 정책 방향을 제시했다. 노동계와 기업 간 의견 차이가 존재한다.
+
+**시사점** — 반도체 기업과 연구인력은 2026년 4분기까지 근로시간 규제 변화를 대비해야 하며, 주요 기업인 삼성전자·SK하이닉스의 R&D 투자 일정이 영향을 받을 수 있다.
+
+[김정관 ‘장시간 노동 특구’ 피력 “일할 의지, 제도가 막아선 안 돼”](https://www.khan.co.kr/article/202608062154005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
 
 **오늘의 분석**
 
-러시아가 서부 지역에 북한 미사일 부대를 배치했다는 주장은 우크라와 서방의 전쟁 격화를 반영한다. 양측이 서로의 군사 배치를 비난하면서 미국은 우크라에 대한 패트리엇 미사일 지원을 3분의 1로 축소했고, 해군은 레드씨에서 상선을 무력화했다. 동시에 북한은 일본 EEZ 밖으로 탄도미사일을 발사해 지역 안보 우려를 가중시켰다. 이러한 전개는 동북아와 유럽·중동의 안보 리스크가 동시에 확대되고 있음을 보여준다.
+러시아 서부에 북한 미사일 부대가 배치됐다는 주장과 우크라이나의 동일 주장, 러시아가 7월에 사상 최다 유도공중폭탄을 투하한 사실, 미 해군이 레드씨에서 상선을 무력화한 사례가 연이어 보도되면서 동유럽·동아시아 안보 긴장이 고조되고 있다. 북한·러시아·우크라이나 간의 미사일·드론 활용 가능성이 확대되면서 지역 내 군사 억제력 재조정이 요구되는 상황이다.
 
-에너지 측면에서는 유럽이 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소를 겪으며 전력 공급 압박이 심화되고 있다. 중국은 러시아 극동 원유 수입을 30% 확대해 중동산 공급 감소를 보완하려는 전략을 취하고 있다. 일본은 소비세 인하 논의와 비핵 3원칙 흐림으로 내수 진작과 안보 정책 사이의 균형을 놓고 논란이 지속된다. 시장 자유에만 의존하기보다 규제와 국제 협력을 통해 에너지 안보와 사회적 형평성을 확보해야 할 필요성이 대두된다.
+동시에 유럽은 기록적인 폭염과 가뭄으로 원전 출력 제한과 수력발전 감소에 직면하고, 중국은 전력수요 사상 최고치를 기록하며 냉방 부하가 전체 전력의 45%를 차지한다. 러시아는 극동 지역 원유 수입을 확대하고, 중국 AI 기업이 가성비를 앞세워 아프리카 시장을 빠르게 장악하고 있다. 이러한 상황은 각국이 에너지 전환 정책과 공급 다변화를 가속화할 압박을 높이고 있다.
 
-앞으로는 북한과 러시아 간 군사 협력의 구체적 진전 여부를 주시해야 한다.
+앞으로는 유럽·아시아 지역의 에너지 공급 안정성을 주시할 필요가 있다.
 
 ### 🔴 러 서부지역에 ‘북한 미사일 부대’ 배치… 우크라 공격 목적
 
@@ -611,15 +663,43 @@ The Goa bench of the Bombay High Court overturned a 2021 trial court verdict cle
 
 [레바논서 휴전 후 첫 이스라엘군 전사자…밤샘 보복 공습 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LdmNnN1RUM3QxT09UTWNtRzVjMGxPek9xODUtTldwdHN1S2k5aUUwcExoU19Za2tYNURhNVhRbTlHNFVJMU9JNnR5NDNnWUd4S1lEbngweWl5SGvSAWBBVV95cUxQbGhyWHRmOWRELVBSLW53RHhZUEhmTGJpdVN1bXB3OVkxVXdYTEFmejJHNW1XaFNKakJ3MWhlMUQ4RDYzaU44NlRiUWpINDU0bV82Qml6SjctM2VVcGdRYnI?oc=5)
 
+### 🆕 중국, 부유층 해외 자산에 대한 대대적 세무조사 착수
+
+중국 국세청은 수백조 원 규모의 미납 세금을 회수하기 위해 해외에 보유한 부유층 자산을 집중 조사하고 있다. 이번 조사는 해외 부동산, 주식, 펀드 등 다양한 형태의 자산을 대상으로 하며, 관련 기업과 개인에게 신고 의무를 강화한다.
+
+**시사점** — 한국 투자자와 대기업 해외 자회사들은 9월 말까지 해외 자산 신고 체계를 점검하고, 주요 부동산 펀드 보유 현황을 모니터링해야 한다.
+
+["中, 재정난에 부유층 정조준…해외 미납 세금 추징 나서"](https://www.yna.co.kr/view/AKR20260806154300009)
+
+### 🆕 중국 폭염, 전력 수요 사상 최고치 기록
+
+베이징을 비롯한 주요 권역에서 기록적인 폭염이 지속되면서 전력 사용량이 사상 최고치를 기록했다. 냉방 수요가 전체 전력 소비의 45%를 차지하며, 전력 공급 부족 우려가 제기되고 있다.
+
+**시사점** — 한국의 전력 및 배터리 기업은 8월 말까지 중국 내 전력 공급 상황을 주시하고, 현지 생산 설비의 전력 확보 전략을 재검토해야 한다.
+
+[중국도 폭염에 전력수요 급증…주요 권역 전력 사용량 역대 최고 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMQ1J5Nk5PZS15UUxPdWJ1cmFrVVQwY1poVGozNjNYdUtuenprQWhjd2p3eVZBWU5NMWRBamRPNWs0am83ck9ySlowYnY1a1JDWGZmWjIzSUZwdGfSAWBBVV95cUxQTkNhMk82d1ljYVpKeXpBSWE2aW1NOUsxakttN0dkVHNOR29ka05LZmJubWVMT1U1dmdyR0U1OHlYcFNoWnlzdGhCTWI1UVhyUEFLbklONnQ2TUJVczltcXU?oc=5)
+
+### 🆕 우크라이나, 러시아 미사일 전면 실패 후 방공망 지원 호소
+
+우크라이나는 최근 러시아의 미사일 공격이 전면 실패하면서 방공망 강화가 시급하다고 외교적으로 호소했다. 우크라이나는 동맹국에게 방공 시스템 지원을 요청하고 있다.
+
+**시사점** — 한국 방산업체는 10월까지 우크라이나 방공망 수요를 파악하고, 관련 수출 라이선스 절차를 준비해야 한다.
+
+[러 미사일 모두 놓친 우크라, 방공망 지원 호소 - TBS 서울](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk9GYnpqZ1B3RkdJWC1JY0M4TElvMHdPSzZmZmlKNWlwMnprTjk1OGU3Tnc3b09LLWRmUTBnTG1uaFduOHQ0eXVkRnJBcFNnWUNyZTFlNTlxY3JTc0h2UXk3LUpqTjQ1Nmd4dVdHSTZyc1lWOXlrcnpUdlZfUkFvUUF1NEdqZw?oc=5)
+
+### 🆕 가뭄으로 유럽 원전 가동 중단 위기, 다뉴브강에 바지선 침몰
+
+유럽 주요 강인 다뉴브강에서 가뭄으로 수위가 급격히 낮아져 원자력 발전소 냉각수 공급이 위협받고 있다. 동시에 바지선이 강바닥에 침몰해 물류 차질이 발생하고 있다.
+
+**시사점** — 한국의 LNG 수출 기업은 9월까지 유럽 전력 시장 변동성을 모니터링하고, 가격 변동에 대비한 계약 전략을 재조정해야 한다.
+
+[가뭄에 원전 멈출 판…다뉴브강에 바지선까지 가라앉혀 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWi1ZS3k2bDdSX0tBTEoza2xLOWs2OFE5QlhySGxScG41b1FxQXYwdFZDWThIM0N6eS1SQmtwNDB2dWlJalVpWkhFRHAwSU1IZnNpODFwZ3p5cHZxV1lTUEpsX3Ixc2M?oc=5) | [원전 멈출 판…다뉴브강에 바지선까지 가라앉혔다](https://www.yna.co.kr/view/AKR20260806154200109)
+
 ## 투자
 
 **오늘의 분석**
 
-미국·이란 외교 진전 기대와 기업 실적 호조가 유럽 증시를 사상 최고치로 끌어올리고 달러 약세·엔화 강세를 유도하는 등 지정학적 완화가 위험자산 선호를 부추겼다. 다만 우즈베키스탄 TBC은행 급락에서 보듯 신흥국 신용 위험이 잔존하고, 비트코인이 6만5천 달러 부근까지 올랐으나 변동성 축소가 유동성 위축과 레버리지 축소에 따른 구조적 위험 신호일 수 있다는 경고가 공존한다. 미국 상원의 디지털자산법안 처리 불투명 속에 S&P500의 암호화폐 시총 편입과 ETF 자금 유입이 제도권 편입을 시사하지만, 입법 공백이 지속될 경우 규제 불확실성이 가격 상승분을 제약할 소지가 크다.
-
-실적 시즌은 AI 인프라와 금융·통신 인프라 수혜주(DBS, 노르딕세미, NTT, 패슬리)와 메모리·핀테크·소프트웨어 부문(샌디스크, 피서브, 셀시우스, 허브스팟) 간 뚜렷한 희비를 갈랐다. 헤지펀드 강제 매도로 기술주 수급이 소매 투자자 의존도로 옮겨간 점도 변동성 확대 요인이다. 스페이스X 내부자 매각 제한과 오픈AI·애플 소송전, 소프트뱅크의 오픈AI 비의존 실적 등은 AI 자본지출 효율성과 거버넌스 검증이 본격화되고 있음을 보여준다. 센트러스의 우라늄 장기 계약 체결은 SMR 확대에 따른 에너지 전환 수요가 실질 계약으로 이어지는 단면을 확인시켰다.
-
-앞으로는 미국 7월 고용지표 발표와 이란 핵합의 협상 진전 여부가 달러·엔 향방과 위험자산 흐름을 가를 핵심 변수가 될 전망이다.
+미국 상원의 디지털 자산 시장 명확성 법안이 아직 본회의에 올라가지 않은 상황은 암호화폐가 S&P 500에 편입된 현황과 맞물려 시장의 규제 불확실성을 지속시키고 있다. 규제 프레임워크가 조기에 확정되면 기관 투자자의 수요가 확대돼 비트코인·이더리움 가격 안정과 변동성 감소가 기대되지만, 현재 변동성 저하가 유동성 축소와 레버리지 포지션 축소에 따른 위험 신호일 수 있다는 분석도 있다. 한편 유럽 주식은 실적 호조와 미국‑이란 외교 낙관감으로 사상 최고치를 기록했으며, 기술 섹터의 압박에도 불구하고 전반적인 상승세를 유지하고 있다. 아시아에서는 DBS와 NTT가 자산 규모와 매출 전망을 상향 조정하며 지역 성장 동력을 보여주고, 신흥시장 우즈베키스탄의 부실채권 확대는 TBC 은행 주가에 부정적 영향을 미쳐 위험 관리 필요성을 강조한다. 전반적으로 규제 투명성과 국제 협력이 투자 흐름을 안정시키는 핵심 요소로 부각되고 있다. 앞으로는 미국 상원의 디지털 자산 법안 통과 여부를 주시해야 한다.
 
 ### 🆕 디지털 자산 시장 명확성 법안 진행 여부와 상원 여름 휴회 앞두고 가능한 시나리오
 
@@ -857,15 +937,51 @@ Centrus Energy는 원자력 스타트업 X‑energy와 우라늄 농축 서비�
 
 [33 stocks to bet on foreign markets continuing to ](https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories)
 
+### GigaCloud Q2 2026 slides: record earnings, Europe GMV surges 66%
+
+GigaCloud Q2 2026 slides: record earnings, Europe GMV surges 66%
+
+[GigaCloud Q2 2026 slides: record earnings, Europe ](https://www.investing.com/news/company-news/gigacloud-q2-2026-slides-record-earnings-europe-gmv-surges-66-93CH-4842312)
+
+### AST SpaceMobile expands European integration testing activities
+
+AST SpaceMobile expands European integration testing activities
+
+[AST SpaceMobile expands European integration testi](https://www.investing.com/news/company-news/ast-spacemobile-expands-european-integration-testing-activities-93CH-4842309)
+
+### Earnings call transcript: Avient beats Q2 2026 estimates and lifts outlook
+
+Earnings call transcript: Avient beats Q2 2026 estimates and lifts outlook
+
+[Earnings call transcript: Avient beats Q2 2026 est](https://www.investing.com/news/transcripts/earnings-call-transcript-avient-beats-q2-2026-estimates-and-lifts-outlook-93CH-4842308)
+
+### Earnings call transcript: Celsius Holdings misses Q2 2026 estimates, shares sink
+
+Earnings call transcript: Celsius Holdings misses Q2 2026 estimates, shares sink
+
+[Earnings call transcript: Celsius Holdings misses ](https://www.investing.com/news/transcripts/earnings-call-transcript-celsius-holdings-misses-q2-2026-estimates-shares-sink-93CH-4842303)
+
+### Earnings call transcript: REGENXBIO beats on Q2 2026 EPS, shares rise premarket
+
+Earnings call transcript: REGENXBIO beats on Q2 2026 EPS, shares rise premarket
+
+[Earnings call transcript: REGENXBIO beats on Q2 20](https://www.investing.com/news/transcripts/earnings-call-transcript-regenxbio-beats-on-q2-2026-eps-shares-rise-premarket-93CH-4842301)
+
+### Earnings call transcript: Whirlpool of India posts record Q1 2026 revenue, misses EPS
+
+Earnings call transcript: Whirlpool of India posts record Q1 2026 revenue, misses EPS
+
+[Earnings call transcript: Whirlpool of India posts](https://www.investing.com/news/transcripts/earnings-call-transcript-whirlpool-of-india-posts-record-q1-2026-revenue-misses-eps-93CH-4842300)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-최근 USCIS는 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 권한을 확대하고, H‑1B·F‑1 비자와 영주권 신청자에게 추가 증빙을 강제하는 규칙을 발표했다. 이와 동시에 공공부담 기준을 강화하고, 수수료 인상·보석금 검토 등 비용 부담을 높이는 조치를 내놓으며 전반적인 이민 규제 강화를 추구하고 있다. 이러한 정책은 신청 절차의 효율성을 높이는 동시에, 취업·학업 기회를 제한받는 이들에게 불리한 영향을 줄 가능성이 있다.
+최근 USCIS가 서류 미비 신청을 사전 통보 없이 즉시 거부할 수 있는 권한을 확대하고, ICE가 H‑1B·F‑1 비자 소지자를 대상으로 공항 검문을 강화하면서 인도 출신 전문인·학생들의 불확실성이 커졌다. 이러한 조치는 기존 RFE·NOID 절차를 우회해 신청을 차단할 수 있게 하며, 보안·불법 체류 방지를 명분으로 규제 강화를 보여준다.  
 
-이에 대한 반발로 인도계 의원 알렉스 파딜라는 영주권 경로 확대 법안을 제안했고, 레반스·텔랑가나 주지사 등은 H‑1B 쿼터 완화와 연봉 요건 조정을 요구하고 있다. 연방 법원은 엘살바도르·우크라이나·수단 TPS 수혜자의 고용 허가 중단을 판결했으며, 트럼프 행정부의 영주권 동결 조치를 차단하는 판결도 이어졌다. 이러한 법적·정치적 갈등은 이민 정책 방향을 둘러싼 긴장을 드러낸다.
+한편 연방 지방 법원의 TPS 고용 허가 중단 판결, 알렉스 파딜라 상원의원의 인도 H‑1B 영주권 확대 법안 발의, 그리고 트럼프 행정부의 H‑1B·L1 수수료 인상에 대한 연방 판사의 위법 판결 등은 규제 완화와 법적 보호를 요구하는 움직임을 드러낸다. 메인 주 간호사 협회의 ICE 구금 간호사 그린카드 후원 촉구도 인도주의적 차원에서 정책 재검토를 요구한다.  
 
-앞으로는 USCIS의 즉시 거부 정책이 이민 신청 절차 전반에 미치는 영향을 지속적으로 주시할 필요가 있다.
+앞으로는 연방 법원이 USCIS의 즉시 거부 정책에 대한 적법성 여부를 재검토할 가능성을 주시해야 한다.
 
 ### 🆕 신규 USCIS 정책, ‘전략적 후퇴’… 전면 재검토 필요
 
@@ -1034,6 +1150,22 @@ USCIS는 모든 H‑1B, F‑1 학생비자 및 영주권 신청자에게 적용�
 **시사점** — 한국인 학계 진출을 목표로 하는 연구자들은 2026년 8월 말까지 NYU의 H‑1B 채용 공고 변동을 주시하고, 대체 대학 옵션을 검토해야 함.
 
 [NYU files three more H-1B applications after repor](https://news.google.com/rss/articles/CBMisAFBVV95cUxQazVXSFhKQ2JkSG5KQi1oYXZ0UFFLaXhFRnFFRl9kZ3VvRWNjTEo4MUxYLTRrbVM5WHhqSTlMN0c3TG9kX0NwSlc0TFZyZE5IT3Y5aTY4ZDJyeGVFU2FIdmxVd2kwbTRxZW9ydkNvQUtURlFuYUVQc1l2NUlwMjVHUUZrOVVEeWc4TlR2cU1EcGNLTFBRWURuNGdfVmNmb0JhLXpPUWtSRDBEcDJmbndsXw?oc=5)
+
+### 🔴 연방 판사, 트럼프 행정부의 100,000달러 H‑1B 비자 수수료 위법 판결
+
+연방 판사가 트럼프 행정부가 부과한 100,000달러 규모의 H‑1B 비자 수수료가 위법이라고 판결했다. 이 판결은 현재 진행 중인 H‑1B 신청 절차에 즉시 적용된다. USCIS는 수수료 정책을 재검토해야 한다.
+
+**시사점** — 한국인 H‑1B 지원자와 미국 내 IT 기업은 2026년 9월 말까지 수수료 부담이 사라짐에 따라 신청 급증과 채용 확대를 주시해야 한다.
+
+[Trump’s $100,000 H-1B visa fee ruled unlawful by f](https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3RyZzQtcTJuM3BWam91V0lRWDlRMUhudHk4WUVEaE9kVk1xUnhQbjc2eXlLd19UTWpTY2VHYmJBT21wUExkVnRMLXhxblpmLU5iXzR6RTRDYXFXbnI3Q3dqYk80MFc5djdNTjJZaW5lNkluanpKUWxVNFZJY0RYZjl2Y3ozZjhDT0FPaXFxaGdJZ3VfSmxKTVo3YkFZTW93WEVDNy1sRldkWjFuRTM0eWNVcG9fdw?oc=5)
+
+### 🆕 미국 소수민족 상공회의소, 마이애미 USCIS 난민 사무소를 공식 연방 고용주로 초청
+
+미국 소수민족 상공회의소가 마이애미 USCIS 난민 사무소를 2026년 국가 취업 박람회와 기업가정신 정상회의에 공식 연방 고용주로 초청했다. 이 행사에서는 한국인 및 한인 기업도 직접 채용 기회를 모색할 수 있다. 해당 사무소는 미국 내 난민 신청자 지원을 확대한다.
+
+**시사점** — 한국인 난민 및 취업 희망자는 2026년 6월 마이애미 박람회에서 직접 USCIS와 만나 고용 기회를 탐색할 수 있다.
+
+[U.S. Minority Chamber of Commerce Welcomes USCIS M](https://news.google.com/rss/articles/CBMiywJBVV95cUxOSUhGdnU1T2xWZDZaWmF3TTVqU2xCQ3lWYnJ5aWo4TVRyM1R3WF95dUN6ZWNWYUZNU3ZaUzR4NjNOcF8zNGdyendpZGY3XzQzX21CZ1JETjlBdC0tSGFqOGZZVkZ1dmpJd3pOZEg1Yi1faUdWYTBoTjNfcUc5SWljZi0yT3pTZFdpSU1kNVBDbi0wMk1RSFQxOEk1dU9jRjV1TTlYbUlTOUpmODRFdGp5ZDNnZ0ExMFh2bGhQSVNfcVdabHRkZEFsa0FaWVZyTjBYelNwRW52YllycTMzeUFWcEtRVGNLVHJaTUxIcmdxVU1EalFVZWw5bzBrbTB1Vzg1ME51RWdPRjd2b0lKQVVlTkI3a1FUQjFXWV9WMFBCd3dnN3BSellhR3I1QWluZnBzV0ZFUGxGNFR4b3BvVWFQQzFPRUpTbG9GdFpF?oc=5)
 
 ## 시장 지표
 
