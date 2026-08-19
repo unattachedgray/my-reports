@@ -178,11 +178,11 @@ Article URL:  https://theconversation.com/babies-born-under-sugar-rationing-grew
 
 **오늘의 분석**
 
-트럼프발 압박이 여러 전선에서 동시에 밀려온다. 한·미 UFS 훈련은 반토막 나 21일 조기 종료되고, 대미 투자 요구는 민간 기업 투자로까지 번졌으며, 미 언론조차 한국을 이란전 비협조의 '희생양'으로 지목한다. 같은 시기 왕이 외교부장이 5년 만에 방한하고 시진핑이 유엔 대신 트럼프와의 회담을 택했다는 관측이 흐르면서, 한국은 미·중 사이 선택 압박의 한복판에 섰다.
+트럼프 행정부의 압박이 안보와 경제 전선에서 동시에 조여온다. UFS 연합훈련의 21일 조기종료·축소가 3500억 달러 대미 투자 요구, 이란전 비협조에 대한 ‘화풀이’ 분석과 맞물리고, 미 언론조차 한국을 동맹 줄세우기의 희생양으로 지목한다. 하필 같은 국면에 코스피는 6% 급락해 사이드카가 걸리고 한·미·일 국채금리가 동반 급등했으며 가계부채는 사상 처음 2000조원을 넘었다. 반도체 호황에 기댄 3%대 성장 전망(무디스 3.5%, KDI 3.2%)이 무색하게, 수출 한 축이 떠받치는 경제의 대외 취약성이 그대로 드러난 셈이다.
 
-경제 신호는 엇갈린다. 무디스와 KDI가 반도체 호황을 들어 성장률 전망을 3%대로 끌어올렸지만, 정작 코스피는 19일 6% 급락해 매도 사이드카가 걸렸다. 미·일 국채금리가 수십 년 만의 최고치로 치솟은 여파다. 가계부채는 처음으로 2000조원을 넘었고 서울 집값은 두 달째 1%대 오름세다. 재건축 규제 완화를 두고 이 대통령과 오세훈 시장이 부딪친 대목은, 공급 확대와 집값 안정을 동시에 잡아야 하는 정책의 좁은 틈을 드러낸다.
+안으로는 사법·수사 권력의 재편이 분수령을 맞았다. 조희대 대법원장이 7개월을 끌다 청와대와 조율 없이 대법관을 서면 제청하자 여권은 ‘대통령 패싱’이라며 격앙했고 김민석 신임 대표는 탄핵론을 다시 꺼냈다. 정성호 법무장관은 ‘검찰개혁 마무리’를 명분으로 물러나고 공소청·중수청 출범이 예고된다. 제청을 사법부 독립의 정당한 권한으로 보는 시각도 있으나, 관례를 깬 절차와 권한이 견제받지 않는 기관으로 쏠리는 흐름은 어느 쪽으로 기울든 감시가 필요하다.
 
-안에서는 사법·검찰 권력의 재편이 격화한다. 조희대 대법원장이 청와대와 조율 없이 대법관 후보를 서면 제청하자 여권은 '대통령 패싱'이라며 탄핵론까지 꺼냈고, 검찰 개혁의 상징이던 정성호 법무장관은 공소청 출범을 앞두고 사표를 냈다. 견제받지 않는 권력이 어디로 쏠렸는지, 그 균형을 어떻게 다시 잡을지를 둘러싼 다툼이다. 20일 이재명 대통령과 왕이의 회동, 그리고 조희대 제청안의 국회 인준 향배가 대외 균형과 내부 권력 재편의 방향을 함께 가늠할 시금석이다.
+밖의 충격과 안의 재편 위로 거제 900㎜ ‘괴물 폭우’와 부산 원도심 주택 붕괴, 즉 ‘200년 빈도’ 재난의 일상화가 겹치고, 현대차의 10년 만의 전면 파업과 포스코 창사 첫 파업 위기는 성장 이면의 분배 긴장을 드러낸다. 대외 압박과 시장 출렁임이 실물과 민생으로 번지지 않게 하는 국가의 관리 역량이 시험대에 올랐다. 20일 왕이 방한과 이재명 대통령 접견에서 미·중 사이 한국의 운신 폭이 어떻게 조정되는지가 다음 관전 포인트다.
 
 ### 🔴 러시아 유일 반전정당 9월 총선 출마 최종 박탈…부대표는 징역형
 
@@ -1274,15 +1274,63 @@ ESS용 LFP·토요타 전기차용 NCM 동시 양산올해 말까지 현지 LFP 
 
 [다단계 하도급 건설·조선업 ‘중간착취’ 막는다…임금체불 대지급금도 확대](https://www.khan.co.kr/article/202608191200001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 🔴 한미 UFS 연습 21일 조기종료…야외기동훈련도 축소
+
+군은 미국 제안으로 한미 UFS 연습을 21일 조기종료하고 야외기동훈련도 일부 축소한다고 밝혔다. 조현은 훈련 축소를 SNS를 보고 알았으며 사전 통보를 받지 못했다고 언급했다.
+
+**시사점** — 21일 조기종료 이후 남은 연합훈련 일정과 조현이 지적한 사전 통보 여부가 한미 조율 방식을 가늠할 변수다.
+
+[[속보]軍 “美제안으로 UFS 훈련 21일 조기종료…야외기동훈련도 축소” - 동아일보](https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TTlYZmJRRVpiSE41V3Y4RkQ1Ulpra1JRaDJKNWNUcV91emU4YVo0MGxMRXVweTRtZkJ5azdOb2prejd5N3pwTmdKRFJBRHBTc29CUzdPbEFydzFyRm5uVnhEelB1Uy14LWRDWVhhcldCQ3VnOG4w0gFmQVVfeXFMTkZZNG80MjFmMmMyalh0dXpCNXplcll6WnBQX2JQQkRVU1dHdEktcWdSbkE5QlNsM0UzOFJETlhjcktrMXlKRUx4Z3p5N2FUeTlFWXNlWGswVkhjbkxGWjVvS0ZvR1RB?oc=5)
+
+### 🆕 조태용 前국정원장, 2심서 징역 2년 6개월…1년 가중
+
+12·3 비상계엄 상황과 관련해 국회와 헌법재판소에서 위증한 혐의로 1심에서 징역 1년 6개월을 받은 조태용 전 국가정보원장이 항소심에서 징역 2년 6개월을 선고받았다. 서울고법 형사1부는 형량을 1년 늘렸다.
+
+**시사점** — 같은 12·3 계엄 위증 사건으로 재판받는 다른 피고인들의 2심 형량 방향을 가늠할 선례가 된다.
+
+[‘계엄 위증’ 조태용 前국정원장, 2심서 형 가중…징역 2년 6개월](https://www.donga.com/news/Society/article/all/20260819/134502518/1)
+
+### 🆕 최태원, 9440억 재산분할 불복…대법원 재상고
+
+노소영과의 이혼 소송에서 재산분할 9440억원 판결을 받은 최태원 회장이 이에 불복해 대법원에 재상고했다. 현금 지급 방식이 쟁점으로 거론되며 노소영도 대응에 나선 것으로 전해졌다.
+
+**시사점** — 9440억 현금 지급 방식과 재상고 결과가 최태원·노소영의 최종 재산분할 규모를 확정한다.
+
+[베이조스는 ‘의결권 없는 주식’ 줬다… 대법원 가는 최태원 9440억 ‘현금 지급’ - 조](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUi04VXViUUpKcFVFQnVZLTFaY0V0QWN4OFAweDBFWGxBelp3YjNVOWNfNnRWY2tDamRTMW1NcUYzZjZOakpHQXRndTJlemJVUlRjSUdoQy1Xa1NqTjI2RVRrSGpMdmJsWUJHM1JKdU5NSXNxSTZ1V2ltbkhxTDZhVUtUa9IBlwFBVV95cUxNVWJua2hnMWdITXZJMmFpR2ZyNjVGVEZHZFZKVHdHemZyQUx0X0ltemVhMnNkazdKcmdyMDRhWkpVQU84YlNZNWxCYXpBZVZyYjctWV9fN0JfNldzLWtMeVk2V1hLOHVxc3NZd3dGNzdod3E4bHpXMzZnZjlnRTVIa1RVM0hvQ25zb3JqdERJMlZpdWp4WVlj?oc=5)
+
+### 🆕 태릉CC·과천경마장 그린벨트 규제 예외…주택 공급 속도전
+
+정부가 태릉골프장과 과천경마장을 그린벨트 해제 총량규제 예외로 인정하는 안을 국무회의에서 의결했다. 주택 공급 시점을 2030년에서 2029년으로 앞당기는 것을 목표로 한다.
+
+**시사점** — 공급 시점을 2029년으로 앞당긴 만큼 태릉·과천 부지의 시설 이전과 주민 협의 속도가 최대 변수다.
+
+[태릉CC-과천경마장 그린벨트 규제 예외… 주택 공급 속도전 - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTE04d0c2SFRxaENhNlZsS3Z3cGdpOWhFa0VhaEx3d3pnYmJWMW9Qa2ctWXZfTU9hTktwTlg1OHVEcURTdW00ZHpZTW1yMUZ5Zkg3MzdKd1Jsek5kRVQ1NG5ic1lRcXlveU54QWdvaW12VndkRF8xYWfSAWZBVV95cUxPV0NpOVpidnhSSlFzb3o4N1dtbEtRTUI0a1dTT1RPU2VQRmNnNlc0bEZPVE1ENnBYVzE0SEQxUnRqREV4U0hPTVVENEwzMkwtU1owQlFBTkFmUTE4WDg4c241anJOSGc?oc=5)
+
+### 🆕 김민석 “당 인사는 능력주의로, 계파 고려 안 해”…조희대 겨냥
+
+민주당 신임 지도부의 김민석은 당 인사를 투명한 능력주의로 하고 계파는 고려하지 않겠다고 밝혔다. 최고위 비공개 내용 유출 시 지위고하를 막론하고 퇴출하겠다고 언급했으며, 조희대 대법원장을 향해 사퇴를 요구했다.
+
+**시사점** — 김민석의 조희대 대법원장 사퇴 요구가 대법관 제청 관행 논란과 맞물려 여당·사법부 충돌로 번질지 주시할 국면이다.
+
+[김민석 “당 인사는 투명하게 능력주의로…계파는 없어, 고려하지 않겠다” - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGSlZNTk5ZalJSbHhzSGF2Ym9CZlFaaGNGWjNvYzBUbTkxeFhxbEVwS2pBU2xkYmNkTXdRbWR4OFNoTENKd3lmWnVSODlLeUJqTzVvV1lRNVctVEk?oc=5)
+
+### 🆕 피 한 방울로 10분 만에 혈관질환 진단 단서 확보
+
+서울아산병원 이준엽 교수와 대구경북과학기술원 연구진이 혈장 분석으로 혈관질환 생체지표를 확인하는 진단 플랫폼을 개발했다. 피 한 방울로 10분 만에 관련 분자 신호를 분석해 응급환자 선별 등에 활용할 수 있다.
+
+**시사점** — 10분 혈장 진단이 응급환자 선별에 실제 상용화될지 후속 임상과 검증이 관건이다.
+
+[피 한 방울만 있으면··· 10분만에 혈관질환 진단할 단서 찾아낸다](https://www.khan.co.kr/article/202608191221001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 세계
 
 **오늘의 분석**
 
-오늘 세계 뉴스의 축은 호르무즈 해협이다. 미·이란 종전 양해각서가 만료된 첫날 선박이 피격되고 이란이 봉쇄를 고수하면서, 후티의 사우디·아람코 공격, UAE의 대이란 교역·금융거래 중단, 국제유가 사흘 연속 상승, 사우디·UAE의 한·일 원유 비축 확대 요청이 한 갈래로 이어진다. 중동의 물리적 충돌이 곧바로 아시아 수입국의 공급망 문제로 번지는 구조다.
+오늘 세계 뉴스의 무게중심은 호르무즈 해협이다. 미·이란 종전 양해각서 만료 첫날 선박이 피격돼 사상자가 나왔고, 통행량은 사실상 '0'에 수렴했다. 국제유가는 사흘 연속 올랐고, 사우디와 UAE는 오만 해역 환적으로 해협을 우회하면서 한국·일본에는 원유 비축 확대를 요청했다. 공급 불안이 산유국에서 아시아 수입국으로 곧장 전이되고 있다.
 
-이 위기는 태평양으로도 파장을 미친다. 미 항모가 중동으로 이동하자 한미연합훈련이 축소되고, 트럼프 대통령은 동맹인 오만 폭격까지 거론하며 압박 수위를 높였다. 미 언론이 한국을 '희생양'으로 짚는 가운데 트럼프가 김정은 정상회담을 추진하는 흐름은, 안보 공백과 동맹 신뢰 훼손이 나란히 진행되고 있음을 보여준다. 러시아 총선을 앞둔 우크라이나전 격화 역시 같은 불안정의 연장선에 놓인다.
+이 위기는 미국의 자원 배분을 왜곡한다. 항모가 중동으로 빠지며 태평양에 안보 공백이 생겼고, 한미연합훈련 축소가 겹쳤다. 트럼프 대통령은 오만 폭격까지 거론하며 동맹을 압박하지만 지지율은 33%로 최저치이고, 이란전 장기화 우려는 80%에 이른다. 동맹을 지렛대로 쓰는 방식이 신뢰 비용으로 되돌아오는 국면이다. 여기에 러시아 총선을 앞둔 우크라이나전 격화, 미 30년물 금리의 19년 만 최고치까지 더해지며 지정학 리스크와 재정 불안이 함께 시장을 짓누른다.
 
-금융시장은 이 지정학 리스크를 값으로 반영하고 있다. 미 30년물 국채금리가 19년 만에 최고치를 찍고 뉴욕증시와 반도체 지수가 급락한 배경에는 중동 불안과 미국·일본 등의 재정 우려가 겹쳐 있다. 한편 메타 청소년 중독 소송 개시, AI 음성복제·청소년 챗봇 규제 논의는 기술이 키운 사회적 위험을 제도로 관리하려는 또 다른 흐름을 드러낸다. 앞으로 주시할 것은 중동으로 빠진 미 항모 전력의 공백을 태평양에서 무엇이 메우느냐다.
+다른 한편 미 29개 주의 메타 소송과 중국의 AI 음성복제 규제 경고는, 거대 플랫폼과 신기술을 시장 자율에만 맡기기 어렵다는 인식이 국경을 넘어 번지고 있음을 보여준다. 앞으로 주시할 지점은 호르무즈 통행이 실제로 재개되는지, 그리고 미국이 중동 개입과 태평양 태세 사이에서 균형을 어떻게 다시 잡느냐다.
 
 ### 🔴 호르무즈 해협 선박 피격…기관실 파손·선원 사상자 발생
 
@@ -2402,15 +2450,39 @@ UAE는 이란이 UAE 영토로 탄도미사일을 발사했다고 밝혔다. UAE
 
 [경제 급소 때린다… 우크라, 에너지시설-러는 곡물 수출항 공습 - 동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE5uVV9FQ1JESW1WYTJNQ2pJd0N6ZmJQdl9MMFhWZ1F6dnRwWE11WVN1X1FweUNjcG9LU1JyVEhySmJHVTRlMTNkREl4VWdqQVQwc0RMelVoR3hBclNRZXFjMnEwQi11d2JtX1dWcEdSNnNoWU3SAWZBVV95cUxPbDNnNUJMbGQ4M3RVYnh5NG1MNVhRLXFwUEF1Zm0zQ2VzU21SX01VdFV2Z2N4OTFxanpLc0hObGs3NU1kQW0wd2VGdTE5YlNsLWp5cmlVVF84bHo2TFdDVDBBWFFXb3c?oc=5)
 
+### 🆕 “트럼프, 이란전 장기화·무기 부족에 헤그세스 국방장관 해임 검토”
+
+트럼프 대통령이 이란전 교착과 무기 부족을 이유로 헤그세스 국방장관 해임 가능성이 거론된다. 관련 보도는 트럼프가 한국 등 동맹을 무시하고 한미훈련을 축소하려 한다는 내용도 담았다.
+
+**시사점** — 한국 국방당국은 헤그세스 거취와 한미훈련 축소 방침을 함께 주시해야 한다
+
+[“트럼프, 이란전 장기화-무기 부족에 헤그세스 해임 가능성” - 동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE5NYmd5TUUwSjBZdzExMkpCMVFnc29kelBURmFLTE5tdlZvU2xMNEpQTUwzcmd6NGU4bkp3c1RFTWVYQlNONUtuek5mYnlHZExQRERkSW1wMFhKNDhnWE8xVmtfN2Q0YW84MHNRM21TT2p3VTjSAWZBVV95cUxOaFBjcVUwbEZHbl9FYTdvR0o3OFJOcjNQWWRycW5xZG1QNzlvbm5OR0FaZW43LUZvNFNGSlcyYUxZYkhpSUFoUThweXJsTllpNnBVUXBHck5OQmJjY011aHdDbUZkS0E?oc=5)
+
+### 🆕 WP “이란전에 취약성 드러난 걸프 미군기지…미군 축소 검토”
+
+워싱턴포스트는 이란과의 전쟁으로 걸프지역 미군기지의 취약성이 드러났다고 보도했다. 미국은 페르시아만 미군 철수·재배치를 포함해 걸프지역 미군 축소를 검토 중이다.
+
+**시사점** — 걸프 미군 축소가 인도태평양 재배치로 이어질지가 한국 안보의 관전 포인트다
+
+[WP “이란전 통해 취약성 노출…걸프지역 미군 축소 검토” - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VamlxMUZnRDlyMVd6Yi1NejNRLWVpSzB3OU9DTk1VU0d5MnVKeE5kTXpoejk2aVg4dEp6NnFLTWFHSlVQZ1duTWJXN2xwczVaR004Y1hnaFVnRE0?oc=5)
+
+### 🆕 대만 위성 운반로켓 시험 발사 직후 궤도 이탈…산악지역 추락·자폭
+
+대만에서 위성 운반로켓이 시험 발사 직후 예정된 궤도를 벗어났다. 로켓은 내륙 산악지역으로 향하다 자폭했고 마을 인근 야산에 추락했다.
+
+**시사점** — 중국의 군사·기술 압박 속 대만 독자 발사체 개발 역량이 시험대에 올랐다
+
+[대만서 위성 운반로켓 시험 중 궤도 이탈해 마을 인근 야산 추락](https://www.yna.co.kr/view/AKR20260819091600083)
+
 ## 투자
 
 **오늘의 분석**
 
-오늘 시장의 척추는 채권이다. 미국 10년물이 4.25%, 30년물은 2007년 이후 최고로 올랐고 일본 10년물마저 30년 만의 고점을 찍었다. 원인은 하나가 아니다. 미-이란 휴전 종료로 유가(브렌트)가 91달러를 넘어 인플레 기대를 밀어 올렸고, 40조 달러에 육박하는 미국 국가부채와 AI 하이퍼스케일러들의 대규모 채권 발행이 공급 부담을 동시에 키웠다. 지정학, 재정, AI 투자라는 세 갈래가 금리 한 곳으로 모이는 국면이다.
+오늘 투자 섹션을 관통하는 하나의 축은 글로벌 채권 금리 급등이다. 미국 30년물이 2007년 이후 최고치로 올랐고, 일본 10년물은 30년 만에, 일본 증시(니케이 -2.45%)는 이를 그대로 반영했다. 미 국가부채가 40조 달러에 다가서는 재정 부담에, 미-이란 휴전 종료로 유가(WTI 85달러·브렌트 91달러)가 뛰며 인플레 기대까지 자극한 것이 겹쳤다. 금리 상승이 그 자체로 오늘 대부분 소식의 공통 분모다.
 
-이 상승은 위험자산으로 그대로 전이된다. 마이크론 등 AI 반도체가 하락 반전했고, 앤스로픽은 IPO를 앞두고 100억 달러 넘는 신용 한도를 추진한다. 어제까지 성장의 근거였던 AI 투자가 금리 상승기에는 자금 조달 부담으로 되읽히는 셈이다. 비트코인은 6만4천 달러에서 정체된 채 레버리지 롱만 과열돼, 부채 공포 앞에서 '헤지 자산'이라는 서사가 시험대에 올랐다.
+이 압력은 위험자산으로 번졌다. 마이크론 등 AI 반도체가 상승세를 접었고, 주목할 대목은 앤스로픽의 100억 달러 신용 한도 추진과 하이퍼스케일러의 채권 발행이다. AI 진영은 채권 공급을 늘리는 주체이면서 동시에 금리에 가장 취약한 부문이라는 이중성을 드러낸다. 비트코인은 6만4천 달러를 지켰지만 알트코인은 밀렸고 레버리지 롱이 과열돼, '부채 헤지' 서사는 오히려 채권 불안 앞에서 시험대에 올랐다.
 
-대비도 뚜렷하다. 가격은 약해도 제도화는 오히려 전진한다. 시티의 기관 수탁, SEC의 암호화폐 규제안, 스테이블코인을 현금성 자산으로 보려는 회계 논의는 투기와 인프라를 분리해낸다. 규율 없는 방임보다 규칙을 갖춘 편입이 자산의 장기 생존에 더 유리하다는 신호다. 앞으로 주시할 한 가지는 시장이 매도 방아쇠로 지목하는 국채 금리의 임계선, 즉 10년물이 어디까지 오르느냐다.
+변동성 국면에서도 제도권 편입은 꾸준히 진행된다. 시티의 기관 보관 서비스, SEC의 'Regulation Crypto' 공표, 스테이블코인의 현금성자산 인정 제안, 크라켄의 토큰화 주식은 규제가 시장을 따라잡으며 틀을 잡아가는 신호다. 규율 없는 확장보다 이런 정비가 장기 안정에는 낫다. 앞으로 주시할 하나는 채권 금리가 증시 전면 매도를 촉발한다는 임계 수준(시장이 지목하는 6% 부근)에 실제로 근접하는지다.
 
 ### 🆕 마이크로소프트와 세일즈포스, IPO 앞둔 다윈박스 인수 검토
 
@@ -3308,6 +3380,30 @@ Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto 
 
 [RBA’s Hauser warns of rate hike if inflation risks](https://www.investing.com/news/economy-news/rbas-hauser-warns-of-rate-hike-if-inflation-risks-crystallize-4866395)
 
+### Exponent CEO Catherine Corrigan sells $113,135 in EXPO shares
+
+Exponent CEO Catherine Corrigan sells $113,135 in EXPO shares
+
+[Exponent CEO Catherine Corrigan sells $113,135 in ](https://www.investing.com/news/insider-trading-news/exponent-ceo-catherine-corrigan-sells-113135-in-expo-shares-93CH-4866403)
+
+### Freedom Holding Marks New Türkiye Milestone as Freedom Yatırım Secures Brokerage License
+
+Freedom Holding Marks New Türkiye Milestone as Freedom Yatırım Secures Brokerage License
+
+[Freedom Holding Marks New Türkiye Milestone as Fre](https://www.investing.com/news/company-news/freedom-holding-marks-new-turkiye-milestone-as-freedom-yatrm-secures-brokerage-license-4866402)
+
+### Lumentum EVP retort sells $2.89 million in company shares
+
+Lumentum EVP retort sells $2.89 million in company shares
+
+[Lumentum EVP retort sells $2.89 million in company](https://www.investing.com/news/insider-trading-news/lumentum-evp-retort-sells-289-million-in-company-shares-93CH-4866400)
+
+### Fold Holdings CTO Dickman sells $1,317 in common stock
+
+Fold Holdings CTO Dickman sells $1,317 in common stock
+
+[Fold Holdings CTO Dickman sells $1,317 in common s](https://www.investing.com/news/insider-trading-news/fold-holdings-cto-dickman-sells-1317-in-common-stock-93CH-4866399)
+
 ## 미국 이민
 
 **오늘의 분석**
@@ -3754,7 +3850,7 @@ Abbott이 공립학교가 H-1B 비자 교사를 사용하지 못하도록 금지
 
 ## 시장 지표
 
-- KOSPI: 6,487 -5.6%
+- KOSPI: 6,488 -7.0%
 - 나스닥: 26,290 -1.3%
 - 미 10년물: 4.71% -0.4%
 - USD/KRW: ₩1,412
