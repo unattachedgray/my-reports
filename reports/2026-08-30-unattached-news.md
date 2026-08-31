@@ -199,6 +199,12 @@ Article URL:  https://unsung.aresluna.org/i-just-chose-words-carefully/
 
 [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
 
+### 미국, 드론·로봇을 둘러싼 장벽을 쌓고 있지만 중국은 이를 우회할 규모를 갖고 있다
+
+The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+
+[The U.S. is building barriers around drones and ro](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
+
 ## 한국
 
 **오늘의 분석**
@@ -629,6 +635,48 @@ LG전자가 로보틱스, AI데이터센터 냉각솔루션, 모빌리티 등 �
 
 [알파드라이브원 리오, 눈길 가는 존재감…‘룩스’ 주인공](https://www.donga.com/news/Entertainment/article/all/20260831/134574526/1)
 
+### 국수본부장 “제주 실종여성, 부패로 사인 불명…모든 가능성 열어둬”
+
+홍석기 경찰청 국가수사본부장이 제주 실종사건 허위 종결과 장윤기 사건 은폐 의혹 관련해 “일부 담당자의 일탈뿐 아니라 저를 포함한 관리자의 지휘·감독이 제대로 작동하지 않았다”고 밝혔다.  그러면서 제주 실종 30대 여성의 사망 원인과 관련해선 “시신 부패로 사인이 불분명하다”고 전했다. 홍 본부장은 31일 서울 서대문구 경찰청에서 열린 정례 기자간담회에서 “국민으로부터 부여받은 수사권을 방기하거나 남용한 수사관과 제대로 지휘·감독하지 못한 관리자를 엄중히 문책하겠다”며 이같이 말했다. 그는 “경
+
+[국수본부장 “제주 실종여성, 부패로 사인 불명…모든 가능성 열어둬”](https://www.donga.com/news/Society/article/all/20260831/134575184/2) | [제주 실종여성, 처음엔 “자살 추정” 이라더니···국수본부장 “시신 부패로 인해 사인 불명](https://www.khan.co.kr/article/202608311228001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### ‘前연인 보복’ 의뢰男에 집주소 넘긴 경찰 대기발령
+
+전 연인에게 사적 보복을 의뢰한 지인에게 피해자의 집 주소를 넘긴 혐의를 받는 현직 경찰관이 대기발령됐다.31일 경찰에 따르면 서울 서대문경찰서는 27일 현직 경찰관을 대기발령 조치했다.이 경찰관은 지인인 30대 남성의 전 연인 집 주소 등 개인정보를 제공한 혐의를 받고 있다. 그는 개인정보보호법 위반 혐의로 입건돼 서울 양천경찰서의 수사를 받고 있다.앞서 해당 경찰관의 지인은 지난해 12월 전 연인의 집에 오물을 뿌리도록 사적 보복업체에 의뢰한 혐의 등을 받는다. 이 과정에서 피해자의 집 주소를
+
+[‘前연인 보복’ 의뢰男에 집주소 넘긴 경찰 대기발령](https://www.donga.com/news/Society/article/all/20260831/134574965/2) | [‘전 연인 보복’ 남성에게 집주소 알려준 경찰 대기발령 - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaU9DWU10eXZxYnpVY3lnLU1sM2l1YmprNE1oVlhLUzREclhoT1VNRGZFdlA1Q3A1X3hfcHBFWm5JVkliZkNzWmVsOUxQXzFldXI2V1J1YWxibzA?oc=5)
+
+### 엔하이픈, 데뷔 6년 만에 美 빌보드 앨범 차트 첫 1위
+
+보이그룹 엔하이픈이 데뷔 후 처음으로 미국 빌보드 메인 앨범 차트 ‘빌보드 200’ 정상에 올랐다.30일(현지 시간) 빌보드 예고 기사에 따르면 엔하이픈의 미니 8집 ‘더 신: 블리스(THE SIN : BLISS)’는 다음 달 5일자 ‘빌보드 200’에서 1위를 차지했다. 집계 기간 9만8000장에 해당하는 ‘앨범 유닛’을 기록했다. 빌보드는 실물 음반 등 전통적 앨범 판매량에 스트리밍 횟수를 앨범 판매량으로 환산한 수치(SEA), 디지털 음원 다운로드 횟수를 앨범 판매량으로 환산한 수치(TEA)
+
+[엔하이픈, 데뷔 6년 만에 美 빌보드 앨범 차트 첫 1위](https://www.donga.com/news/Culture/article/all/20260831/134574440/1) | [BTS·스키즈·투바투 이어···엔하이픈, 데뷔 6년 만에 ‘빌보드 200’ 1위](https://www.khan.co.kr/article/202608311106001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 말다툼 지인 흉기로 살해한 60대 경찰에 붙잡혀
+
+술을 마시던 지인과 말다툼 끝에 지인을 흉기로 살해한 60대 남성이 경찰에 붙잡혔다.전남광주 여수경찰서는 흉기를 휘둘러 지인을 숨지게 한 혐의(살인)로 60대 남성 A씨에 대해 구속영장을 신청했다고 31일 밝혔다.A씨는 전날 오전 0시40분께 여수시 문수동 한 공원 앞에서 50대 남성 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다.경찰 조사 결과 A씨는 B씨와 한 술집에서 술을 마시다 말다툼을 벌였고, 이후 공원으로 이동해 소지하고 있던 흉기로 이 같은 범행을 저지른 것으로 드러났다.A씨가 휘두른 
+
+[말다툼 지인 흉기로 살해한 60대 경찰에 붙잡혀](https://www.donga.com/news/Society/article/all/20260831/134575228/1)
+
+### 베네수 석유로 서반구 에너지 패권 장악 나선 트럼프···‘돈로 독트린’ 확대 시동 거나
+
+AFP연합뉴스도널드 트럼프 미국 대통령이 니콜라스 마두로 베네수엘라 대통령 축출 8개월 만에 막대한 규모의 베네수엘라 원유를 손에 쥐며 서반구 에너지 패권 장악에 나섰다. 트럼프 대통령은 이를 지렛대 삼아 중국·러시아의 서반구 영향력 차단을 위한 ‘돈로 독트린’ 확대에 시동을 걸 것으로 보인다.트럼프 대통령은 30일(현지시간) 소셜미디어를 통해 “베네수엘라···
+
+[베네수 석유로 서반구 에너지 패권 장악 나선 트럼프···‘돈로 독트린’ 확대 시동 거나](https://www.khan.co.kr/article/202608311244001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 경찰 “방시혁 이번 주 송치할 것”…세 번째 구속영장 신청 주목
+
+경찰이 하이브 상장 과정에서 투자자들을 속여 부당이득을 챙긴 혐의를 받는 방시혁 하이브 의장을 이번 주 중 검찰에 송치한다. 구속영장 신청 등 방 의장에 대한 신병 처리 여부도 송치 시점에 드러날 전망이다.홍석기 국가수사본부장은 31일 서울 서대문구 경찰청에서 열린 정례 기자간담회에서 방 의장 수사와 관련해 “거의 송치 직전에 있다고 보고받았다”며 “이번 주 중 송치할 것”이라고 밝혔다.홍 본부장은 방 의장의 신병 처리 여부와 관련해 “이번 주 중 송치할 것이며, 송치할 때 영장 신청 사실이 알려
+
+[경찰 “방시혁 이번 주 송치할 것”…세 번째 구속영장 신청 주목](https://www.donga.com/news/Society/article/all/20260831/134575164/1)
+
+### 지인과 2인1조로 택배 배송하다 사망…법원 “산재 인정”
+
+법원 이미지. 한수빈 기자2인1조로 택배 배송 업무를 하다 숨진 기사가 산업재해보상보험법상 보호 대상인 노무제공자에 해당한다는 법원 판단이 나왔다.서울행정법원 행정3부(재판장 호성호)는 31일 택배기사 A씨의 부모가 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분 취소소송에서 원고 승소로 판결했다. 재판부는 공단의 유족급여 및 장의비 부지급 처분을···
+
+[지인과 2인1조로 택배 배송하다 사망…법원 “산재 인정”](https://www.khan.co.kr/article/202608311229001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
 ## 한국 정치
 
 **오늘의 분석**
@@ -902,6 +950,36 @@ LG전자가 로보틱스, AI데이터센터 냉각솔루션, 모빌리티 등 �
 (서울=연합뉴스) 홍규빈 기자 = 한화에어로스페이스는 스페인 방산업체 인드라시스템즈(INDRA SISTEMAS S.A.)와 K9 자주포 등 수출...
 
 [한화에어로, 스페인 방산업체와 K9 자주포 수출 계약](https://www.yna.co.kr/view/AKR20260831074300003)
+
+### 안규백, 병역의혹 질의에 "수사중이라 답변 제한…곧 밝혀질 것"
+
+(서울=연합뉴스) 박수윤 노선웅 기자 = 안규백 국방부 장관은 31일 자신의 영창 입소 의혹에 대해 "수사기관에서 수사하고 있기 때문에 지금 말...
+
+[안규백, 병역의혹 질의에 "수사중이라 답변 제한…곧 밝혀질 것"](https://www.yna.co.kr/view/AKR20260831094100001)
+
+### 법원행정처장, 靑 대법관 제청 거부에 "각자의 권한 존중돼야"
+
+(서울=연합뉴스) 박수윤 노선웅 기자 = 노경필 법원행정처장은 31일 청와대가 최근 손봉기 대구지방법원 부장판사에 대한 대법관 제청을 반려한 것...
+
+[법원행정처장, 靑 대법관 제청 거부에 "각자의 권한 존중돼야"](https://www.yna.co.kr/view/AKR20260831089700001)
+
+### 국가교육위원장 "수능채점은 인간이 중심, AI는 보조수단"
+
+(서울=연합뉴스) 박수윤 노선웅 기자 = 차정인 국가교육위원장은 31일 대학수학능력시험(수능)에 인공지능(AI) 자동채점을 도입하는 문제와 관련...
+
+[국가교육위원장 "수능채점은 인간이 중심, AI는 보조수단"](https://www.yna.co.kr/view/AKR20260831093200001)
+
+### 김민석 "'메가 일하는 민주당'으로 메가 성장 담보하겠다"
+
+(서울=연합뉴스) 박경준 최주성 기자 = 더불어민주당 김민석 대표는 31일 국회에서 메가 프로젝트 및 지방성장 특별위원회(메가성장 특위) 1차 ...
+
+[김민석 "'메가 일하는 민주당'으로 메가 성장 담보하겠다"](https://www.yna.co.kr/view/AKR20260831090500001)
+
+### 국힘, '당협위원장 당원직선제' 단계적 도입…"공석인 곳부터"(종합)
+
+(서울=연합뉴스) 김연정 조다운 기자 = 국민의힘이 31일 장동혁 대표가 추진하는 이른바 '당협위원장 당원 직선제'를 단계적으로 도입하기로 결론...
+
+[국힘, '당협위원장 당원직선제' 단계적 도입…"공석인 곳부터"(종합)](https://www.yna.co.kr/view/AKR20260831074051001)
 
 ## 세계
 
@@ -1201,6 +1279,42 @@ A local mayor says 159 passengers have been reached so far, with a rescue operat
 
 [뉴욕서 한밤중 하수도 탐험 잇따라…당국 "위험하고 불법"](https://www.yna.co.kr/view/AKR20260831058700009)
 
+### 日, 대만 주재 대표기관에 핵방공호 설치…"유사시 대비인듯"
+
+(도쿄=연합뉴스) 이도연 특파원 = 대만 타이베이의 '일본대만교류협회' 관련 시설에 일본산 핵 방공호가 설치됐다고 산케이신문이 31일 보도했다.
+
+[日, 대만 주재 대표기관에 핵방공호 설치…"유사시 대비인듯"](https://www.yna.co.kr/view/AKR20260831095600073)
+
+### 단속강화에 홍콩 독립서점들 잇단 폐점…"사상적 피난처 사라져"
+
+(서울=연합뉴스) 권숙희 기자 = 홍콩의 독립서점들이 국가보안법 시행 이후 강화된 단속에 폐점하는 사례가 잇따르고 있다.
+
+[단속강화에 홍콩 독립서점들 잇단 폐점…"사상적 피난처 사라져"](https://www.yna.co.kr/view/AKR20260831094400009)
+
+### 中·러시아·이란 등 집결…SCO 정상회의 키르기스서 개막
+
+(하노이=연합뉴스) 박진형 특파원 = 중국·러시아·이란 등 반(反)서방 국가들이 주축으로 참여하는 상하이협력기구(SCO) 정상회의가 31일(현지...
+
+[中·러시아·이란 등 집결…SCO 정상회의 키르기스서 개막](https://www.yna.co.kr/view/AKR20260831092300084)
+
+### [영상] 美그랜드캐니언에 기습 폭우로 돌발 홍수…"최소 20명 실종"
+
+(서울=연합뉴스) 네팔·중국 국경 히말라야 산악지대 대홍수로 대규모 인명 피해가 발생한 가운데 미국의 대표 국립공원 그랜드 캐니언에도 돌발 홍수...
+
+[[영상] 美그랜드캐니언에 기습 폭우로 돌발 홍수…"최소 20명 실종"](https://www.yna.co.kr/view/AKR20260831092700704)
+
+### 日 10년물 국채금리 한때 2.95%…30년만 최고치
+
+(도쿄=연합뉴스) 이도연 특파원 = 일본 장기 금리 지표인 10년물 국채 금리가 31일 한 때 2.95%까지 오르면서 채권 가격이 30년 만에 ...
+
+[日 10년물 국채금리 한때 2.95%…30년만 최고치](https://www.yna.co.kr/view/AKR20260831092400073)
+
+### 6·25 호국영웅 故 김하동 일병 유해 신원 확인
+
+(서울=연합뉴스) 김철선 기자 = 국방부 유해발굴감식단은 6·25전쟁 당시 대한민국을 지키다 산화한 호국영웅 고(故) 김하동 일병의 유해를 발굴...
+
+[6·25 호국영웅 故 김하동 일병 유해 신원 확인](https://www.yna.co.kr/view/AKR20260831091400504)
+
 ## 투자
 
 **오늘의 분석**
@@ -1450,6 +1564,42 @@ Lower Saxony premier urges agreement on VW restructuring before board meeting
 Asia chip stocks fall as Warsh revives rate-hike fears, oil adds risk-off pressure
 
 [Asia chip stocks fall as Warsh revives rate-hike f](https://www.investing.com/news/stock-market-news/asia-chip-stocks-fall-as-warsh-revives-ratehike-fears-oil-adds-riskoff-pressure-4882105)
+
+### 아시아 통화들이 혼재된 가운데 엔화는 160엔 근처에서 움직이고 있으며, 유가 급등으로 인해 위험 회피 심리가 강화되고 있습니다.
+
+Asian currencies mixed as yen hovers near 160; oil surge raises risk-off pressures
+
+[Asian currencies mixed as yen hovers near 160; oil](https://www.investing.com/news/stock-market-news/asian-currencies-mixed-as-yen-hovers-near-160-oil-surge-raises-riskoff-pressures-4882132)
+
+### IMetal은 폴 라킨을 이사로, 로버트 스콧을 최고재무책임자로 임명했습니다.
+
+imetal appoints paul larkin as director, robert scott as cfo
+
+[imetal appoints paul larkin as director, robert sc](https://www.investing.com/news/company-news/imetal-appoints-paul-larkin-as-director-robert-scott-as-cfo-93CH-4882131)
+
+### 메이투안의 실적은 중국의 전자상거래 분야에서 벌어지고 있는 가격 경쟁이 완화되고 있음을 시사할 수 있다. 그 이유는 다음과 같다.
+
+Meituan earnings may signal a cooling China’s e-commerce price war; here’s why
+
+[Meituan earnings may signal a cooling China’s e-co](https://www.investing.com/news/stock-market-news/meituan-earnings-may-signal-a-cooling-chinas-ecommerce-price-war-heres-why-93CH-4882130)
+
+### 왜 오늘 중국국제항공의 주가가 하락하고 있는 걸까요?
+
+Why is Air China stock sliding today?
+
+[Why is Air China stock sliding today?](https://www.investing.com/news/stock-market-news/why-is-air-china-stock-sliding-today-93CH-4882128)
+
+### ‘기프트 니프티 50’은 24,100~24,500 범위 내에서 가격이 변동하고 있으며, 실시간으로 가격이 업데이트되고 있습니다.
+
+Gift Nifty 50 coiled in 24,100-24,500 range: Live levels
+
+[Gift Nifty 50 coiled in 24,100-24,500 range: Live ](https://www.investing.com/news/stock-market-news/gift-nifty-50-coiled-in-2410024500-range-live-levels-93CH-4882127)
+
+### 분석: 트럼프의 캐나다 관세 정책으로 인해 도요타와 혼다가 그 비용을 부담하게 될 수 있다.
+
+Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs
+
+[Analysis-Toyota and Honda may get stuck with the b](https://www.investing.com/news/stock-market-news/analysistoyota-and-honda-may-get-stuck-with-the-bill-for-trumps-canada-tariffs-4882125)
 
 ## 미국 이민
 
@@ -1719,9 +1869,27 @@ Getting a Green Card or Work Permit? This Could Save You Money    MundoNOW
 
 [Getting a Green Card or Work Permit? This Could Sa](https://news.google.com/rss/articles/CBMihwFBVV95cUxQa0xJajhKb21WYXJSZjM2cWhTemxTNjdFVVQ1UkhzV0Q3SDMxc0NUQndFeDhoMVVRNVhjWkc3bHdRSmp5bHl4c3NxTmhKcEtqMUJnRDhyVHJrMVlyVlE2OVFSNVg4OXQ5YVVHYWFjcWFwLXhPWk1MZlZ1Qlo2MWpEMmhCTmRCSXM?oc=5)
 
+### 저는 뉴욕과 6자리 연봉의 직장을 떠나 인도로 돌아왔습니다. H-1B 비자와 관련된 제한들 덕분에 그런 결정을 내리는 것이 더 수월했습니다 – cedarnews.net
+
+I left New York and a six-figure job to move back to India. H-1B restrictions made it easier to walk away    cedarnews.net
+
+[I left New York and a six-figure job to move back ](https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVmsyZld5RWxQdTFWWFpzSEluM2lVZzQ5T013Tjh5dHdBQUl0RjBEbjg1dkwtaFRuQlZWc0l1MDlNbWhXZDktc3p4ZGh1bVJxWmxZUXVOdjQ5MUNCZVpHXzhwOTBHem1Jbkgwenk3TERfUjcxbk9pT0Nn?oc=5)
+
+### H-4 비자: 도널드 트럼프 행정부의 이번 조치가 미국 내 인도인들에게 의미하는 바 – 최신 소식
+
+H-4 EAD: What Donald Trump Administration’s Move Means for Indians in the US    LatestLY
+
+[H-4 EAD: What Donald Trump Administration’s Move M](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHhsWDB2UnI3SU5pTFRJWkU2cW11dFZtZXFxSzBpcXBQdkVDMTB3enRnZi1CRFBMZFJlUkJsYzhpUG5IbXNGRzFUYjIzbnRUUE1wVkFzRDFLYUpZOEtyS21NenpZVEgwSjhYY0Q2WEtQQUc2NnFvcTI5ODFZOWNBbC05U1g1aTdTTmpYbnE0bzM2Y1ZaTTdKWTNRS3BYLVMtWEdjNkFSMlltVlRnUEJnZVFRdzlYZ9IBuwFBVV95cUxNQklyQUQtdm5lVWszQy0ySy1QVXFtVVZpWjZoZGY0SXRJYU5TNG9pbWVWTkw1WVR5X2M3SXd1YU1jdTltc1dqOWJOZ2tWeW1oT0JsaURBYVR2Vm9MVUdYLUJrU200RjBrU2VzZ3M5S1V6MXdacEdVY1N2M0lYOWVzbWpnT1JEM3c0VVljNlc3QXdsQkc1RjFJc2R4U2d6OWNVY0xtak1veWlZLWVSTlUwTC1nd05wZlVDb3Zn?oc=5)
+
+### 트럼프 행정부의 새로운 이민 정책으로 수천 명의 H-1B 비자 소지자들이 추방 위기에 처했다 – Mwakilishi.com
+
+Trump Administration's New Immigration Plan Puts Thousands of H-1B Workers at Risk of Deportation    Mwakilishi.com
+
+[Trump Administration's New Immigration Plan Puts T](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFVZRkJUaDd2S2tTVXFxaEEwV1RwUmMwNWREblBRLU84cldzRGZuRzlqWHkxbjREVVpQRlMyckVITjVUNkNNaHZxQ1pXV09mczFzTWZtclRpQUlBSHB6cHhsaVRhcDJtM3ZKaW40a2E5QU9wOEVTRU9VeWdEX3JRTldEMzhXbnVPU1ZzdGhhRlRoN1RrMTZEclZyX2pLRlBnMVcxLVlMQmdRSUl6Mzg2OVlocjRHbDlHUm5LSQ?oc=5)
+
 ## 시장 지표
 
-- KOSPI: 6,666 -1.8%
+- KOSPI: 6,680 -1.6%
 - 나스닥: 26,402 -0.5%
 - 미 10년물: 4.72% +1.0%
 - USD/KRW: ₩1,377
