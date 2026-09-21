@@ -2,15 +2,88 @@
 
 > 자동 발행: https://www.unattached.me/news/#2026-09-21
 
+## AI
+
+**오늘의 분석**
+
+유엔과 캘리포니아가 동시에 AI 안전장치와 데이터센터 자원 사용에 대한 규제 강화를 요구하면서, 아마존이 메타의 뮤즈 에이전트 접근을 차단하고 애플이 시리 AI 미제공 관련 합의금을 지급하는 등 플랫폼 간 책임 공방이 본격화되고 있다.  
+
+반면 메타 뮤즈는 챗GPT 초기 모바일 출시보다 빠른 다운로드·DAU 증가세를 보이며, 구글북과 그록 4.7, 오픈AI의 수학 자문그룹 구성, 태비의 회계 자동화 등 신규 AI 제품·서비스가 시장에 쏟아지고 있어 경쟁 구도가 다변화되고 있다.  
+
+규제 강화와 시장 확장이 맞물리면서 향후 AI 인프라의 에너지·수자원 효율성과 플랫폼 간 상호 운용성 논의가 핵심 쟁점으로 부상할 전망이다. 앞으로 주시할 한 가지는 주요국 정부의 데이터센터 전력·용수 가격 체계 개편이 AI 서비스 경쟁력에 미칠 영향이다.
+
+### 유엔은 AI 안전장치 마련을 위해 확실성을 기다릴 수 없다고 말했다.
+
+올해 초 유엔의 과학 위원회가 오픈AI가 허깅페이스를 해킹한 사건에 대해 처음으로 내놓은 중요한 보고서에서, 위원회는 그 위험성이 완전히 파악되기 전에 점점 더 강력해지는 AI의 힘을 통제해야 한다고 경고했습니다. 이 보고서로 인해 이번 주 뉴욕에서 각국 지도자들이 모이는 자리에서 AI가 세계적인 외교 의제의 중심에 오르게 되었습니다.
+
+[UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)
+
+### 아마존은 메타의 뮤즈 AI 에이전트를 신뢰하지 않습니다.
+
+기즈위어의 보도에 따르면, 메타의 뮤즈 AI 에이전트는 사용자를 대신해 아마존에서 쇼핑하는 것이 차단되었습니다. 일요일부터 뮤즈 앱 사용자들에게 “허가받지 않은 AI 에이전트가 계속해서 서비스를 이용하는 것은 고객들이 동의한 아마존의 이용 약관을 위반하는 행위입니다”라는 팝업 메시지가 나타나기 시작했습니다. 기즈위어에 따르면, 메타는 아마존 측에 이 사실을 알리지 않았다고 합니다.
+
+[Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping)
+
+### 구글의 899달러짜리 구글북은, 사람들이 제미니를 위해 새 노트북을 구입할 것이라는 전략입니다.
+
+구글의 AI 기반 도구인 Google Book은 Gemini를 커서, 음성 입력, 위젯 및 데스크톱 환경의 다른 요소들과 연동시켜 줍니다.
+
+[Google’s $899 Googlebook is a bet that you’ll buy ](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/)
+
+### 이제 아이폰 사용자들도 애플의 2억 5천만 달러 규모의 시리 AI 관련 합의 프로그램을 통해 보상을 신청할 수 있습니다.
+
+애플은 AI 기능이 강화된 시리를 제공하지 못했다는 불만을 해결하기 위해 2억 5천만 달러를 지불하기로 했습니다. 이제 해당 조건을 충족하는 아이폰 소유자들은 보상금을 신청할 수 있습니다. 만약 여러분이 미국에 거주하며 2024년 6월 10일부터 […] 사이에 아이폰 15 프로, 아이폰 15 프로 맥스, 혹은 어떤 아이폰 16 모델을 구입했다면 보상금을 신청할 수 있습니다.
+
+[iPhone owners can now submit claims in Apple’s $25](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement)
+
+### 캘리포니아, AI 데이터센터의 에너지 및 물 사용에 대한 규제 강화
+
+로스앤젤레스 타임스의 보도에 따르면, 캘리포니아 주지사 가빈 뉴섬은 AI 데이터 센터들이 공공요금을 주민들에게 전가하는 것을 막기 위한 7건의 법안에 서명했습니다. 이 법안들은 캘리포니아 공공요금위원회가 데이터 센터들을 위한 새로운 요금 체계를 도입하도록 요구하며, 동시에 데이터 센터들이 필요한 시설 개선 비용을 스스로 부담하도록 규정하고 있습니다.
+
+[California tightens rules on AI data center energy](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)
+
+### 오픈AI, 자사의 AI가 100개 이상의 미해결 문제들을 해결함에 따라 수학 자문 그룹 구성
+
+이 그룹은 오픈AI의 진행 중인 수학 연구의 속도를 늦추거나 방향을 바꾸는 데 어떠한 유연성도 주어지지 않을 것입니다.
+
+[OpenAI forms math advisory group as its AI resolve](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
+
+### 메타의 뮤즈, 챗GPT의 초기 모바일 출시보다 빠른 성장세
+
+앱피그스의 새로운 추정에 따르면, 메타의 새로운 AI 에이전트인 뮤즈는 모바일 버전이 출시된 이후 미국과 캐나다에서 ChatGPT가 동일한 기간 동안 기록한 것보다 더 많은 다운로드 건수와 일일 활성 사용자 수를 기록했습니다.
+
+[Meta’s Muse is outpacing ChatGPT’s early mobile la](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
+
+### 메타의 AI 에이전트는 Amazon.com을 사용하는 것이 차단되었습니다.
+
+아마존은 자체적인 파운데이션 모델들을 보유하고 있으며, 인터넷상에서 가장 인기 있는 추론 플랫폼 중 하나도 갖추고 있습니다. 그들이 ‘Muse’를 공개해야 할 법적 의무가 없는 이상, 굳이 그럴 필요가 있을까요?
+
+[Meta’s AI agent has been blocked from using Amazon](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
+
+### 전 회계사인 태비는 AI를 활용해 회계사들을 불필요하게 만들고 있습니다.
+
+Tabby는 실시간 회계 관리 인터페이스로 설계되었으며, 고객들의 업무 서류를 처리해주면서도 그들의 사업의 수익과 손실에 대한 최신 정보를 제공해줍니다.
+
+[With Tabby, a former accountant is using AI to mak](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
+
+### 그록 4.7
+
+기사 URL: https://x.ai/news/grok-4-7  
+댓글 URL: https://news.ycombinator.com/item?id=49788838  
+점수: 440  
+# 댓글 수: 363
+
+[Grok 4.7](https://x.ai/news/grok-4-7)
+
 ## 한국
 
 **오늘의 분석**
 
-이번 추석 연휴를 앞둔 시점에서 시민 안전을 둘러싼 국가의 역할이 두 갈래로 드러났다. 안성 나눔장터 트럭 돌진 사고로 7명의 사상자가 발생한 뒤 운전자 구속영장 심사가 진행 중인 가운데, 식약처는 장보기 순서부터 조리·보관·운반까지 식중독 예방 지침을 선제적으로 발표했다. 전자는 사후 처벌과 제도적 허점 보완을, 후자는 사전 예방과 정보 제공을 통해 생명·신체 안전을 지키려는 공권력의 이중적 작동이다. 행사장 차량 진입 통제나 고령 운전자 적성 검사 등 구조적 대책이 영장 심사 이후 논의로 이어질지가 관건이다.
+21일 뉴스는 일상 안전망의 균열과 구조적 대응 사이의 긴장을 보여준다. 안성 나눔장터 트럭 돌진 사고와 영종역 공항철도 멈춤, 이주노동자 폭행 의혹은 시민 생명과 노동 인권이 현장에서 어떻게 위협받는지 드러낸다. 반면 식약처의 추석 식중독 예방 지침, 경찰청의 중대 비위 ‘배제징계’ 원칙, 중수청 출범과 검사 80명 합류는 국가가 제도적 장치로 위험을 관리하려 시도하는 흐름이다. 부동산 시장이 강남에서 외곽 중저가 지역으로 상승 축을 옮기며 83주 연속 오르고, 마이너스통장 금리가 1년 반 만에 5%를 넘어선 점은 거시 경제 불안정이 서민 주거와 가계 부채로 전이되는 경로를 시사한다.
 
-동시에 한국 청년의 역량이 문화·체육·예술 전방위에서 국제 무대로 뻗어 나가는 흐름이 뚜렷하다. 프라하 보트 레스토랑에서 열린 K-뷰티 팝업, 루마니아 에네스쿠 콩쿠르에서 우승과 특별상 5개를 석권한 18세 피아니스트 이정우, 여중부 200m 한국 기록을 올해만 일곱 차례 경신한 왕서윤까지. 민간 플랫폼과 재단 후원, 학교 체육 시스템이 맞물려 만든 성과들이 'K-컬처'의 저변을 단발성 유행이 아닌 지속 가능한 인재 생태계로 넓히고 있다.
+스포츠와 문화 분야에선 한국 육상·수영·배드민턴·야구·피아노 등 차세대 주역들이 국제 무대에서 성과를 내며 국가 브랜드를 확장 중이다. 하루나루의 프라하 K-뷰티 팝업, 노들섬 빛섬축제, LG전자 히트펌프의 ‘보일러 없는 아파트’ 표준화 시도는 민간이 문화·기술 수출로 소프트파워를 키우는 사례다. 다만 남성 팀장의 반복적 음식 제공 사연이나 교사 형사고소 사례처럼 직장·학교 내 위계·권력 남용 문제가 여전히 수면 위로 올라오고 있어, 제도 정비만으로 해소되지 않는 조직 문화 개선 과제가 남는다.
 
-짧은 연휴에도 해외여행 수요가 폭발해 일본 3개 도시가 예약 1~3위를 독식한 반면, 진안군과 수자원공사가 22일간 진행한 '트레저헌터' 축제로 지역 체류형 관광을 유도하려는 시도도 병행됐다. 출국 러시와 로컬 브랜딩 강화가 동시에 나타나는 것은 국민 소득 수준과 여가 선호가 다변화됐음을 보여준다. 앞으로 주시할 점은 안성 사고 수사 결과가 다중밀집행사 안전 기준 법제화로 이어질지 여부다.
+앞으로는 중수청 정식 가동에 따른 수사권 재편과 경찰 징계 강화가 실제 현장 비위 감소로 이어지는지, 그리고 고금리·고물가 속에서 외곽 아파트 상승세가 실수요자 부담 가중으로 귀결되지 않을지 주시해야 한다.
 
 ### 안성 나눔장터 돌진 트럭 운전자 “죽을 죄 지었다”
 
@@ -54,15 +127,129 @@ K-뷰티 유통 플랫폼 하루나루(HARUNARU)가 체코 프라하에서 한�
 
 [연휴 짧아도 비행기 탄다···가장 많이 예약한 도시 1~3위 모두 ‘일본’](https://www.khan.co.kr/article/202609211236001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 인천 영종역 향하던 공항철도 20여분간 운행 중단···퇴근 시간대 승객 수백명 불편
+
+인천국제공항 방면으로 운행하다 원인을 알 수 없는 이유로 21일 멈춰 선 공항철도 내부. 연합뉴스인천국제공항으로 가던 공항철도가 운행 중 멈춰서면서 수백명의 승객이 불편을 겪었다.21일 공항철도 등에 따르면 이날 오후 5시20분쯤 인천 청라국제도시역에서 영종역 방향으로 향하던 공항철도 열차가 멈춰 섰다.해당 열차는 ‘비상제동’이 걸리면서 선로 중간에 멈춰 ···
+
+[인천 영종역 향하던 공항철도 20여분간 운행 중단···퇴근 시간대 승객 수백명 불편](https://www.khan.co.kr/article/202609211920001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 경찰청 “법왜곡·직무관련 뇌물수수 파면·해임 원칙”…정보유출도 중징계
+
+권도현 기자앞으로 법왜곡죄에 해당하는 행위나 수사·단속 직무 관련 금품·향응수수 등 중대한 수사직무 비위를 저지른 경찰은 원칙적으로 파면 또는 해임된다.경찰청은 21일 제596회 국가경찰위원회를 개최해 중대 수사직무 비위에 ‘배제징계’를 원칙으로 책임을 묻는 ‘경찰공무원 징계령 세부시행규칙 일부개정안’을 의결했다고 밝혔다. 배제징계란 공무원 신분을 완전히 ···
+
+[경찰청 “법왜곡·직무관련 뇌물수수 파면·해임 원칙”…정보유출도 중징계](https://www.khan.co.kr/article/202609211910001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 중수청에 검사 80명 합류···‘쿠팡 외압 폭로’ 문지석 등
+
+중대범죄수사청 본청과 서울청이 입주할 서울 중구 르네스퀘어빌딩. 연합뉴스중대범죄수사청 1차 특례 임용에 지원한 검사 104명 중 문지석 수원고검 검사를 비롯한 80명이 최종 합격한 것으로 파악됐다.21일 경향신문 취재 결과 중수청은 5급 이상 임용 대상자 212명을 추렸다. 이중 검사는 총 80명이다.합격자 중 가장 선임은 임은정 서울동부지검장(30기)다.···
+
+[중수청에 검사 80명 합류···‘쿠팡 외압 폭로’ 문지석 등](https://www.khan.co.kr/article/202609211909001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 잠시 쉬었다고…이주노동자에 소화기 분사한 선주
+
+전남 한 지역에서 고용주가 이주노동자들에게 소화기를 분사하는 등 폭력을 가했다는 의혹이 제기됐다.21일 광주전남노동안전보건지킴이에 따르면 베트남 출신 이주노동자 2명은 19일 선주인 고용주로부터 폭행을 당했다고 주장했다. 당시 이들은 작업 도중 잠시 쉬고 있었지만, 고용주가 숙소까지 찾아와 방 안에 있던 노동자들을 향해 소화기를 분사한 것으로 파악됐다. 또 노동자들에게 욕설을 한 것으로 알려졌다. 이에 피해 노동자들은 해당 선주를 폭행 등의 혐의로 경찰에 고소했다.아울러 이들은 근로계약과 다른 업무에 투입되는 등 열악한 노동환경에 시달렸다고 주장했다. 근로계약서에 명시된 문어 통발 작업뿐 아니라 꽃게잡이 그물 정비 작업에도 동원됐으며, 하루 평균 12시간 넘게 일했지만 임금도 제때 받지 못했다는 게 이들의
+
+[잠시 쉬었다고…이주노동자에 소화기 분사한 선주](https://www.donga.com/news/Society/article/all/20260921/134713567/2)
+
+### ‘전체 1순위 키움행’ 하현승 “버건디 찰떡인 것 같아…김도영 선배 상대해보고파”
+
+이변없이 전체 1순위로 키움 히어로즈 유니폼을 입은 부산고 특급 유망주 하현승이 “키움에 지명되고 싶었는데, 1순위로 올 수 있게 돼 기쁘다”고 소감을 밝혔다. 하현승은 21일 서울 송파구 롯데호텔 월드에서 열린 2027 KBO 신인 드래프트에서 전체 1순위 지명권을 가진 키움의 선택을 받은 후 “원래 오고 싶었던 팀에 와 기쁘다. 아마추어 야구의 마지막을 영광스럽게 마무리할 수 있어 기쁘다”며 환하게 미소지었다. 이번 드래프트에 참가한 1280명 중 가장 먼저 이름이 불린 하현승은 무대 위에 올라 허승필 키움 단장으로부터 직접 유니폼을 받았다. 하현승은 “버건디 색이 잘 어울리지 않으면 어떻게 하나 생각했는데, 찰떡인 것 같아 기분이 좋다”고 말했다. 투수로도, 타자로도 재능을 뽐낸 하현승은 메이저리그(M
+
+[‘전체 1순위 키움행’ 하현승 “버건디 찰떡인 것 같아…김도영 선배 상대해보고파”](https://www.donga.com/news/Sports/article/all/20260921/134713532/1)
+
+### ‘1번타자 김도영’ 류지현호, 대만전 선발 라인업 발표
+
+‘KBO리그 홈런 1위(40개)’ 김도영(KIA 타이거즈)이 류지현호의 ‘리드오프’로 아시안게임 5연패 선봉에 선다.류지현 감독이 이끄는 한국 야구대표팀은 21일 오후 6시 30분 일본 아이치현 오카자키중앙종합공원 야구장에서 2026 아이치·나고야 아시안게임 B조 조별리그 대만과 1차전을 치른다.대표팀은 2010년 광저우, 2014년 인천, 2018년 자카르타·팔렘방, 2023년 항저우 대회에 이어 5회 연속 금메달에 도전한다.한국은 대만, 홍콩, 태국과 B조에 속해 조별리그를 치른다. 껄끄러운 대만과 첫판부터 격돌하는데, 최정예 멤버를 가동한다.대표팀은 김도영(3루수)-문현빈(좌익수)-노시환(1루수)-문보경(지명타자)-김주원(유격수)-박준순(2루수)-조형우(포수)-박재현(우익수)-김지찬(중견수)으로 선발
+
+[‘1번타자 김도영’ 류지현호, 대만전 선발 라인업 발표](https://www.donga.com/news/Sports/article/all/20260921/134713520/1)
+
+### 대우건설, 22MW급 부유식 해상풍력 부유체 국제 인증 획득
+
+대우건설은 부유식 해상풍력 연구단과 공동 개발한 22MW급 부유식 해상풍력 부유체 모델이 노르웨이 선급기관 DNV와 프랑스 선급기관 BV로부터 기본설계 승인(AiP)을 획득했다고 21일 밝혔다.AiP는 개발 기술이나 모델의 개념과 기본설계에 대해 안전성과 기술적 타당성을 검토하는 인증 절차다.부유식 해상풍력은 해저에 구조물을 고정하는 방식과 달리 바다에 부유체를 띄우고 계류시켜 풍력발전기를 설치하는 방식이다. 수심이 깊어 고정식 구조물 설치가 어려운 해역에서도 활용할 수 있다.대우건설과 연구단은 2023년 4월 ‘혁신형 LCOE 절감형 20MW+급 초대형 부유식 해상풍력 하부구조 설계기술 개발’이 국책과제로 선정된 이후 관련 기술을 개발해왔다.2025년 2월에는 관련 특허를 취득했으며 같은 해 9월 선박해양
+
+[대우건설, 22MW급 부유식 해상풍력 부유체 국제 인증 획득](https://www.donga.com/news/Economy/article/all/20260921/134713515/1)
+
+### 남자 팀장이 자꾸 입에 음식 넣어줘…이직 4주차 남성 직장인 “소름 돋아”
+
+남성 팀장이 같은 남성 직원인 자신에게 반복적으로 음식을 직접 먹여줘 불편하다는 사연이 전해졌다.지난 16일 한 온라인 커뮤니티에는 “팀장님이 자꾸만 먹여줍니다”라는 제목의 글이 올라왔다.작성자 A씨는 이직한 지 4주가량 된 남성 직장인이라고 자신을 소개했다.A씨는 “저 건장한 남자고 팀장님도 남자”라며 “팀장님이 가끔 제 입에 음식을 넣어줘서 진짜 미치겠다”고 토로했다.A씨에 따르면 이직 첫날 열린 환영 회식에서 팀장은 큰 쌈을 만든 뒤 A씨에게 내밀며 “아~ 해봐, 아~”라고 말했다.그는 “처음에는 당연히 제 앞접시에 놔주거나 제 손에 쥐여주실 줄 알고 손을 내밀었다”며 “그런데 끝까지 제 입에 직접 넣어주겠다고 했다”고 전했다.이어 “고기 굽다 말고 남자 둘이서 한 명은 입 벌리고 있고 한 명은 입에
+
+[남자 팀장이 자꾸 입에 음식 넣어줘…이직 4주차 남성 직장인 “소름 돋아”](https://www.donga.com/news/Society/article/all/20260922/134715513/1)
+
+### [T﻿ech&]LG전자 히트펌프, ‘보일러 없는 아파트’ 기준 만든다
+
+히트펌프가 기존 화석연료 중심의 냉난방을 대체할 차세대 솔루션으로 부상하면서 국내 시장도 본격적인 전환기를 맞고 있다. LG전자는 유럽에서 검증된 기술력과 다년간 국내에서 축적한 사업 노하우를 앞세워 시장을 선도하고 있다. 단독주택 보급 사업에서 시장의 선택을 확인한 데 이어 실제 아파트에서 한국 공동주택에 적합한 모델을 실증하고, 글로벌 시장에서는 냉난방과 온수를 결합한 새로운 B2B 솔루션까지 선보이며 히트펌프 사업 확대에 속도를 내고 있다.제주도 히트펌프 보급 사업 종합 1위… 국내 난방 전기화 사업 수행 역량 입증 LG전자는 정부의 난방 전기화 정책 대표 사업으로 추진되는 ‘2026년 제주 생활 속 히트펌프 보급 사업’에서 가장 많은 고객의 선택을 받으며 종합 1위 사업자에 올랐다.올해 상·하반기 두
+
+[[T﻿ech&]LG전자 히트펌프, ‘보일러 없는 아파트’ 기준 만든다](https://www.donga.com/news/Economy/article/all/20260921/134689849/1)
+
+### 가을밤 노들섬은 ‘빛의 마술’로 물들다
+
+올가을 한강 노들섬이 빛의 황홀경으로 물든다. 서울시는 다음 달 2일부터 11일까지 열흘간 서울 용산구 노들섬 일대에서 ‘2026 서울라이트 한강 빛섬축제’를 개최한다고 21일 밝혔다. 올해 4회째를 맞는 빛섬축제는 국내 최대 규모 레이저-미디어아트 축제다. 2023년 서래섬, 2024년 여의도, 2025년 뚝섬에 이어 올해는 노들섬에서 관람객을 맞는다. 축제는 미디어아트를 감상하는 레이저아트, 자선단체 홍보대사 활동을 기부로 연결하는 동행라이트, 기술과 예술에 대한 강연 빛섬 렉처 등 3개 축으로 꾸려진다. 행사 시간은 매일 오후 6시 반부터 10시 반까지다.● 오색 빛 덧입은 노들섬 올해 주제는 ‘빛의 서사시’다. 국내외 최정상 미디어아티스트 15개 팀이 한강의 물, 불, 토양, 공기, 생명 에너지를 빛
+
+[가을밤 노들섬은 ‘빛의 마술’로 물들다](https://www.donga.com/news/Economy/article/all/20260921/134711841/2)
+
+### [단신]KB국민카드, 포인트리 지역화폐 전환 확대 外
+
+■ KB국민카드, 포인트리 지역화폐 전환 확대KB국민카드는 KB금융그룹 통합 포인트인 ‘포인트리’를 지역화폐로 전환할 수 있는 서비스를 확대 시행한다고 21일 밝혔다. KB국민카드와 글로벌 핀테크 기업 코나아이는 회원들이 보유한 포인트리를 지역화폐로 전환해 사용할 수 있도록 했다. 경기지역화폐, 청주페이 등 36개 지방자치단체가 새롭게 추가돼 전국 54개 지자체 애플리케이션에서 포인트리를 지역화폐로 바꿔 사용할 수 있다.■ 신한은행, 퇴직연금 ETF 당일매매 서비스신한은행은 ‘퇴직연금 상장지수펀드(ETF) 당일 매매 서비스’를 시행한다고 21일 밝혔다. 이번 서비스 시행으로 신한은행의 확정기여(DC)형 퇴직연금과 개인형퇴직연금(IRP) 고객은 보유 중인 ETF를 매도한 뒤 매도 대금 결제를 기다리지 않고 같
+
+[[단신]KB국민카드, 포인트리 지역화폐 전환 확대 外](https://www.donga.com/news/Economy/article/all/20260921/134712493/2)
+
+### [날씨] 전국 대체로 맑음‥큰 일교차·짙은 안개 유의 - imnews.imbc.com
+
+[날씨] 전국 대체로 맑음‥큰 일교차·짙은 안개 유의    imnews.imbc.com    [날씨] 내륙 15도 안팎 큰 일교차…수도권·충청 대기 건조    v.daum.net    대체로 맑고 당분간 늦더위…안개,풍랑 유의    KBS 뉴스    귀성길 '일교차·안개'·귀경길 '비'...보름달 구름 뒤로    YTN    추석 당일은 ‘흐림’ 보름달 못 볼 수도    조선일보
+
+[[날씨] 전국 대체로 맑음‥큰 일교차·짙은 안개 유의 - imnews.imbc.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Gc1N1aUhobDBKekRlSFBxMUk2N1hiRkY1S25ReFdwRmtQblhDeVQ5dXVNUV9WY1BhT05UV1hoLTlxVWM5Qk1DdlVLVGY2bjIzTDloc3hoeUVKbnU1Y0hxV1hNZWRuR05pWmJsaUFxV29wcDVDazNz0gF3QVVfeXFMTVRRaFdEenhEWmNlNVg5OFVoSXRVa3J1UWg0NXlINkNucnFuLTZyemNZOGVJYmFKT09FTEZoUnRERm45ak1XNENLNjV0QkVHWEdGWFZSYkJxQ1FDcDhDRTVTNk9Udzc3a0otYXFnYjhxaVNuVmw0cWM?oc=5)
+
+### ‘마통’ 금리 어느새 최고 연 7%…1년 반 만에 평균 5% 돌파
+
+은행권 대출금리가 가파르게 오르는 가운데 ‘마이너스통장(마통)’의 평균 금리가 1년 반 만에 연 5%를 돌파했다. 일부 은행에서는 마이너스통장 금리 상단이 연 7%를 웃돌고 있는 상황이다. 대출금리 오름세가 지속되면서 급전이나 생활자금 마련을 위해 마통을 이용하는 차주들의 이자 부담도 한층 가중될 전망이다. 22일 은행연합회에 따르면 KB국민·신한·하나·우리·NH농협 등 5대 시중은행이 지난 7월 신규 취급한 신용한도대출(마이너스통장)의 평균 금리는 연 5.01%로 집계됐다. 5대 은행의 마통 평균금리가 5%를 웃돈 것은 지난해 1월(5.24%) 이후 약 1년 반 만이다.마이너스통장 금리가 빠르게 오르는 것은 한국은행의 기준금리 인상 등으로 시장금리 상승세가 이어지고 있는 영향이다. 금융투자협회 채권정보센터
+
+[‘마통’ 금리 어느새 최고 연 7%…1년 반 만에 평균 5% 돌파](https://www.donga.com/news/Economy/article/all/20260922/134715750/1)
+
+### “文정부 ‘85주’ 기록 깨기 직전”…서울 아파트값 상승 주역 바뀐 이유
+
+서울 아파트값이 83주 내리 오르며 역대 최장 상승 기록에 다가선 가운데, 상승세의 중심축이 강남권에서 외곽 중저가 밀집 지역으로 이동하고 있다.21일 유튜브 채널 ‘월급쟁이부자들TV’에 따르면 부동산 투자 전문가 너나위(본명 김병철)는 “서울 아파트 평균 상승은 83주째 이어지고 있으나 83주의 초반인 2025년은 강남 3구와 한강벨트 등 핵심 지역, 그리고 최근은 서울의 외곽 지역 중심으로 올랐다”고 분석했다. 한국부동산원 통계 기준 서울 집값은 문재인 정부 시절 세운 역대 최장 상승 기록(85주) 경신을 눈앞에 뒀다. 지난해 송파(20%)와 성동(19%)이 오름세를 이끌었지만, 올해 들어 성북(13%), 구로(11%), 강서(11%), 서대문(11%), 관악(10%) 등 외곽 지역이 급등세를 나타내고
+
+[“文정부 ‘85주’ 기록 깨기 직전”…서울 아파트값 상승 주역 바뀐 이유](https://www.donga.com/news/Economy/article/all/20260922/134715745/1)
+
+### ‘안세영 출격’ 여자 배드민턴, 오늘 단체전 시작…타이틀 방어 도전
+
+‘셔틀콕 여제’ 안세영(삼성생명)이 중심이 된 한국 여자 배드민턴 대표팀이 아시안게임 단체전 타이틀 방어를 시작한다.박주봉 감독이 이끄는 한국은 22일 오전 9시30분 일본 아이치현 이치노미야 시립 체육관에서 말레이시아와의 대회 배드민턴 여자 단체전 8강전을 치른다.톱시드로 16강을 건너뛰고 8강에 직행한 한국의 이번 대회 첫 경기다.준결승 진출을 다툴 말레이시아는 16강에서 홍콩을 3-0으로 꺾고 8강에 안착했다.박주봉호의 이번 대회 목표는 금메달 3개, 은메달 1개, 동메달 2개다.직전 2022 항저우 아시안게임 당시 금메달 2개(여자 단체전, 여자 단식), 은메달 2개(남자 복식, 여자 복식), 동메달 3개(여자 복식, 혼합 복식, 남자 단체전)보다 소폭 상향 조정됐다.금메달 유력 종목 중 하나는 직전
+
+[‘안세영 출격’ 여자 배드민턴, 오늘 단체전 시작…타이틀 방어 도전](https://www.donga.com/news/Sports/article/all/20260922/134715742/1)
+
+### 한국 수영에 없던 ‘괴물 피지컬’…195㎝·윙스팬 216㎝ 김영범 떴다
+
+신장 195㎝, 윙스팬(양팔을 벌렸을 때 한쪽 손끝에서 반대쪽 손끝까지의 거리) 216㎝. 한국 수영에서 좀처럼 볼 수 없었던 압도적인 신체 조건이다.일찌감치 ‘괴물’로 불리며 기대를 모았던 김영범(20·강원도청)이 아시안게임 금메달이라는 결과까지 만들어내며 본격적인 비상을 시작했다. 가파른 성장세를 보여주면서 2년 뒤 2028 로스앤젤레스 올림픽을 향한 기대감도 키우고 있다.김영범은 지난 21일 일본 도쿄 아쿠아틱스센터에서 열린 2026 아이치·나고야 아시안게임 수영 남자 자유형 50m 결선에서 21초66의 대회 신기록으로 가장 먼저 터치패드를 찍어 금메달을 따냈다.자유형 100m 은메달과 계영 800m 동메달까지 더해 이번 대회에서만 벌써 3개의 메달을 수확했다.특히 자유형 50m 금메달은 ‘괴물 피지컬
+
+[한국 수영에 없던 ‘괴물 피지컬’…195㎝·윙스팬 216㎝ 김영범 떴다](https://www.donga.com/news/Sports/article/all/20260922/134715736/1)
+
+### [내 사건에, 내 자리를] “왜 그랬습니까?” 피해자가 직접 심문하는 재판은 어떨까 [플랫]
+
+“왜 목숨을 빼앗았습니까?”피해자 어머니가 법정에서 피고인에게 직접 던진 질문이다. 2014년 9월 일본 고베시에서는 초등학교 1학년 여자아이가 실종돼 사망한 채로 발견된 사건이 있었다. 피고인은 피해자를 집으로 유인해 살해한 뒤 시신을 훼손·유기한 혐의로 기소됐다.2016년 열린 첫 공판에서부터 피해자의 유족인 어머니와 외할머니는 피해자참가인 자격으로 재···
+
+[[내 사건에, 내 자리를] “왜 그랬습니까?” 피해자가 직접 심문하는 재판은 어떨까 [플랫](https://www.khan.co.kr/article/202609220700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### [내 사건에, 내 자리를] 피해자에게도 ‘법적 정의 실현’의 욕구가 있다 [플랫]
+
+내사건에 내 자리를“형사절차 속에서 피해자는 피해자로서 자신의 지위를 인정받고 싶다는 법적 정의 실현의 욕구가 있습니다.”피해자의 당사자성에 관한 사회적 논의가 필요한 이유는 무엇인가. 조미선 강원대 교수는 지난 8일 화상 인터뷰에서 피해자의 ‘정의 실현 욕구’에 주목했다. ‘검사 대 피고인’ 대립구도 바깥에 있던 피해자는 사회적 분위기 변화와 맞물려 스스···
+
+[[내 사건에, 내 자리를] 피해자에게도 ‘법적 정의 실현’의 욕구가 있다 [플랫]](https://www.khan.co.kr/article/202609220700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 초등생 '콩주머니 던지기' 중 다쳐…2년뒤 교사 형사고소 - v.daum.net
+
+초등생 '콩주머니 던지기' 중 다쳐…2년뒤 교사 형사고소    v.daum.net
+
+[초등생 '콩주머니 던지기' 중 다쳐…2년뒤 교사 형사고소 - v.daum.net](https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2MENVYTItVkdSeHZwSVNxVDItem9GZVUteFBKRUpPWVltOEhGa1Q5U3BlQVBxYWctOXVKQnJhRHM2YWl0RDQ4ZUpOMGJqa1E?oc=5)
+
 ## 한국 정치
 
 **오늘의 분석**
 
-대통령실이 강훈식 비서실장 사의 수용과 김성완 대변인 임명을 통해 지난주 기자회견 후 악화된 여론 수습과 소통 쇄신을 동시에 꾀한다. 비서실장 교체가 ‘종합적 책임’을 내세운 점은 국정 동력 상실을 막기 위한 인적 쇄신 의지이며, 미디어 전문가 기용은 메시지 관리 강화로 이어질 전망이다. 인사 개편 와중에도 이재명 대통령은 김성수 대법관 임명과 조희대 대법원장 차담으로 사법부 인사권 행사와 갈등 봉합을 병행했다.
+강훈식 비서실장의 사의 표명은 김승원 전 법무부 장관 후보자 낙마 여파와 인사 검증 실패 책임론이 맞물려 청와대 3실장 교체 가능성으로 번지는 인적 쇄신의 신호탄이 됐다. 이재명 대통령이 수리 여부를 고심하는 사이 김성완 신임 대변인 임명을 통해 소통 라인을 먼저 정비한 점은 여론 관리의 시급성을 보여준다. 국민의힘이 ‘경기성남 라인’ 책임론을 제기하며 공세를 펴는 가운데, 여당은 사전투표 폐지와 선관위 전면 개편을 담은 ‘국민참정권 수호법’을 당론 발의해 선거 제도 자체를 흔드는 강수를 뒀다. 반면 당정은 농지 전수조사에서 경미한 위반은 양성화하고 투기만 엄단하는 실용적 타협점을 찾아 정책적 차별화를 시도했다.
 
-당정은 농지 전수조사에서 경미 위반 양성화와 투기 엄단이라는 ‘실용적 규제’ 원칙을 확인했고, 국민의힘 장동혁 대표는 플랫폼 노동자 공제회로 취약층 보호 의제를 띄운다. 여야가 불평등 해소 방향에서 각기 해법을 제시하며 정책 경쟁하는 양상이다. 사법부 인사를 매듭짓고 민생에 행정력을 집중하려는 여당의 행보가 인적 쇄신 효과를 담보할지가 관건이다.
+안보 전선에서는 DMZ 수색 작전 중 지뢰 폭발로 간부 3명이 사상하는 사고가 발생한 직후 북한이 탄도미사일 발사를 ‘새로운 전투무기체계 시험’이라 주장하며 도발 수위를 높였다. 이재명 대통령이 유엔총회 기조연설을 위해 뉴욕에 도착한 시점과 맞물려 한·미·일 외교장관은 북한 비핵화와 대화 복귀를 병행 촉구하고 대만해협 평화 유지까지 명문화하며 동맹 결속을 과시했다. 미셸 스틸 주한미국대사가 여야 지도부를 초청해 만찬을 가진 것 역시 DMZ 사고와 북핵 위기 속에서 한미 동맹의 초당적 지지를 확인하려는 의도로 읽힌다. 국내적으로는 플랫폼 노동자 공제회 추진 등 국민의힘이 약자 보호 프레임으로 정책 외연을 넓히는 움직임도 감지된다.
 
-앞으로는 대통령실 새 진용이 지지율 반등과 입법·사법부 관계 설정에서 성과를 내는지 주시해야 한다.
+향후 청와대 비서실장 후임 인선과 안보실장 교체 여부가 국정 장악력의 분수령이 될 전망이다.
 
 ### [속보]강훈식 비서실장 사의 표명…靑 “종합적 책임 지는 차원”
 
@@ -94,15 +281,101 @@ K-뷰티 유통 플랫폼 하루나루(HARUNARU)가 체코 프라하에서 한�
 
 [당정 “전수조사 농지 뺏기 위한 것 아냐…경미한 농지법 위반은 정상 이용, 명백한 투기는 ](https://www.khan.co.kr/article/202609210928001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news) | [[속보] 당정 "경미한 농지법 위반은 정상적 이용…명백한 투기는 조치"](https://www.yna.co.kr/view/AKR20260921027000001)
 
+### 李, 강훈식 비서실장 사의에 “아직 어떻게 할지 결정 못해”
+
+이재명 대통령은 21일 강훈식 대통령비서실장의 사의 표명에 대해 “아직은 제가 어떻게 할지는 결정을 못 하겠다”고 밝혔다.이 대통령은 이날 청와대에서 열린 대통령 주재 수석보좌관회의 모두발언 도중 “우리 비서실장께서 오늘 드디어 졸업을 한번 해 보시겠다고 하신 것 같다”며 이같이 말했다. 이 대통령은 청와대 참모들에게 “아침 6시 반에 출근해서 밤낮없이 오랜 기간 일하다 보니까 사실 여러 가지로 어려운 점이 많을 것”이라며 “건강상의 문제도 있을 수 있다”고 했다.그러면서 “비서실장을 포함해서 많은 분들이 체력적으로도 어려운 긴 기간 동안 고생들 많이 하셨다는 말씀을 드린다”고 덧붙였다.다만 이 대통령은 “우리 국민들께서 현장에서, 일상 속에서 겪는 그 어려움에 비하면 그리 크지 않을 수도 있다는 생각으로
+
+[李, 강훈식 비서실장 사의에 “아직 어떻게 할지 결정 못해”](https://www.donga.com/news/Politics/article/all/20260921/134710330/2) | [李대통령, 강훈식 사의에 "아직 어떻게 할지 결정 못해"](https://www.yna.co.kr/view/AKR20260921109551001) | [[속보]이 대통령, 강훈식 사의 표명에 “아직 어떻게 할지 결정 못해”](https://www.khan.co.kr/article/202609211425001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 국힘, 사전투표 폐지 ‘국민참정권 수호법’ 당론 발의…“선관위 해체 수준”
+
+국민의힘은 21일 사전투표 폐지와 선거관리위원회 전면 개편 등을 담은 ‘국민참정권 수호법’을 당론으로 발의했다.6·3 국민참정권 침해 진상규명 및 선거관리개혁 특별위원회(6·3특위)는 이날 오후 국회 의안과에 선관위법 전부개정안과 공직선거법 개정안 등을 제출했다. 국민의힘 소속 의원 109명 전원이 공동발의자로 이름을 올렸다.국민참정권 수호법은 선관위법 전부개정안과 공직선거법 일부개정안을 비롯해 정당법·국민투표법·정치자금법 개정안 등 10개 법안으로 이뤄졌다. 국민의힘은 지난 17일 의원총회에서 이를 당론으로 의결했다.박대출 6·3특위 위원장은 제출 직후 의안과 앞에서 기자들과 만나 “지난 6·3 지방선거 이후에 노출된 여러 가지 선거제도의 문제점 등을 보완하고 선거제도 관리나 선거 투개표 과정의 투명성과
+
+[국힘, 사전투표 폐지 ‘국민참정권 수호법’ 당론 발의…“선관위 해체 수준”](https://www.donga.com/news/Politics/article/all/20260921/134713067/1) | [국힘, 사전투표 폐지 등 '국민참정권 수호법' 당론 발의](https://www.yna.co.kr/view/AKR20260921134400001)
+
+### 기본소득당 대표 만난 김민석 “용혜인, 당 지킨 선택 이해”
+
+더불어민주당 김민석 대표가 21일 기본소득당 오준호 대표를 만난 자리에서 “용혜인 전 후보자가 당을 지키는 선택을 하시게 된 것에 대해 저희가 이해하는 바”라고 말했다.김 대표는 이날 오후 국회에서 취임 인사차 집무실을 찾은 오 대표를 접견한 자리에서 “아쉽게도 현재 기본소득당을 포함한 진보 정당의 현실이 그 현실 하에 비례대표 외에는 존재하기 어려운 상황이라 이번에 여러 어려움이 있었다”며 이같이 말했다.김 대표는 용 전 후보자가 이재명 정부 2기 성평등가족부 장관 후보자로 지명됐던 사실에 대해선 “용 전 후보자가 이번에 장관 후보자로 국민주권 정부에 의해서 선택이 됐다는 것은 단순한 어떤 정치적인 연대를 넘어서 이러한 거대한 철학적, 정책적, 문명사적 기반 위에서 이뤄진 일”이라고 말했다.앞서 용 전 후
+
+[기본소득당 대표 만난 김민석 “용혜인, 당 지킨 선택 이해”](https://www.donga.com/news/Politics/article/all/20260921/134712482/1) | [기본소득당 만난 김민석 "용혜인, 당 지키는 선택한 것 이해"](https://www.yna.co.kr/view/AKR20260921128700001)
+
+### DMZ 수색작전 중 지뢰 추정 폭발…발목절단 간부 헬기후송(종합2보)
+
+(서울=연합뉴스) 김철선 기자 = 서부전선을 관할하는 육군 25사단 최전방 부대에서 21일 오전 비무장지대(DMZ) 수색 작전 중 지뢰 폭발로 ...
+
+[DMZ 수색작전 중 지뢰 추정 폭발…발목절단 간부 헬기후송(종합2보)](https://www.yna.co.kr/view/AKR20260921095652504) | [DMZ 수색 중 ‘지뢰 폭발’ 추정 사고…간부 3명 부상](https://www.donga.com/news/Politics/article/all/20260921/134709720/2)
+
+### 육군 25사단 DMZ 수색 작전 중 ‘지뢰 폭발’ 추정 사고…군 간부 3명 부상
+
+지난 8일 경기도 파주시 접경지역에서 바라본 서부전선 비무장지대(DMZ)와 개성공단 일대가 적막하다. 연합뉴스서부전선을 관할하는 육군 25사단 최전방 부대에서 21일 비무장지대(DMZ) 수색 작전 중 폭발 사고가 발생해 간부 3명이 다쳤다. 지뢰 폭발로 사고가 발생했을 가능성이 제기된다.합동참모본부는 이날 언론 공지를 통해 “이날 오전 서부전선 비무장지대 ···
+
+[육군 25사단 DMZ 수색 작전 중 ‘지뢰 폭발’ 추정 사고…군 간부 3명 부상](https://www.khan.co.kr/article/202609211354001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news) | [육군 25사단 DMZ 수색작전 중 중상자 발생…지뢰 폭발 추정](https://www.yna.co.kr/view/AKR20260921095600504)
+
+### 스틸 美대사·여야 지도부 관저만찬…'DMZ 사고' 놓고 동맹 교감(종합2보)
+
+(서울=연합뉴스) 이정현 권희원 노선웅 기자 = 미셸 스틸 주한미국대사가 21일 여야 지도부를 중구 정동 주한미국대사 관저로 초청해 만찬을 함께...
+
+[스틸 美대사·여야 지도부 관저만찬…'DMZ 사고' 놓고 동맹 교감(종합2보)](https://www.yna.co.kr/view/AKR20260921142452001)
+
+### ‘총대 멘’ 강훈식…청 인적 쇄신 신호탄
+
+강 실장, ‘인사 실패 책임’ 사의이 대통령, 사표 수리 가능성 커청 3실장 중 비서·정책 공석 돼국힘 “책임은 경기성남 라인이”심각 강훈식 대통령비서실장(왼쪽)이 21일 이재명 대통령을 따라 청와대 수석보좌관회의에 참석하기 위해 회의실에 입장하고 있다. 연합뉴스강훈식 대통령비서실장이 이재명 대통령에게 사의를 표명했다. 지지율 하락과 인사 난맥상으로 국정이···
+
+[‘총대 멘’ 강훈식…청 인적 쇄신 신호탄](https://www.khan.co.kr/article/202609212127005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 김승원 ‘뒤처리’가 고민인 여당
+
+탄원서 등 의혹 관련 당 차원 조치와 “김민석 사과” 목소리도김승원 더불어민주당 의원(사진)이 법무부 장관 후보에서 사퇴한 후에도 그의 성추행 의혹 등을 담은 전 보좌진 탄원서를 둘러싼 여진이 이어졌다.김민석 민주당 대표는 21일 최고위원회의에서 김 의원 관련 입장을 밝히지 않았다. 김 대표는 열흘 전 “보면 볼수록 잘된 인사”라며 두둔한 바 있다.김 의원···
+
+[김승원 ‘뒤처리’가 고민인 여당](https://www.khan.co.kr/article/202609212120015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 청와대 ‘인사·실무 라인’ 대수술 가능성…3실장 다 바뀌나
+
+이재명 정부 첫 비서실장, 15개월 만에… 강훈식 대통령비서실장이 21일 청와대에서 열린 수석보좌관회의에 참석해 이재명 대통령의 발언을 듣고 있다. 연합뉴스강훈식 비서실장 사의 표명안보실장도 개편 대상 포함 땐 수석 등 참모 전반 교체 불가피 후임엔 천준호·한준호 하마평 여권 봉합용 비명계 발탁 관심강훈식 대통령비서실장의 사의 표명은 국정 쇄신을 위한 청와···
+
+[청와대 ‘인사·실무 라인’ 대수술 가능성…3실장 다 바뀌나](https://www.khan.co.kr/article/202609212114005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### DMZ 수색 중 폭발로 장병 3명 중경상…北지뢰 가능성 '촉각'(종합3보)
+
+(서울=연합뉴스) 김철선 기자 = 서부전선을 관할하는 육군 25사단 최전방 부대에서 21일 오전 비무장지대(DMZ) 수색 작전 중 지뢰 폭발로 ...
+
+[DMZ 수색 중 폭발로 장병 3명 중경상…北지뢰 가능성 '촉각'(종합3보)](https://www.yna.co.kr/view/AKR20260921095653504)
+
+### 이 대통령, 뉴욕 도착…내일 유엔총회서 ‘한반도 평화 청사진’ 연설
+
+이재명 대통령과 김혜경 여사가 21일(현지시간) 미국 뉴욕 JFK 국제공항에서 영접 나온 차지훈 주유엔대사와 인사하고 있다. 연합뉴스미국·멕시코 순방에 나선 이재명 대통령이 21일(현지시간) 유엔총회가 열리는 뉴욕에 도착했다.이 대통령은 이튿날 유엔총회 기조연설을 통해 한반도 평화 공존의 청사진을 공개할 예정이다. 이 대통령은 지난해 유엔총회에서 한반도 문···
+
+[이 대통령, 뉴욕 도착…내일 유엔총회서 ‘한반도 평화 청사진’ 연설](https://www.khan.co.kr/article/202609220721011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news) | [李대통령, 뉴욕 도착…내일 유엔서 '한반도 평화 청사진' 연설](https://www.yna.co.kr/view/AKR20260921092600001)
+
+### 산적한 국내 현안속 美 가는 李… 靑 “트럼프와 다양한 접촉 예정” - v.daum.net
+
+산적한 국내 현안속 美 가는 李… 靑 “트럼프와 다양한 접촉 예정”    v.daum.net
+
+[산적한 국내 현안속 美 가는 李… 靑 “트럼프와 다양한 접촉 예정” - v.daum.net](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fa3JWUGhvSHpfazIxRDVvQ0xxSElmUUZnX0FrOVdyOV9yOHNPNW05eEhHMHlIS19GNE02TjlBMmNidTh5R3ZBUWMzamdLYmc?oc=5) | [산적한 국내 현안속 美 가는 李… 靑 “트럼프와 다양한 접촉 예정”](https://www.donga.com/news/Politics/article/all/20260922/134715206/2)
+
+### 北, 탄도미사일 발사 이틀 만에 보도…김정은 “적들에게 불치의 두통”
+
+북한은 지난 20일 동해상으로 발사한 단거리탄도미사일에 대해 이틀 만인 22일 “새로운 중요 전투무기체계 시험”을 진행했다고 밝혔다.북한 노동당 기관지 노동신문은 이날 “조선민주주의인민공화국(북한) 미시일총국은 9월 20일 무기체계 기술 고도화에서 중대한 의의를 가지는 신형무기의 시험을 성공적으로 진행”했다고 보도했다.신문은 “해당 시험은 주변국가들의 안전에 그 어떤 부정적 영향도 주지 않았다”며 “이 신형 전투무기체계 시험은 국가방위노선을 관철하기 위한 조선민주주의인민공화국 미사일총국과 관하 국방과학연구소들의 정상적인 활동의 연장”이라고 밝혔다.시험을 참관한 김정은 북한 국무위원장은 “이 시험은 의심할 바 없는 첨단 국방기술력의 과시이며 무력 현대화에서의 뚜렷한 갱신”이라고 말했다.또 “말그대로 불가항력”
+
+[北, 탄도미사일 발사 이틀 만에 보도…김정은 “적들에게 불치의 두통”](https://www.donga.com/news/Politics/article/all/20260922/134715728/1)
+
+### 한·미·일 “북한 대화 복귀 촉구…대만해협 평화 유지 중요”
+
+조현 외교부 장관과 마코 루비오 미국 국무장관, 모테기 도시미쓰 일본 외무상이 21일(현지시간) 뉴욕에서 회담하기 앞서 기념촬영을 하고 있다. 연합뉴스한국·미국·일본의 외교부 장관들은 21일(현지시간) 북한의 완전한 비핵화에 대한 의지를 재확인하면서도 북한의 대화 복귀를 촉구했다. 중국을 겨냥해선 대만해협에서의 평화와 안정 유지의 중요성을 강조하고, ‘경제···
+
+[한·미·일 “북한 대화 복귀 촉구…대만해협 평화 유지 중요”](https://www.khan.co.kr/article/202609220708001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 임오경 "관광불편신고 8개월 만에 전년 추월…숙박불편 2.5배↑"
+
+(서울=연합뉴스) 박경준 기자 = 올해 8월까지 한국관광공사에 접수된 관광 불편 사항이 지난 한 해간 접수된 건수를 넘어선 것으로 나타났다.
+
+[임오경 "관광불편신고 8개월 만에 전년 추월…숙박불편 2.5배↑"](https://www.yna.co.kr/view/AKR20260921144100001)
+
 ## 세계
 
 **오늘의 분석**
 
-중동과 유럽, 아시아 곳곳에서 지정학적 충격이 국내 경제와 정치 기반을 직접 흔드는 양상이 뚜렷하다. 이란은 전쟁 여파로 GDP가 10% 이상 급락하며 인재 유출이 중국으로 향하는 등 체제 유지 비용이 임계점에 다다랐고, 파키스탄은 테러와의 총격전 끝에 인질을 구출했지만 발루치스탄주의 불안정성은 여전하다. 독일에서는 극우 정당의 약진으로 메르츠 총리가 '식물 총리' 위기에 몰렸으나 직을 유지하며, 경제적 불만과 이민자 혐오가 제도권 정치의 작동 불능을 초래하는 서구 민주주의의 공통 과제를 적나라하게 보여준다.
-
-동북아와 글로벌 외교 무대에서는 강대국 경쟁과 규범 기반 질서의 충돌이 동시에 진행 중이다. 미중 정상회담을 사흘 앞두고 무역·AI 의제 조율이 막바지에 이른 가운데, 일본은 ICC의 자국인 소장 제재에 '유감' 표명에 그치며 미국과의 동맹을 국제사법 규범보다 우선시하는 태도를 보였다. 아시안게임에서 북한 선수단만 신칸센 이용을 금지한 일본의 조치와 이에 대한 북측의 냉랭한 반응은, 스포츠 교류마저 안보 논리에 종속되는 동북아 냉전 구도의 완고함을 확인시켜 준다.
-
-결국 오늘날 국제 정세는 힘의 논리가 규범을 압도하는 가운데, 각국이 생존을 위해 자국 중심의 블록화와 내부 결속을 강화하는 방향으로 수렴하고 있다. 앞으로 주시할 점은 미중 정상회담이 단순한 갈등 관리를 넘어 새로운 '규칙 없는 경쟁'의 가이드라인을 합의해낼 수 있을지 여부다.
+오늘날 국제 정세는 전쟁·경제·정치 위기가 서로 얽히며 연쇄 효과를 만들고 있다. 이란의 전쟁 직격탄은 GDP 10% 급감과 인재 유출을 촉발해 중국으로의 인적 흐름을 가속화했고, 유럽에서는 독일 연정이 극우당 급부상에 직면해 연정 유지와 정책 연속성을 놓고 갈등한다. 동시에 미·중 정상회담이 임박하면서 무역 휴전 연장과 AI·안보 협의가 논의되고, 한·일·미는 대만해협·북핵 문제에 공동 대응을 강조한다. 중동에서는 후티의 해상 봉쇄와 사우디·예멘의 석유 흐름 재편이 에너지 안보를 위협하고, 우크라이나는 자체 개발 미사일을 투입해 러시아 인프라를 타격함으로써 전쟁이 지역 경제와 인도주의 상황을 악화시킨다. 이러한 다층적 갈등은 규제와 국제 협력을 통한 위험 관리가 필요함을 시사한다. 앞으로 주시할 한 가지는 미·중 정상회담에서 제시될 무역·기술 협정의 구체적 내용이다.
 
 ### ’전쟁 직격탄’ 맞은 이란 경제…GDP 10.1% 감소 - 연합뉴스TV
 
@@ -140,13 +413,123 @@ K-뷰티 유통 플랫폼 하루나루(HARUNARU)가 체코 프라하에서 한�
 
 [파키스탄 남서부서 보안군·무장단체 총격전…인질 23명 구출](https://www.yna.co.kr/view/AKR20260921083700104)
 
+### [속보] "시진핑, 23∼25일 미국 국빈방문" [신화통신] - 한국경제
+
+[속보] "시진핑, 23∼25일 미국 국빈방문" [신화통신]    한국경제    흔들리는 유엔, 가교 놓을 때…다극화 시대 한국의 역할 - 오피니언 | 뉴스    대한민국 정책브리핑    시진핑, 23∼25일 美 국빈방문…"중·미 관계 등 중대 문제 논의"(종합)    뉴시스    美·이란·이스라엘 정상 한자리에 … 트럼프 "대화 열려있다"    v.daum.net    中 외교부 "미중 정상 반년 내 상호 방문…역사적 이정표" - 머니투데이    머니투데이
+
+[[속보] "시진핑, 23∼25일 미국 국빈방문" [신화통신] - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjbkg3Vmw1TFd1WHhxRDd0WF9IVGtYSmxJSnNLVUtaekM5ejZ5T0VVM09iRGh4WlZhUVNNdl9vbWJfRWY0TFF0REtiamNBRHpSY1hZVGZNQ3V1UQ?oc=5) | [[속보] "시진핑, 23∼25일 미국 국빈방문"](https://www.yna.co.kr/view/AKR20260921142100083)
+
+### 대만, 20만명 '개인정보 유출' 쿠팡에 6천만원대 과징금
+
+(상하이=연합뉴스) 차병섭 특파원 = 대만 당국이 개인정보 유출로 문제가 된 쿠팡대만과 대표에게 총 150만 대만달러(약 6천489만원) 과징금...
+
+[대만, 20만명 '개인정보 유출' 쿠팡에 6천만원대 과징금](https://www.yna.co.kr/view/AKR20260921172400089)
+
+### 우크라, 모스크바 등 러 전역에 최대 공습 단행… 자체 개발 탄도미사일 첫 투입 - 뉴스핌
+
+우크라, 모스크바 등 러 전역에 최대 공습 단행… 자체 개발 탄도미사일 첫 투입    뉴스핌    러시아, 우크라 물류·철강 시설 공격…“경제적 소모전” 전략으로    v.daum.net    우크라이나 "러시아 공격으로 어린이 등 4명 사망"    MBC 뉴스    [포착] 크렘린궁과 불과 16㎞ 정유소 ‘쾅’…러 “드론 450대 모스크바 겨냥” [영상]    나우뉴스    우크라 "신형 '펠리컨' 탄도미사일로 모스크바 공격"    연합뉴스
+
+[우크라, 모스크바 등 러 전역에 최대 공습 단행… 자체 개발 탄도미사일 첫 투입 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSHB1VWpLNmtQUWhzbV9hSTBrWFB6RXJwV19DcnFHaTRWQTdSWXlOVmUtZ3VaR19nNHV0ekVwcFBub2V2OFNmU01QRkVsbTVvTEdjLXc5aDNZc3Rr?oc=5)
+
+### "호르무즈서 정체불명 발사체에 유조선 피격…선원 2명 부상"
+
+(카이로=연합뉴스) 김상훈 특파원 = 21일(현지시간) 호르무즈 해협을 통과하던 유조선이 정체불명의 공격을 받았다고 영국 해사무역기구(UKMTO...
+
+["호르무즈서 정체불명 발사체에 유조선 피격…선원 2명 부상"](https://www.yna.co.kr/view/AKR20260921173300079)
+
+### 우크라 사태 속 러 총선서 집권당 압승…푸틴 건재(종합2보)
+
+(모스크바·로마=연합뉴스) 김동호 민경락 특파원 = 러시아가 우크라이나에서 이른바 '특별군사작전'에 돌입한 이후 처음 치러진 총선의 투표율이 5...
+
+[우크라 사태 속 러 총선서 집권당 압승…푸틴 건재(종합2보)](https://www.yna.co.kr/view/AKR20260921001452108)
+
+### 프랭크 가드너: 지부티로 피신한 예멘 난민들의 캠프 속에서
+
+예멘 서해안에서의 전투로 인해 수천 명의 사람들이 바브 알-만답 해협을 건너 배를 타고 탈출해야 했습니다.
+
+[Frank Gardner: Inside a camp for Yemeni refugees w](https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss)
+
+### 트럼프, 예멘 대통령과 통화…"후티 대응 군사지원 약속 안 해" - 연합뉴스TV
+
+트럼프, 예멘 대통령과 통화…"후티 대응 군사지원 약속 안 해"    연합뉴스TV    예멘 대통령 "후티 막아달라" SOS 쳤지만…트럼프 "직접 군사지원 없다"    v.daum.net    후티 반군, 홍해 연안 이어 남부 고원 장악 시도…전선 확대    연합뉴스    “설마 리야드까지”… 공습경보·폭발음에 한국인 교민들 ‘불안’    서울Pn    후티 공격에 사우디 혼란 속출…트럼프 “대이란 대응 결정중”    KBS 뉴스
+
+[트럼프, 예멘 대통령과 통화…"후티 대응 군사지원 약속 안 해" - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TcWxINHo2Z3RhaXZEWmg5NDZvN0pjRHE3MGxndGRMRDRUV1lhRDg1a2REUjNCQ1I3NHRtczJyRTU3bUNMOWQwV1ctdUZ1di1ZOFlQZ0piQVlzV3RMNGZhSko0WUhSd00?oc=5) | ["트럼프, 예멘 대통령과 통화…후티 저지 군사지원 약속 안해"](https://www.yna.co.kr/view/AKR20260921182200079)
+
+### '백악관 출입금지' 언론3社 위헌소송…트럼프 "암같은 가짜뉴스" - 연합뉴스
+
+'백악관 출입금지' 언론3社 위헌소송…트럼프 "암같은 가짜뉴스"    연합뉴스    ‘백악관 출금’ CNN 등 3사 위헌 소송…트럼프 “암 같은 가짜 뉴스”    v.daum.net    백악관 출입 막힌 美언론 3곳, 트럼프 상대 위헌소송    nocutnews.co.kr    백악관 출입금지 당한 3개 언론사, 美 정부 상대 소송 제기    연합뉴스TV    오바마, ‘CNN 출입정지’에 “내가 폭스뉴스 나가라 했으면 어떻게 됐을까”    조선일보
+
+['백악관 출입금지' 언론3社 위헌소송…트럼프 "암같은 가짜뉴스" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tOUxleFlqdWs5Q3FGaXJMeEpFa1hBd3g3MkFGT3AwQWEtemRDMXhYWHg2V2ZobkdvSVVoYldMdTBGR0J6TWk5bHU5M3Y4bTRvVnU2VDMwaGFIcTjSAWBBVV95cUxNa1lFaGN1d2FldnAyanNHMU1Ya0tTS2xlV19fTmp4MS1nTkpZcHhHem1iVUJoOU4zckpqRlh3QTQ3WlN6S2R0cGVOM3Brc2pvN3dDRWoySGhBUWRPX0VqN3Y?oc=5) | ['백악관 출입금지' 언론3社 위헌소송…트럼프 "암같은 가짜뉴스"](https://www.yna.co.kr/view/AKR20260921182300071)
+
+### [속보] 한미일 "대만해협 평화 유지 중요…일방적 현상변경 시도 반대"
+
+(
+
+[[속보] 한미일 "대만해협 평화 유지 중요…일방적 현상변경 시도 반대"](https://www.yna.co.kr/view/AKR20260922001900071)
+
+### [속보] 한미일 "北 대화 복귀 촉구…한반도 평화 증진 노력 지속"
+
+(
+
+[[속보] 한미일 "北 대화 복귀 촉구…한반도 평화 증진 노력 지속"](https://www.yna.co.kr/view/AKR20260922001800071)
+
+### "송유관 피격 사우디, 페르시아만 통한 석유 수출 확대"
+
+(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티의 홍해 해상 봉쇄와 송유관 공격으로 석유 수출 우회로가 차단된 사우디아라비아가 페...
+
+["송유관 피격 사우디, 페르시아만 통한 석유 수출 확대"](https://www.yna.co.kr/view/AKR20260922001600079)
+
+### 미중 정상회담 앞두고 휴전 연장 '줄다리기'…NYT "美, 6개월 제시" - 뉴스핌
+
+미중 정상회담 앞두고 휴전 연장 '줄다리기'…NYT "美, 6개월 제시"    뉴스핌    흔들리는 유엔, 가교 놓을 때…다극화 시대 한국의 역할 - 오피니언 | 뉴스    대한민국 정책브리핑    미 "'미중 AI 대화' 공식화…중국서 후속 회담"    v.daum.net    트럼프·시진핑 ‘AI 대화 채널’ 논의한다    경향신문    中 외교부 "미중 정상 반년 내 상호 방문…역사적 이정표" - 머니투데이    머니투데이
+
+[미중 정상회담 앞두고 휴전 연장 '줄다리기'…NYT "美, 6개월 제시" - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE81aF84R25rbDhVRVVUTjNJdm81MUFjcHdTaXZTWnVpSjBkV0RUSkd3VzFlRlQzRFA3WWZ6anI0eU1kbjZsUEFHZ1pEVmlOQWFXRFJFNXJRWFZ1Ym8w?oc=5)
+
+### "경제강압 단호 반대"…미중정상회담 목전 한미일 함께 中 견제 - 연합뉴스
+
+"경제강압 단호 반대"…미중정상회담 목전 한미일 함께 中 견제    연합뉴스    "경제 강압 반대"…미중정상회담 앞두고 중국 견제 목소리    v.daum.net    한미일 "北 완전한 비핵화" 재확인…대만해협·공급망도 공동대응 - 머니투데이    머니투데이    한미일 "北 대화 복귀 촉구…대만해협 평화 유지 중요"(종합2보)    연합뉴스    한미일 외교장관회의(9.21) 결과    서울Pn
+
+["경제강압 단호 반대"…미중정상회담 목전 한미일 함께 中 견제 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRUltNVk3dW8zM3d6MHNseEVnMmxLWm9XVmgzdTZZTzgzRlVyWm5CSjhsb3ZnUW1UQmo2RjZVM0IxOEVteEgwcUlaYl93WXNEZDhmLTBpUDhXZWvSAWBBVV95cUxONWtOcjZfcF9UX0pMNHVBbHp0YjNqcTFyV2hZMUNUZlRRTENQMkVMTTFzY1BIMXVsRkxyLUt2TkswWUNySVlQOEoyVS1VQlBSbGpLeklNbktieUpob1QtUjk?oc=5) | ["경제강압 단호 반대"…미중정상회담 목전 한미일 함께 中 견제](https://www.yna.co.kr/view/AKR20260922005800071)
+
+### 위기의 독일 총리 "연정 유지해줘 감사"…좌파당엔 공세(종합) - 연합뉴스
+
+위기의 독일 총리 "연정 유지해줘 감사"…좌파당엔 공세(종합)    연합뉴스    위기의 독일 총리 "연정 유지해줘 감사"…좌파당에 공세    v.daum.net    극우당에 또 깨진 獨 메르츠, 총리직 위태 - 머니투데이    머니투데이    베를린의 맘다니… 좌파당 승리 이끈 이민자 딸 에랄프(종합)    연합뉴스    극우에 또 참패한 독일 집권당…메르츠 총리 “재앙”    경향신문
+
+[위기의 독일 총리 "연정 유지해줘 감사"…좌파당엔 공세(종합) - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE81eUZvd1I2RGJDTzc4UHFZU3BRRXY1bE9wMU1landsUXo5NVRRYXVBQWFkZjNOT2p3VS16X18yUHhwdXhBX3Q2TWhkWVdsdnc1dXVyMjUwNUx6SnfSAWBBVV95cUxNbTVBNDZjVnItalN6N2RwZFNIZDk2N1JPXzhLRV9uWi0wc2ZGaHVfUW92a0Y4d21RbXA2a2xENzhGeDdudEhNclhiUzhMa2g3OWdwYlRudVVJcVpnWXc3TGQ?oc=5) | [위기의 독일 총리 "연정 유지해줘 감사"…좌파당엔 공세(종합)](https://www.yna.co.kr/view/AKR20260921182451082)
+
+### 美 "中과 무역휴전 연장 계속 논의"…미중회담서 발표 없을수도(종합)
+
+(워싱턴=연합뉴스) 이유미 특파원 = 미국과 중국이 오는 11월 만료되는 양국 간 '무역 휴전'의 연장을 놓고 협의를 이어가고 있다고 제이미슨 ...
+
+[美 "中과 무역휴전 연장 계속 논의"…미중회담서 발표 없을수도(종합)](https://www.yna.co.kr/view/AKR20260922012351071)
+
+### 오픈AI "美, AI표준 주도해야"…韓포함 10개국 네트워크 제안
+
+(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 차세대 인공지능(AI) 기술과 안전 표준 수립을 미국이 주도해야 한다고 촉...
+
+[오픈AI "美, AI표준 주도해야"…韓포함 10개국 네트워크 제안](https://www.yna.co.kr/view/AKR20260922012000091)
+
+### [우분투칼럼] 2026 잠비아 선거, 아프리카 신권위주의로 퇴행인가
+
+[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류...
+
+[[우분투칼럼] 2026 잠비아 선거, 아프리카 신권위주의로 퇴행인가](https://www.yna.co.kr/view/AKR20260914033400898)
+
+### B-2·F-22까지 띄워…트럼프, 시진핑에 '초특급 환대' - 한국경제
+
+B-2·F-22까지 띄워…트럼프, 시진핑에 '초특급 환대'    한국경제    트럼프, B-2·F-22 띄워 시진핑 환영식…은둔 멜라니아도 출동 예고    연합뉴스    미 "중국과 무역휴전 연장 계속 논의"…회담서 발표 없을 수도    v.daum.net    흔들리는 유엔, 가교 놓을 때…다극화 시대 한국의 역할    대한민국 정책브리핑    허리펑 만난 베선트 “무역-AI협의 성공적”… 반도체 통제엔 침묵    동아일보
+
+[B-2·F-22까지 띄워…트럼프, 시진핑에 '초특급 환대' - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVnhvdGdTTU9zc1NOUmkwZEVJOWM0bk1BbkRMa1NQN3RaaWxmNlJGaW1vU2ZJUUFQMU1EUVVqakNlMDhQaFFJODlQVS1BU2xxR1JGc0l2Mkk5dw?oc=5)
+
 ## 투자
 
 **오늘의 분석**
 
-미중 무역 협상 진전 소식에 힘입어 위험 선호 심리가 살아나면서 비트코인이 8만 1천 달러를 돌파하고 45주 만에 50주 이동평균선을 상향 돌파하는 등 가상자산 시장이 강력한 상승 신호를 보냈다. 이에 동조해 니어 프로토콜 등 알트코인도 급등했고 아시아 증시와 미국 선물도 상승 출발했다. 그러나 기프트 니프티 50이 베어 플래그 패턴 상단의 저항선에서 막히는 모습은 단기 기술적 관점에서 추가 상승에 대한 회의론이 공존함을 시사한다.
+오늘 비트코인이 81,000달러를 돌파하고 8개월 최고치를 기록했다. 이는 최근 규제 불확실성에도 불구하고 투자자들의 위험 선호가 높아졌음을 보여준다. 동시에 X가 가짜 비트코인 뉴스 봇 운영자를 고소하면서 플랫폼 책임과 규제 필요성이 부각되고 있다. 다운데텍터가 보고한 미국 내 페이스북·인스타그램 서비스 중단은 디지털 플랫폼 의존도가 높은 기업들의 단기 리스크를 드러냈다. 이러한 상황은 암호화폐 시장이 성장과 동시에 투명성 확보를 요구하고 있음을 시사한다.
 
-한편 메타 플랫폼의 대규모 서비스 장애는 대형 기술주의 운영 리스크를 환기시켰고, 엑스탈피 주가 급등은 인공지능 신약 개발 등 특정 테마로의 자금 쏠림을 보여준다. 거시 환경 개선이 유동성 장세를 뒷받침하지만 지수별·자산별 온도 차가 뚜렷해 추세 전환의 지속성을 예단하기는 이르다. 앞으로는 비트코인의 주봉 마감이 50주선을 확고히 지킬지와 미중 협상의 구체적 합의 도출 여부가 위험 자산 랠리의 향방을 가를 핵심 변수가 될 전망이다.
+AI 관련 주식이 연일 상승세를 이어가며 월스트리트 전반을 끌어올렸다. 메타의 신규 AI 어시스턴트와 AMD의 시가총액 1조 달성, 반도체 기업들의 호조가 투자 심리를 강화했다. 유가가 하락하고 석유 관련 주가가 조정되는 가운데, 반도체와 AI 기업들의 상승이 시장을 견인하고 있다. 그러나 골드만삭스 전략가가 기업 이익 성장률 둔화를 경고하고, S&P 500 내 60% 종목이 사상 최고가 대비 20% 이상 하락한 점은 과열 위험을 경고한다. 시장 자유방임보다는 적절한 규제와 사회적 책임이 필요하다는 목소리가 커지고 있다.
+
+앞으로 주시할 한 가지는 미국 증권거래위원회(SEC)의 암호화폐 규제 움직임이다.
 
 ### 기프트 니프티 50, 베어 플래그 패턴에서 23,511이라는 저항선을 시험 중: 실시간 수준
 
@@ -178,15 +561,121 @@ K-뷰티 유통 플랫폼 하루나루(HARUNARU)가 체코 프라하에서 한�
 
 [Bitcoin’s price has cleared a key hurdle that has ](https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs)
 
+### 미즈호은 공장 건설 지연으로 인해 플루언스 에너지의 주가 목표치를 하향 조정했습니다.
+
+미즈호은 공장 건설 지연으로 인해 플루언스 에너지의 주가 목표치를 하향 조정했습니다.
+
+[Mizuho cuts Fluence Energy stock price target on f](https://www.investing.com/news/analyst-ratings/mizuho-cuts-fluence-energy-stock-price-target-on-factory-delays-93CH-4908528)
+
+### 구겐하임, 컨퍼런스 이후에도 오토데스크 주식에 대한 투자의견을 그대로 유지
+
+구겐하임, 컨퍼런스 이후에도 오토데스크 주식에 대한 투자의견을 그대로 유지
+
+[Guggenheim reiterates Autodesk stock rating after ](https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-autodesk-stock-rating-after-conference-93CH-4908527)
+
+### 스티펠, 마진 및 수요 우려로 나이키 주가 목표치 하향 조정
+
+스티펠, 마진 및 수요 우려로 나이키 주가 목표치 하향 조정
+
+[Stifel cuts Nike stock price target on margin, dem](https://www.investing.com/news/analyst-ratings/stifel-cuts-nike-stock-price-target-on-margin-demand-concerns-93CH-4908525)
+
+### “그녀는 그건 그냥 돈일 뿐이라고 해요.” 제 친구가 모든 것을 지불해줍니다. 고마워해야 하는데, 이제는 그녀를 더 이상 견딜 수 없어요.
+
+이런 주말마다 그녀는 아마 500달러 정도를 쓰고 있을 거예요.
+
+[‘She says it’s just money’: My friend pays for eve](https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories)
+
+### X는 가짜 비트코인 뉴스 봇을 운영한 자사 사용자들을 고소했습니다.
+
+X는 비벡 쿠마르 센과 즈머앙 셰르파가 가짜 비트코인 계정을 운영하여 플랫폼으로부터 부당하게 보상금을 받아낸 혐의로 그들을 고소했습니다.
+
+[X sues its own users for running a fake bitcoin ne](https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm)
+
+### 기업의 이익은 경제 성장률보다 훨씬 빠르게 증가하고 있습니다. 골드만의 전략가들은 버블 문제에 대해 어떻게 생각하는지 말합니다.
+
+벤 스나이더가 이끄는 은행의 한 팀은 최근 보고서에서, 2027년과 2028년에 S&P 500 기업들의 주당 순이익 성장률이 11%로 둔화할 것으로 전망했습니다.
+
+[Corporate earnings are growing much faster than th](https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories)
+
+### Wall Street marches higher amid sliding oil prices, rebounds after mixed week
+
+Wall Street marches higher amid sliding oil prices, rebounds after mixed week
+
+[Wall Street marches higher amid sliding oil prices](https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205)
+
+### Wall St rises on AI gains as oil slides, Treasury yields retreat
+
+Wall St rises on AI gains as oil slides, Treasury yields retreat
+
+[Wall St rises on AI gains as oil slides, Treasury ](https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-ai-stocks-gain-oil-prices-slide-4908497)
+
+### Chipmakers fuel global stock gains as oil retreats
+
+Chipmakers fuel global stock gains as oil retreats
+
+[Chipmakers fuel global stock gains as oil retreats](https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206)
+
+### Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant
+
+Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.
+
+[Meta’s stock is enjoying its best month in more th](https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories)
+
+### Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid
+
+It's the biggest spending from the industry's campaign arm in 2026, much like Fairshake's $40 million against Brown two years ago was its largest-ever outlay.
+
+[Crypto's Fairshake repeats history with $30 millio](https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid)
+
+### AMD hits a major milestone as AI stocks blaze higher
+
+On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.
+
+[AMD hits a major milestone as AI stocks blaze high](https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories)
+
+### Mission Produce executive chairman Stephen Barnard sells $446,177 in AVO stock
+
+Mission Produce executive chairman Stephen Barnard sells $446,177 in AVO stock
+
+[Mission Produce executive chairman Stephen Barnard](https://www.investing.com/news/insider-trading-news/mission-produce-executive-chairman-stephen-barnard-sells-446177-in-avo-stock-93CH-4909717)
+
+### Iambic Therapeutics files for IPO to fund cancer drugs
+
+Iambic Therapeutics files for IPO to fund cancer drugs
+
+[Iambic Therapeutics files for IPO to fund cancer d](https://www.investing.com/news/stock-market-news/iambic-therapeutics-files-for-ipo-to-fund-cancer-drugs-93CH-4909715)
+
+### BTIG raises Adeptus Biotechnologies price target to $34 on guidelines
+
+BTIG raises Adeptus Biotechnologies price target to $34 on guidelines
+
+[BTIG raises Adeptus Biotechnologies price target t](https://www.investing.com/news/analyst-ratings/btig-raises-adeptus-biotechnologies-price-target-to-34-on-guidelines-93CH-4909713)
+
+### Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now
+
+The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules.
+
+[Bitcoin hits an 8-month high — and sends a clear m](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories)
+
+### As the S&P 500 nears a new record high, there are signs of weakness below the surface
+
+About 60% of the stocks in the S&P 500 are down more than 20% from their all-time highs.
+
+[As the S&P 500 nears a new record high, there are ](https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories)
+
+### These beaten-down stocks could bounce back in January, if history is any guide
+
+Tax-loss selling is likely to lead these 20 stocks to become artificially depressed in the fourth quarter — and therefore good bets to bounce back in the new year
+
+[These beaten-down stocks could bounce back in Janu](https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-9월 18일자 행정명령을 기점으로 H-1B 프로그램에 대한 전방위적 압박이 가시화됐다. 10만 달러 수수료 1년 연장, 고용주 해고 사례에 대한 부처 간 합동 조사 의무화, 그리고 대형 IT 컨설팅 기업 코그니잔트의 영주권 신청 중단 조치는 '미국인 노동자 대체 금지'라는 기조 아래 숙련 이민 문턱을 높이고 기존 비자 소지자의 지위까지 흔드는 일련의 패키지로 읽힌다. 이는 비자 남용 방지라는 명분하에 기업의 인력 운용 자율성을 크게 제약하는 규제 강화 흐름이다.
+오늘 발표된 미국 이민 관련 소식들은 트럼프 행정부의 H-1B 비자 프로그램에 대한 강력한 규제 의지를 명확히 보여줍니다. 특히 9월 18일 발표된 행정명령은 프로그램의 청렴성 강화와 미국인 근로자 해고 사례에 대한 부처 간 검토를 요구하며, 논란이 많았던 10만 달러 H-1B 비자 수수료를 1년 더 연장하는 조치와 함께 이루어졌습니다. 이는 H-1B 비자 남용을 막고 미국인 근로자를 보호하겠다는 행정부의 일관된 기조를 재확인하는 것으로, 관련 기업들, 특히 IT 부문에 상당한 재정적 부담과 불확실성을 안겨주고 있습니다.
 
-반면 엘살바도르인 TPS(임시보호지위) 근로 허가를 9월 9일 마감일 이후에도 인정하도록 한 USCIS 조치는 인도적 보호 영역에서는 기존 권리를 유지하려는 사법·행정적 연속성이 작동함을 보여준다. 숙련 이민에는 '남용 차단' 잣대를 들이대며 비용과 심사 장벽을 쌓는 한편, 이미 정착한 취약 계층의 생존권은 보호하는 이중적 기조가 공존한다. 다만 재계에서는 H-1B 옥죄기가 인재 유출과 경쟁력 약화를 초래할 것이라는 반론도 만만치 않다.
-
-앞으로는 부처 간 합동 조사가 실제 현장에서 해고 이력 기업에 대한 비자 발급 거부나 감시 강화로 어떻게 구현될지가 핵심 관건이다.
+이러한 H-1B 비자 관련 소식들은 미국 이민 정책 전반의 긴축 기조 속에서 이해될 수 있습니다.
 
 ### 법률 외의 추가적인 H-1B 관련 장벽들: 해고에 관한 9월 18일자 행정명령과 10만 달러라는 한도의 연장 조치
 
@@ -223,3 +712,111 @@ USCIS, 9월 9일 마감일 이후에도 엘살바도르인들의 TPS 근로 허�
 그린 카드가 9월 컵에서 우승했으며, LRC에서도 우연히 출전한 선수들이 뛰어난 성적을 거두었습니다. thenews.pk
 
 [Green Card grabs September Cup as fluke entrants s](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFJPTUFHYWUzR3NpV2xNVjI0ajBUYjhhQmdjUDVvQzRCRkJLVFdUcWM1bGl4OGdRWFdUbHBRbk9BX3I0a005TTF0bFVFVm9BTlQ4TjRhU2p6TXVPclNnZG5qR0h1YTE2SEgyU0tnRGk2Znp6WE9pZHNPajZaMWRSbjZwaU1NVmQxTjlUeExIYklDUUlxMFJSUEo4M2xFR2V1Q3QyVg?oc=5)
+
+### US Extends $100,000 H-1B Visa Fee Order for Another Year - ProPakistani
+
+US Extends $100,000 H-1B Visa Fee Order for Another Year    ProPakistani
+
+[US Extends $100,000 H-1B Visa Fee Order for Anothe](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0k4ZXdqVUN1YnBpSmxadzFpSzBFUFQtbXo5MmVIT043RWJIOHZ3dFRmTnJYNWR0Q3FUSVpOei1RSFV4d2pFaE90TkFJSkZ5SXJ6VU81ZEVvSllYQTZ1OU9Pc3pOSUtOWUZQdHhBa1F0X1NEUmZ2ajV0OFZJdlA3TnktY1FMUU5sa19seWNTMC1BU1ZU0gGaAUFVX3lxTE9sR2Etal93ZDhvZWE0elNob0RVNUNYVnROYTRqb28xNG5GalV6SUdmWkR4bU1PWFMzTklhX2VBaFloQWluTXZWMVY3TnNpZ0MzOWVRTjRHVFgyeG5UOUxxRlN3WjBDdlRqRm5wZE9lLVJBRlFicnhxNWVZVjlMNUl5UkdYc0cwUUtLQWs1MEVfdEg5bUV0aThiNXc?oc=5) | [US extends $100,000 H-1B visa fee for another year](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0RwZkM0T0NfY2FwR2oxS0xmNlJFRS1OXzJqN1NjdEhRQ1l6Z1pWSF9GRjhiN3FINmJXRk85S0F6WFdlYmJDZkxWYTJxQ1A0djhibTluVDFkRnNGdkx3eFBIZFhFWlFMc3VqSzRLS0ZQWkZmVy1PRFpFZ1NsWlFpa2lmaUFUbGIyaExVZg?oc=5)
+
+### US extends $100,000 H-1B payment requirement for another year - newstodaynet.com
+
+US extends $100,000 H-1B payment requirement for another year    newstodaynet.com
+
+[US extends $100,000 H-1B payment requirement for a](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWRGNEZjQWJHTVRHaHF3OVljVTB6UWtEZWNzMWNWVHhpci1vSmtXUm9SZTZyWTFCSFJPdUZfSUhqNHRUV1JqdlpOUVBLVDFHRU1NYlJOWlRqdGlNZndqdktaSzBab2V4NGZKcFJQWDZHbS1WdjllQUxBRkw0aDFIS2hjd3VEcU9DRU95dldwWmJxb1IwTDVUVERfaEQ?oc=5) | [Trump extends $100,000 H-1B payment rule for anoth](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeDE5M1VHaGxLZkZXR1FzaGN1ZDVMVFBwR0wwUW42R2Z1YUU4NWppYzN2T284Z2xHMzBkbnFvem5hTXFKYjhJVEFDRGNwYVlJNXlJZC1Vb3dydnppdzVjeTZxaHgyNGhHTy1OWmJldElRbnNyd3A4TUZOdU9iTW5QTFhjalRXeXJxSnd3?oc=5)
+
+### Welcome tighter H-1B scrutiny, but not at the cost of American innovation: FIIDS - EdexLive
+
+Welcome tighter H-1B scrutiny, but not at the cost of American innovation: FIIDS    EdexLive
+
+[Welcome tighter H-1B scrutiny, but not at the cost](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2ktd3QzTjFjUnZ4OHZPTmN2elE5Y3h6ellnSzdCNWIyZnRQS2RrdDJ4T3lBa1h0OGlXZXQyR1VDaUliazJTWUdGa2lrM2NLai1XeWxqczBveVFaQ1N1TER6MmhtcnlJSDNMeXFjU3QwZlFqWTRfWjJMeVEwdm1ZZ2ZUbDd2cmRSdTRHMEpXQUxPTUtrYWVhTS1NNlNxcXNxQ1NRU3FXYnNNRXU10gG6AUFVX3lxTFBhbm5XbTNFSG1wUm4tTjNZeXBJNHRxZjhpei1JX1ZScjRTd2V0SjdRY2dURU1IXzN2cC1IVEt2a0l3N0NKYXBZd0FlNjRXalJ5X2pPYjRITTJWNlVtWjctWFZndmI1Nzh1aVR6WENQZlJaZkN4dDFUOUQ2ZWNtVmU0bUhQUG8wa2l2SXdkOWdqeVQyeTcxRmQtZkRhTVVyMHotSnJFWHIycU1EVnllWjVpMy1rM21JUmZtdw?oc=5) | [Welcome tighter H-1B scrutiny, but not at the cost](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWdVQkdPTlNUNmdUUDNMQ2xvaHNDR2hSRlNnMDNOWDNzdWNZZlZKUjRMb1lGcEZtMXNXYWIyUWlfN29JbGhSQThXUjRHVDJNeWJScXpGMVVlVENfb1libVhsa1g5aWNzdDdoUUJzSHJRWTItYlFWN3VuRjg3c2Vscm1ldFZhTEIwLWtaMXhHLTF4RW1NWWV2TWdBamNQOTBNZjl4cExaT2RLRUJkek1HQUd6c9IBswFBVV95cUxNcWdVQkdPTlNUNmdUUDNMQ2xvaHNDR2hSRlNnMDNOWDNzdWNZZlZKUjRMb1lGcEZtMXNXYWIyUWlfN29JbGhSQThXUjRHVDJNeWJScXpGMVVlVENfb1libVhsa1g5aWNzdDdoUUJzSHJRWTItYlFWN3VuRjg3c2Vscm1ldFZhTEIwLWtaMXhHLTF4RW1NWWV2TWdBamNQOTBNZjl4cExaT2RLRUJkek1HQUd6cw?oc=5)
+
+### They planned their futures around America. The past 12 months have left them rethinking that dream. - Business Insider
+
+They planned their futures around America. The past 12 months have left them rethinking that dream.    Business Insider
+
+[They planned their futures around America. The pas](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXhYYjQtaVpfOENDTzJCczh5S0JwdUtEN2dkMGNmZDlSQUVQY19HM1RmbWVtV3lsb2paU2VnbGNFQmpLVHdPMFlZM0tkTE5TYTN4eHUwSmQwaGpIR3ozLVIwMFg2MDlmaU9OenI2QlpESGJDR090NzB5bnBNdWlQenNLSWxqb1pOaFpRWTdmbm9mR3BFLVNlbkhDZzZYUWhNd2l0TDFEaw?oc=5)
+
+### Green Card 2026: New Rules and Tips for Drivers - Visit Ukraine
+
+Green Card 2026: New Rules and Tips for Drivers    Visit Ukraine
+
+[Green Card 2026: New Rules and Tips for Drivers - ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHlfbDVJRHVMZEZNNW8taXZEMUVmc2J3SlluMmhpQXhSdWNrYllxNC1nZXlhUUhqMVRCSTJSMFN2enVNaHJsblBrVi16dHl2NUxiUE1CcXBOa2hSWVhsQTYtYnhCQ1JNWmhkS0oxREw4b0x2RzVNWGtSVl9zOTBfTkpRblVoa3hHbzFjMEYweVR3aGdyT1FRaGZRX0dwQXc?oc=5)
+
+### H-1B Fee Extended by Trump for a Year — IT Stocks Under Pressure, OFSS Down 6.6% - NiftyTrader
+
+H-1B Fee Extended by Trump for a Year — IT Stocks Under Pressure, OFSS Down 6.6%    NiftyTrader
+
+[H-1B Fee Extended by Trump for a Year — IT Stocks ](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SM0N4ZDdfVjNKYTBmQXg1Tk02dW9Ea1lZdnB3TldUaFB2SWJoWGVzb0JsVjdCcUs3X1lWakZUNWFrSk9tT2NjWTVUV205SHlrcVRMX0FCWjBOTkJHdTNJeXRNUUZTYVZ2NzZndlUyTm45NU54dUNiU2c0V3Y4Zw?oc=5)
+
+### Trump extends court-challenged $100,000 H-1B visa fee - Staffing Industry Analysts
+
+Trump extends court-challenged $100,000 H-1B visa fee    Staffing Industry Analysts
+
+[Trump extends court-challenged $100,000 H-1B visa ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGlJRjRna2JfRWlrdl9kSWtmd2I2ek1SVkN1VzhTejZ4N2FWdlJxN1pPVFlfeU9uSUJ4WUhsMHYzUVJMeU4zNjE1WmxVYnhucVJ5SjZ0OUlmMVRZclNEWk9zZ241bGY5c0p1bmQtVm1IZ2NaT0dMcWlLSExQY1h3anNRekxadUlSMElDMUp3MzhlWTh0cEY5N3dfU1BocEpVSnFtR3FFNVhEbkk?oc=5) | [Trump Extends $100,000 H-1B Visa Fee for Another Y](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDVoZzhDZC1rSFNYQVR3bGllT18yeVlvcUpzZ01MeEJtT1gtZVpjSzRxZXc5UE11bHloVWZ0TGFTYTZIV2JqRTdDSHk1eFFhWmliUUs2WEVEOGpWem5pa3hWTWdkNTEzc0pXTFlXOFBoaFZfd052bFFZSE9KSlU1emVEN3VtVU9zeFE?oc=5) | [Trump Extends $100,000 H-1B Fee Requirement for An](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDBpakN0N1FTaDZCcjZfM3l2Q2tzdmVybm4zU0tEMDdLcG4ydzVHcHdEUWhNeG9jaDRIcGpBeDFIYkEwQzM5VHE0UnA4RXJwbDh3Qkg0c1A0MmRzdkw2dnNLNmhrLURKcW9ERVNWc2ZqYV9SZG50S1ZxMERoejBiWHAzcVZkMDRqVk9R?oc=5) | [Trump extends $100,000 H-1B visa fee requirement -](https://news.google.com/rss/articles/CBMihgFBVV95cUxNemNsWVQ0X05nYzlkVmtXT1lfRDdja05idXNsUkcxaG82NW0tMlJOc2VZeWZGS1FBaGRNTExqQjB6MV9HaFRxRDA4bkdLV2tDazBTZ0dxZkRhR1JucnpwOTY0WFdRX3FYb2dLT3l5NXp2NEJ5MUZuZjRmdFpqMS1uY0h0anFMQdIBiwFBVV95cUxPSUZfQWhYTW5WY21tbU82clFpRXpEelF2M1ROZkVQU2hqZTBaTjNmZzhBNU9PX080UXN5azJrazR0Yk9ic0s1cldSeFR4a0k4NnFBUC1VNTRCcWFzaFZlQWZDSUhZcmFWdU12aFN2TG1OQ25ISnFuMUMxd3dhT2pLclRXd2R5aUduS2FB?oc=5)
+
+### US Extends $100,000 H-1B Visa Fee Order for Another Year - TechJuice
+
+US Extends $100,000 H-1B Visa Fee Order for Another Year    TechJuice
+
+[US Extends $100,000 H-1B Visa Fee Order for Anothe](https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0Y4RURVUWZ6STRES2dDQ0FVNDl6S2dPNE9WSDE4SUc4RWo2RFE5aXdBSUJaNjlYSV85NG9YM2pWV3NhdDZuSXEzdHNNcHF1WlprS1Vfa2xUTVY0RnVxN3dsN3lkWGpoTzVxRUNZVmtIZGVYTmlZdUJuWVRwblNjMXJKMlVBd1E?oc=5) | [Trump Extends $100,000 H-1B Visa Fee for Another Y](https://news.google.com/rss/articles/CBMia0FVX3lxTFBhTEN4V1hUQzUyRlFBOTVudDM3d3ZYakFxaGtxbkRJMzlEMjl2R21LenZhTjNKdGN6alFkOUlFakJBMzBCbl9YN2ZORTlDQlpVaUJmd09rWXBDbWtFQ3BNZUszQm84ZFo2NEFJ?oc=5) | [Trump extends push for $100,000 H-1B visas by anot](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1FmTF9JUVV1djQ5YWotV05VLUEzM3BFWnNmU2FlN09lWkVDYlk0SjhDb2Z3d1kxM20xeEM1RDM5NXd0YXN2RXZoXzZ6WDZVakJRTGxYai16MGJxMHZDXzAyME53Q0VwUmZOZE5raDZFTW1ydzdVbGlfaGZ0VmpMdktnY1N3aUxyaEtjWXFB?oc=5)
+
+### New restrictions on H-1B visas to transfer personnel to the United States - Demócrata
+
+New restrictions on H-1B visas to transfer personnel to the United States    Demócrata
+
+[New restrictions on H-1B visas to transfer personn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTFQVldIUVh2U1VMaFJpQXJFNlB1bTNvYVhSVERRU1VYX1A1dlExa3ozVnpVN3JYVmZYNHlUcTA1M2h2N0hRd0hSemZPeDYtSXU1WFRoSkVQRndKcTRYTFZWcF9BR2ZYeUJ6c2ViLUlhVGNxS3hxQzU2TUF1WlAyQnRVb2J1QUkySlg5QndQOXg2YWFVSXB1S0FITllSdHlLemNjQkVmUkd1SGZ2Y084b2JJa2RIdjRpUjYyT0dEbEM5MkJOZ0HSAcsBQVVfeXFMTS1HVDFJenQtMmpfNFd1aEJxanBDM2YtTzk4S0paU3RFQjhyclJrU3R1LVh3Q3NOMTJyUEtGNkJOeE80N3FBdk1pRXg1TkhURHNmelVLOWNXTV9hUE1Pd2NBc3pJbDlxTkxEa3JxUEdySWctVThHckx5WkxfTWp4alZpOENRcWZubVFheWJ0cGlramFRMUFKcHZfU1JXQ1B0eXNBWTBGN0ZLMW9aeUczcHE4QW5JSUtiSFdUWFBwVXI1aTJoaTEyLXk2ekE?oc=5)
+
+### DHS clarifies green card rules for US-born children of foreign government employees - financialexpress.com
+
+DHS clarifies green card rules for US-born children of foreign government employees    financialexpress.com
+
+[DHS clarifies green card rules for US-born childre](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVNQS1hTZUd3VmhheUZzVlpfOWNkMDdhMHlLM3AyVUlHV3ZmN0JMZVdJR1lhck9kSUZmUEFIUWZidXRPNi1zaWMwZGFaOGhOSnAwdGFFZ3lYX0JuU0h1NXBRdGFLSnRpT0xfVUVxeHBGOWxCTGNBc2JnNTBld2VsZVBKckV0LXozTmczY3lDLWNaY1Rndmx1Q3NlRTlYV240S2hNcThocmJZZmRHNVZjUnJNNHRfcXdHZ1J6ajMwRXZvdW9RYWhURFJKN0dIM0cxNGdj0gHaAUFVX3lxTE1oVUlKMDU3aGtkSkI2N3E2Ml9TSXNmU1BjaTBIT2V1VW1UZGJMX3dvVWhjcWpaWTFfVEtrLThXRUlCX1JWZkZYOXdSREI4SzFpNlhxdkdvVWl5QWQ1MmhEZkRESGhCeXFJbkFhUWl4NmtNeU5DWkdYNDk1V2wzdUpCSW5iRm5jZk01VWZReGluaUswUlI4S2JHV0hpUUkzUldHWXlFMHNOaHd6QWtyQnQ2RHFfSHZBaVp5RG80VmlzeUNmOWlleERUOEdfUTVKREdWX3M1b1ljaUtB?oc=5)
+
+### Congress slams H-1B fee extension as 'humiliation' for India - India Weekly
+
+Congress slams H-1B fee extension as 'humiliation' for India    India Weekly
+
+[Congress slams H-1B fee extension as 'humiliation'](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFMZWRxRTVRYmxha2sxbmE2YXA5S082LVY0ZGpYVGNIMk1nX0Mxd3U5dU1VZjVBa3R0ZHE2Vld1c1JKWDNxc2tnS1FjVlpoQzRjdE0wRG9UZHBDclhzeTBkbXEtMkMyOXpBc3NBUmVQQUJXNXVwZ3Z1X0ZUQndzcHBlN2lPcmFiTWdjYWJ0YjI1YnZob3dHTHNyMmpvcFdYVmlPRnNxNWJhQQ?oc=5)
+
+### Trump Enacts Additional Immigration Policies Against H-1B Visa Holders - Forbes
+
+Trump Enacts Additional Immigration Policies Against H-1B Visa Holders    Forbes
+
+[Trump Enacts Additional Immigration Policies Again](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3FBd01OZjNHRjExQjJoZUNiSC13ZGlrdkRlakN3Z19WNThpbHVXdlRrTFItWVBTUTloZWhvdlU1Qko0LW93VGsxVDRyanp5d2ZfOFFUczhvLWY2UlEtajFrWU9hYmJKcXhWNTZaTGhOWHZ6Z0tDdlcyV09BQ1R2U1F2YVBaQWRMRU0tVW56dmJ0VjNtYkxtQVJ3eU9teFRtSTNCZVpvUzV0MlFzZWxmenR2QzhDenVzcGpLM1V1SmdvT29G?oc=5)
+
+### US Visa Warning: USCIS Flags Businesses Promising Faster Green Card, Work Permit - Times Now
+
+US Visa Warning: USCIS Flags Businesses Promising Faster Green Card, Work Permit    Times Now
+
+[US Visa Warning: USCIS Flags Businesses Promising ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFRvNUVob3hsS0FrUDZGbFdaeGI0M2xydTlwNHI3Q2YzakNjSGtnQ1ZHM2t2RWJiZXRJRGNjSTZwS09WZ25FcFpFRjJHdGpJd2pDempPSU5IQnRHSkUzdXNZQzd0RjFHbF9ERHp3QjhxWFJaVmdkSzBNUWhBTXI5LTBKcFZnVFZKMDB3RmlqNjRROFMwME5WcWFaa2R4U05JNi0wNkdZaUszYTc1T3JLTlNYeHNZNlVGMkxZc20zVDA4YXkyZ1hFQTBTMWk5TzhwekdvaEpEenhuZ9IB3wFBVV95cUxNcllVRUEtaVJUYTVzSHFuejN0ay1meTZyTVRLWXU4aFRyYnJIVUtqbjRoZUhzUl9LZUVDNXhaYUNGUUdRYnFrX05LV1VVYVltc2hSZ254LTRROFdWcUtLN2FOWHo2YUN6aFB0NURHcm8zbHQxY3p6d1Z5S3J1Qkxzenl5YkNOTDVMUXdzTGU2NFFVa1psaUZ2cGdPd3NKS09TWkpHVWZrdks3SFk1X1ZFb05Sdkc5R2pnSkUzSEFpRGZIaWpBdEVuYXdQWjhlMWttMmlZd2tOYlFFa3dFSHNn?oc=5) | [US immigration warns visa applicants against websi](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPVWdvRHBxZzByRkpJdWx4NlRhQlJtMHQ2N09ULWtvMXJuQ0tRLU1KZjNlYklDbkFVOU1qa2hLbXotdE85SXEtUFI0aV9tMGlYWGtCTWVaZ0VSWTdLTmNPTVhDRXdmTi0yRUtfUmg5Qm8xdnpKMkFpb2NvSFc3bk9XWkFTSHJPLW5jV3Z1cUFibHgya2M5ODBoaC1RWjdVNjdCWlJ2bC1IU1YwR3FiOXhzbUZ0WkJMM2xoa25BU1h6VVN6QmIyaGNYeWRqVjRXUHdmQmhwcVNua0pUc24tS09OamIyU2FhekI3VHBCTFphamFObWREQXkzZTZTZzBvamdoS0xFc1pZb2hKbUU2Z2RKcFpQSmxYVkpTQU4tbndyaFFvWXFNWm9oQzBR?oc=5)
+
+### Trump renews $100,000 H-1B fee for another year - Outsource Accelerator
+
+Trump renews $100,000 H-1B fee for another year    Outsource Accelerator
+
+[Trump renews $100,000 H-1B fee for another year - ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PT3hkc1RuUjJhN1ZHdzZFMUppc3ZRaXUwbWF2UDJkcEd6Nm1PczdfUDQxbFdHVjhQbTBValhGalB2a3hhUThPWlpHaURHTE4zazZyY0tjWGJDMnRyS2ZrVHNSSmg?oc=5) | [Trump Extends $100,000 H-1B Visa Fee Order for Ano](https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTlyZnM2T0ljdnhsR2NZYkxhVC1TNTNTWjVLLXZxcmU0NUV2TkpIZHYyU3VNaTdaRFNyMTRfY0NZS3dMOURKV0ZoSkd2NUQ1UlYzQlVMQjhXZjltWTVRSkpBNm54cURMb2dFdXZWRk4tM3I1MXVpZkNUbzFYNlpMQ2kyUTA1Z2JLTXc?oc=5)
+
+### US: Immigration News Update – September 21, 2026 - Corporate Immigration Partners, PC
+
+US: Immigration News Update – September 21, 2026    Corporate Immigration Partners, PC
+
+[US: Immigration News Update – September 21, 2026 -](https://news.google.com/rss/articles/CBMijwFBVV95cUxQYm9pQXAzeFVLLUNabElkZTRtWlNQWVRPNUxFVXEtMzVkOUR2YzFYZFZaNFRZaURoUmJpX19oLXprbWlGUUNDSjQtSEFudnZXZEVfa05BZ3lGUVNnYWM3ZXVVSGdFVVhWa3A0R1dXUXRPUFJuaXJHaVUxQk8xNmVVQl9UaFRtR2F1NXNQRVl1Zw?oc=5)
+
+### Central Pa. pastor facing deportation to Haiti was denied green card, advocates say - pennlive.com
+
+Central Pa. pastor facing deportation to Haiti was denied green card, advocates say    pennlive.com
+
+[Central Pa. pastor facing deportation to Haiti was](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXZhRUFFcmlSSVVfa3NBMVNaYmN3MXJEVXM1YmxFbnVhNU96ZmtZeGF2cFk2TVI1ZnhSa1VmTGFHTDR3TUJpVEU0czZScy1CejdNVTJVUzVUeVZtX3VoTndvMEdfSDFnX24yUHFGNXJSX3NvQnZ1NTBDTTlOdllmdndJN203bXNUb3g3ZEFsM0kyMk1Od1VrWUlidW9nbmRhRl9OOXNzS1FBanliaGdGY0JxMWhDMFQzaHl1TnYwVDA5d9IB1gFBVV95cUxQXzFIaE9YeWJRRHZCNkZ1eE9hbzJ1c1NaNnhsNVVlMWYxc19NR0R2UDhIUkJfdGtSUU1uZ2g2ZDJCVE1Yc2pLTWRSamc0d0FwQzdWU2p3MlVqY2dKaXNPbGlybTUyTWc0TVBmOG1rLV9zSUlqa1VvMlNIOS1lU0d4STc4R2tQT29UdFAtWkdkZVFZb211WTd5N0gxcnpBOHFJRjJPbVFSeUhmbU9sUGhVVHBsc1NheUNxRlFsYWZCWFZoaGFvRVRBX1hCZzhObHdtQkRfeHVB?oc=5)
+
+### York County Pastor's green card application denied; deportation date unknown - local21news.com
+
+York County Pastor's green card application denied; deportation date unknown    local21news.com
+
+[York County Pastor's green card application denied](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnN0NDd1WTB0dDdOWWhIRXBYWUs5OFpEZHM1dlpsbTVBRHNIb2EydjE4R2lPcHRUcWI4Rnk2S1B1TWpnd1RCT2lYdFMweDd2QVo1S2JUVERySk1LNmRXcTRSQWRZREdsdGpJVktXMnBqRXcwckpreVBvTEFEeGhzUWZCSlJfU2cwWUF2N1hoUGRNSHE1TEg3ZE94dHFVOEpVbExyX3ZlbXhvT0gxZnc?oc=5)
+
+### New H-1B Executive Order and Proclamation Fee Extension - WR Immigration
+
+New H-1B Executive Order and Proclamation Fee Extension    WR Immigration
+
+[New H-1B Executive Order and Proclamation Fee Exte](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkRPbTZrRVBNd1ZaY0JHM011Rlp6RlJKaDdPYzVRVDZwbGJ5aC1BOHF3RnhHLW5BaVBQaEsxaVNlX3lkZm1xcDN4UWlRV0hkZ19XNk5lUHJvV285U3lDamFPX0NZTHJVTWM2TEhVNFpMbGI4MkdzRVpIN3hIa202VEh1cTE?oc=5)
