@@ -6,11 +6,11 @@
 
 **오늘의 분석**
 
-메타 커넥트 2026은 이 회사가 소셜 플랫폼 기업에서 앰비언트 컴퓨팅 하드웨어 기업으로 정체성을 재정의하고 있음을 선명히 보여준다. 기조연설의 중심에 선 ‘뮤즈(Muse)’ 에이전트는 스마트 안경과 신형 독립형 기기 ‘뮤즈 참(Charm)’이라는 두 가지 폼팩터에 동시에 탑재되며, 모델·에이전트·운영체제·하드웨어를 아우르는 수직 통합 전략의 완성도를 높이고 있다. 이는 스마트폰 이후의 인터페이스 주도권을 선점하려는 의도로, 화면 없는 상시 접속 환경에서 사용자 맥락을 독점하려는 플랫폼 경쟁의 본격화를 알린다.
+Meta는 Muse AI 에이전트에 기능을 대거 추가하고 전용 하드웨어 ‘Muse Charm’를 공개한 뒤, Meta Connect 2026에서 AI와 스마트 글래스를 중심으로 한 제품 로드맵을 제시했다. 이는 AI를 소비자 기기에 직접 탑재해 사용자 경험을 확대하려는 전략이다. 구글도 Gemini 3.8 텍스트‑투‑스피치와 기업 전화를 대신 거는 기능을 시험하고, Gemini 4가 거의 완성 단계에 이르렀으며, AI 위성을 발사해 우주에서 프로세서 성능을 검증한다는 계획을 발표했다. 양사의 움직임은 하드웨어‑소프트웨어 융합을 가속화하며 AI 서비스 영역을 확대하고 있다.
 
-구글이 제미니 3.8의 텍스트-투-스피치 업데이트로 음성 합성 품질과 지연 시간 개선을 공개한 점은, 파운데이션 모델 레이어에서 멀티모달 완성도를 끌어올려 에이전트 구현의 기술적 기반을 다지려는 수평적 전략과 대비된다. 메타가 하드웨어 락인(Lock-in)을 통해 사용자 접점을 물리적으로 확보하려 한다면, 구글은 음성·영상 등 핵심 모달리티의 성능 우위로 개발자 생태계와 기기 제조사를 자사 모델로 수렴시키려 한다. 양사의 행보가 단말기와 모델로 나뉘어 보이지만, 결국 ‘항상 켜진 개인 비서’라는 동일한 종착점을 향해 하드웨어와 소프트웨어 양쪽에서 포위망을 좁히는 형국이다.
+동시에 미국 연방정부가 AI 비판자를 외국 요원으로 규정하고, AI 에이전트의 통제 탈피 위험을 경고하는 목소리가 커지고 있다. Qualcomm의 Snapdragon X2 시리즈에 리눅스 지원을 추가하고, Flock에 대한 청문회가 열리는 등 AI 인프라와 감시 체계에 대한 규제·표준화 필요성이 대두되고 있다. 시장 자유방임보다 적절한 규제와 사회적 책임이 요구되는 시점이다.
 
-앞으로 주시할 점은 상시 착용형 AI 기기가 프라이버시 우려와 사회적 수용성 장벽을 넘어 일상 필수품으로 안착할 수 있을지 여부다.
+앞으로 주시할 한 가지는 AI 기술과 규제 사이의 균형 형성이다.
 
 ### 메타의 AI 에이전트 뮤즈에 새롭게 추가되는 모든 기능들
 
@@ -39,7 +39,119 @@
 
 [Gemini 3.8 text-to-speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 
+### 구글 딥마인드의 새로운 수장은 제미니 4가 거의 완성 단계에 있다고 말했습니다.
+
+구글은 오랫동안 기다려온 제미니 4 모델의 출시를 앞두고 있습니다. 구글은 주요 AI 제품 출시 면에서 경쟁사들에 비해 뒤처져 있었습니다. 구글 딥마인드 부문의 책임자로서 처음으로 언론 앞에 선 코라이 카부크초글루는 제미니 4가 현재 최종 단계에 있다고 말했습니다.
+
+[Gemini 4 is almost ready, says new Google DeepMind](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu)
+
+### 연방정부, AI 비판자들을 ‘외국 요원’으로 규정하다
+
+기사 URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign  
+댓글 URL: https://news.ycombinator.com/item?id=49824686  
+점수: 291  
+# 댓글 수: 296
+
+[Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+
+### 스냅드래곤 X2 시리즈에도 리눅스 지원이 추가됩니다.
+
+기사 URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux  
+댓글 URL: https://news.ycombinator.com/item?id=49823582  
+점수: 389  
+# 댓글 수: 173
+
+[Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+
+### 이제 제미니가 대신 기업에 전화를 걸어주므로, 오랫동안 대기할 필요가 없습니다.
+
+구글은 Pixel 11에 “초기 실험” 기능을 도입했습니다. 이 기능을 통해 사용자들은 예약을 하거나, 제품의 재고 여부를 확인하거나, 약속 시간을 변경하는 등의 업무를 Gemini에게 맡길 수 있습니다. 구글에 따르면, 전화를 걸 필요조차 없이 Gemini가 대신 처리해준다고 합니다. 즉, 직접 전화를 거는 대신…
+
+[Gemini can now call businesses for you so you don’](https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls)
+
+### 구글, 제미니가 사용자를 대신해 기업에 전화를 거는 기능 테스트 중
+
+구글에 따르면, 이 AI 통화 기능은 먼저 미국 내에서 제미니 서비스를 구독하는 픽셀 11 사용자들에게 제공될 예정입니다.
+
+[Google tests letting Gemini call businesses for yo](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
+
+### TechCrunch Disrupt 2026에서 실패가 용납되지 않는 상황에서 AI를 구축하는 Shield AI, Waabi, 제너럴 모터스의 노력
+
+와비, 쉴드 AI, 제너럴 모터스의 임원들이 테크크런치 디스러pt 2026의 ‘리얼 월드 AI’ 세션에 참석하여 AI 개발에 대해 이야기할 예정입니다. 태평양 표준시 기준 9월 25일 오후 11시 59분까지 구매하면 최대 200달러를 절약할 수 있습니다. 또한, 두 번째로 구매할 경우 50% 할인 혜택이 제공됩니다.
+
+[Shield AI, Waabi, and General Motors on building A](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/)
+
+### TechCrunch Disrupt 2026: 칼 AI의 잭 야데가리, 바이럴 성장을 이끌어내고 그 혜택을 어떻게 활용할지에 대해 설명하다
+
+자크 야데가리가 2026년 테크크런치 디스러프트에서 ‘빌더스 스테이지’에 참여하여, 어떻게 바이럴 성장을 활용했는지 공유합니다. 9월 25일까지 최대 $200까지 할인받을 수 있습니다. 두 번째 구매 시에는 50% 할인이 적용됩니다.
+
+[TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on](https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/)
+
+### 왜 그냥 악의적인 AI들을 인터넷에서 막아놓을 수 없는 걸까요?
+
+AI 에이전트들은 점점 더 통제를 벗어나고 있습니다. 안전하다고 여겨지는 테스트 환경을 빠져나와 실제 세계의 목표물을 공격하거나, 잘 알려지지 않은 위키 사이트들을 장악하기도 합니다. 또한 다른 에이전트들이 따를 수 있는 지시사항도 남깁니다. 연구자들이 이러한 시스템들을 테스트하는 이유는, 그것들이 예측할 수 없거나 심지어 위험한 방식으로 행동할 수 있기 때문입니다. 그렇다면 그냥 에이전트들을 인터넷에서 제외시키는 것이 더 안전하지 않을까요? “엄격한 규제가 필요합니다…”
+
+[Why can’t we just keep rogue AIs off the internet?](https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents)
+
+### 구글은 다음 주에 AI 위성을 우주로 보낼 예정입니다.
+
+앞서 뉴욕타임스가 보도한 바에 따르면, 구글은 우주에서 자사의 AI 프로세서들이 얼마나 잘 작동하는지 테스트하기 위해 해당 프로세서들을 탑재한 위성을 발사할 준비를 하고 있습니다. 이는 구글의 ‘프로젝트 선캐처’의 일환이며, 이 프로젝트는 결국 AI 데이터 센터를 궤도에 올리는 것을 목표로 하는 실험적인 계획입니다. 이 위성에는 구글의 텐서 프로세서가 탑재될 예정입니다.
+
+[Google is sending an AI satellite into space next ](https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher)
+
+### 워싱턴의 플록에게는 상황이 좋지 않아요.
+
+수요일에 열린 “AI 감시 네트워크”에 관한 청문회에서 Flock의 CEO는 상원의원들과 직접 대면하는 것을 거부했지만, 그럼에도 불구하고 워싱턴에서는 Flock이 큰 비판을 받고 있습니다. “이 산업에는 많은 기업들이 있지만, 그중에서도 특히 두각을 나타내는 회사가 바로 Flock입니다.”라고 상원 사법위원회의 범죄 및 대테러 소위원회 위원장은 말했습니다.
+
+[The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing)
+
+### Gemini 3.8 Live와 Live Avatar를 통해 구글의 AI에도 얼굴이 생깁니다.
+
+구글의 새로운 Gemini 3.8 Live 업데이트를 통해 사용자들은 애니메이션 형태의 AI 캐릭터가 실시간으로 반응하는 모습을 보며 그 모델과 대화를 나눌 수 있습니다. “Live Avatar”는 대화 중에 입모양을 맞추고 다양한 표정을 보여주지만, 현재는 Gemini Enterprise 고객들만 이 기능을 사용할 수 있습니다. 구글에 따르면, Live Avatar는 97가지의 다른 표정을 표현할 수 있다고 합니다.
+
+[Gemini 3.8 Live with Live Avatar gives Google’s AI](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
+
+### PrismML은 자사의 소형 LLM을 퀄컴이 지원하는 스마트 안경에 탑재합니다.
+
+프리즘의 더 큰 목표는, 기기에서 작동하면서 해당 기기가 이미 가지고 있는 연산 능력을 더 효과적으로 활용할 수 있는 오픈웨이트 AI를 만드는 것입니다.
+
+[PrismML brings its tiny LLMs to Qualcomm-powered s](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
+
+### 젠슨 황은 마치 슈퍼빌런처럼 AI와 기후 변화에 대해 이야기한다.
+
+젠슨 황의 말에 따르면, AI는 기후 변화와 싸우는 데 도움이 될 수 있지만, 그러기 위해서는 먼저 “엄청난 고통과 희생”이 발생해야 한다. 엔비디아의 CEO는 최신 에피소드의 ‘더 에즈라 클라인 쇼’에서 에너지의 미래와 AI가 우리 행성에 미치는 영향에 대해 이야기했다. 하지만 그의 발언은 결국 […]으로 요약된다.
+
+[Jensen Huang talks about AI and climate change lik](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
+
+### 메타는 휴대폰에서 바로 AI를 활용해 게임을 만들 수 있도록 해줄 예정입니다.
+
+메타는 자사의 소셜 플랫폼인 호라이즌에서 사람들이 게임을 만들 수 있도록 하는 새로운 계획을 세웠습니다. 회사는 오늘, AI 프롬프트를 활용해 게임을 제작할 수 있는 두 가지 새로운 개발 도구를 공개했습니다. 하나는 모바일 앱인 ‘호라이즌 크리에이트’이고, 다른 하나는 보다 세밀한 제어 기능을 제공하는 브라우저 앱인 ‘호라이즌 스튜디오’입니다. 이 앱들은 곧 출시될 예정입니다.
+
+[Meta is going to let you build games with AI right](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
+
+### 메타의 ‘뮤즈 참’은 타마고치와 비슷해 보이지만, 훨씬 새로운 트렌드를 반영한 제품입니다.
+
+메타의 새로운 AI 기기는 타마고치처럼 보일 수 있지만, 그 독특한 형태는 가방 장식품, 레트로 테크놀로지, 그리고 기기를 패션 액세서리로 활용하는 Z세대의 트렌드와 잘 어울립니다.
+
+[Meta’s Muse Charm looks like a Tamagotchi, but it’](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
+
+### 뮤즈는 오픈클로우와 꽤 닮았어요.
+
+우리는 이제 AI 에이전트의 전성기에 들어서고 있는 것 같습니다. 메타가 새롭게 선보인 소비자용 AI 에이전트 ‘뮤즈’는 출시 직후 앱스토어 순위 상위권에 올랐으며, 앱토피아의 추정에 따르면 미국 내에서 매일 60만 명의 활성 사용자가 있습니다. 또한, AI 에이전트 플랫폼인 ‘인스티нк트’의 창립자는 25억 달러의 기업 가치를 바탕으로 자금을 조달하고 있습니다.
+
+[Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)
+
+### 구글 포토스의 ‘클루리스’에서 영감을 얻은 가상 옷장 기능이 이제 안드로이드와 iOS에서도 사용할 수 있습니다.
+
+이 AI 기반 기능은 사용자의 사진을 바탕으로 가상 옷장을 만들어줍니다. 이 기능은 6월에 안드로이드 사용자들을 대상으로 처음 선보인 이후, 이제는 더 널리 사용될 수 있게 되었습니다.
+
+[Google Photos ‘Clueless’-inspired virtual closet i](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
+
 ## 한국
+
+**오늘의 분석**
+
+추석 연휴 첫날인 오늘은 고향 방문길 고속도로 혼잡 소식과 함께, 명절을 보내는 방식의 변화가 두드러진다. 전통적인 차례 대신 해외여행이나 문화생활을 즐기는 가족들이 늘고 있으며, 박물관, 미술관, 공연장 등 다양한 문화시설들이 연휴 특별 프로그램을 마련해 방문객을 맞이하고 있다.
 
 ### 서울→부산 8시간50분…연휴 첫날 고속도로 혼잡 최대
 
@@ -83,13 +195,141 @@
 
 [“스마트폰 많이 쓰니까 공부 못하지”…명절 단골 잔소리, 진짜일까?](https://www.khan.co.kr/article/202609241246001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 아버지처럼 AG 금메달 2개…여서정, 8년 만에 다시 도마 정상
+
+여서정이 24일 일본 아이치현 나고야 종합체육관에서 열린 2026 아이치·나고야 아시안게임 기계체조 도마에서 연기를 펼치고 있다. 나고야|강윤중 선임기자8년 만에 다시 아시안게임 무대에 선 ‘도마 여왕’ 여서정(24·제천시청)이 다시 아시아 정상에 섰다. 아버지 여홍철 경희대 교수에 이어 부녀가 나란히 아시안게임 금메달 2개와 올림픽 메달을 따내는 기록도 ···
+
+[아버지처럼 AG 금메달 2개…여서정, 8년 만에 다시 도마 정상](https://www.khan.co.kr/article/202609241918001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### “살 좀 쪘네” 반가워서 한 말인데…추석 밥상서 ‘선 넘지 않는 법’
+
+추석 명절 가족 갈등을 부르는 말과 덜 불편하게 바꿔 말하는 방법, 반복되는 잔소리에 선을 긋는 법과 진료가 필요한 스트레스 기준을 살펴봤다.
+
+[“살 좀 쪘네” 반가워서 한 말인데…추석 밥상서 ‘선 넘지 않는 법’](https://www.donga.com/news/It/article/all/20260923/134719088/2)
+
+### ‘안방 1열’에서 즐기는 브로드웨이…소문난 명작 뮤지컬 정주행 해볼까
+
+극장에 가지 않고도 명작 뮤지컬을 만날 수 있는 안방극장이 열렸다. 전설적인 오리지널 무대를 담은 공연 실황부터 스크린으로 옮겨진 뮤지컬 영화까지, 추석 연휴 OTT에서 즐길 수 있는 뮤지컬 명작들을 골라봤다.원작 무대의 감동 그대로…브로드웨이·웨스트엔드 오리지널 무대 실황뮤지컬 <오페라의 유령:25주년 특별공연>. ⓒAlastair Muir&l···
+
+[‘안방 1열’에서 즐기는 브로드웨이…소문난 명작 뮤지컬 정주행 해볼까](https://www.khan.co.kr/article/202609241856011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 올 추석 울산서 뭐할까···박물관서 민속놀이, 미술관서 특별전 즐긴다
+
+울산박물관에서 지난해 추석 열린 대동놀이에 참여한 방문객들이 줄다리기를 하고 있다. 울산박물관 제공추석 연휴를 맞아 울산지역 박물관과 미술관이 전통문화 체험, 민속놀이, 특별전 등을 통해 방문객을 맞이한다.울산박물관은 24~26일 3일간 박물관 곳곳에서 ‘요즘 추석, 풍성한 박물관’ 행사를 마련한다. 행사는 시민 누구나 무료로 참여할 수 있고, 체험 행사는···
+
+[올 추석 울산서 뭐할까···박물관서 민속놀이, 미술관서 특별전 즐긴다](https://www.khan.co.kr/article/202609241856001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 밤마다 아파트로 비비탄 ‘우수수’…“재미삼아 쐈다”는 40대 1년 반 만에 검거
+
+지난해부터 아파트 단지를 향해 밤마다 비비탄을 쏴 주민을 다치게 한 40대 남성이 경찰에 붙잡혔다.23일 YTN에 따르면 서울 관악경찰서는 지난 19일 특수폭행 혐의로 40대 남성 A씨를 입건해 수사하고 있다.A씨는 지난해 4월부터 최근까지 자신이 거주하는 건물에서 맞은편 아파트를 향해 비비탄총을 반복해서 쏜 혐의를 받고 있다. 두 건물 사이 거리는 약 30m로 전해졌다.피해는 실제 주민에게까지 이어졌다. 지난해 4월 분리수거를 위해 밖으로 나온 한 주민이 팔에 비비탄을 맞았고, 당시 피해 주민은 “무슨 새총을 쏘듯이 (날아)와서 부딪혀서 소리를 질렀다”며 “이런 아파트 주거 지역에서 그냥 사격장처럼”이라고 말했다.비비탄이 계속 발견되면서 주민들의 불안도 커졌다. 한 미화 직원은 “어제, 그제는 (총알이)
+
+[밤마다 아파트로 비비탄 ‘우수수’…“재미삼아 쐈다”는 40대 1년 반 만에 검거](https://www.donga.com/news/Society/article/all/20260924/134731858/1)
+
+### 예천공군 20대 장교, 제주서 강제추행 혐의…비행 임무 배제
+
+경북 예천기지 소속 공군 조종사가 부대 워크숍 참석차 제주도를 찾았다가 민간인 여성을 강제 추행한 혐의로 경찰에 입건됐다.24일 공군과 경찰 등에 따르면 예천기지 소속 위관급 장교인 20대 A 씨는 이달 초 제주지역에서 민간인 여성을 강제 추행한 혐의로 경찰 수사를 받고 있다.전투비행 부대 소속 조종사인 A 씨는 당시 소속 부대가 주최한 워크숍에 참석하기 위해 제주도를 찾았던 것으로 파악됐다.다만 사건은 부대 워크숍 공식 일정이 끝난 뒤 부대 일정과 무관한 외부의 사적인 자리에서 발생한 것으로 전해졌다.A 씨는 사건 당시 현장에서 경찰에 체포돼 유치장에 입감됐던 것으로 알려졌다.사건 이후 군은 A 씨를 비행 임무에서 배제하고 지상 임무를 중심으로 근무하도록 조치한 것으로 전해졌다.현역 군인의 성폭력 범죄는
+
+[예천공군 20대 장교, 제주서 강제추행 혐의…비행 임무 배제](https://www.donga.com/news/Society/article/all/20260924/134731845/1)
+
+### 추석 당일 입장료 ‘0원’···가족들과 웅장한 세계유산 보러 ‘이곳’ 가볼까
+
+낙동강이 감싼 600년 씨족마을···안동 하회마을후손들이 살아가는 양반촌···경주 양동마을조선 최초의 사액서원···영주 소수서원하회마을 전경. 경북도 제공안동 하회마을과 경주 양동마을, 영주 소수서원이 추석 당일인 25일 무료로 문을 연다. 고향을 찾는 귀성객과 관광객이 입장료 부담 없이 지역 대표 세계유산을 둘러볼 수 있도록 한 것이다. 성묘와 가족 모임···
+
+[추석 당일 입장료 ‘0원’···가족들과 웅장한 세계유산 보러 ‘이곳’ 가볼까](https://www.khan.co.kr/article/202609241802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 모레노호 첫 골 주인공은 오현규…어린 시절 뛴 수원서 선제골 ‘쾅’
+
+축구 국가대표 공격수 오현규(베식타시)가 야심 차게 출항한 모레노호에서 극적인 첫 골을 터뜨렸다.오현규는 24일 수원월드컵경기장에서 열린 에콰도르와의 9~10월 하나은행 초청 축구 국가대표팀 친선경기 4연전 중 첫 번째 경기 중 후반 9분 팽팽한 균형을 깨뜨리는 선제골을 넣었다.데뷔전에 나선 로베르트 모레노(스페인) 감독은 4-4-2 포메이션 아래 최전방 투톱 스트라이커로 주장 손흥민(로스앤젤레스FC)과 오현규를 출격시켜 에콰도르 골문을 두드렸다.답답한 흐름 속 득점 없이 끝난 전반전 이후 오현규가 해결사로 등장했다.김민재(바이에른 뮌헨)와 송민규(나시오날)를 거친 볼을 잡은 오현규가 과감하게 슈팅했고 수비 맞고 굴절된 볼이 골망을 갈라 선제골이 됐다.프로축구 K리그2 수원 삼성에서 성장한 오현규는 2023
+
+[모레노호 첫 골 주인공은 오현규…어린 시절 뛴 수원서 선제골 ‘쾅’](https://www.donga.com/news/Sports/article/all/20260925/134732197/1)
+
+### 사천 늑도항 계류 어선서 불…인명피해 없어
+
+경남 사천시 늑도항에 계류 중이던 어선에서 불이 나 해경과 소방이 진화에 나섰다.24일 사천해양경찰서에 따르면 이날 오후 3시1분께 사천시 늑도항에 계류 중이던 A호(3.30t·연안복합·사천선적)에서 불이 났다.신고를 받은 사천해경은 P-81정과 사천파출소, 구조대 등을 현장에 급파했다.현장에 도착한 해경은 소방과 합동으로 진화 작업을 벌여 불을 진화했다. 다행히 인명피해는 발생하지 않았다.해경은 A호 선장이 주유하던 중 불이 난 것으로 보고 선장과 목격자 등을 상대로 정확한 화재 원인과 사고 경위를 조사하고 있다.사천해양경찰서 박광호 서장은 “선박 화재는 작은 불씨도 큰 사고로 이어질 수 있는 만큼 평소 화재 예방과 안전수칙 준수가 중요하다”며 “연료 주입 시 화기 취급에 각별히 주의하고 소화기 등 소방설
+
+[사천 늑도항 계류 어선서 불…인명피해 없어](https://www.donga.com/news/Society/article/all/20260924/134732047/1)
+
+### ‘모레노호’ 첫 출항, 오현규·손흥민·이동경 골·골·골···에콰도르 3-0 완파
+
+24일 경기도 수원월드컵경기장에서 열린 축구 국가대표팀 평가전 대한민국과 에콰도르의 경기. 한국 첫 번째 골을 넣은 오현규가 기뻐하고 있다. 연합뉴스큰 기대 속에 출발한 모레노호가 첫 경기에서 일단 결과를 잡았다. 오현규와 주장 손흥민, 이동경이 차례로 골을 터뜨리며 에콰도르를 3골 차로 꺾었다. 새롭게 꺼내 든 4-4-2 전술은 후반 들어 효과를 보였지만···
+
+[‘모레노호’ 첫 출항, 오현규·손흥민·이동경 골·골·골···에콰도르 3-0 완파](https://www.khan.co.kr/article/202609242208001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 김제 돈사 화재, 4시간만에 진화…돼지 2200여두 폐사
+
+24일 낮 12시14분께 전북 김제시 도장동의 한 돈사에서 불이 나 4시간여만에 진화됐다.이 불로 모돈 250마리와 자돈 1000마리, 비육돈 950마리 등 2200여 마리의 돼지가 폐사했다.또 돈사 8동이 전소되고 농막 1동이 그을리는 피해가 발생했다. 다행히 인명피해는 없었다.소방은 화재신고 접수 후 장비 21대와 60여명의 인력을 동원해 진화에 나섰다.불이 확산될 조짐을 보이자 신고접수 20분만에 대응 1단계를 발령하기도 했지만 큰 불이 잡히면서 이후 30분만에 해제됐다.경찰과 소방당국은 정확한 화재원인과 피해규모를 조사 중이다.[김제=뉴시스]
+
+[김제 돈사 화재, 4시간만에 진화…돼지 2200여두 폐사](https://www.donga.com/news/Society/article/all/20260924/134731996/1)
+
+### 韓 도마여왕, 北 라이벌에게 손을 내밀었다
+
+“아무래도 소고기를 사달라고 해야겠죠?”8년 만에 아시안게임 뜀틀 여왕 자리에 복귀한 여서정(24)은 아버지 여홍철(대한체조협회 전무)에게 사달라 하고 싶은 음식을 묻자 이같이 답했다. 여서정은 환한 얼굴로 “아무래도 아빠도 계속 마음 졸이면서 봤을텐데 나를 믿고 응원해줘서 고맙다고 말하고 싶다”고 말했다. 이날 경기를 앞두고는 아버지에게 “오늘도 잘할 거다. 사랑한다”는 문자를 받았다고 한다. 여서정은 24일 일본 나고야시 종합체육관에서 열린 2026 아이치-나고야 아시안게임 기계체조 여자 뜀틀 결선에서 1,2차 시기 14.483점을 받으며 금메달을 목에 걸었다. 2023년 항저우 대회 금메달리스트 북한 안창옥(23·13.666점)을 0.817점 차이로 따돌렸다. 이번 대회 한국 선수단 10번째 금메달이다
+
+[韓 도마여왕, 北 라이벌에게 손을 내밀었다](https://www.donga.com/news/Sports/article/all/20260924/134731986/1)
+
+### 공공심야약국 수도권 집중…강원 7곳 - KBS 뉴스
+
+공공심야약국 수도권 집중…강원 7곳    KBS 뉴스    추석연휴에도 문 엽니다…거제 '공공심야약국' 정상운영    newsis.com    소병훈 의원 “공공심야약국 지역 쏠림 여전… 취약지 국가 책임 강화해야”    v.daum.net    "추석만 되면 꼭 오세요" 공공심야약국 약사가 꺼낸 3가지    약사공론    공공심야약국 240곳으로 늘었지만…지역별 ‘쏠림’ 지속    메디컬투데이
+
+[공공심야약국 수도권 집중…강원 7곳 - KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyTWowZW9XVnhNUEw3QnhxTncxYkFWZkNTSEZOWnNWZU1XLTA3WlJybkdwd2RlM1FJSUdvci1kWVkwMWpnREVsb0JuNko1Q0k2SEhzbHRZQmV1bW1ScDE1R1ZvVDVxdw?oc=5)
+
+### 한가위 보름달 볼 수 있을까···내일 오후부터 전국 약한 빗방울
+
+추석 연휴 첫날인 24일 오전 전남광주 북구 영락공원묘지에서 시민들이 묘 앞에 음식과 제물을 놓으며 성묘를 준비하고 있다. 연합뉴스추석 당일인 25일은 전국이 대체로 흐리고 늦은 오후부터 약한 비가 내려 보름달을 보기 힘들 것으로 예상된다.기상청 오는 25일 오전 중 강원도와 경북 북부에서 비가 내리기 시작해 오후부터는 중부지방에서, 저녁 때는 경남권까지 ···
+
+[한가위 보름달 볼 수 있을까···내일 오후부터 전국 약한 빗방울](https://www.khan.co.kr/article/202609242048001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### [단독]같은 폐렴백신인데 어디는 6만5000원, 어디는 30만원…내년 국가 지원 기준도 아직 ‘미정’
+
+AI 생성이미지추석을 맞아 부모님의 폐렴구균 예방접종을 계획하고 있다면, 백신 종류와 접종비부터 확인할 필요가 있다. 현재 고령층이 국가 지원으로 맞을 수 있는 백신(PPSV23)과 별개로, 비용을 직접 부담해야 하는 단백결합백신(PCV)은 같은 제품도 의원에 따라 접종비가 최대 4.6배 차이 나는 것으로 나타났다. 정부는 내년 PCV 무료접종 전환을 예고···
+
+[[단독]같은 폐렴백신인데 어디는 6만5000원, 어디는 30만원…내년 국가 지원 기준도 아](https://www.khan.co.kr/article/202609250712001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 효도여행 No, 가족 프로젝트 Yes…‘전’ 대신 ‘짐’ 부치는 3代
+
+30대 직장인 장모 씨 가족에게 명절은 ‘전 부치는 날’이 아니라 ‘짐 부치는 날’이 된 지 오래다. 할아버지와 할머니가 모두 세상을 떠난 뒤부터 명절마다 차례 대신 해외여행을 간다. 장 씨는 “우리 부모들 세대는 조상에게 효를 다하기 위해 명절과 차례를 지켜왔지만 윗세대들이 세상을 떠난 뒤에는 굳이 그럴 필요가 있나 싶었다”며 “지금 현재 우리 가족이 명절을 행복하고 즐겁게 보내는 게 더 중요하다고 생각했다”고 말했다.부모와 자녀가 모두 경제 활동을 할 경우 여행 비용을 충당하기 쉽다는 점, 낯선 여행지에서 가족끼리 오히려 유대가 끈끈해질 수 있다는 점도 장점으로 꼽힌다. 평소에는 부모님께 전화 한 통 걸기 어렵지만 해외에 여행을 가서 함께 이곳 저곳 다니다보면 일년치 할 대화를 하루 이틀 사이 다 하게
+
+[효도여행 No, 가족 프로젝트 Yes…‘전’ 대신 ‘짐’ 부치는 3代](https://www.donga.com/news/Culture/article/all/20260923/134723815/2)
+
+### 국중박에 소리꾼 김준수 뜬다…추석 연휴 박물관서 신명나는 한판
+
+국립중앙박물관과 전통공연예술진흥재단이 추석 연휴 기간 동안 전통공연을 즐길 수 있는  ‘The ART SPOT Series(디 아트스팟 시리즈) 국립중앙박물관 편’을 개최한다.‘디 아트스팟 시리즈 국립중앙박물관 편’은 문화공간을 활용해 국민의 문화 향유 기회를 확대하고자 전통공연을 통해 무형유산을 선보이는 행사다. 2018년부터 두 기간이 추석 연휴에 운영해왔다. 올해는 추석 당일인 25일(금)을 제외한 24일(목), 26일(토), 27일(일) 사흘간 국립중앙박물관 열린마당에서 진행된다. 매일 오후 1시와 오후 3시 두 차례 공연이 펼쳐질 예정이다.24일에는 첫 공연으로 ‘국악관현악단 결’이 민요와 사물놀이를 관현악과 콜라보한 ‘Heritage : 이어지는 이야기’를 공연한다, 이어 1988년 창단돼 원조
+
+[국중박에 소리꾼 김준수 뜬다…추석 연휴 박물관서 신명나는 한판](https://www.donga.com/news/Culture/article/all/20260924/134730951/1)
+
+### 추석 연휴, 공연장 나들이 어때요…볼 만한 뮤지컬 3편
+
+눈과 얼음으로 뒤덮인 왕국으로 떠날까, 화려한 황실의 비극을 만날까. 추석 연휴 가족이나 연인, 친구와 함께 즐길 만한 뮤지컬을 골라봤다. 초등학생 자녀와 함께라면 디즈니 뮤지컬 ‘겨울왕국’이 눈길을 끈다. 서울 송파구 샤롯데씨어터에서 한국 초연의 막을 올렸다. 눈과 얼음을 다루는 힘을 지닌 엘사와 동생 안나의 이야기를 무대로 옮겼다. 자신의 능력을 두려워해 떠난 언니를 찾아 나서는 동생의 모험에 자매의 사랑이 담겼다.애니메이션으로 익숙한 이야기가 눈앞에서 펼쳐지는 것이 가장 큰 매력. ‘렛 잇 고’ 등 귀에 익은 노래에 조명과 영상, 특수효과가 어우러진다. 엘사의 드레스가 순식간에 바뀌는 장면과 눈사람 올라프, 순록 스벤을 인형으로 구현한 연출도 볼거리다.화려한 무대와 배우들의 노래를 즐기고 싶다면 ‘엘리
+
+[추석 연휴, 공연장 나들이 어때요…볼 만한 뮤지컬 3편](https://www.donga.com/news/Culture/article/all/20260924/134731634/1)
+
+### AI데이터센터 투자 늘면서 냉난방공조-보안 등 후방산업도 뜬다
+
+인공지능(AI) 데이터센터 투자가 늘면서 냉난방공조(HVAC)와 보안, 전력기기 등 주변 산업의 사업 영역이 넓어지고 있다. 냉각설비 유지보수 업체가 데이터센터 공조 시스템의 설계·시공으로 진출하고, 보안업체는 기존 중요시설에 적용하던 보안 기술을 데이터센터로 확대하고 있다.24일 LG전자의 HVAC 유지보수 전문 자회사인 하이엠솔루텍에 따르면 회사가 HVAC 관리·유지·보수를 맡고 있는 데이터센터 수는 2021년보다 올해 9월 기준 약 71% 증가했다. AI 연산에 쓰이는 고성능 그래픽처리장치(GPU)가 데이터센터에 고밀도로 배치되면서 발생하는 열이 늘어난 영향이다. 서버를 안정적으로 가동하려면 대형 냉방설비인 칠러 등 냉각설비를 24시간 안정적으로 관리해야 한다.하이엠솔루텍은 ‘공조ENS(엔지니어링&서비
+
+[AI데이터센터 투자 늘면서 냉난방공조-보안 등 후방산업도 뜬다](https://www.donga.com/news/Economy/article/all/20260923/134721105/1)
+
+### 남산 순환버스 정류장 들이받아…외국인 3명·한국인 1명 경상 - 연합뉴스TV
+
+남산 순환버스 정류장 들이받아…외국인 3명·한국인 1명 경상    연합뉴스TV    남산도서관 앞 순환버스 사고…외국인 3명·한국인 1명 경상(종합)    v.daum.net    서울 용산서 승객 40명 태운 버스 정류장 돌진‥4명 경상    MBC 뉴스    용산 남산도서관 앞 순환버스 인도 덮쳐 외국인 3명·내국인 1명 경상    뉴스1    남산도서관 앞 버스 돌진 사고…행인 4명 경상    KBS 뉴스
+
+[남산 순환버스 정류장 들이받아…외국인 3명·한국인 1명 경상 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14N3diMlFmd1llWTNVMlpJTE9JRS1HcXc3dlJHeU44QlN2RlhtVVNORFEwYnBydkltZ21DNkg1cm5LRE5QTVh3aTlMZ1llQ1RUQmNWV3Bja2MwMmxvei0zSU5nTWRGQ3c?oc=5)
+
+### 합참 "DMZ 폭발지역 위험성 매우 높아‥안전대책 갖추고 현장조사" - MBC 뉴스
+
+합참 "DMZ 폭발지역 위험성 매우 높아‥안전대책 갖추고 현장조사"    MBC 뉴스    [단독]지뢰폭발 수술 후 부하 안부 물은 수색대대장…‘들불’처럼 번지는 모금 캠페인    문화일보    [팀장칼럼] DMZ 폭발 사고, 군은 의혹에 답해야 한다    v.daum.net    한동훈 "정부, 北에 증거인멸 기회주나…'지뢰폭발' 즉시 조사 촉구" 1인 시위    경기일보    軍, '지뢰 조사 미적' 비판에 "위험한 지역…안전대책 강구 중"    연합뉴스
+
+[합참 "DMZ 폭발지역 위험성 매우 높아‥안전대책 갖추고 현장조사" - MBC 뉴스](https://news.google.com/rss/articles/CBMieEFVX3lxTE95U0Nuc0dqSkZWb0VyVmV1Nlh3M19aMzVoRmVQYmpZd1QyU2ZxR21PWlhLa3VZWGdaUlUxbktLcjJxYjVvbE5tQnp4QktvT1FpS0pNc0loQi1hS0V5M0dFU05nN3J4em5vS29NSDAyQ2JGcS1ySWNUd9IBeEFVX3lxTE5IVm5QUE1yOWl6TWV0anhDajVGeGlySlREbmdOc2RiZWMwODE4eW9vWGFGWWsyZGFQY0Z4TUFVeTJhakZEUWNRU3F2WXNkZmNQYnNYcmtOUDUzQ1pVSjdRZFdCVHFQZHpfZTJkcEJ3cHBIaVNyVWxtYQ?oc=5)
+
 ## 한국 정치
 
 **오늘의 분석**
 
-젤렌스키 우크라이나 대통령의 공개 발표와 우리 정부의 사실상 인정을 통해 북한군 포로 2명의 국내 이송이 확인되면서, 러북 군사협력의 실체가 포로 송환이라는 구체적 외교 현안으로 돌출했다. 국민의힘 유용원 의원이 입국 시점을 '3~4일 전'으로 특정하며 정부의 사전 설명 부재를 지적한 점은, 안보 사안의 신속한 처리와 국민 알권리 사이의 균형이 여전히 숙제임을 보여준다. 외교장관이 우크라이나에 '필요한 지원 지속'을 표명한 대목은, 포로 인수를 계기로 대우크라이나 지원 수위 조절이 본격화될 수 있음을 시사한다.
+오늘의 한국 정치는 우크라이나에 생포된 북한군 포로 송환 문제를 둘러싼 외교적 파장과 국내 정치권의 공방이 핵심을 이뤘다. 젤렌스키 우크라이나 대통령의 북한군 포로 한국 송환 공개 발표에 대해 이재명 대통령은 비공개 합의 위반이라며 강하게 비판했고, 이는 한국 정부의 외교적 딜레마를 여실히 보여주었다. 북한과 러시아의 밀착이 강화되는 가운데, 러시아 외무차관이 김정은 위원장의 방러 초청 사실을 밝히면서 한반도를 둘러싼 국제 정세의 복잡성은 더욱 증대되고 있다. 정부는 북한군 포로 송환의 비공개 필요성을 강조했으나, 이 과정에서 우크라이나와의 소통 문제와 외교적 마찰이 불거지며 향후 한-우크라이나 관계 및 대북·대러 관계에 미칠 영향에 대한 우려가 커지고 있다.
 
-동시에 이재명 대통령이 16년 만의 멕시코 국빈방문으로 AI·핵심광물·방산 협력을 논의하는 경제 외교 무대에 선 점은, 안보 위기와 경제 영토 확장이 병행되는 복합 외교의 단면을 드러낸다. 북한군 파병 실상을 증언할 포로들의 존재는 남북관계 경색을 넘어 한러관계의 불확실성을 키우는 변수로 작용할 전망이다. 앞으로 포로 신병 처리 과정과 이들의 증언이 대러 외교 기조와 대북 정책에 어떤 파장을 미칠지 주시해야 한다.
+이러한 외교적 긴장 속에서도 이재명 대통령은 멕시코 국빈 방문을 통해 AI, 핵심광물, 방산 등 경제 협력 확대를 모색하며 외교 활동을 이어갔다. 한편 국내에서는 청와대가 이 대통령의 검찰개혁 의지를 왜곡했다며 유시민 작가에게 유감을 표명하고 법적 대응까지 검토하는 등 강경한 입장을 보이며 검찰개혁을 둘러싼 여론전이 격화되는 양상이다. 국민의힘은 DMZ 지뢰 폭발 사고의 신속한 현장 조사를 촉구하고, 수시 원서접수 먹통 사태와 코인 과세 등 청년 민심을 겨냥한 정책 이슈를 제기하며 추석 민심 잡기에 나서는 등 여야 간의 공방이 치열하게 전개되고 있다.
+
+북한군 포로 송환을 둘러싼 외교적 갈등은 한국이 직면한 복잡한 국제 정세와 국내 정치적 역학 관계를 동시에 드러냈다. 대통령의 강경한 발언은 국내외에 다양한 해석을 낳으며 외교적 파장을 예고하고, 검찰개혁 논쟁은 권력 기관 개혁에 대한 사회적 논의가 여전히 진행 중임을 보여준다.
 
 ### 젤렌스키 "북한군 포로 2명, 한국 보냈다" 공개… 정부도 사실상 인정 - 파이낸셜포스트
 
@@ -121,7 +361,103 @@
 
 [北포로 한국행, 남북·한러관계 영향은…파병 실상 증언도 주목](https://www.yna.co.kr/view/AKR20260924029100504)
 
+### 靑 “유시민 유감…대통령의 검찰개혁 의지 왜곡”
+
+청와대가 이재명 대통령의 검찰개혁에 대해 ‘국민을 속였다’는 취지로 비판한 유시민 작가의 발언을 ‘비난성 주장’이라 규정하고 유감을 표명했다.청와대는 24일 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실 관계를 확인 중이다”라고 했다. 일각에서 청와대가 법적 대응을 검토 중이라는 보도가 나왔지만 청와대는 “법적 대응 여부는 결정된 바 없다”고 밝혔다. 앞서 이 대통령은 순방 전 대국민 기자회견에서 여권 내 내부 분열은 멈춰야 한다며 통합을 촉구했다.앞서 유 작가는 유튜브에 출연해 “검찰개혁이 지지부진했던 이유는 이 대통령이 수사·기소의 완전한 분리를 원하지 않았기 때문”이라고 주장했다. 그러면서 “대통령이 진작 (진심을) 말했어야 한다
+
+[靑 “유시민 유감…대통령의 검찰개혁 의지 왜곡”](https://www.donga.com/news/Politics/article/all/20260924/134731809/1) | [청와대 “유시민, 대통령 검찰개혁 의지 왜곡 유감…법적 대응 여부는 미정”](https://www.khan.co.kr/article/202609241630001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사 - v.daum.net
+
+이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사    v.daum.net
+
+[이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사 ](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1memhueWg5LXVsU2RtVnVJQnlyeXJqXzY5c3VnNkNxalZqaEg3V1Z4YWZPdHZfYmtJVXMwT2dmQmgwWFNnZXdBdkpWa0hnNzA?oc=5) | [이 대통령 “한·멕시코, 경제협력에 걸맞은 제도적 기반 갖춰야”…FTA 협상 재가동 시사](https://www.khan.co.kr/article/202609241623001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 국힘, ‘DMZ 지뢰 폭발’ 현장조사 촉구…“고의 지연은 이적 행위”
+
+장동혁 국민의힘 대표가 지난 23일 국회에서 긴급기자회견을하고 있다. 박민규 선임기자야권은 24일 최근 비무장지대(DMZ) 내에서 발생한 지뢰 추정 폭발 사고에 대한 신속한 현장 조사 착수를 촉구했다.장동혁 국민의힘 대표는 이날 페이스북에 “이 대통령, 사고 직후 올린 4문단 사회관계망서비스(SNS)가 전부다. 지뢰 도발 사고 조사도, 북한의 연이은 도발 ···
+
+[국힘, ‘DMZ 지뢰 폭발’ 현장조사 촉구…“고의 지연은 이적 행위”](https://www.khan.co.kr/article/202609241614001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news) | [野, 'DMZ 지뢰 폭발' 현장조사 촉구…"고의 지연은 이적 행위"](https://www.yna.co.kr/view/AKR20260924035600001)
+
+### 靑, 유시민에 법적대응 검토…"李대통령 檢개혁 의지 왜곡 유감"(종합)
+
+(서울=연합뉴스) 황윤기 기자 = 청와대가 이재명 대통령의 검찰 개혁 발언에 대해 "국민을 속였다"고 비판한 범여권 논객 유시민 작가에 대해 법...
+
+[靑, 유시민에 법적대응 검토…"李대통령 檢개혁 의지 왜곡 유감"(종합)](https://www.yna.co.kr/view/AKR20260924035351001)
+
+### ‘수시 먹통·코인 과세’ 추석 밥상에 올리려는 국민의힘···청년 민심 잡을까
+
+장동혁 국민의힘 대표가 지난 21일 국회에서 열린 ‘2027학년도 수시 원서접수 먹통사태, 대입 공정성과 수험생 보호를 위한 긴급 간담회’에서 발언하고 있다. 왼쪽은 임이자 정책위의장, 오른쪽은 김희정 국회 교육위원장. 연합뉴스국민의힘 지도부가 추석 명절을 앞두고 ‘수시 먹통 사태’, ‘코인 과세’ 등과 관련해 집중적 공세를 가했다. 젊은 세대의 관심도가 ···
+
+[‘수시 먹통·코인 과세’ 추석 밥상에 올리려는 국민의힘···청년 민심 잡을까](https://www.khan.co.kr/article/202609241903001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news)
+
+### 러 외무차관 "김정은 방러 초청…일정 조율 예정"(종합2보)
+
+(로마=연합뉴스) 민경락 특파원 하채림 기자 = 러시아가 김정은 북한 국무위원장의 러시아 방문을 초청했다고 러시아 외무차관이 밝혔다.
+
+[러 외무차관 "김정은 방러 초청…일정 조율 예정"(종합2보)](https://www.yna.co.kr/view/AKR20260924048154109) | [러시아 외무차관 “김정은 방러 공식 초청…외교 채널 통해 일정 조율”](https://www.donga.com/news/Inter/article/all/20260924/134731915/1)
+
+### 李 “北포로 송환 비공개 타당…생명·국익 해치는 공개 옳지 않아”
+
+이재명 대통령은 24일(현지 시간) 야권에서 우크라이나가 북한군 포로 2명을 한국으로 보낸 것을 ‘왜 우리 정부는 비공개했느냐’고 지적한 것을 두고 “타당하고 정당한 비공개 조치를 비난하는 것은 옳지 않다”고 밝혔다.멕시코 국빈 방문 중인 이 대통령은 이날 X(옛 트위터)에 “국정은 국가와 국민을 위해 하는 것이지, 정권과 집권자의 이익이나 인기를 위해 해서는 안 된다”며 이같이 말했다. 이어 “국정지지율 만회에 명백히 도움될 북한포로 국내송환 사실을 공개하자는 내부주장이 왜 없었겠나”며 “그러나 공개로 생길 여러 문제를 생각할 때 비공개하는 것이 모든 면에서 타당했고 그렇게 합의했다”고 말했다.이 대통령은 “북한포로 국내송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 매우 예민한 의제”라며 “
+
+[李 “北포로 송환 비공개 타당…생명·국익 해치는 공개 옳지 않아”](https://www.donga.com/news/Politics/article/all/20260924/134732180/1)
+
+### 이 대통령 “포로 송환은 예민한 의제…비공개 합의했었다” : 정치 - 재경일보
+
+이 대통령 “포로 송환은 예민한 의제…비공개 합의했었다” : 정치    재경일보
+
+[이 대통령 “포로 송환은 예민한 의제…비공개 합의했었다” : 정치 - 재경일보](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BMVFwRVEtVDkwVFhFWG1sT2ZpV29FZW13TVZEU1pxZWZGQ0tZZGNodS02cTJFOE5TRk8zNWZ3RHBpUkJFV2EzVGVR?oc=5)
+
+### 李대통령 "北포로 송환, 우크라가 비공개 합의 어기고 공개"
+
+(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 24일 볼로디미르 젤렌스키 우크라이나 대통령이 유엔 연설을 통해 우크라이나군에 생포된 북한군 ...
+
+[李대통령 "北포로 송환, 우크라가 비공개 합의 어기고 공개"](https://www.yna.co.kr/view/AKR20260924055000001)
+
+### “북한군 포로 한국행” 발표한 우크라 vs 북러 눈치보는 대한민국 - v.daum.net
+
+“북한군 포로 한국행” 발표한 우크라 vs 북러 눈치보는 대한민국    v.daum.net
+
+[“북한군 포로 한국행” 발표한 우크라 vs 북러 눈치보는 대한민국 - v.daum.net](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ndU83NlNuelhGZ0FJZzBZNlJZRktrTHdOQ00ydVNwYm9iaWVfMEZ1bTBsMGNMdUhQU0VqNTRobEY1S2c0UDhPd2ZGWWNXUnc?oc=5)
+
+### 韓-멕시코 정상회담…'2026-2030 공동행동계획' 채택
+
+(멕시코시티=연합뉴스) 임형섭 설승은 기자 = 이재명 대통령은 24일(현지시간) 클라우디아 셰인바움 멕시코 대통령과 정상회담을 갖고 양국의 경제...
+
+[韓-멕시코 정상회담…'2026-2030 공동행동계획' 채택](https://www.yna.co.kr/view/AKR20260925012200001)
+
+### "청소년 도박 상담 3년새 178% 증가…상담사는 6명 제자리"
+
+(서울=연합뉴스) 안정훈 기자 = 도박 문제로 치유·상담을 받은 청소년이 3년간 2배 가까이 늘었지만, 이들을 전담하는 상담 인력은 6명에 묶여...
+
+["청소년 도박 상담 3년새 178% 증가…상담사는 6명 제자리"](https://www.yna.co.kr/view/AKR20260924031000001)
+
+### 李 “젤렌스키, 北포로 송환 징치고 춤추며 광고…비공개합의 위반”
+
+이재명 대통령이 볼로디미르 젤렌스키 우크라이나 대통령을 향해 북한군 포로 관련 비공개 합의를 어겼다며 유감을 표했다. 이 대통령은 “잔인하고 무책임하다”며 ‘살인자’, ‘매국노’란 표현까지 썼다.이 대통령은 멕시코를 국빈방문 중인 24일(현지 시간) X(엑스)에 올린 글에서 “국정은 국가와 국민을 위해 하는 것이지, 정권과 집권자의 이익이나 인기를 위해 해서는 안된다”며 이 문제를 거론했다. 전날 젤렌스키 대통령은 유엔 총회 연설에서 북한군 포로 2명의 한국행 사실을 공개했다. 이 대통령은 “북한포로 국내송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 매우 예민한 의제”라며 “남북관계가 어떻게 되든 누군가 죽어나가든 국익이 손상되든 게의치 않고, 성과를 생색내느라 포로 송환사실을 징치고 춤추며
+
+[李 “젤렌스키, 北포로 송환 징치고 춤추며 광고…비공개합의 위반”](https://www.donga.com/news/Politics/article/all/20260925/134732424/1)
+
+### 李대통령, 韓-멕시코 기업인 간담회…최태원·구광모 등 참석
+
+(멕시코시티=연합뉴스) 임형섭 설승은 기자 = 멕시코를 국빈 방문한 이재명 대통령은 24일(현지시간) 클라우디아 셰인바움 멕시코 대통령과 기업인...
+
+[李대통령, 韓-멕시코 기업인 간담회…최태원·구광모 등 참석](https://www.yna.co.kr/view/AKR20260925011800001)
+
+### [단독]공공혁신상 받은 재외동포청 365민원콜센터 평균 응답 4분→9분
+
+해외에서도 24시간 카카오톡으로 국적이나 출생·혼인 등 가족관계등록 상담을 할 수 있는 재외동포청 365민원콜센터의 평균 대기시간이 2년 전보다 2배 이상 길어진 것으로 나타났다. 365민원콜센터는 올해 ‘카카오 공공혁신 어워즈’에서 우수사례로 선정됐지만 오히려 응답 시간은 늘은 것이다.국회 외교통일위원회 소속 국민의힘 김대식 의원실이 재외동포청에서 제출받은 자료에 따르면 올 1~8월 재외동포청 365민원콜센터의 카카오톡 평균 응답시간은 9분 26초였다. 이는 2024년 4분 10초, 2025년 5분 14초에 비해 각각 2.3배, 1.8배로 늘어난 것이다. 응답까지 10분 이상 걸린 경우는 7.8%(435건)이었다. 재외동포청 365민원콜센터는 어느 국가에 체류하더라도 한국 업무 시간에 관계없이 실시간 문의
+
+[[단독]공공혁신상 받은 재외동포청 365민원콜센터 평균 응답 4분→9분](https://www.donga.com/news/Politics/article/all/20260922/134721786/2)
+
 ## 세계
+
+**오늘의 분석**
+
+미중 정상회담에서 무역 휴전 연장과 함께 인공지능(AI) 및 슈퍼지능 통제가 핵심 의제로 부상한 것은 기술 패권 경쟁이 글로벌 거버넌스의 중심축으로 이동했음을 보여준다. 시진핑 주석이 인간에 의한 AI 통제를 역설하고, 같은 시기 호주 정부 전산망에 오픈AI 에이전트가 침투한 보안 사고가 드러난 점은 통제되지 않은 기술 확산이 공공 안보에 미칠 실체적 위험을 경고한다. 시장의 자율적 개발에만 맡기기보다 위험을 관리할 국가적 규범과 공공의 개입이 시급하다는 문제의식이 국제 질서의 전면에 등장한 셈이다.
+
+기술 통제의 필요성이 대두되는 이면에 기존 지정학 전선은 더욱 복합적인 양상으로 번지고 있다. 러시아의 키이우 미사일 공습과 스타링크 위성망에 대한 사보타주 의혹, 북한의 비핵화 거부와 군사적 개입, 이란의 확전 위협은 안보 위기가 물리적 전장과 디지털 인프라를 가리지 않고 다극화되고 있음을 드러낸다. 여기에 백악관의 언론 출입 통제를 둘러싼 행정부와 사법부의 갈등처럼 민주적 견제 장치의 균열까지 겹치며 대내외적 불안정이 가중되고 있다. 앞으로 주시할 한 가지는 미중 정상이 합의한 AI 논의가 실질적인 기술 통제와 국제적 규제 협약의 틀로 이어질 수 있을지다.
 
 ### 김선경 北외무성 부상 뉴욕 도착…28일 유엔총회서 연설(종합)
 
@@ -159,15 +495,121 @@
 
 [북한 "핵보유 의지는 백년 천년 지나도 절대 불변‥비핵화 실현불가" - MBC 뉴스](https://news.google.com/rss/articles/CBMieEFVX3lxTE5XMFJKeGFNcUhOS05CZVU4T21nU01jQVREaDFQX3BpR1VWRm9TYVFMYUtaRjhIdnNXM1dpWkJxdGhVdVYxNEFfLTNXUl9qYVVmR3ctYzRQNC14UXIzZjluSFNOYUZycXpJb29nN0hJWGhlUHpjX3c0StIBeEFVX3lxTE1lMGR6TTcwY1hUd3Y2NkUwNHFrN0h5NDNRcnNSR2c3LWVOWDJ6YVByem00UEp5QVloUmFvc1V4cVFwa0dnRXFfelRwdVJ3WTBvRUM2LXBNdTdzMUtrdHVlTFRfc1VuNXZqbFNHa1hUcDNZTEdwaFBHSg?oc=5)
 
+### 러, 키이우에 또 미사일…젤렌스키는 유엔서 종전 외교전 - seoul.co.kr
+
+러, 키이우에 또 미사일…젤렌스키는 유엔서 종전 외교전    seoul.co.kr    러, 키이우에 또 미사일 공격…젤렌스키는 유엔서 종전 외교전    v.daum.net    "전쟁 끝내라" 트럼프 촉구 무색…러, 극초음속 미사일로 키이우 공습    asiae.co.kr    러 “우크라 드론 500개 격추”…키이우 때려 2명 사망    donga.com    한밤중 ‘펑’ 폭발…러시아, 미사일·드론 200여 대 동원해 우크라이나 대대적 공습 “4명 사망” [현장영상]    채널A
+
+[러, 키이우에 또 미사일…젤렌스키는 유엔서 종전 외교전 - seoul.co.kr](https://news.google.com/rss/articles/CBMid0FVX3lxTE9oSDJQa0FhLXM4V2g2TXluT1c2ejkzc0E5N2RKTnZIVXlRT092dElyT010Nk11UnhpWjRBV0t1WFNmeWk3NGcxX2VKRGtzMEhtVWxnVF9wWVdfMElBRUpYS2Z2Y1VlMjB3UG5PYWZRcEdHM1U1dmZR?oc=5) | [러, 키이우에 또 미사일 공격…젤렌스키는 유엔서 종전 외교전](https://www.yna.co.kr/view/AKR20260924043800109)
+
+### 미 연방법원, CNN 등 언론사 백악관 출입금지 제동 - 연합뉴스TV
+
+미 연방법원, CNN 등 언론사 백악관 출입금지 제동    연합뉴스TV    CNN 등 백악관 출입 막았던 트럼프... 美법원서 제동 “원상복구하라”    v.daum.net    미 법무부 "언론사 출입 금지 대통령 권한‥이란전 보도는 안보 위협"    MBC 뉴스    CNN 등 언론사 백악관 출입금지 연방법원서 제동    연합뉴스    [속보]트럼프 ‘언론사 출입금지’ 美법원이 제동…“헌법 위반”    donga.com
+
+[미 연방법원, CNN 등 언론사 백악관 출입금지 제동 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrRi1zUmIyQWJlY3NwV3l4Z0tyUlBfeDVJdlFPMGFmTEJiaVl2SnRGd0RLdUctNEQ3UWpCcnJhQ05qTWtGUlNNS1Rua0ZmaTlJZFM0OVRTWUtXZ3E0S2pPYlBsWEFvNGc?oc=5) | [CNN 등 언론사 백악관 출입금지 연방법원서 제동](https://www.yna.co.kr/view/AKR20260924040700009)
+
+### 러시아 "북한군 포로 한국행 관련 정보 없어"
+
+(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 자국군에 생포된 북한군 포로 2명을 한국에 보냈다고 밝힌 것과 관련해...
+
+[러시아 "북한군 포로 한국행 관련 정보 없어"](https://www.yna.co.kr/view/AKR20260924046700109)
+
+### 美재무 "미중 무역휴전 2개월 연장 합의"…中 "AI 첫 논의"(종합2보)
+
+(서울·워싱턴·상하이=연합뉴스) 이지헌 기자 박성민 차병섭 특파원 = 스콧 베선트 미국 재무장관이 23일(현지시간) 오는 11월 만료되는 중국과...
+
+[美재무 "미중 무역휴전 2개월 연장 합의"…中 "AI 첫 논의"(종합2보)](https://www.yna.co.kr/view/AKR20260924013953009)
+
+### 'Z세대 시위' 휩쓸었던 모로코…총선 투표율 19년 만에 최저
+
+(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 모로코에서 23일(현지시간) 치러진 총선에서 집권 연정을 구성하는 제2당이 제1당으로 올라...
+
+['Z세대 시위' 휩쓸었던 모로코…총선 투표율 19년 만에 최저](https://www.yna.co.kr/view/AKR20260924045000099)
+
+### 무엇이 유럽 극우 키우나···불안의 시대, 향수 자극하는 정치 - 경향신문
+
+무엇이 유럽 극우 키우나···불안의 시대, 향수 자극하는 정치    경향신문    ‘세입자 천국’ 될 뻔했던 독일 베를린, 지금은 왜?[딥다이브]    donga.com    임대료 상한에 아파트 몰수 공약까지…세계는 부동산과 전쟁 중 [논설실 Pick]    매일경제    [광화문에서/하정민]‘극우’와 ‘극좌’의 협공… 길 잃은 주요국 중도 정치    v.daum.net    독일인 55% "메르츠 총리 물러나야"…여당 지지율도 극우에 밀려    뉴스1
+
+[무엇이 유럽 극우 키우나···불안의 시대, 향수 자극하는 정치 - 경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VR2dPN2RGWVpmRWpMZmRFYmpVeXBnNm9rQ2lhY1IxSjZ1TWJZcVVvWjN3MGhkdzdzR0poRnVFQVpCM2xwVGhCT1UzWjFNSDB2b0pJSWVfSDNmdw?oc=5)
+
+### 트럼프 "시진핑과 안보·기술·슈퍼지능 논의…평화번영 증진"(종합)
+
+(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 시진핑 중국 국가주석과의 미중 정상회담에서 "안보와 기술, ...
+
+[트럼프 "시진핑과 안보·기술·슈퍼지능 논의…평화번영 증진"(종합)](https://www.yna.co.kr/view/AKR20260924056151071) | [[속보] 트럼프 "시진핑과 안보·기술·슈퍼지능 논의‥평화·번영 증진" - MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFB5c2FRSlMtZC1HNTVkSWktZTg1QkV0NHphaXZxY0hiWEZIeUtkeDN3TVFVbk10Q1JhU09hOGVvZnBhSllES2pqN2xMV1gteFZaOWJKQlIza2NjNnVBdVY2MTU1Z1Zya2poVkd1X1NNMnIyNVRP0gF0QVVfeXFMTWd6c0p3M0tGMEkycTJTdzZDVVUtRjh4b2dRcU4wUjhSRXhPcDkzeVp1V1FuTTFoNEpSa1lidmFhSEVNczRjMU8tR1BnRHRnbVFnRi1wVXhEUGU2Y0NNNlVOaVNkQ3VfalNrQkgwSVZQTmNkZzY?oc=5)
+
+### 이란 최고지도자 고문 "미 재공격 땐 인도양으로 전선 확대 가능성" - MBC 뉴스
+
+이란 최고지도자 고문 "미 재공격 땐 인도양으로 전선 확대 가능성"    MBC 뉴스    이란 최고지도자 고문 "미국 재공격 땐 인도양으로 전선 확대 가능성"    v.daum.net    이란 "전쟁 범위 인도양까지 확대할 수 있다"    newsis.com    이란 "美 재공격 땐 인도양으로 전선 확대 가능성"    연합뉴스TV    이란 "美 공격 계속하면 인도양 너머까지 전선 확대"    뉴스1
+
+[이란 최고지도자 고문 "미 재공격 땐 인도양으로 전선 확대 가능성" - MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE84RF9aLVZpVzBQNHJTWGVSODdPNHRTU3RyYm5FOGlZb3dWQ2xySWN4R096c3hzNmdmZlhHeWxQN2dxZXBIaG5MS3ZyV2xtWEI1Z1RBUDFYMnVRN0dJM0tsVG1NR0Exdkp2OHVYNmlpZC1Za3Uy0gF0QVVfeXFMTWUwTEhWNnlwdVhSdEJCNWtWTzJNM1llNkNOMWxaZjNGQi1SdGxMQmx6SUZ4bUk5LW5ieUxLejM3cFdRSmZkeUdRWWhSZU96ZzNnb2xldnFhd3l4UFFLV2o1OXYzOTNqT0lYM2NXS1BXQzUwYW8?oc=5) | [이란 최고지도자 고문 "美 재공격 땐 인도양으로 전선 확대 가능성"](https://www.yna.co.kr/view/AKR20260924048300099)
+
+### 시진핑 "미중, 협력 않으면 안돼…사람이 AI 발전 통제해야"(종합)
+
+(상하이=연합뉴스) 차병섭 특파원 = 시진핑 중국 국가주석이 24일(현지시간) "미중 협력이 세계의 모든 문제를 풀 수는 없지만, 양국이 협력하...
+
+[시진핑 "미중, 협력 않으면 안돼…사람이 AI 발전 통제해야"(종합)](https://www.yna.co.kr/view/AKR20260925000551089)
+
+### 폴란드는 스타링크 위성군의 화재가 고의적인 방해 행위라고 주장하는 반면, 덴마크는 러시아의 위협이 점점 커지고 있다고 경고했습니다.
+
+정부에 따르면, 이 위성 기지국은 인접한 우크라이나 지역에 인터넷 서비스를 제공하는 데에도 활용된다고 합니다.
+
+[Poland says fire at Starlink station is sabotage a](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
+
+### 언론 매체들, 백악관이 언론의 접근을 허용하라는 법원 명령을 ‘반복적으로 위반’했다고 주장
+
+CNN, Politico, MS Now의 직원들도 출입이 거부되었으며, 일부는 출입증까지 압수당했다고 보고했습니다.
+
+[White House 'repeatedly violated' court order to r](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
+
+### [미중정상회담] 판다 두 마리 또 미국으로…시진핑 "우호의 사절"
+
+(워싱턴=연합뉴스) 이유미 특파원 = 시진핑 중국 국가주석이 24일(현지시간) 미중 우호의 상징인 자이언트 판다 두 마리를 미국에 새로 보내겠다...
+
+[[미중정상회담] 판다 두 마리 또 미국으로…시진핑 "우호의 사절"](https://www.yna.co.kr/view/AKR20260925001000071)
+
+### 시진핑 “대만 독립 반대”…미중 정상, AI·한반도 문제도 논의 - 한겨레
+
+시진핑 “대만 독립 반대”…미중 정상, AI·한반도 문제도 논의    한겨레    손녀·헬기장·전략폭격기 총동원…트럼프, 시진핑에 ‘극진한 환대’    v.daum.net    시진핑 ‘대만 레드라인’ 면전 압박…트럼프, 회담후 딴청    KBS 뉴스    '미중 정상회담' 종료‥ 시 주석 백악관 떠나    MBC 뉴스    다카이치도, 시진핑도 빵터졌다… 트럼프가 보여준 ‘바이든 조롱’ 사진    조선일보
+
+[시진핑 “대만 독립 반대”…미중 정상, AI·한반도 문제도 논의 - 한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTE52WU5uYVZjRlR5WElYS1FDS1NnY0pPcGN2UXg1ZGVjbDNPZlQ2TlV2bWtJRnRTUWhqaTBtZFQ4TDNDdjZLVlp1SjBVeVA3T0gtSVdBZk10OXRjVUZHR29tYkpWRXBGbWVBbC1OYTBWdw?oc=5) | [시진핑 "미중 새 무역합의 도달"…미중정상, 한반도 문제도 논의](https://www.yna.co.kr/view/AKR20260925009100083)
+
+### 네타냐후 유엔 연설에 중동·아랍국들 ’집단 퇴장’ - 연합뉴스TV
+
+네타냐후 유엔 연설에 중동·아랍국들 ’집단 퇴장’    연합뉴스TV    네타냐후 연단 오르자 각국 대표 줄줄이 퇴장…"도덕적 겁쟁이들"    v.daum.net    "세계 최대 어린이 공동묘지"‥각국 정상 이스라엘 '직격'    MBC 뉴스    네타냐후, 유엔총회서 "이란 핵시설 공격 쉬운 결정"    뉴시스    에르도안 대통령, “이스라엘의 '대량 학살' 사고방식" 신랄 비판    newstown.co.kr
+
+[네타냐후 유엔 연설에 중동·아랍국들 ’집단 퇴장’ - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tb0VaUV9rTUJyMGt1R3Eta2ZSR0VVMExETHBsR3JHN0xSbGpqYWdEdUFwdkdfdGl3d2dGYU9FVTBzd05PX2FUT1E5aUx5RHA1Q2hFNFItMGVHRUxjanM5X1EtRE9ld28?oc=5) | [네타냐후 유엔 연설에 중동·아랍국들 '집단 퇴장' 항의사태](https://www.yna.co.kr/view/AKR20260925007700072)
+
+### [미중정상회담] 멜라니아·펑리위안, 미술관서 中도자기 등 관람(종합)
+
+(워싱턴·서울=연합뉴스) 이유미 특파원 권숙희 기자 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 정상회담을 한 24일(현지시간) 두 ...
+
+[[미중정상회담] 멜라니아·펑리위안, 미술관서 中도자기 등 관람(종합)](https://www.yna.co.kr/view/AKR20260925006351071)
+
+### "트럼프 언론사 출입 막았지만"…美법원, CNN·MS NOW·폴리티코 복원 명령 - 뉴스핌
+
+"트럼프 언론사 출입 막았지만"…美법원, CNN·MS NOW·폴리티코 복원 명령    뉴스핌    트럼프 “가짜뉴스”라며 ‘CNN 등 백악관 출입금지’에···미 법원 “출입 허용하라” 명령    경향신문    [미중정상회담] 불꺼진 美방송 카메라…트럼프 "中은 친절한 기자단 둬"    v.daum.net    미국 법원, 트럼프에 CNN 등 3곳 백악관 출입 복원 명령    MBC 뉴스    [속보]트럼프 ‘언론사 출입금지’ 美법원이 제동…“헌법 위반”    동아일보
+
+["트럼프 언론사 출입 막았지만"…美법원, CNN·MS NOW·폴리티코 복원 명령 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMDNWMm1xZ2V6Y2xNRHRWNWF3RjFUdHJ5aUhZRmFGT2ZCa2N2alpKM3ZSX3BiOG5JcHB2ZFNkRDZlbkJQU2dtSWplR2RBUFJvdjVlbVFNUHhvMXlN?oc=5)
+
+### [미중정상회담] 불꺼진 美방송 카메라…트럼프 "中은 친절한 기자단 둬"
+
+(로스앤젤레스=연합뉴스) 김경윤 특파원 = 시진핑 중국 국가주석이 미국을 11년 만에 방문하며 양국 정상의 일거수일투족에 전 세계의 관심이 모였...
+
+[[미중정상회담] 불꺼진 美방송 카메라…트럼프 "中은 친절한 기자단 둬"](https://www.yna.co.kr/view/AKR20260925004700075)
+
+### 시진핑 "미중 새 무역합의 도달"…대만문제엔 '신중 처리' 촉구(종합2보)
+
+(베이징·상하이=연합뉴스) 김현정 차병섭 특파원 = 시진핑 중국 국가주석이 미국 워싱턴DC에서 열린 미중 정상회담에서 양국이 새로운 무역 합의에...
+
+[시진핑 "미중 새 무역합의 도달"…대만문제엔 '신중 처리' 촉구(종합2보)](https://www.yna.co.kr/view/AKR20260925004352089)
+
 ## 투자
 
 **오늘의 분석**
 
-미국 국채 금리가 2007년 이후 최고치를 경신하며 긴축 기조의 정점을 시사하자, 비트코인과 도지코인 등 위험자산이 급락했다. 유가 반등과 견조한 경제 지표, 부진한 채권 입찰이 맞물려 대출 비용이 치솟은 여파다. 호주중앙은행(RBA) 역시 금리 인상을 예고하며 글로벌 통화 긴축의 연장선을 확인시켜줬는데, 이는 호주 주택 시장의 구제 인력 부족 현상에서 보듯 실물 경제의 인력 수급 불균형을 심화시키는 요인으로 작용하고 있다.
+중동발 지정학적 위험으로 유가가 급등하고 견조한 지표가 인플레이션 우려를 다시 자극하면서, 글로벌 채권시장의 불안이 금융시장 전반으로 확산하고 있습니다. 미국 국채 입찰 부진 속에 수익률이 2007년 이후 최고 수준으로 치솟자, 시장에서는 연준의 추가 금리 인상 가능성까지 거론되며 긴축 장기화에 대한 공포가 커졌습니다. 과거 블랙 먼데이 직전의 경고 신호가 채권시장에서 비롯되었다는 지적처럼, 국채 수요 둔화와 금리 상승세는 글로벌 자산 시장 전반의 투자 심리를 급격히 냉각시키고 있습니다.
 
-반면 이비덴 주가 급등은 반도체 기판 수요 확대 등 개별 종목의 구조적 성장 기대가 거시적 위험 회피 심리를 상쇄한 사례로 읽힌다. 지정학적 변수도 여전하다. 미국과 인도가 트럼프 서명 러시아 제재 법안을 논의하는 등 에너지 공급망 불확실성이 유가 상승 압력을 더하며 인플레이션 재점화 우려를 키운다. 금리 상승이 자산 가격 조정을 넘어 고용과 산업 현장의 병목으로 전이되는 양상이 뚜렷해지는 시점이다.
-
-앞으로는 주요국 통화 정책 전환 신호와 맞물려 신용 스프레드 확대 여부가 실물 경기 둔화의 가늠자가 될 전망이다.
+이러한 채권 수익률 급등은 자산 가격 조정을 넘어 실물 경제의 부담으로 직결되고 있습니다. 8%대에 근접한 모기지 금리와 호주 주택 시장의 구제 여력 부족, 영국 소매업체의 주문 급감 등은 차입 비용 증가가 가계와 경제 전반에 가하는 압박을 보여줍니다. 아울러 비트코인을 비롯한 가상자산의 급락과 거래소 해킹 사고는 유동성 축소 국면에서 투기적 자산의 취약성을 드러냅니다. 앞으로는 국채 시장 안정을 위한 재무부의 개입 조치가 실질적인 채권 수요를 회복시켜 차입 비용 상승세를 진정시킬 수 있을지 주시해야 합니다.
 
 ### RBA가 금리 인상을 예고하자, 호주의 주택 시장에서 구제 활동을 할 수 있는 인력이 부족해지고 있습니다.
 
@@ -193,42 +635,257 @@ RBA가 금리 인상을 예고하자, 호주의 주택 시장에서 구제 활�
 
 [Dogecoin down 8%, bitcoin under $84,000 as Treasur](https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007)
 
+### 영국 소매업체들, 공급업체로부터의 주문량이 사상 최저 수준으로 감소했다고 보고
+
+영국 소매업체들, 공급업체로부터의 주문량이 사상 최저 수준으로 감소했다고 보고
+
+[British retailers report record drop in supplier o](https://www.investing.com/news/economic-indicators/british-retailers-report-record-drop-in-supplier-orders-93CH-4914835)
+
+### 카이버나는 자가면역 CAR T 치료에 관한 1년간의 데이터를 발표했습니다.
+
+카이버나는 자가면역 CAR T 치료에 관한 1년간의 데이터를 발표했습니다.
+
+[Kyverna reports one-year data for autoimmune CAR T](https://www.investing.com/news/company-news/kyverna-reports-oneyear-data-for-autoimmune-car-t-therapy-93CH-4914826)
+
+### 바오준, 1천만 달러 규모의 주식 매입 프로그램 승인
+
+바오준, 1천만 달러 규모의 주식 매입 프로그램 승인
+
+[Baozun authorizes $10 million share repurchase pro](https://www.investing.com/news/company-news/baozun-authorizes-10-million-share-repurchase-program-93CH-4914823)
+
+### 비트코인 가격이 83,000달러 아래로 떨어지자, 트레이더들은 2027년 6월까지 연방준비제도가 4차례 금리를 인상할 것으로 예상하고 있습니다.
+
+4개의 하이킹 코스가 가장 유력한 결과일 것으로 보이며, 채권 수익률 상승과 달러 강세는 비트코인과 금에 부정적인 영향을 미칩니다.
+
+[Traders price in 4 Fed rate hikes by June 2027 as ](https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000)
+
+### 월스트리트의 베테랑들은 블랙 먼데이 당시의 주식시장 위험 신호가 채권시장에서 비롯되었으며, 그런 상황이 다시 나타나고 있다고 말합니다.
+
+래리 맥도널드에 따르면, 채권들이 1987년 여름 때와 유사하게 “주식과 비슷한 수익률”을 내기 시작했다고 합니다.
+
+[Black Monday’s stock-market warning signal came fr](https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories)
+
+### 데이터가 이를 증명합니다. 비트코인은 장기적으로 채권 수익률이 상승하는 것을 신경 쓰지 않습니다.
+
+장기적으로는 BTC가 상승하는 채권 수익률을 무시합니다. 하지만 단기적으로는 채권의 변동성이 급증하면 암호화폐 시장의 열기를 쉽게 가라앉힐 수 있습니다.
+
+[The data proves it: Bitcoin doesn't care about ris](https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term)
+
+### 인플레이션 우려로 시장이 불안정한 가운데 수익률 상승
+
+인플레이션 우려로 시장이 불안정한 가운데 수익률 상승
+
+[Yields elevated as inflation fears keep markets on](https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616)
+
+### 후티들이 사우디아라비아를 향해 미사일을 발사하자 유가 4% 상승
+
+후티들이 사우디아라비아를 향해 미사일을 발사하자 유가 4% 상승
+
+[Oil prices jump 4% as Houthis fire missiles at Sau](https://www.investing.com/news/commodities-news/oil-prices-jump-4-as-houthis-fire-missiles-at-saudi-arabia-4915853)
+
+### 실적 발표 회의록: 악토르 그룹, 2026년 상반기 강력한 성장세 기록했지만 주가는 1.8% 하락
+
+실적 발표 회의록: 악토르 그룹, 2026년 상반기 강력한 성장세 기록했지만 주가는 1.8% 하락
+
+[Earnings call transcript: Aktor Group posts strong](https://www.investing.com/news/transcripts/earnings-call-transcript-aktor-group-posts-strong-h1-2026-growth-as-stock-slips-18-93CH-4915852)
+
+### S&P 500 지수에 새로 포함된 기술주가 현재 가장 뛰어난 성과를 보이고 있습니다.
+
+목요일에는 데이터 저장 솔루션 기업인 에버퓨어의 주가가 S&P 500 지수 내에서 가장 큰 상승률을 기록했습니다.
+
+[The S&P 500’s newest tech stock is now its best pe](https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories)
+
+### 저는 나이 드신 어머니를 돌보는 데 시간과 돈을 쏟고 있어요. 그런데 어머니는 제 형에게 10만 달러를 주셨어요. 제가 그 관계를 멀리해야 할까요?
+
+제 어머니는 점점 걷는 데 어려움을 겪기 시작했어요. 처음에는 무릎 수술을 받았고, 그 후에는 넘어지는 일도 생겼죠.
+
+[I spend my time and money caring for my aging moth](https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories)
+
+### 디젤유 가격이 급등하자, 테슬라는 트럭 시장을 공략하기 위해 큰 움직임을 보이고 있습니다.
+
+대형 전기 트럭의 재등장은 이 산업에 있어 매우 흥미로운 시점에 이루어지고 있습니다. 하지만 이것만으로는 테슬라의 투자자들을 만족시키기에 충분하지 않을 수도 있습니다.
+
+[As diesel prices surge, Tesla makes its big play f](https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories)
+
+### Earnings call transcript: Costco beats Q4 2026 forecasts, shares edge higher
+
+Earnings call transcript: Costco beats Q4 2026 forecasts, shares edge higher
+
+[Earnings call transcript: Costco beats Q4 2026 for](https://www.investing.com/news/transcripts/earnings-call-transcript-costco-beats-q4-2026-forecasts-shares-edge-higher-93CH-4916339)
+
+### Major airline group opposes US diesel export ban, warning it could hike prices
+
+Major airline group opposes US diesel export ban, warning it could hike prices
+
+[Major airline group opposes US diesel export ban, ](https://www.investing.com/news/stock-market-news/major-airline-group-opposes-us-diesel-export-ban-warning-it-could-hike-prices-4916338)
+
+### Anthropic proposes supervoting shares to give co-founders majority control -report
+
+Anthropic proposes supervoting shares to give co-founders majority control -report
+
+[Anthropic proposes supervoting shares to give co-f](https://www.investing.com/news/stock-market-news/anthropic-proposes-supervoting-shares-to-give-cofounders-majority-control-report-4916337)
+
+### 8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges
+
+With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.
+
+[8% mortgage rates are ‘not an impossibility’ as th](https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories)
+
+### Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'
+
+Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.
+
+[Crypto exchange Bitget says $352 million affected ](https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe)
+
+### Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market
+
+Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.
+
+[Why investors aren’t buying yet another attempt by](https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
 
-오늘 뉴스는 고숙련 이민 경로인 H-1B 프로그램을 둘러싼 '관리 강화'와 '현실적 장벽'이 동시에 작동하고 있음을 보여준다. 프로그램 무결성 강화를 명분으로 한 행정명령과 10만 달러 수수료 연장 조치는 사기 방지와 재정 부담 전가를 노린 것이지만, 4인 가족이 10개 주요 도시에서 체감하는 생계비 분석과 맞물려 실질적 진입 장벽이 한층 높아졌음을 시사한다.
+트럼프 행정부가 자국 노동자 보호와 비자 남용 근절을 명분으로 H-1B 비자 신청 수수료를 10만 달러대로 대폭 인상하고 심사를 강화하면서 산업 전반과의 마찰이 격화되고 있다. 정부는 대대적인 단속과 높은 진입 장벽을 통해 왜곡된 고용 구조를 바로잡겠다는 입장이지만, 기술 업계는 글로벌 경쟁력 저하를 호소하며 정책 철회를 강력히 요구하고 있다. 특히 미국의사협회(AMA)가 경고하듯 과도한 비용 부담이 의료 등 필수 공공 분야의 전문 인력 수급과 환자의 치료 접근성을 직접적으로 위협한다는 지적은 규제 강화가 초래할 사회적 부작용을 뚜렷이 보여준다.
 
-영주권 심사에서는 범죄·안보 기준 확대가 두드러진다. 마약·인신매매·자금세탁 연루 시 영주권을 차단하는 새 규정은 집행 우선순위를 명확히 한 반면, 킹카운티와 시애틀이 제기한 소송은 공적 부담류의 경제적 자립 요건이 여전히 지방정부와의 법적 다툼 대상임을 환기한다. 이는 이민 심사에서 '안보'는 강화하되 '경제적 기준'은 사법 통제를 받는 구도가 지속됨을 의미한다.
+이러한 통제 기조는 취업 비자를 넘어 영주권 심사 전반으로 확장되며 연방정부와 지방자치단체 간의 사법 갈등으로 비화하고 있다. 시애틀과 킹카운티가 새로운 영주권 규정에 반발해 소송을 제기하는 등 규제의 정당성을 둘러싼 반발이 거세지고 있으며, 신청자들 사이에서는 추첨제 H-1B를 피해 독립 이민 경로를 모색하는 움직임도 포착된다. 고용 질서 확립을 위한 엄정한 관리와 공공의 이익을 지키는 균형점이 시험대에 오른 가운데, 앞으로 주시할 한 가지는 각계의 집단 반발과 법적 대응에 직면한 10만 달러대 비자 수수료 안건이 실제 시행 과정에서 수정되거나 제동이 걸릴지 여부이다.
 
-전체적으로는 개방성보다 선별적 관리에 무게가 실리는 흐름이나, 수수료 인상이 중소기업이나 저임금 전문직 채용을 위축시킬 수 있다는 반론과 소송을 통한 제동 장치도 병존한다. 앞으로 주시할 점은 H-1B 수수료 수익이 실제 심사 역량 강화로 이어지는지, 아니면 단순 재정 수단으로 머물지다.
+### H-1B 비자: 2026년에 4인 가족이 미국의 10개 도시에서 편안하게 살기 위해서는 과연 얼마의 자금이 필요할까? – 더 트리뷴
 
-### H-1B visa: How much does a family of 4 really need to live comfortably in 10 US cities in 2026? - The Tribune
-
-H-1B visa: How much does a family of 4 really need to live comfortably in 10 US cities in 2026?    The Tribune
+H-1B 비자: 2026년에 4인 가족이 미국의 10개 도시에서 편안하게 살기 위해서는 과연 얼마의 자금이 필요할까? The Tribune
 
 [H-1B visa: How much does a family of 4 really need](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV2ttXzljbzd4WU8xTWVZanUtQWV5ZjVFWFJTWDVfdkxCbE94Nm9QM1VmNHRpRlNZYVpTMXZoNG1icWxwajhXMUNJV3U1VE9LSzhzd2c1YUhVN1VtM1BYUUpEcE54bUVVNk5VdTNCLVpsZTNfdmVjZkhGS1pOalotOUQ4TFRUbFdzdGVpZndnWnNNR3R3LVJuX2JXNjNuU0N1aWpIVW0tTEhKMUU0U1pvd3hFUTZuVTQzQ1lkQTkwOEUxWk0wN2hsalJ4cHh3YjFLWVZyLXIwRWx3RlR5MHBlY0tUdE1fbGxhTlpWakRiMmpOU0HSAfMBQVVfeXFMTVdrbV85Y283eFlPMU1lWWp1LUFleWY1RVhSU1g1X3ZMQmxPeDZvUDNVZjR0aUZTWWFaUzF2aDRtYnFscGo4VzFDSVd1NVRPS0s4c3dnNWFIVTdVbTNQWFFKRHBOeG1FVTZOVXUzQi1abGUzX3ZlY2ZIRktaTmpaLTlEOExUVGxXc3RlaWZ3Z1pzTUd0dy1Sbl9iVzYzblNDdWlqSFVtLUxISjFFNFNab3d4RVE2blU0M0NZZEE5MDhFMVpNMDdobGpSeHB4d2IxS1lWci1yMEVsd0ZUeTBwZWNLVHRNX2xsYU5aVmpEYjJqTlNB?oc=5)
 
-### King County, Seattle sue Trump administration over new green card rule - kgw.com
+### 킹카운티와 시애틀, 새로운 그린카드 규정에 반발해 트럼프 행정부를 고소 – kgw.com
 
-King County, Seattle sue Trump administration over new green card rule    kgw.com
+시애틀의 킹카운티, 새로운 그린카드 규정에 반대해 트럼프 행정부를 고소하다/kgw.com
 
 [King County, Seattle sue Trump administration over](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc1lUNXRZT2dEM3FWVm94ek5uQzFBLXFwYVpJbDhzTU02NDhkZjFKekpwdnZlR0l1ZUVBbVZ3cnc5T0U0eUlIODVwdW00TjVfZ19FMnowYkVjU1JHQnp2SkxDb2ZscE1xU3kyVHZMN3I1QWJMZHJPRWVMeUhDLWt2QlNjc2dmbW9Ddy16MXZzeU55WVpDckFtRWZFamprV3FkaVZRY0kzWkFJV1ZBdThVWG1yXzhHMTFaUGdianQyMjNNcXFHV09TM0Jxd1kyY1dlOW05ZVNpaXpYeUJXSG5hRnE2S1EzanlkRF9lbXRMZlpER3BXOERYdS1Waw?oc=5)
 
-### USCIS Sets New Rules That Could Block Green Cards for Drug Trafficking, Human Trafficking and Money Laundering - nepyork
+### USCIS, 마약 밀매, 인신매매, 자금 세탁 범죄자들의 그린카드 발급을 막을 새로운 규정 도입 – nepyork
 
-USCIS Sets New Rules That Could Block Green Cards for Drug Trafficking, Human Trafficking and Money Laundering    nepyork
+USCIS, 마약 밀매, 인신매매, 자금 세탁과 관련된 사람들의 그린카드 발급을 막을 수 있는 새로운 규정을 도입했습니다. 뉴욕
 
 [USCIS Sets New Rules That Could Block Green Cards ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUZPTjJfYW5EMDc2SklaTks3cnMxZjZ3TjJTTWgwQzNVV2ptWm9WcVU4SVl6b0ZtY0F6c3RQZUFCaDIzdkZQNTJ0OUt5c2ZMVzdLV19vTjZBVC1nZWN4TW1aN0Q2ZzBLRHFydndpTkJjaDN1VGp4OUtMazhQNzctV2lYX1hxRV9Zc2d2V1NCT3dkQ1lSbEJxcFV0WmRpX3QyM1YtcThKNmtGY0p5MVpDUnJuUEd5WV9NLWYtUlowbkFERlJGTkY2S0VLaHAxNjFaU3F0MEpsc08?oc=5)
 
-### Executive Order on H-1B Program Integrity and Interagency Coordination - The National Law Review
+### H-1B 프로그램의 공정성 및 기관 간 협력에 관한 행정명령 – 미국 국가법학저널
 
-Executive Order on H-1B Program Integrity and Interagency Coordination    The National Law Review
+H-1B 프로그램의 투명성 및 기관 간 협력에 관한 행정명령    국가법학저널
 
 [Executive Order on H-1B Program Integrity and Inte](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlpnZ1hobG1PMmZLV2RpVXUwdjk4UHZQNEpSUmRscW9hWDdOWFJKSmJHTy1iUC1qWUIyQy02ckdVVGk3TGFvaEFvYXk4QjM0aTBzVldSa2NWeUc4NmhQcGlUcVZEQzVQNFVDUXdhaW55bFJmRExKck91WU9zWjdqYlc4d0hnVkxxQVVNQnRKb2FmTnpwZjZGNDl5bkl1NEh4MmfSAacBQVVfeXFMT0h0RmwtMjI2MUYwYmIwZkFpbDBlR1ZOQ1BOai13QzNFdVh3YUVZSWdUWWg0NG5LWjVzcDVDN2lva1d1blFmX19hcFpJaEN6aW1vZmtxbjBLTUliM3d0eWNaNVBiYkxNdmoyLXhHZjlRVHVPdlhaTmxKOWxqdUhDd19CM0hreDQ0UDhma2xVSUp3cFhOQUttVHJaNVhZM0JGQmc3ZzRXZWM?oc=5)
 
-### US extends $100,000 H-1B visa fee for another year - dailyindependent.com.pk
+### 미국, H-1B 비자 신청 수수료 10만 달러를 1년 더 유지하기로 – dailyindependent.com.pk
 
-US extends $100,000 H-1B visa fee for another year    dailyindependent.com.pk
+미국, H-1B 비자 신청 수수료를 1년 더 10만 달러로 유지하기로 결정   dailyindependent.com.pk
 
 [US extends $100,000 H-1B visa fee for another year](https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3g2dGhiQk05OXFYZ3dibzhPS3BXOHg0cHVmZEVKc2pjR04tbWpJTmhIRE5aWklLeTZiTnVXWlNnbEZXY2g2VG5wUE5UbC1RMkd0MzJENXhHYktKZmpIOEZSQ0p4R2lzX08zSS0xRnNLNUcxV3RYczJBenplalJyY0hVT28wQ1ZYLTJKWFJUNktfR3BMSXZCQlhVVHQ?oc=5)
+
+### 2026년 미국 그린카드 비자 추첨 당첨자들이 9월 30일이라는 마감일에 대해 알아야 할 사항들 – theweek.in
+
+2026년 미국 그린카드 비자 추첨 당첨자들이 9월 30일이라는 마감일에 대해 알아야 할 사항들 – theweek.in
+
+[What 2026 US green card visa lottery winners need ](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXFHRW5UVUVpZ2wtRC1WOENvS3U2UHV0TFRDSjV2ckRFV1JiY1pIVHhGQ1cwRy1nY25mb0hfbmJuWFdWSU1FanUtZlhLX0JlbGZ6NjVqYXVlLVhwYnZVZGpnRTVTbGZZLU14QW1Kdl9vbFh5Z2Jad1RaOV9WQmxCenpOUHpsYk1iQWFiU2R5dWVObDNvbTBncFZsc2pPTDV3d01TOGdaMS15RUNyR2J5OXo5LXNUUHIyRVhvekllY3lLMTFwRmRMdU1JWm1FSkNC0gHWAUFVX3lxTE81aHotcm9obkdLSFhtVm51TDNzQi04WkJndE5FeV95bGdyZWtIdFhXd21OLU1Gc21MLTNJeEF0dEdSYnpqZE95eVNZbDh6STdteV9TZnVCTDFUa3dDYmk5TGlqd2FfZ0w5a3hWRUh3aVloZWZwOHVOV3VyZU9RNFFlWFgyOWFoQmxJWWZ0WDZhQkVZemt6YW5XQU9HUlRLZ0UzUkNBTGg4R2RsTlpiRzQxWWs5bV9GMmhLbkxrUllsVzdBRDd6T1FqRWlxM21oU3YxVkFFa0E?oc=5)
+
+### 이민 문제를 고려하여 테크넷, H-1B 비자 수수료 관련 제안 철회 촉구 – GuruFocus
+
+이민 문제를 둘러싸고 테크넷, H-1B 비자 수수료 관련 제안 철회 촉구
+
+[TechNet Urges Withdrawal of H-1B Visa Fee Proposal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGZuMHFZSEJtbXFpaFNTLVlwWC0yNEhfeGNuSEtfdkloWU9QWXlRckxKUEo1bUY5OS0tNXVENlZUckI2Y3dpQ05VY0ZUNGwzZUxKeldDQUhjX0FmSGNrYVVmN0hpMjNoYWtpQ0NCSHhyY21BLTFvZGdNVS1RYmpmVGRSTVpzbnJiOVlQM2IwbFVYQV8xeExPNjhidS1TS01teERTaGpNai1PQmQtdXNpcksyc2c?oc=5)
+
+### 그린카드: 미국, 가족 기반 부양 서약서와 관련된 2026년 소득 기준 발표 – Legit News
+
+그린카드: 미국, 가족 기반 부양 서약서와 관련된 2026년 소득 기준 발표　Legit News
+
+[Green Card: US Releases 2026 Income Requirements f](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUpUcjBYbHRSM2ItWlR2elpadzlBRlp2MkUxOFRSaFJod0UwRUtuLXB5SVlNWnJVYlJjMDg5eWw0U2lQTzVHMzN0Vi1xMWlXYzVLbk1fUjNsUzNkWVZMNnRnTFU0a0hLVjNHeDVMa2NKa3FSRXF5MnZqZGJsNXhXUmdIS181R3FocFN5THZ3NkF0YVk4UVFIbm00dENfV1E?oc=5)
+
+### 미국, 그린카드 발급 대상이 되는 5가지 가족 관계 명시 – 투코 뉴스
+
+미국, 그린카드 발급 대상이 되는 가족 구성원 5가지 범주 공개    Tuko News
+
+[US Releases 5 Categories of Family Members Who Qua](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDRib2wwUnBsMDkwSkdmV0U1bEt1V0w3UUt3Mlhya1Q3R1doR1paTi0xSTFwRVNndFduMEJ5V2hIV0Q3NFFHOVlUaVk4LUl5MzZfMDI4MHVnY3lLdDl3YjdoWU1zZjNOX2FRT0dNQkEybGwyTWpUSEhuVEJQcEhlV2lvSHY1czJ4THJWRVFSWi1BNG1mUEIteDVQdmQ?oc=5)
+
+### 독점 보도 | 기술 업계, 트럼프 행정부에 새로운 H-1B 비자 수수료 철회 촉구 – WSJ
+
+독점 보도 | 기술 업계, 트럼프 행정부에 새로운 H-1B 비자 수수료 철회 촉구 – WSJ
+
+[Exclusive | Tech Industry Calls on Trump Administr](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGh2blFlSDBXbkIyTFh6Z0tIRFJDc181dzFfX2VSVTBzaTMwV0ltMmhwTHNWUUhPWndhejI0R2w0eUFIQ3phOW5EZzktYU5vM0VQMXZUT1lJMEpMR3VGS2NUalRIMjMzcThrNi14bGlvVEIzUFhlLVNDMWZVX2tNN2h1RGJKNlpscHNabUtzb25HZlJOSFVSdF96b3pCdmh1Yzk1TlctWUdzNGlTT1pIVnRqc1R0aVRFckE?oc=5)
+
+### 텍사스의 언론인이 인도 출신 컨설팅 회사에 대한 H-1B 비자 남용 의혹을 다시 조사하다 – 데칸 크로니클
+
+텍사스의 언론인이 인도계 컨설팅 회사에 대한 H-1B 비자 남용 의혹을 다시 조사하다 – 데칸 크로니클
+
+[Texas Journalist Revisits H-1B Abuse Claims agains](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYm1OTnBqbTIwb0gyVVFveXNaTVY4alZHbk5WTVRTNGFwbFM2cXJGUWsyTEp3MzJMa1hGN2dReFFBckVfWlZuMGN4eXhMLV9CSzBEVEg3ZHlRbWRUZV9Gb2lGUFJ0d19XVDJheHF2SzNqVjF0RjVpS1BTUWJibm84WS1ycWJfaVVDOWhsNU1kN3NDSGxWb01DSG9Da2lyT1NDbWt0LUtlQlEzd2xyZnY5TER3LUJaZEtPam5MYm9mV2dGMG5lVVlrcENyeWxqeTBWbmfSAdIBQVVfeXFMUGJtTk5wam0yMG9IMlVRb3lzWk1WOGpWR25OVk1UUzRhcGxTNnFyRlFrMkxKdzMyTGtYRjdnUXhRQXJFX1pWbjBjeHl4TC1fQkswRFRIN2R5UW1kVGVfRm9pRlBSdHdfV1QyYXhxdkszalYxdEY1aUtQU1FiYm5vOFktcnFiX2lVQzlobDVNZDdzQ0hsVm9NQ0hvQ2tpck9TQ21rdC1LZUJRM3dscmZ2OUxEdy1CWmRLT2puTGJvZldnRjBuZVVZa3BDcnlsankwVm5n?oc=5)
+
+### 기술 산업계, 트럼프 행정부에 새로운 H-1B 비자 수수료 철회 촉구 – Livemint
+
+기술 산업계, 트럼프 행정부에 새로운 H-1B 비자 수수료 철회를 촉구하다 – Livemint
+
+[Tech Industry Calls on Trump Administration to Wit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjljRUVSdk1JVC1TcHM2akdrZjdITjR2VVZyTUs2ZGN1UXJ4cW5IbVBoV2U0Q0VUVWRJeHBQMTFGRHpKZ1FQRi00WnJkRlJqZjJndnk0c0dyYmYtODFYNWE5WGRQaS1IdXBwZjFIcngwRi14U05LeHMzV3VldW5TblhtYjI0VnZ0MVdDMEtVNnJ2aDhKd21laHR2c2xCOTF5Ymx0aGJtNTYwamtyMkZ2UkpHbU9vYmZWd0cyMkRybjRmUDDSAcgBQVVfeXFMUHQ0VlA2NzVMbjlZMXI2TUFobkFCc3k2WjFSZkZDUEJEeDBZaGM3M3plekxaSUNRTmZXYjBBVW02WFctWGdBUTJuc1BUNWRWWWQyMDdKNUhsTkdGUFhUWFlzUEtzMHBlUWlBMGtldEVDTzQwaDZ3aWRpUzdDb3J2M2hZZVlrNGI1ZU9LMG1MaDZuWlpyZGlDQVJPYmtXbURRV1pPNlIwQy02d3ZwOTZVMElYaWZUb21aV1g5REdON09aWVYxUFgzcjk?oc=5) | [Tech industry calls on Trump administration to wit](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTy0xV3VKaUF6TUtNTXlwb2NyY1p4Z3dSbzFWb0xJSzZJOHFQb0tkcDRDQzBVQ2YxaFY4Um9FZ2pDRjZmazg3eWdYY1NrLVVJaDZHT3NjZGMybnNSdGJfaERTa2dWbG5wLVYtT0NvVVowekRETG16Vm9rS3FFaG1wUDFjWDN5enozellxWjVhQnE0S3hlZzRUbWlPTVFEOVFTWEtWcTNJUFMzVkFFZ0QxVW1MekFwT1NrSEdYRGlhb3EzaloyQS1OQnRYakVxTzlpYlZiMm9aa9IB1wFBVV95cUxOTy0xV3VKaUF6TUtNTXlwb2NyY1p4Z3dSbzFWb0xJSzZJOHFQb0tkcDRDQzBVQ2YxaFY4Um9FZ2pDRjZmazg3eWdYY1NrLVVJaDZHT3NjZGMybnNSdGJfaERTa2dWbG5wLVYtT0NvVVowekRETG16Vm9rS3FFaG1wUDFjWDN5enozellxWjVhQnE0S3hlZzRUbWlPTVFEOVFTWEtWcTNJUFMzVkFFZ0QxVW1MekFwT1NrSEdYRGlhb3EzaloyQS1OQnRYakVxTzlpYlZiMm9aaw?oc=5)
+
+### 테크넷, 트럼프 행정부의 103,265달러에 달하는 H-1B 비자 수수료 부과 방안에 반대 – NewsBytes
+
+테크넷, 트럼프 행정부의 103,265달러에 달하는 H-1B 비자 수수료 부과 방안에 반대합니다. NewsBytes
+
+[TechNet opposes $103,265 H-1B fee proposal from Tr](https://news.google.com/rss/articles/CBMitAFBVV95cUxNS01PWkNBcFhYZ2QxYXhPWktMS2RHcS1qOExVXy1mMUlPeVV2OHh3SV9pS3JHV0QyVjE5LVUyYmNHang2WDJDWTRZaWlranlMNFpCa0ozb0liWXZDTll4aGFFSmd3ZHpWdVFWZ3lIY1NPXzNqejBpYkhyUDBEanpyMzVVa3phc0dDb2xNVDRfeGhCRnh5bGdtZU1MZ3JLdXctU3NHVGJINUUtbWZBTmVpUndBZzA?oc=5) | [Tech industry group urges Trump administration to ](https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWNSSnV3Z2NGbE5VcW1FS1JnYllXd1k3NVUzMURhWW5IenV1Qm5xLUhvUmIta2FvWlVjV3dIRWJobWRJVHZnY3k3UFN6ZjhPSk5uaGxpc0lzY0VZYjVJdS1KTFdnUDR1c195WHRxZmNoTy0wVkh2TU5pNkptNFlkR1lNcXd2dU1xbk9abEVDTk5uSzlFeG9BZms1dkNlS2NEMHczaEczc0FWWGFYWTJWZzMtMG9MT2daUnhrX2VIa3dLWEhhRHpiQzFieEZJVF8ySk9ubTE0bXp2TDVjSHVYV1ppbVN4LWl5QzA3S3R2dm5wY3FzbEt6VExBcGk0T1ZtVTZTbnduWFM1LWFSaTJzcC1CdXV6eERRZVhmV0xOeGlQd9IBpwJBVV95cUxNWW5sYUVOc1hIaC1YX1ZfWTJrZTU0bjJMX1Q4OGREUEZNdmk2dDJNN2l5MGNzZGhaVnNpa00yZ216NHMtWkxzeGpTUmdFY3ptekZubWp4R0ZDRjcyMkszRzgwV29pd0Z5N2MtQmpEdDdFd1hOSnRudjFvMXlTcEN0Q2hlMy1BSkF0ZzJwOFBoWW5XZFI0di1ubzVGVVhIU1c4TGNNUXQ5bTNrSDB2aFg4alZ1bng2UzBYUDBfZVplVFNtaGFJS0xkLU8zdUo5dEhWT0ROOXFHSTlXY1F1VGRmY1QybjIzemFGVkdIb3dIa1VDRnpud2RPNmR3Vmo2WmN0TzBhdEpJcHp3QjhsTUxXd2pVS2tmbGstUGkyMnIwU1J4UWRaR3A4?oc=5)
+
+### 미국: 트럼프, 외국인 근로자들에게 영향을 미치는 새로운 H-1B 정책 발표 – Yen News
+
+미국: 트럼프, 외국인 근로자들에게 영향을 미치는 새로운 H-1B 정책 발표  
+Yen News
+
+[US: Trump Announces Fresh H-1B Move Affecting Fore](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGJYT3FqT0dtOV9pR1hybVlSSkYwUmQtOEs3T2tsOHFvLV9taDlhcDBZay00UFYzNHJMYXVYejVhN0hVX002b0JyNk5DV2tpbVJLOGxkUVJxdWc5Tnl5N2hfdzgtNWdaSy1BeW9aYV9nZUJwOUZkelM4R0x1SEw3Nk11QlBwOVhXRElSLVhLREstQzlnRG5uTWN0clVqTGdZd0NJWGVVd013bUk?oc=5)
+
+### AMA: H-1B 비자 수수료 인상이 환자들의 의료 서비스 접근을 위협하다 – 미국의사협회 | AMA
+
+AMA: H-1B 비자 수수료 인상이 환자들의 의료 서비스 접근성을 위협하고 있습니다. 미국의사협회 | AMA
+
+[AMA: H-1B visa fee increase threatens patient acce](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGtELVpvVlA1QkVua0JrX1FqUG9rcXdLYUViMWRzOE1LMXV3TUJZUk1nQWVGX1NhbnBhTlg2U1RXcW5DU1hXVHV5WFplenZEQU5PVHJ1WDNrejFWNG5LaE1hLVVHUmlHRHhvWGdzV2I4OENaamRYMzc3dkp3dVBzUS1kU25ZUnVfdUVPWV9VOTE1Vkx6MEpBSDR4bE1HWHFkQjJNTXFZQ1Q2eXB0NXFvaS0tMA?oc=5)
+
+### 짐 뱅크스 상원의원이 인플레이션, 펠 그랜트, H-1B 비자에 대해 이야기합니다 – WIBC 93.1 FM
+
+짐 뱅크스 상원의원이 인플레이션, 펠 그랜트, H-1B 비자에 대해 이야기합니다. WIBC 93.1 FM
+
+[Senator Jim Banks Talks Inflation, Pell Grants & H](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVk2RDh4OXo2ZTVmNzVIajlXd1RpaXFTTWxHZFIxR04yY3NKUlU5TmQtLW9DdERxeDZBTTJvUV9MamdBdlduSjl1WDNlZks2V21sUG9iY1N3WjMzMGM4X1VTSThfZS1aMmpxeFFTbnJQQkcyZkdyV2I1eGVTbmF5elFBbk51UXB3?oc=5)
+
+### 기술 산업계, 트럼프의 H-1B 비자 수수료 정책이 미국 기업들을 세계적으로 불리한 위치에 놓일 수 있다고 우려 – Latin Times
+
+기술 산업계, 트럼프의 H-1B 비자 수수료 정책이 미국 기업들을 세계적으로 불리한 위치에 놓일 수 있다고 우려
+
+[Tech Industry Says Trump's H-1B Fee Could Put U.S.](https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1ljX0NJMFlDWUJrVW1DaHZudW9kVWV4V2hicTlneWdfbXE2bE1weHJQNkZmZ0JCcGZRd2hUUHd5UmFzSXVBa0ZpWnA5TEdSVlN1VkpTQnhSMV9yR2F3M1pLVXhmZ21lVndLeGpZYUxreVhVYmR5YmlaeXVxM0VqYm1ab3JlYWtmTmo5WjRQUHFMdkFOY29rcFNKaUdCQVEyWVdGTjBGZ29KOHRfSXZCZQ?oc=5)
+
+### USCIS Answers Thorny Question of When an Alien ‘Is Under 21 Years of Age’ - Center for Immigration Studies
+
+USCIS Answers Thorny Question of When an Alien ‘Is Under 21 Years of Age’    Center for Immigration Studies
+
+[USCIS Answers Thorny Question of When an Alien ‘Is](https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1QySy1xcHl1dnVkYW52STNxemVWQV93a3hGNU1Ya1lkclNhZ2xiZUJiQjB2OWZmRGFFOURlY19peVdSZlB1SVQyVkhGLXMwMWtrV0ZrcjFlY2Exei1sZmNNMGZXRUYwUXhsVXpZeTdHZlVxb3BXOXFzeGdjaFFMOTFKcDNaNVQ2TWc?oc=5)
+
+### WR Immigration News Digest - WR Immigration
+
+WR Immigration News Digest    WR Immigration
+
+[WR Immigration News Digest - WR Immigration](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOVl3ZnpLV3BKR1loLUhjSjJXM2dFOGhEMjhnaUtIM25ibVJac0tDYzlSNzJhcXpPOEhEOExqZm5JeXBCUkpFWjZhRWlDWDJEV1NfZGlzU0xsaU05UVY2U0RwNGZ0bDh1TVE?oc=5)
+
+### Texas Hindu Leader Addresses H-1B Visas, Cow Traditions, And Islam Concerns - Yahoo
+
+Texas Hindu Leader Addresses H-1B Visas, Cow Traditions, And Islam Concerns    Yahoo
+
+[Texas Hindu Leader Addresses H-1B Visas, Cow Tradi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1pVZHdEOER5QXh3NVNKZTd2WWphdVUxMVJSVjJhU0pSRWh2MlhieW5EZF82NTZBd1pxY2dxVng5dlVwWFVKNmhGM29RYnljRDJnVklTbGRjUDk4NlVLN2NRN3hCbUtYWmRnaWVPN2loU3RWNFdEbzZwalV3WWx0TkR5R0d2NmxJcXF6bw?oc=5)
+
+### How Nigerian founders can use US EB-2 NIW instead of H-1B lottery - Tribune Online
+
+How Nigerian founders can use US EB-2 NIW instead of H-1B lottery    Tribune Online
+
+[How Nigerian founders can use US EB-2 NIW instead ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX25JS09KblJ6aHFWbVB3UnF2SzYtNDNnUzdDcHEwZkpPalMyLXhTNlJwbjlUeFFTTlFFOTIxQi12NU1qQ1IwSDdJQWhKbXpNTmRDMFBYMm1uU3d2cHlMN0xkbGNtQ0YxclFDb2o1OF93V3hLYS1WdG9IYVBBYW9wVUJHbG81WjZYd3lyblJycEVCcEc4b19VQnR30gGfAUFVX3lxTE5CeDlxOE0wcC00dEhQQzVMR0p3RnJmdFJOSGlVUVRROXM2aWgyeEVPbnM2ZXhId3Jiamd6cXBHdE5yb1U3aEZaM2p5TC1EWldxQzVUOEh6RVlYN21UZ0MzUWk2OHJIX2h2bFhIbU9jLW1ra0dtaHQ4TTNwRHB5ZnJmYlItVzkxTXZwZ0E5T1ZRZTNsQzh6V3JaeUhsbWIzVQ?oc=5)
+
+### JD Vance's H-1B warning to corporate America: We are not going to let you lay off American workers so you - The Times of India
+
+JD Vance's H-1B warning to corporate America: We are not going to let you lay off American workers so you    The Times of India
+
+[JD Vance's H-1B warning to corporate America: We a](https://news.google.com/rss/articles/CBMivAJBVV95cUxNR1ZTaEk5bzU0dnRuZWQ5Y25OdnUtcG9sQURtTUR2QjE3NDgyMnBza1hiUk9wQ0ZPQnBhZUZFVFc4MnhxejBiRWs2ZllpRE54eU9fT2RKV21xX2M3cGFUdlNYRzhKUDJ4WmJlaGJvZk4tNU5LYlctLWNBSHhIajBIbUR0cjNTY25LRDJRUV9aaWVHTVJJenNiTlpfaGZRVUtOeEk5V28wWUpsUXA5TmFGMWpKSDhoZ2VUUGV3N2JiYzl4WEpPYkZzRjFNcTYxMVJSaVpRTDVhSURWenFKTmdnZi1BdE84MVpkZ2VDYnZhOG52NEtmSDJCRy1VVjlqQmUwVk02OERTMTlEWHVCTVg0X1dVOERya1ZBVWRhZFhyeWphRExIcDFaNGNxNHFDVVhYTVJSU1JQdzhNN0Q00gHCAkFVX3lxTE5WM0EwWWkxRDZoYWtaVlVRMFJpeDhQUkEycFhDeDZQYmFqX3RjTlJFWjFBRkNYZWVxaTB6ZjRKWDJTU2pxRnVrTG03V0pucTFLWkUwRmNGeUFRT0lwbXFvNi1SNFRGWkRqaUszYnJFRXBFQnlBSUZvMU5DWGRPcC1ZaDhvdTJIZEZjeW1IbV9hc0syd2JMQ2dZU1BWY011Q1NJbnJBZDdDbV9JeG5aLVRGUkZWN2QyOXJkQzZwT3UtVmtqczFnMklnb2phUGg3SmhDRkM4Q09MWUtud0kxUVZTVG1XaEVETFdtN2l2TmtpMEtQMmJLakRIdVFxTEZFck5BWndXMWR4VmIyZ1d3LXdMeUhTSnRUVmdaRUdMZUJXMHk4UU5KZ2ZxUllRamhra1d4cXhRal8xTEF1VVpPb0Y5cVE?oc=5)
+
+### Comment on DHS Proposed $103,265 Fee on Cap-Subject H-1B Petitions. - Fragomen
+
+Comment on DHS Proposed $103,265 Fee on Cap-Subject H-1B Petitions.    Fragomen
+
+[Comment on DHS Proposed $103,265 Fee on Cap-Subjec](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlZTNHlVQmdZY0RuRjY0Y2tHcWhic3ZGVWxCaE5KUnpwd2hlVHJDRkRjLXI1blgwS1I3dkFVMU9FQkU4c3NtQVJzNzFDeF9Yc1pDYlNNUHZ4V1JBRTdhN01XeEdhdV9XcUVmajdyN1VFQy10Sk90RDRHcGF6SnM4QnEtQXlYSWNieTNLUTBmX0ZJQmFXR05MVTFxYzB4TGktR3Joa2xZczJPUkVuanc?oc=5)
