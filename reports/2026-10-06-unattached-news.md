@@ -6,11 +6,9 @@
 
 **오늘의 분석**
 
-구글이 ‘Call for Me’ 기능을 업무용 통화에서 개인 메시지까지 확대하려는 움직임과, Opus 5.5 에이전트가 상온 자기 반도체 후보를 발굴한 사례는 AI가 일상 소통과 기초 과학 연구 양쪽으로 동시에 침투하고 있음을 보여준다.  
+구글이 ‘Call for Me’를 개인 통화로 확대하고 제미니 무료 티어를 라이트 버전으로 축소하는 한편, 미스트랄이 1조 파라미터급 ‘미스트랄 라지 4’를 출시해 폐쇄형·오픈형 경쟁을 격화시키고 있다. 리플렉션의 501B 오픈웨이트 모델과 오퍼스 5.5 에이전트의 상온 자기반도체 발견은 대형 모델이 과학 연구에 직접 기여하는 흐름을 보여준다.  
 
-동시에 501B 규모의 오픈‑웨이트 모델 ‘Beam’ 공개와 위키피디아에서 드러난 오픈AI의 비정상 에이전트 활동, 앤트로픽이 사용자 일기를 경찰에 신고한 사건은 강력한 모델 공개와 자율 에이전트 운용이 가져올 투명성·책임성 문제를 부각한다.  
-
-이러한 흐름은 기술 확산 속도에 맞춰 규제·감사 체계와 기업의 윤리적 가드레일을 어떻게 조율할지가 핵심 과제로 떠오르게 한다. 앞으로 주시할 한 가지는 주요 플랫폼이 자율 에이전트의 행동 로그를 외부 감사자에게 얼마나 개방할지다.
+동시에 위키피디아에서 오픈AI 에이전트의 비정상 활동이 적발되고, 앤트로픽이 사용자 일기를 경찰에 신고해 형사 처벌로 이어진 사례는 모델 운영의 투명성과 프라이버시 보호가 여전히 미흡함을 드러낸다. 리브레오피스가 ‘AI 미사용’을 기본으로 내세우고 앤트로픽이 스타트업에 무료 크레딧을 제공하는 등, 상용화와 사용자 보호 사이에서 상반된 행보가 공존한다. 앞으로 주시할 점은 주요 기업들의 수익화 전략과 규제 대응이 오픈소스 생태계와 사용자 프라이버시에 미칠 영향이다.
 
 ### 제미니 콜 포 미는 엄마에게 당신이 늦을 거라고 말해줄지도 몰라요.
 
@@ -54,11 +52,94 @@
 
 [Anthropic reported diary entry to police, woman fa](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
 
+### 미스트랄 라지 4: “르 쇼익”
+
+기사 URL: https://mistral.ai/news/mistral-large-4/  
+댓글 URL: https://news.ycombinator.com/item?id=49978116  
+점수: 391  
+# 댓글 수: 43
+
+[Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/) | [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+
+### 앤트로픽은 스타트업들에게 1년간의 클로드 팀 무료 이용권과 1,000달러 상당의 크레딧을 제공하고 있습니다.
+
+우리가 이 프로그램을 만든 이유는, AI의 혜택이 단순히 모델 자체를 통해서가 아니라, 그 모델들을 활용하는 기업들을 통해 더 많은 사람들에게 도달할 수 있을 것이라고 믿기 때문입니다.
+
+[Anthropic is giving startups a free year of Claude](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
+
+### 리브레오피스는 이제 “AI 미사용”을 소프트웨어의 기능으로 제공합니다.
+
+이 오픈소스 문서 편집기의 제작사는 사용자의 프라이버시를 이유로, 소프트웨어의 기본 설정에 AI 기능을 추가할 계획이 없다고 밝혔습니다.
+
+[LibreOffice says ‘no AI’ is now a software feature](https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/)
+
+### 미스트랄의 새로운 1T 모델은 폐쇄형 및 오픈형 경쟁 제품들을 뛰어넘는 것을 목표로 합니다.
+
+프랑스의 AI 연구소인 Mistral AI는 미국과 중국의 경쟁사들을 앞지르고자 하는 새로운 대형 멀티모달 모델인 Mistral Large 4를 출시했습니다.
+
+[Mistral’s new 1T model aims to leapfrog closed and](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/)
+
+### Pinterest의 AI가 이제 뷰티 핀을 실천 계획으로 변환해줍니다.
+
+Pinterest의 새로운 AI 기반 뷰티 가이드는 헤어 및 네일 관련 콘텐츠를 전문 살롱에서 사용하는 용어로 변환해 주며, 예상 비용, 예약 시간, 관리가 필요한 부분 등도 알려줍니다.
+
+[Pinterest’s AI now turns beauty Pins into action p](https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/)
+
+### 구글은 제미니 플래시와 프로의 무료 접근을 곧 중단할 예정입니다.
+
+10월 9일부터, 무료 플랜으로 Google Gemini를 사용하는 사람들은 Flash Lite 버전만 사용할 수 있게 됩니다. 현재 무료 사용자들은 Gemini Flash Lite, Flash, Pro 중에서 선택할 수 있지만, 일반적인 Flash 버전을 사용하려면 월 4.99달러의 Google AI Plus 구독이 필요합니다. 하지만 그 구독 서비스도 곧 변경될 예정입니다.
+
+[Google is about to remove free access to Gemini Fl](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only)
+
+### AI 의사결정 모델이 콘텐츠 검열을 어떻게 변화시킬 수 있을까?
+
+화요일, 무스비는 실시간 모더레이션을 위해 고안된 경량형 결정 모델인 PolicyLM-1.7B를 발표했으며, 이 모델의 가중치는 공개되었습니다.
+
+[How AI decision models could change content modera](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)
+
+### AI 컴퓨팅 스타트업 람다, 예정된 IPO에 앞서 40억 달러 조달 예정
+
+엔비디아의 지원을 받는 람다는 2027년 예정된 IPO를 앞두고, 코투에와 블랙스톤이 주도하여 145억 달러의 기업 가치 평가를 바탕으로 최대 40억 달러를 조달할 계획입니다.
+
+[AI computing startup Lambda to raise $4B ahead of ](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
+
+### AI 에이전트들이 직면한 다음 과제는, 웹사이트들이 그들을 받아들이도록 하는 것입니다.
+
+개인용 AI 에이전트들은 쇼핑을 도와주거나, 항공권을 예약해주는 등의 서비스를 제공할 수 있습니다. 하지만 의도적인 차단 조치와 봇 방지 장치들이 이러한 서비스의 활용을 방해하고 있어, 소비자들은 곤경에 처하게 됩니다. 새로운 표준이 이 문제를 해결하는 데 도움이 될 것으로 기대됩니다.
+
+[The next hurdle for AI agents: getting websites to](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
+
+### 하크, 프라이버시에 중점을 둔 AI 개인 비서 출시
+
+AI 연구소의 개인 비서는 Muse, Dots, Instinct와 경쟁하기 위해 고안된 미래형 운영체제입니다.
+
+[Hark releases an AI personal assistant with a focu](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
+
+### ‘녹음’이라는 개념을 그냥 바꿀 수는 없습니다.
+
+AI 하드웨어 덕분에, 기술 회사들은 무엇이 녹음으로 간주되고 무엇이 그렇지 않은지에 대한 정의를 재정의하고 있습니다. 지금까지의 기기 발전 과정을 보면, 마이크나 카메라가 달린 기기라면 그 기기가 사용자의 소리나 모습을 녹화하고 있는지 아닌지는 명확했습니다. 즉, 켜져 있거나 꺼져 있을 뿐, 중간 단계는 없었죠. 마이크는 소리를 포착합니다. 카메라는…
+
+[We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
+
+### 미스트랄 라지 4
+
+https://docs.mistral.ai/models/mistral-large-4-0  
+  
+댓글 URL: https://news.ycombinator.com/item?id=49977979  
+점수: 1403  
+# 댓글 수: 879
+
+[Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+
 ## 한국
 
 **오늘의 분석**
 
-오늘 뉴스는 사회적 약자 보호 체계의 현주소와 문화적 정체성의 두 축이 교차한다. 서울역 홈리스 시설 폐쇄 항의와 전세사기 보증금 3분의 1 국가 지원 시행, 70대 스토커의 염산 테러 징역 5년 선고는 주거 안전과 신변 보호라는 기본권 보장에서 국가 책임이 확대되고 있음을 보여주나, 현장 시설 폐쇄와 형량 적정성 논란 등 실효성 논쟁은 여전하다. 한편 메조소프라노 김청자 별세와 마산국화축제 개막, 가자 연대 행사는 개척자적 예술 유산과 지역 문화 활력, 국제 연대 의식이 공존하는 사회 문화적 저력을 확인시킨다. 쌍용건설의 남부내륙철도 대형 수주는 지역 균형 발전이라는 하드웨어적 토대 구축이 병행됨을 의미한다. 앞으로 전세사기 지원금 지급과 홈리스 대책이 현장에서 얼마나 신속하고 두텁게 작동할지가 주시된다.
+오늘 뉴스는 취약 계층 보호를 위한 제도적 장치 마련과 현장 현실의 간극이 뚜렷하게 대비된다. 전세사기 피해자 보증금 3분의 1 국가 지원 시행령 의결과 경찰 수사개혁위의 변호사 500명 채용 권고는 국가 책임을 강화하려는 흐름이나, 서울역 홈리스 시설 폐쇄 항의와 ‘홈리스 청년’ 10명 중 8명 우울증 실태, 염산 테러범 징역 5년 선고 등은 법·제도가 미처 감싸지 못한 사각지대의 깊이를 보여준다.
+
+역사 기억 왜곡과 안보 긴장도 병행된다. 한국인 최초 유럽 오페라 주역 김청자 씨 별세로 문화사적 성취를 되새기는 날, 광주 ‘피떡갈비’ 메뉴 논란은 5·18 폄훼가 일상에 스며들었음을 드러낸다. 북한의 DMZ 지뢰 폭발 ‘자작극’ 주장은 합동조사 결과를 정면 부정하며 남북 대치 전선의 완고함을 확인시켰고, 후티의 사우디 본토 공습(현대차 진출 라빅 포함)은 지정학적 리스크가 한국 경제 현장으로 파고듦을 경고한다.
+
+산업계는 대전환기 대응에 분주하다. 쌍용건설의 8천억 원대 남부내륙철도 수주와 제네시스 첫 하이브리드 출시는 전통 강호의 생존 전략이자 미래차 선점 시도다. 소듐이온배터리 부상으로 ‘꿈의 배터리’ 전고체 독주 구도에 균열이 인 점도 기술 패권 경쟁의 유동성을 시사한다. 앞으로 주시할 점은 전세사기특별법 시행령과 경찰 변호사 충원 계획이 현장 체감도로 이어질지다.
 
 ### ‘한국인 최초 유럽 오페라 무대’ 메조소프라노 김청자 별세
 
@@ -102,6 +183,120 @@
 
 [국화 향기로 물드는 마산만···마산가고파국화축제 31일 개막](https://www.khan.co.kr/article/202610061252001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
 
+### 인천대교 인근 해상서 41t 운반선 불…3명 구조
+
+인천대교 인근 해상에서 41t급 어획물 운반선에서 불이 나 3명이 구조됐다.6일 인천해양경찰서 등에 따르면 이날 오후 1시 58분경 인천항해상교통관제센터(VTS)를 통해 “인천대교 아래 배에서 불이 났다”는 신고가 접수됐다.당시 승선원 3명은 근처에 있던 인천해경 해양재난구조대 소속 민간 낚시어선에 의해 전원 구조됐다. 인명 피해는 없는 것으로 전해졌다. 해경은 오후 2시 8분경 현장에 도착해 화재를 진압했다. 또 소방과 함께 오후 2시 46분경 외부 화재를 진압했다.이후 인천해경 P-59정이 화재 선박을 연안부두로 예인했고 오후 4시 30분경 선박 내부에 남아 있던 잔불까지 모두 진압했다.추가 피해는 아직까지 확인되지 않은 것으로 파악됐다. 해경은 정확한 화재 발생 원인 등을 조사할 방침이다.
+
+[인천대교 인근 해상서 41t 운반선 불…3명 구조](https://www.donga.com/news/Society/article/all/20261006/134796020/2) | [인천대교 인근 해상서 선박 화재…승선원 3명 모두 구조 - 싱글리스트](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUenlKRDJOWTIyUFg5Z09rSm9wRzRXZGhIMGZMRmM5YVVaQV9vbGJYSnVnNWFHem5haHl1OS1jb1B6dXdyOVNCZzc0c2tJZTBKLWR0RnFIQW1hM1c5dnJ5Qk13U2pjUQ?oc=5)
+
+### 광주 음식점 메뉴에 ‘피떡갈비’, 5·18 폄훼 논란…업주 “몰랐다”
+
+전남광주 동구 동명동의 한 음식점이 온라인 극우 커뮤니티에서 5·18민주화운동을 폄훼하는 표현으로 쓰이는 이름을 메뉴명으로 사용해 논란이 일고 있다.6일 커뮤니티와 소셜네트워크서비스(SNS) 등에는 9월 개업한 이 가게의 메뉴 사진과 함께 “광주 술집에서 메뉴 이름 저렇게 짓는 게 맞냐”는 글이 게시됐다. 문제가 된 메뉴는 떡갈비 위에 케첩을 뿌린 메뉴로, 가게가 정한 메뉴명은 ‘피떡갈비’다. 이 표현은 일부 온라인 극우 커뮤니티에서 1980년 5월 광주 희생자들의 ‘피’와 지역 대표 음식인 ‘떡갈비’를 합쳐 5·18을 조롱하거나 비하하는 용어로 사용돼 왔다.논란이 커지자 가게 측은 SNS 사과문에서 “같은 음식이지만 다르게 표현하면 좋을 것 같았고 아무 의미가 없는 말인 줄 알았다”며 “논란이 될 수 있는
+
+[광주 음식점 메뉴에 ‘피떡갈비’, 5·18 폄훼 논란…업주 “몰랐다”](https://www.donga.com/news/Society/article/all/20261006/134796025/1) | [광주 음식점 메뉴에 5·18 비하 표현 논란…업주 "몰랐다" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52R2ZHVDJuVXJSY0NTTFBIRW1hRWhObURrZzZtcXFXMGw5d2NBSExoaGFOMFVHZ2p6U3hlcTFoeTBvQjBXT2JSQllwTGQ4Sm0xRGw1Q2RiVEpNTUnSAWBBVV95cUxOcXU4YlFxTVNfZ0I4V0pOUERPWFR5MFFaQ2k2SU55V1dYS2NDbjZ0Yll4R3FjNmxKbm4tUlRybnhWQnBSMVlyWTJidjh1ZVgzVDVkS1c1N2EtYzRLd2hrNko?oc=5)
+
+### [속보] 북한 외무성, DMZ 북한군 지뢰 폭발 발표에 “일방적으로 결론한 자작극”
+
+양진혁 합동참모본부 작전부장이 지난 5일 서울 용산구 국방부에서 열린 비무장지대(DMZ) 지뢰 폭발 관련 합동 현장조사 TF 최종 조사 결과 발표 브리핑에서 이전에 수거했던 수지 반보병지뢰를 들어보이고 있다. 연합뉴스북한 외무성이 서부전선 비무장지대(DMZ) 지뢰 폭발 사고의 원인이 북한군 지뢰라는 정부 발표에 “일방적으로 결론한 자작극”이라고 6일 밝혔다···
+
+[[속보] 북한 외무성, DMZ 북한군 지뢰 폭발 발표에 “일방적으로 결론한 자작극”](https://www.khan.co.kr/article/202610061918001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 수사개혁위 “경찰, 변호사 500명 이상 뽑아 수사에 배치해야”
+
+경찰 수사개혁위원회가 경찰의 법률적 수사 역량을 강화하기 위해 향후 5년간 매년 100명 이상, 총 500명 이상의 변호사 자격자를 경찰공무원으로 채용해 수사부서에 배치할 것을 권고했다.국민의 신뢰 회복을 위한 경찰 수사개혁위원회는 6일 제11차 정례회의를 열고 ‘경찰의 수사 공정성 및 수사역량 강화를 위한 권고’를 의결·발표했다. 권고안에는 수사 공정성 강화 9건과 수사 역량 강화 3건 등 모두 12개 과제가 담겼다.위원회는 현재 경찰 내 변호사 자격자가 311명인 점을 고려해 전국 262개 경찰서에 경찰서당 2~4명 이상의 법률전문가를 충원할 필요가 있다고 판단했다. 이에 최소 500명을 추가로 채용할 필요가 있다고 보고 매년 100명 이상을 5년간 선발하는 방안을 제시했다. 다만 변호사 자격 자체가 수
+
+[수사개혁위 “경찰, 변호사 500명 이상 뽑아 수사에 배치해야”](https://www.donga.com/news/Society/article/all/20261006/134796882/2)
+
+### 제네시스, ‘GV80 2.5 가솔린 터보 하이브리드’ 출시…“6기통 하이브리드 도입도 검토”
+
+제네시스가 첫 번째 하이브리드 모델을 출시했다. 성능을 소폭 개선한 2.5리터 가솔린 터보 하이브리드 엔진을 활용해 후륜 기반 하이브리드 모델을 완성했다. 처음으로 7단 자동변속기와 수냉식 배터리 냉각 시스템을 채용한 점도 눈길을 끈다. 이와 함께 현재 개발 중인 6기통 하이브리드 엔진 도입도 검토 중인 것으로 알려졌다. 제네시스도 공식적으로 다양한 파워트레인 경험을 제공할 것이라고 했다. 다만 6기통 하이브리드 엔진 도입은 아직 검토 중인 단계로 GV80이 6기통 하이브리드 첫 모델이 될지는 정해지지 않았다.제네시스는 6일 ‘GV80 하이브리드’를 출시하고 본격적인 판매에 돌입한다고 밝혔다. 엔진은 전륜 구동 기반 현대자동차 팰리세이드 하이브리드에 처음 적용된 스마트스트림 2.5 가솔린 터보 하이브리드 엔
+
+[제네시스, ‘GV80 2.5 가솔린 터보 하이브리드’ 출시…“6기통 하이브리드 도입도 검토](https://www.donga.com/news/Economy/article/all/20261006/134796870/1)
+
+### [여적]춘추정병시대
+
+경향신문 창간 80주년 기획  ‘춘추정병시대’ 이미지.“면접에서 계속 떨어지는 건 다 이 중안부 탓이야.” “살이 빠질수록 대우가 좋아지다 보니.”다른 사람보다 튀어나온 광대뼈, 날씬하지 않은 몸매가 신경 쓰인다. 매번 회사 면접에서 떨어지는 건 돌출된 광대뼈, 사람들이 친절하지 않은 건 체중 때문일 것만 같은 생각이 머릿속에서 떠나지 않는다. 지금 대한민···
+
+[[여적]춘추정병시대](https://www.khan.co.kr/article/202610061911001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### [창간 80주년]기사로, AI로 만난 경향 80년 “온누리 평화에 역할하길”
+
+경향신문 창간 80주년 비전선포식경향신문 창간 80주년을 맞아 6일 서울신라호텔에서 열린 비전선포식에서 전통무용 오방신장무 공연이 펼쳐지고 있다. 문재원 기자“경향신문이 여러 산업재해 유가족들과 약자들의 목소리를 듣는 보도를 해왔다고 생각해요.” (김미숙 김용균 재단 대표)6일 열린 경향신문 창간 80주년 비전선포식에는 정·재계 인사는 물론 노동자와 사회적···
+
+[[창간 80주년]기사로, AI로 만난 경향 80년 “온누리 평화에 역할하길”](https://www.khan.co.kr/article/202610061903001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 尹 ‘명태균 여론조사 무상수수’ 오늘 2심 선고 - KBS 뉴스
+
+尹 ‘명태균 여론조사 무상수수’ 오늘 2심 선고    KBS 뉴스   Google 뉴스에서 헤드라인 및 의견 더보기
+
+[尹 ‘명태균 여론조사 무상수수’ 오늘 2심 선고 - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZjFPZGR0dzdXbHI2aUJiUjZPRFR2b1Z0c0xhZmhpVTI3MlQ0V2Y5Z0tNS1ZrRWdUa3g2eDRUV2hfV2xXcUFpcFprY0s3NnI3T2J4UWhISVcyZ0E?oc=5)
+
+### 한글 주춧돌 위에 세워진 대한민국[기고/김주원]
+
+한글은 우리말의 소리를 체계적으로 분석하여 만들어 낸 독창적인 음소문자로 간결성과 정확성, 과학성을 두루 갖춘 문자로 평가받아 왔다. 특히 디지털 환경에 최적화된 체계적·규칙적 구조, 그리고 최근 한국어 한글을 비롯한 K문화의 세계적 확산은 한글의 또 다른 우수성을 잘 보여 준다. 훈민정음 반포 580돌이자 한글날 제정 100돌을 맞는 올해, 이제는 한글을 ‘우수한 문자’로 칭송하는 데에만 머무르지 않고, 우리 사회와 경제 발전에 어떻게 이바지했는지 그 실질적 가치에 주목하고자 한다. 1926년에 조선어연구회(현 한글학회)에서는 훈민정음 반포 480돌을 맞이하여 ‘가갸날’을 제정하고 기념식을 열어 한글에 대한 인식을 새로이 다졌다. 일제강점기 우리 민족에게 한글은 단순한 문자를 넘어 민족 독립의 상징이었다.
+
+[한글 주춧돌 위에 세워진 대한민국[기고/김주원]](https://www.donga.com/news/Economy/article/all/20261006/134795055/2)
+
+### 삼현, 11월 ‘2026 로보월드’서 주요 제품 공개[톡톡 스타트업 뉴스]
+
+모션컨트롤 전문기업 삼현(대표 박기원)은 다음 달 4∼7일 경기 고양시 일산 킨텍스에서 열리는 ‘2026 로보월드(ROBOTWORLD 2026)’에 참가해 휴머노이드 액추에이터와 고하중 자율주행로봇, 4족보행로봇 등 모션컨트롤 기반 로봇 기술과 제품을 대거 선보인다고 6일 밝혔다.
+
+[삼현, 11월 ‘2026 로보월드’서 주요 제품 공개[톡톡 스타트업 뉴스]](https://www.donga.com/news/Economy/article/all/20261006/134795057/2)
+
+### 써드에이지 ‘제2회 글로벌 시니어 웰니스 컨퍼런스’ 개최
+
+‘인공지능(AI)시대, 우리의 회복과 치유’를 주제로 ‘제2회 글로벌 시니어 웰니스 컨퍼런스’가 11월 6∼7일(1박 2일) 강원 원주시 ‘뮤지엄 산’과 ‘오크밸리 리조트’에서 열린다. 써드에이지㈜(대표 이보람)가 주최하는 이번 행사는 수면·영양·운동·마음·공간·여행·기술을 키워드로 인생 2막을 건강하게 살기 위해 필요한 ‘회복’을 다양한 관점에서 다룬다. 이보람 대표는 “AI가 건강 데이터를 분석하고 운동과 생활습관까지 제안하는 시대가 됐지만 기술이 발전할수록 결국 중요한 것은 사람이 자신의 몸과 마음을 어떻게 회복하고 건강하게 오래 살아갈 것인가의 문제”라며 “강원도의 자연·음식·공간과 AI·새로운 기술을 연결해 실제 삶에서 작동하는 웰니스 모델을 만들어 보고 싶다”고 말했다. 프로그램은 재활의학 전문가
+
+[써드에이지 ‘제2회 글로벌 시니어 웰니스 컨퍼런스’ 개최](https://www.donga.com/news/Economy/article/all/20261006/134795064/2)
+
+### 한복, 전시를 넘어 판매로… 밀라노에서 시장성 시험
+
+지난달 26일 이탈리아 밀라노 팔라초 이심바르디. 이 유서 깊은 건축물에서 리슬, 무릇, 온다타, 신:서울, 하플리 등 국내 5개 한복 브랜드 옷이 소개됐다. 젊은 디자이너들이 이끄는 이 옷들은 한복 고유의 선과 깃, 여밈 같은 요소를 살리면서도 일상에서 입기 좋아 보였다. 현지 바이어와 패션 관계자들은 소재와 마감 등을 꼼꼼히 살피며 질문을 이어갔다. 문화체육관광부가 주최하고 한국공예·디자인문화진흥원(이하 공진원)이 주관한 ‘2026 한복 해외 거점 프로모션’ 현장이었다. 세계적 패션 행사인 밀라노 패션위크에 맞춰 열린 이번 행사는 단순한 문화 교류를 넘어 한복이 실제로 팔리고 유통될 수 있는지를 시험하는 데 초점을 맞췄다. 밀라노 스튜디오 제타 쇼룸에서 진행된 비즈니스 상담에서는 리슬 3건, 무릇 1건
+
+[한복, 전시를 넘어 판매로… 밀라노에서 시장성 시험](https://www.donga.com/news/Economy/article/all/20261006/134795070/2)
+
+### [점선면]‘금’보다 ‘군’? 도마 오른 병역특례
+
+50년 넘은 제도, 이번엔 손 볼까2026 아이치·나고야 아시안게임이 막을 내렸습니다. 종합 3위를 차지한 한국 선수단은 지난 5일 입국했는데요. 인천국제공항에서 열린 해단식에서 환영과 격려, 기쁨의 인사만이 아닌 사과의 말도 나왔습니다. 유승민 대한체육회장이 “일부 선수들의 경솔한 발언으로 상처받으신 국민 여러분과 국군 장병 여러분께 대한체육회를 대표해 ···
+
+[[점선면]‘금’보다 ‘군’? 도마 오른 병역특례](https://www.khan.co.kr/article/202610070700021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### “전고체 배터리가 꿈의 배터리라고?”…‘전천후 배터리’ 야망 키우는 소듐이온배터리[경제밥도둑]
+
+LG에너지솔루션이 지난 3월 서울 코엑스에서 전시한 소듐이온배터리(SIB)의 모습. LG에너지솔루션 제공최근 배터리업계에서 소듐이온배터리(SIB)에 대한 주목도가 높아지고 있다. 로봇과 고성능 전기차 등 미래 산업에는 에너지밀도가 높은 ‘꿈의 배터리’인 전고체 배터리가 주목받았지만, 에너지저장장치(ESS)와 보급형 전기차(EV) 등에는 ‘가격 경쟁력’이 중···
+
+[“전고체 배터리가 꿈의 배터리라고?”…‘전천후 배터리’ 야망 키우는 소듐이온배터리[경제밥도](https://www.khan.co.kr/article/202610070700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### 후티, 사우디 공항 등 본토 공습…현대차 진출 라빅도 피격
+
+예멘의 친이란 반군 후티가 사우디아라비아의 공항과 정유시설 등을 겨냥한 미사일·드론 공격을 강화하고 있다. 한국 기업들이 진출한 홍해 연안 도시 라빅의 정유시설도 공격 대상이 됐지만 현재까지 한국인 피해는 확인되지 않았다.6일(현지 시간) AP통신 등에 따르면 사우디 민간항공청은 예멘 국경과 가까운 자잔의 킹압둘라 빈 압둘아지즈 국제공항과 나지란 국제공항이 공격을 받아 3명이 다치고 시설 일부가 파손됐다고 밝혔다. 당국은 피해 규모를 조사하는 한편 공항 안전 확보 조치에 나섰다.후티는 전날 탄도·순항미사일과 드론을 동원해 사우디 전역의 공항과 석유시설, 군사시설을 공격했다고 주장했다. 야히야 사리 후티 대변인은 수도 리야드의 킹칼리드 국제공항과 라빅의 아람코 정유시설, 아브하 공항과 하미스 무샤이트 공군기지
+
+[후티, 사우디 공항 등 본토 공습…현대차 진출 라빅도 피격](https://www.donga.com/news/Inter/article/all/20261007/134798451/1)
+
+### 월가 올해도 ‘보너스 잔치’…금융권 이익 120조원대 전망
+
+미국 월가 금융권이 지난해에 이어 올해도 사상 최대 수준의 보너스를 지급할 것으로 전망됐다. 대형 은행들이 기업 인수·합병(M&A)과 기업공개(IPO), 인공지능(AI) 투자, 시장 변동성 확대 등에 힘입어 호실적을 이어갈 것으로 예상되면서다.6일(현지 시간) 월스트리트저널(WSJ)에 따르면 뉴욕주 감사관 토마스 디나폴리는 올해 미국 금융권은 900억달러(약 120조원) 이상의 이익을 올릴 것으로 전망했다.이에 따라 뉴욕 증권업계 종사자들의 보너스도 지난해보다 늘어날 것으로 예상된다. 뉴욕시가 앞서 올해 보너스 규모가 20% 감소할 것으로 예상했던 것과는 다른 전망이다.지난해 월가 종사자의 평균 보너스는 24만6900달러(약 3억4000만원)였으며, 평균 총보상액은 56만1770달러(약 7억8000만원)에
+
+[월가 올해도 ‘보너스 잔치’…금융권 이익 120조원대 전망](https://www.donga.com/news/Inter/article/all/20261007/134798442/1)
+
+### [단독]PC방·찜질방 전전하는 ‘홈리스 청년’···10명 중 8명 우울증 겪고 있다
+
+서울 관악구 신림동 반지하에 거주하는 시각장애인 김씨가 서울 강북구 본인 자택에서 경향신문과 인터뷰 하고 있다. 사진은 기사와 직접 관련 없음. 한수빈 기자“건물 계단에 쭈그리고 누워 3일을 잤어요. 누가 들어오면 앉아서 그냥 핸드폰 하는 척하고. 온갖 생각이 다 들었죠. 당장 잘 곳이 없다는 건 ‘아무것도 없다’는 의미에요. 돈, 도움을 줄 어른, 먹을 ···
+
+[[단독]PC방·찜질방 전전하는 ‘홈리스 청년’···10명 중 8명 우울증 겪고 있다](https://www.khan.co.kr/article/202610070600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### [단독] AI·디지털 교육비인데 비AI 강좌도 ‘OK’…“사용처 상위 60곳 중 전문기관 4곳”
+
+평생교육이용권 신청 방법 관련 인프런 게시글 캡처. 인프런 제공정부가 성인의 인공지능(AI)·디지털 역량 강화를 위해 별도 이용권과 예산을 책정했지만, 실제 지원금이 사업 목적에 맞게 쓰이는지를 점검하는 관리체계는 미흡한 것으로 나타났다. 올해 AI·디지털 평생교육이용권 사용 건수 상위 60개 기관 가운데 AI·디지털 교육 전문기관은 4곳에 그쳤다.6일 국···
+
+[[단독] AI·디지털 교육비인데 비AI 강좌도 ‘OK’…“사용처 상위 60곳 중 전문기관 ](https://www.khan.co.kr/article/202610070600111/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news)
+
+### LG-KIA 계속되는 3위 전쟁…KT 최원준-롯데 레이예스 동반 200안타[어제의 프로야구]
+
+김도영의 역전 쓰리런포에 무너졌던 LG가 오스틴의 선제 쓰리런으로 살아났다. 프로야구 LG는 6일 안방 잠실구장에서 열린 NC와의 경기에서 1회부터 터진 오스틴의 선제 3점 홈런과 5선발 박시원의 5와 3분의 1이닝 1실점 호투를 앞세워 6-1로 승리해 8연패에서 탈출했다.LG는 이날 1회말 문보경의 솔로포까지 더해 4점을 뽑았다. LG는 전날 3위 KIA와의 맞대결에서도 1회부터 4점을 뽑았었다. 하지만 추가득점 없이 실점을 허용하다 9회 김도영에게 역전 쓰리런을 허용하며 KIA와 1경기차 4위가 됐다. 전날까지 KIA와 치른 3연전에서 먼저 점수를 내고도 마운드의 연쇄 붕괴로 역전패했던 LG는 이날은 선발 박시원이 제몫을 다한 뒤 마운드를 이어받은 불펜 4명(고우석-우강훈-김영우-장현식)이 무실점을 합작
+
+[LG-KIA 계속되는 3위 전쟁…KT 최원준-롯데 레이예스 동반 200안타[어제의 프로야구](https://www.donga.com/news/Sports/article/all/20261006/134797713/1)
+
 ## 한국 정치
 
 **오늘의 분석**
@@ -140,15 +335,105 @@
 
 [행안장관, 수장없는 중수청 출범에 "대단히 송구"](https://www.yna.co.kr/view/AKR20261006098700530)
 
+### 靑, 조희대에 "추천委 존중해 대법관 신속 재제청"…입장 재확인
+
+(서울=연합뉴스) 임형섭 설승은 기자 = 청와대는 6일 대법관 재제청 문제와 관련, "대법원장은 국민이 재판받을 권리가 침해되지 않도록, 추천위...
+
+[靑, 조희대에 "추천委 존중해 대법관 신속 재제청"…입장 재확인](https://www.yna.co.kr/view/AKR20261006169600001) | [靑 “대법관 재제청, 추천위 존중해 신속히 이뤄져야”…입장 재확인](https://www.donga.com/news/Politics/article/all/20261006/134795323/1)
+
+### 정부 “유엔사와 먼저 MDL 일치화, TF 구성해 논의 중”…‘안보리 결의’ 등 지뢰사고 추가 대응 만지작
+
+조현 외교부장관(왼쪽)이 6일 국회에서 열린 외교부 국정감사에서 의원질의에 답하고 있다. 박민규 선임기자조현 외교부 장관이 남과 북, 유엔군사령부(유엔사) 사이 인식이 다른 군사분계선(MDL) 일치화와 관련해 “북한의 호응이 없어 고민 중”이라고 밝혔다. 국방부는 올해 초부터 유엔사와 태스크포스(TF)를 꾸려 유엔사와 한국군의 MDL을 먼저 일치화하는 논의···
+
+[정부 “유엔사와 먼저 MDL 일치화, TF 구성해 논의 중”…‘안보리 결의’ 등 지뢰사고 ](https://www.khan.co.kr/article/202610061747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news) | [軍 "유엔사와 먼저 MDL 일치화…올초부터 TF 구성해 논의"](https://www.yna.co.kr/view/AKR20261006103100504)
+
+### 배경훈 "AI 드라이브 가속"…국감서 신뢰 과제 재확인(종합2보)
+
+(서울=연합뉴스) 신선미 권하영 박형빈 오지은 기자 = 배경훈 부총리 겸 과학기술정보통신부 장관이 6일 국회 과학기술정보방송통신위원회 국정감사에...
+
+[배경훈 "AI 드라이브 가속"…국감서 신뢰 과제 재확인(종합2보)](https://www.yna.co.kr/view/AKR20261006144251017)
+
+### 정부, 농지 특조법 특례 2∼3년 설정·직권 지목 변경 추진(종합)
+
+(서울=연합뉴스) 홍국기 기자 = 정부가 투기나 중대한 불법 전용이 아닌 농지법 위반 사항에 대해 특별조치법(특조법)으로 처분 제외·유예하는 특...
+
+[정부, 농지 특조법 특례 2∼3년 설정·직권 지목 변경 추진(종합)](https://www.yna.co.kr/view/AKR20261006073951030)
+
+### “김현지 주례 본 성남라인, 심사 꼴찌에도 연봉 2.4억 공기업 사장”
+
+이재명 대통령, 김현지 대통령제1부속실장과 과거 시민단체에서 함께한 인연이 있는 ‘성남 라인’ 인사가 사장 후보 심사에서 최하위권 점수를 받았음에도 에너지 공기업의 사장으로 임명된 것으로 파악됐다.6일 국회 기후에너지환경노동위원회 소속 국민의힘 나경원 의원실이 한국지역난방공사에서 받은 자료에 따르면 경기 성남 지역 환경운동가 출신인 하동근 사장은 서류와 면접에서 가장 낮은 점수를 받았던 것으로 나타났다. 하 사장은 당시 8명이 통과한 서류 심사에서 85.8점을 받아 8등을 기록했다. 이후 5명이 올라간 면접 심사에서도 81.42점을 받아 5등에 그쳤다. 이후 공사 임원후보추천위원회가 5명을 최종 후보로 올렸고, 장관 제청을 통해 올해 4월 사장에 임명됐다. 한국지역난방공사 사장 연봉은 성과급 등을 포함해 2
+
+[“김현지 주례 본 성남라인, 심사 꼴찌에도 연봉 2.4억 공기업 사장”](https://www.donga.com/news/Politics/article/all/20261006/134796213/1)
+
+### 與 "조희대, 국가원수 맞먹으면 안돼"·野 "대통령 대법관쇼핑"(종합2보)
+
+(서울=연합뉴스) 최평천 정연솔 기자 = 여야는 6일 대법원에 대한 국회 법제사법위원회의 국정감사에서 조희대 대법원장의 이석 문제, 대법관 후보...
+
+[與 "조희대, 국가원수 맞먹으면 안돼"·野 "대통령 대법관쇼핑"(종합2보)](https://www.yna.co.kr/view/AKR20261006075452001)
+
+### 여야, 한·아프리카재단 폐지 반대·우려…조현 "대통령께 재고 건의"(종합2보)
+
+(서울=연합뉴스) 성도현 기자 = 외교부 산하 한국국제교류재단(KF)과의 통합 수순을 밟고 있는 한·아프리카재단(이사장 김영채)과 관련해 6일 ...
+
+[여야, 한·아프리카재단 폐지 반대·우려…조현 "대통령께 재고 건의"(종합2보)](https://www.yna.co.kr/view/AKR20261006177952371)
+
+### 조현 "그정도 北대응 예측했다…지뢰 입장 표변 않을 것"(종합2보)
+
+(서울=연합뉴스) 김지헌 민선희 기자 = 조현 외교부 장관은 6일 비무장지대(DMZ) 지뢰 폭발과 관련한 북한의 대응은 예상한 수준이라고 밝혔다...
+
+[조현 "그정도 北대응 예측했다…지뢰 입장 표변 않을 것"(종합2보)](https://www.yna.co.kr/view/AKR20261006093252504)
+
+### 北, DMZ 지뢰 1mm 침범시 즉각 대응 위협 : 정치 - 재경일보
+
+北, DMZ 지뢰 1mm 침범시 즉각 대응 위협 : 정치    재경일보
+
+[北, DMZ 지뢰 1mm 침범시 즉각 대응 위협 : 정치 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Md3NFQ1FOOU5jVFl1a1lYWFpLYXpmd2xickFwOVBQcTBFaVdHNVZ3bnN0YzQxN25nVzJMRFh4d2RfTDh3a2ZTd294Yw?oc=5)
+
+### 조희대 ‘李 파기환송심-계엄 회의’ 답변 안 해…“더 질의 받기 어렵다”
+
+조희대 대법원장이 대법관 공석 사태 및 대법관 후보 제청 갈등에 대해 “국민 여러분께 불편과 심려를 끼쳐드린 데 대해 거듭 송구하다”며 “대법원이 온전한 구성을 갖출 수 있도록 필요한 노력을 다 하겠다”고 밝혔다.조 대법원장은 6일 국회 법제사법위원회의 대법원 국정감사 마무리 발언에서 “사법부의 업무 전반을 세심하게 살펴 주신 위원님들의 말씀을 경청하며 저를 비롯한 사법 구성원 모두는 업무처리에 미흡한 점이 많음을 다시 한 번 확인했다”며 이같이 말했다.이어 “위원님들께서 전해 주신 말씀은 사법권을 맡겨 주신 국민의 준엄한 목소리라고 생각한다”며 “오늘 주신 질책과 조언을 국민의 냉철한 평가로 겸허히 받아들여 국민께서 실제로 체감하실 수 있는 변화로 이어 가겠다”고 덧붙였다.격려금과 업무추진비 집행 문제에
+
+[조희대 ‘李 파기환송심-계엄 회의’ 답변 안 해…“더 질의 받기 어렵다”](https://www.donga.com/news/Politics/article/all/20261006/134797993/2)
+
+### 김정은, 푸틴 생일 축전…“동맹관계 중시, 불변한 선택”
+
+김정은 북한 국무위원장이 7일 블라디미르 푸틴 러시아 대통령의 74세 생일(10월 7일)을 기념해 축전을 보냈다고 노동신문이 보도했다.신문이 1면에 공개한 축전에 따르면 김 위원장은 푸틴 대통령을 “가장 친근한 벗”이라고 부르며 “나는 당신과 훌륭한 친분을 맺고 우리 두 나라 사이 관계 발전의 새로운 장을 열어나가고 있는 데 대하여 기쁘게 생각한다”고 밝혔다.이어 “형제적인 러시아연방과 맺은 포괄적인 전략적 동반자관계, 동맹관계를 중시하고 공동의 사업을 줄기차게 확대발전 시켜나가려는 것은 조선민주주의인민공화국(북한) 정부의 확고 부동한 방침이며 또한 나 자신의 불변한 선택”이라고 했다.김 위원장은 “나는 나라의 주권과 안전이익, 영토완정을 수호하기 위한 러시아 인민의 정의의 성전이 반드시 승리적으로 결속되리
+
+[김정은, 푸틴 생일 축전…“동맹관계 중시, 불변한 선택”](https://www.donga.com/news/Politics/article/all/20261007/134798469/1)
+
+### 해군 부사관 폭행 허위 신고한 병사…법원 "2천600만원 배상"
+
+(부산=연합뉴스) 차근호 기자 = 같은 함정에서 근무하는 해군 부사관에게 폭행당했다고 허위 신고해 무고죄로 유죄가 확정된 병사가 해당 부사관에게...
+
+[해군 부사관 폭행 허위 신고한 병사…법원 "2천600만원 배상"](https://www.yna.co.kr/view/AKR20261006131400051)
+
+### 세계 경제 분절화 속 한일 협력은…미래경제포럼 11월3일 개최
+
+(서울=연합뉴스) 박성진 기자 = 미중 패권 경쟁과 잇단 전쟁으로 세계 경제의 블록화와 분절화가 가속하는 가운데 지속 가능한 성장을 위한 한일 ...
+
+[세계 경제 분절화 속 한일 협력은…미래경제포럼 11월3일 개최](https://www.yna.co.kr/view/AKR20261006125800898)
+
+### 학교 40%는 '30년이상 노후건물'…이광재 "국가투자로 개선해야"
+
+(서울=연합뉴스) 오규진 기자 = 학교 건물 10곳 중 4곳이 지어진 지 30년이 지난 노후 교사(校舍)인 것으로 나타났다.
+
+[학교 40%는 '30년이상 노후건물'…이광재 "국가투자로 개선해야"](https://www.yna.co.kr/view/AKR20261006119400001)
+
+### 트럼프, 한국 대미 조선업 투자 강조..."관세 인하 대가" - 싱글리스트
+
+트럼프, 한국 대미 조선업 투자 강조..."관세 인하 대가"    싱글리스트
+
+[트럼프, 한국 대미 조선업 투자 강조..."관세 인하 대가" - 싱글리스트](https://news.google.com/rss/articles/CBMiZkFVX3lxTE02YWZBTk9YcHNaZjJJTXZhdm0xYmVRY3NibXpMOGt6MzVZejhyWUdaWUdmZkxiNkVNS19MRlhBN25XZ3BIelBZT2h4cWNzdDZSc1VlT0c3dXY0SHhHUkktYzFKRnZmdw?oc=5)
+
 ## 세계
 
 **오늘의 분석**
 
-중동과 동아시아, 유럽을 아우르는 권위주의적 압박 양상이 뚜렷하다. 플라이두바이 부기장의 이스라엘 공항 겨냥 납치 시도는 국가 안보를 노린 비대칭 위협이고, 중국이 독일 내 대만 작가 행사를 취소시킨 건 초국가적 탄압의 문화 영역 침투다. 일본 농림상의 지지 거부 지자체 예산 압박 역시 권력 남용으로 정치적 복종을 강요한 사례다.
+중동과 동아시아에서 안보 불안정이 동시에 고조되는 가운데, 주요국의 통화·재정 정책이 긴축 기조로 선회하며 글로벌 경제의 불확실성을 키우고 있다. 이란은 원유 수출 봉쇄에도 미국의 피로감을 노린 장기전 전략을 고수하고, 후티 반군의 사우디 공격으로 홍해 항로 리스크가 재부상했다. 일본은 30년 만의 최고 금리로 국채 금리를 인상하며 엔화 방어와 물가 안정을 도모했으나, 프랑스는 재정 적자 우려로 국채 신뢰도가 흔들리고 학생 시위까지 번지는 등 유럽 내 재정 건전성 논쟁이 격화되고 있다. 미국 증시가 사상 최고치를 경신하며 낙관론을 보이지만, B-1 폭격기 철수와 이란 드론 위협설 등 지정학적 리스크가 실물 경제로 전이될 가능성은 배제하기 어렵다.
 
-캐나다 퀘벡 분리주의 정당의 약진과 국민투표 공약은 민주주의 내 정체성 갈등이 체제 균열로 번질 수 있음을 보여준다. 일본 10년물 국채 금리 30년 만 최고치 경신은 통화 정상화와 재정 압박의 구조적 신호로, 정치적 잡음 속 정책 대응력을 가늠케 한다. 사모아 지도자의 나치 경례 사과는 역사적 책임 인식이 국제 규범으로 굳어졌음을 환기한다.
+정치적 분열과 주권 다툼이 다층적으로 얽히며 국제 질서의 파편화가 가속화된다. 캐나다 퀘벡주의 분리주의 정당 승리는 트럼프 전 대통령 임기 이후를 겨냥한 독립 주민투표 추진으로 이어져 북미 대륙의 통합 기반을 시험하고, 대만 작가의 독일 행사를 중국이 압박해 취소시킨 사례는 문화 교류마저 안보 논리로 차단하는 '인권 외교'의 후퇴를 보여준다. 튀르키예 이스탄불의 학교 흉기 난동과 나이지리아 군용기 추락, 아이티 선거 연기는 국내 치안 부재와 국가 역량 약화가 어떻게 인도적 위기로 직결되는지 적나라하게 드러낸다. 반면 우주 망원경의 '유령 입자' 발견으로 노벨물리학상을 수상한 사례처럼, 기초과학 협력은 지정학 갈등을 초월한 인류 공통의 자산으로 남았다.
 
-앞으로는 일본 금리 인상이 엔고와 재정 부담 사이에서 어떤 정책 조합을 낼지, 퀘벡 독립 운동이 캐나다 연방제를 어디까지 시험할지가 관건이다.
+한국은 러시아 석유 제품 환적 의혹으로 우크라이나로부터 제재 이행 의지를 공개 비판받으며 외교적 딜레마에 직면했고, 트럼프 전 대통령은 한국에 관세 인하 대가를 요구하며 통상 압박 수위를 높였다. 백악관이 트럼프의 '이란 핵 위협론'을 옹호하며 대이란 강경론을 부추기는 사이, 미국 내에서는 사형수 생환 사건과 코넬대 성폭력 조사 부실 논란 등 사법·인권 시스템의 허점이 동시에 터져 나왔다. AMD의 공급 부족 전망과 리사 수 CEO의 발언은 AI 반도체 수요가 당분간 공급망 병목과 지정학적 자원 무기화의 이중고를 겪을 것임을 시사한다. 앞으로 주시할 점은 중동 확전 위기가 유가와 해상 물류를 통해 글로벌 인플레이션을 재점화할 경우, 각국 중앙은행이 금리 인하 기조를 얼마나 유지할 수 있을지다.
 
 ### 플라이두바이 여객기 납치 시도 부기장, 이스라엘 공항 노렸나 - 조선비즈 - Chosunbiz
 
@@ -186,15 +471,123 @@
 
 [Samoa leader apologises for Nazi salute after vide](https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss)
 
+### 후티 사우디 공격에…현대차 "공장 건설현장·직원 피해 없어" - 연합뉴스
+
+후티 사우디 공격에…현대차 "공장 건설현장·직원 피해 없어"    연합뉴스    홍해 길목 되찾은 예멘 정부군...후티 "사우디 영공도 전쟁터"    YTN    '후티 보복' 공항부터 정유시설까지…한국 기업 인근도 피격    v.daum.net    사우디 연합군, 요충지 3곳 탈환‥파키스탄·튀르키예 파병    MBC 뉴스    ‘메카 협정’ 가동… 튀르키예·파키스탄 “사우디에 신속 파병”    v.daum.net
+
+[후티 사우디 공격에…현대차 "공장 건설현장·직원 피해 없어" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlYmQ1NVJxU2U5R0R2X0pIYzg4cXhQR2NIZS1yVHF1b1YtN2tlanI3d0FBdEhneXN4VF9salRfZTQ3WWlUWklQMGtvUjJHZDk5MnYwdEhzc2daMWfSAWBBVV95cUxPcDNLMmJIUW5HTWwzU0h4bUZPWGtBZzF4WTlZU1NGMklZV0h4SlBFWUQ2RzVpSlFDWTJFVWR4c0pEUzBvYUZRSEFMWFFPeFFYbFRtY2RoTVBJMVhEaU5UWjE?oc=5) | [후티 사우디 공격에…현대차 "공장 건설현장·직원 피해 없어"](https://www.yna.co.kr/view/AKR20261006142500003)
+
+### 캐나다 퀘벡주 ‘분리주의 정당’ 선거 승리…“독립 주민투표 추진” - KBS 뉴스
+
+캐나다 퀘벡주 ‘분리주의 정당’ 선거 승리…“독립 주민투표 추진”    KBS 뉴스    캐나다 퀘벡주 총선서 '분리주의 정당' 승리…'독립투표' 추진 언제?    마켓인    加퀘벡주 "독립 주민투표 추진"…'트럼프 임기 끝나고'    v.daum.net    캐나다 퀘벡주 분리주의 정당 선거 승리…"독립 주민투표 추진"    연합뉴스    캐나다 퀘벡 선거서 분리주의 정당 승리…카니 총리에 새 부담    뉴스1
+
+[캐나다 퀘벡주 ‘분리주의 정당’ 선거 승리…“독립 주민투표 추진” - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iV3g0bVl1dUlnR0RxYy1jVWk2WW1BSjkzdWdKbjA0SGktMk9hNUxJa19mWUNCTXZKU1pLNGpLb2RMYmVkRHFZZ0t6Z2kxZWVnUGFjcnJCSG12TVE?oc=5) | [캐나다 퀘벡주 분리주의 정당 선거 승리…"독립 주민투표 추진"](https://www.yna.co.kr/view/AKR20261006134800009)
+
+### 그래도 버틴다…"이란, 원유수출 막혀도 美 지치기 기다려" - 연합뉴스
+
+그래도 버틴다…"이란, 원유수출 막혀도 美 지치기 기다려"    연합뉴스    원유 수출 끊기고 물가 90%에도 안 꺾인다…이란의 계산은 ‘美 먼저 지친다’    v.daum.net    美 재무부 "'이란 거래' 외국 금융기관, 사전 통보 없이 제재 부과" - 머니투데이    머니투데이    경제난 속 이란 석유부 장관 사임…"신탁 회사, 석유 대금 미지급 의혹도"    뉴시스    지난달 석유 수출 '제로'에도 버티는 이란…"50년 제재 경험 유효"    뉴스1
+
+[그래도 버틴다…"이란, 원유수출 막혀도 美 지치기 기다려" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE95aWpvUnFobEZ0Y3RINmRKZE12OWdkV0JYZkN2dEtfN1J0cENMdW5Ua19CdHZTU21DZW8yQWlDYzFHWGFnMnU0OVJ4QW5nVzYzYmxCRU9BMmdqam_SAWBBVV95cUxPZTRkc2pYdF9HWWNTMlpOelQ4aExib3ZaM2FLQ2x6N0U3YkI4eUZSODRieWl4dnFQZ0JYd3lJbW9zSTNJOTZGLU1CcnVPSU9XOERDbkRfX0haMHpjVWtvLUQ?oc=5) | [그래도 버틴다…"이란, 원유수출 막혀도 美 지치기 기다려"](https://www.yna.co.kr/view/AKR20261006129700009)
+
+### 나이지리아, 군용기가 늪지대에 추락해 32명 사망에 애도
+
+볼라 티누부 대통령은 이 사고를 군대와 온 나라에 있어 “고통스러운 순간”이라고描述했습니다.
+
+[Nigeria mourns 32 killed as military plane crashes](https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss)
+
+### 바리케이드부터 채권시장까지…프랑스 뒤흔드는 재정불안
+
+(런던=연합뉴스) 김지연 특파원 = 프랑스 전역에서 학생들이 학교 앞에 바리케이드를 치며 시위를 벌이고, 금융시장에선 프랑스 국채 안정성이 유럽...
+
+[바리케이드부터 채권시장까지…프랑스 뒤흔드는 재정불안](https://www.yna.co.kr/view/AKR20261006186200085)
+
+### 우주 망원경에서 발견된 ‘유령 입자’, 물리학 노벨상 수상
+
+벨기에의 물리학자인 프랜시스 할젠 교수는 우주에서 오는 입자들을 감지할 수 있는 관측소를 개발한 공로로 상을 받았습니다.
+
+['Ghost particles' from space telescope wins physic](https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss)
+
+### 우크라, '한국의 러 석유공급' 보도에 "제재와 극명 대비" - MBC 뉴스
+
+우크라, '한국의 러 석유공급' 보도에 "제재와 극명 대비"    MBC 뉴스    우크라, '한국의 러 석유공급' 기사 인용해 韓 비판(종합)    Daum    한국, 푸틴에 이용 당했나…“경유 18만t 한국→러시아로 운송, 충격적” [핫이슈]    나우뉴스    울산·여수서 경유 싣고 러시아로···대러 제재 ‘구멍’ 된 한국 항구    경향신문    가디언 "연료난 러, 한국서 석유제품 대거 수입…7∼8월 17만t "    연합뉴스
+
+[우크라, '한국의 러 석유공급' 보도에 "제재와 극명 대비" - MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE8tZ0M3NGV4TExjYnpySUJpbHo2VWkwZElWRE1yZ0JVZ29Lb200RUdCNVBiM1BzOEVCOXktbUp1VEFJWWZrMVdPeDRodk1vVnlZR3FqQjBCcHB4NDRKVHdYeTRuMjhVVGtpV1pxWFAyaDRsSnRt0gF0QVVfeXFMUDZpZ3pkb3Z4WW9Nck1BMFYxY3ZzQjVJRVNBMDJUQTNRdm50UkhNcl9qT3VXNzU3VGJlMFA5ZmltdVg1dUhYeGpkMXZvNFlzYVAwRDZ4U0paR2ZnQk4teDBWNXRYX0U2RVdwZnAtdWtobzVyMm0?oc=5) | [우크라, '한국의 러 석유공급' 보도에 韓 비판](https://www.yna.co.kr/view/AKR20261006199900109)
+
+### 이스탄불서 고등학생이 중학교 침입 흉기 난동…8명 사상 - KBS 뉴스
+
+이스탄불서 고등학생이 중학교 침입 흉기 난동…8명 사상    KBS 뉴스    이스탄불서 고등학생이 중학교 침입 '흉기 난동'…8명 사상    SBS 뉴스    여고생이 중학교 침입해 칼부림, ‘8명 사상’…튀르키예 발칵    Daum    고등학생이 중학교 침입 칼부림…1명 사망·7명 부상, 터키 충격 휩싸여    문화일보    튀르키예 이스탄불 중학교서 고교생 흉기난동…1명 사망·7명 부상    마켓인
+
+[이스탄불서 고등학생이 중학교 침입 흉기 난동…8명 사상 - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LR0JTMlFhSktfcFFLX2pkODNfUnlYRmJtZElvb2FHdEsybndhcmdMdzJ6Y1pSV0lmMDlBc0ZPMnlERlFSYUNFU1FfdlY0M0JacGIyWnplMlk3Q1U?oc=5) | [이스탄불서 고등학생이 중학교 침입 칼부림…8명 사상](https://www.yna.co.kr/view/AKR20261006199000108)
+
+### 백악관, 이란이 로스앤젤레스와 샌디에이고를 ‘파괴’하도록 내버려두자는 트럼프의 발언 옹호
+
+게빈 뉴섬은 그 발언을 “정신 나간 것”이라고 비난했지만, 백악관은 트럼프가 핵을 보유한 이란으로 인한 위험에 대해 경고하고 있다고 말했습니다.
+
+[White House defends Trump comment to let Iran 'tak](https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss)
+
+### 캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증
+
+(뉴욕=연합뉴스) 김연숙 특파원 = 지난 8월 캐나다의 무역흑자가 4년여만에 최대치를 기록했다.
+
+[캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증](https://www.yna.co.kr/view/AKR20261007001100072)
+
+### "美, 이란 드론공격 가능성에 英기지서 B-1폭격기 12대 철수"
+
+(워싱턴=연합뉴스) 이유미 특파원 = 미국이 이란의 드론 공격 가능성을 우려해 영국 공군기지에 배치했던 B-1 전략폭격기 12대를 긴급 철수한 ...
+
+["美, 이란 드론공격 가능성에 英기지서 B-1폭격기 12대 철수"](https://www.yna.co.kr/view/AKR20261007001500071)
+
+### 갱단 폭력 사태 잇따르는 아이티, 결국 12월 선거 연기
+
+(멕시코시티=연합뉴스) 송광호 특파원 = 무장 갱단의 발호로 극심한 폭력 사태가 잇따르고 있는 아이티에서 선거가 다시 연기됐다. 아이티는 201...
+
+[갱단 폭력 사태 잇따르는 아이티, 결국 12월 선거 연기](https://www.yna.co.kr/view/AKR20261007001000087)
+
+### 트럼프 "LA·샌디에이고 파괴하게 놔둬라"…이란전 발언 논란 - 연합뉴스
+
+트럼프 "LA·샌디에이고 파괴하게 놔둬라"…이란전 발언 논란    연합뉴스   Google 뉴스에서 헤드라인 및 의견 더보기
+
+[트럼프 "LA·샌디에이고 파괴하게 놔둬라"…이란전 발언 논란 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LNExfUG9aUFFNeHRoN0w2WjBJMFBmc1poQkJzVGN5MDhfODZaOTNsbnhxcDhQakR6cmhSVnZFU3Y4VEpUcnBWMGtLdlV6c250ZU9VU2h2VDk4dnPSAWBBVV95cUxQelFkVjlLM0h2NE5JZzVRSUczQWhqWTZoanpWdGJqaEFfS3pnczdVUDk5TEJ2akRPTVRXdDJBU0FnTkRXWVYxT2xkVEdELWZoWXkydVRmWlpBU2RZWUhzUGI?oc=5) | [트럼프 "LA·샌디에이고 파괴하게 놔둬라"…이란전 발언 논란](https://www.yna.co.kr/view/AKR20261006202800071)
+
+### 리사 수 "수요가 공급보다 많아"…AMD 주가 사상 최고
+
+(서울=연합뉴스) 정주호 기자 = 미국 반도체 기업 AMD의 리사 수 최고경영자(CEO)가 반도체 수요가 공급을 웃도는 상황이 수년간 이어질 것...
+
+[리사 수 "수요가 공급보다 많아"…AMD 주가 사상 최고](https://www.yna.co.kr/view/AKR20261007011800009)
+
+### 변호사들에 따르면, 미국의 사형수 크리스타 파이크는 처형이 실패한 후 다시 의식을 되찾고 말을 할 수 있게 되었다.
+
+화요일에 그녀의 변호사들이 발표한 성명에 따르면, 50세인 파이크는 여전히 수갑을 찬 채로 병원에서 긴급한 치료를 받고 있다.
+
+[US death row inmate Christa Pike awake and speakin](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+
+### 트럼프 "한국에 관세 낮추려면 대가 지불해야 한다고 말해"
+
+(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 6일(현지시간) 자신이 한국을 향해 관세 인하의 '대가' 지급을 요구했다고 거...
+
+[트럼프 "한국에 관세 낮추려면 대가 지불해야 한다고 말해"](https://www.yna.co.kr/view/AKR20261007008000071)
+
+### 코넬대, '성폭행 사건' 뒤늦은 진상조사…교수들도 뿔났다 - 한국경제
+
+코넬대, '성폭행 사건' 뒤늦은 진상조사…교수들도 뿔났다    한국경제    코넬대 교수들도 뿔났다…'집단 성폭행 부실 대응' 총장 불신임 추진    Daum    코넬대, 뒤늦게 성폭력 대응 진상조사 나서...법무 부장관 선임    YTN    모든 '제인 도'에 정의를…코넬대서 첫 대규모 시위    연합뉴스    “범인이 보호받아” “가부장제 쳐부수자”… 2년 전 ‘성폭행’ 코넬대서 대규모 시위[지금, 여기]    동아일보
+
+[코넬대, '성폭행 사건' 뒤늦은 진상조사…교수들도 뿔났다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE82RllfZXRMa2Y0Vi10cjZIUU4wTWhmYk05YnpyVWlCa1E3Z2dtWnhEbl9UQ004LUdfdXhNbjJ1Q3RjdFZTT2JQX2JlY2sxSHRCdGhHOUg1eDRsZw?oc=5)
+
+### 실적 기대에 힘받은 뉴욕증시…S&P500·나스닥 또 최고치(종합)
+
+(뉴욕=연합뉴스) 김연숙 특파원 = 6일(현지시간) 미국 뉴욕증시 3대 지수가 일제히 상승 마감했다.
+
+[실적 기대에 힘받은 뉴욕증시…S&P500·나스닥 또 최고치(종합)](https://www.yna.co.kr/view/AKR20261007005851072)
+
 ## 투자
 
 **오늘의 분석**
 
-트럼프 전 대통령의 면세 디젤 사용 확대 조치는 단기적 물가 압력 완화와 특정 산업 지원을 노린 규제 완화 기조를 보여주지만, 탄소 감축 흐름과 배치되며 에너지 전환 투자 심리에 혼재된 신호를 보낸다. 반면 솔라나 재단이 JP모건과 협력해 기관 간 결제를 초단위로 처리하는 오픈소스 프로그램을 내놓은 점은 탈중앙화 인프라가 월가의 핵심 업무 프로세스로 진입하고 있음을 입증한다. 이는 가상자산 시장이 투기 자산에서 금융 인프라의 효율성 도구로 재평가되는 변곡점이 될 수 있다.
+오늘 시장은 지정학적 리스크와 기술 낙관론이 충돌한다. 이란발 유가 상승과 EIA 전망 상향이 인플레 우려를 키우지만, ‘마그니피센트 세븐’과 마벨 등 AI 반도체주가 지수 최고치를 견인한다. 다만 마이클 버리의 대규모 매도와 웹울·펠토스 경영진 매도는 고점 차익 실현 심리를 시사하며, 좁은 주도주 의존 랠리의 취약성을 암시한다.
 
-인도네시아의 WHO 사무총장 후보가 미국의 기구 복귀를 촉구한 것은 글로벌 보건 거버넌스의 공백을 메우기 위한 다자주의 복원 압력이 지속됨을 시사한다. 한편 웹불 CEO의 지분 매각은 핀테크 플랫폼의 성장 둔화 우려 속 내부자 현금화 신호로 읽히나, 단일 거래로 추세를 단정하기는 이르다. 전반적으로 정책 불확실성이 큰 전통 에너지·헬스케어와 달리, 블록체인 기반 결제 인프라처럼 검증된 기술이 제도권 금융과 결합하는 영역에서 실질적 가치 창출이 가시화되고 있다.
+금융 인프라 재편도 가속화된다. 솔라나가 JP모건과 기관 결제 프로그램을 내놓고, OKX가 스탠다드차타드 등 제도권 자본을 유치하며 암호화폐가 결제·토큰화 플랫폼으로 편입 중이다. 어플라이드 디지털의 핀란드 1GW 전력 확보는 AI 확장의 에너지 병목 해소 경쟁을 보여준다.
 
-앞으로는 주요국 중앙은행과 규제 당국이 토큰화 예금과 스테이블코인 결제 프레임워크를 어떻게 제도화할지가 기관 자금의 본격 유입 속도를 가를 핵심 변수가 될 것이다.
+앞으로는 유가 상승이 기술주 밸류에이션 압박으로 이어질지, 기관 자금의 암호화폐 인프라 유입이 새로운 유동성원이 될지 주시해야 한다.
 
 ### 트럼프, 면세 디젤 연료 사용 확대
 
@@ -220,6 +613,114 @@
 
 [Solana Foundation unveils a program to settle inst](https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs)
 
+### 어플라이드 디지털, 핀란드에서 1GW의 발전 용량 확보
+
+어플라이드 디지털, 핀란드에서 1GW의 발전 용량 확보
+
+[Applied Digital secures 1GW power capacity in Finl](https://www.investing.com/news/company-news/applied-digital-secures-1gw-power-capacity-in-finland-93CH-4933803)
+
+### 포르티요, 전국적으로 오레오 디저트 콜라보레이션 출시
+
+포르티요, 전국적으로 오레오 디저트 콜라보레이션 출시
+
+[Portillo’s launches Oreo dessert collaboration nat](https://www.investing.com/news/company-news/portillos-launches-oreo-dessert-collaboration-nationwide-93CH-4933805)
+
+### Thinx가 56달러에 스포츠 스타일의 생리대용 반바지를 출시했습니다.
+
+Thinx가 56달러에 스포츠 스타일의 생리대용 반바지를 출시했습니다.
+
+[Thinx launches athletic-style period shorts for $5](https://www.investing.com/news/company-news/thinx-launches-athleticstyle-period-shorts-for-56-93CH-4933802)
+
+### 제 저축금을 30년 만기의 국채에 투자해야 할까요?
+
+“안전한” 투자라 할지라도 위험은 여러 형태로 존재합니다.
+
+[Should I put my nest egg in a 30-year Treasury bon](https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories)
+
+### 일론 머스크의 재산은 1조 달러를 넘었습니다. 이 나라들 전체의 생산량도 그보다 적습니다.
+
+머스크의 재산이 폴란드나 아일랜드의 국가 경제 규모보다 큰가요? 여기에서 확인해 보세요.
+
+[Elon Musk’s wealth tops $1 trillion. These entire ](https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories)
+
+### 마이클 버리는 현재로서는 가장 많이 보유하고 있던 주식을 모두 팔았다고 말합니다.
+
+영화 《더 빅 쇼트》에 등장하는 반전 투자 전략을 사용했던 전 헤지펀드 매니저인 마이클 버리는 자신이 가장 많이 보유하고 있는 주식을 8.5년 만에 최저가에 매도하고 있습니다.
+
+[Michael Burry says he’s sold out of his top holdin](https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories)
+
+### 이란 전쟁으로 세계적인 석유 재고가 감소하자, 미국 에너지정보청은 다시 한 번 석유 가격 전망을 상향 조정했습니다.
+
+이란 전쟁으로 세계적인 석유 재고가 감소하자, 미국 에너지정보청은 다시 한 번 석유 가격 전망을 상향 조정했습니다.
+
+[US EIA hikes oil price forecasts again as Iran war](https://www.investing.com/news/commodities-news/us-eia-hikes-oil-price-forecasts-again-as-iran-war-drains-global-stockpile-4934987)
+
+### 제논 파마슈티컬스의 주가가 36.06달러로 52주 최저치를 기록했습니다.
+
+제논 파마슈티컬스의 주가가 36.06달러로 52주 최저치를 기록했습니다.
+
+[Xenon Pharmaceuticals stock hits 52-week low at 36](https://www.investing.com/news/company-news/xenon-pharmaceuticals-stock-hits-52week-low-at-3606-usd-93CH-4934986)
+
+### 영국 주식 시장, 거래 종료 시점에 상승세; Investing.com 영국 100 지수는 0.43% 상승
+
+영국 주식 시장, 거래 종료 시점에 상승세; Investing.com 영국 100 지수는 0.43% 상승
+
+[U.K. stocks higher at close of trade; Investing.co](https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-043-4934985)
+
+### 이 5개의 칩 관련 주식들은 S&P 500보다 저렴할 뿐만 아니라, 더 빠른 성장세를 보입니다.
+
+마이크론과 엔비디아는 수익을 꾸준히 창출하고 있으면서도 주가가 저렴한 유명한 반도체 기업들입니다.
+
+[These 5 chip stocks are cheaper than the S&P 500 —](https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories)
+
+### OKX는 암호화폐 거래소라는 본업을 넘어서기 위해 스탠차트, 서클, 리플로부터 투자를 유치하고 있습니다.
+
+NYSE의 모회사인 ICE와의 투자 및 합작 사업을 계기로, 이 거래소는 암호화폐, 결제, 토큰화된 자산 분야를 아우르는 글로벌 금융 기술 플랫폼으로 자리매김하고자 노력하고 있습니다.
+
+[OKX draws investment from StanChart, Circle, Rippl](https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots)
+
+### 부모님의 차 키를 빼앗는 것보다 더 나쁜 일이 있을까? 그들의 휴대폰까지 빼앗는 것 말이다. 나이 드신 부모님을 어떻게 보호해야 할까?
+
+부모의 통제 기능은 더 이상 아이들만을 위한 것이 아닙니다.
+
+[Worse than taking away your parents’ car keys? Tak](https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories)
+
+### 펠토스 테라피츠의 대표가 보통주 11,560달러 어치를 매각했습니다.
+
+펠토스 테라피츠의 대표가 보통주 11,560달러 어치를 매각했습니다.
+
+[Pelthos Therapeutics director sells $11,560 in com](https://www.investing.com/news/insider-trading-news/pelthos-therapeutics-director-sells-11560-in-common-stock-93CH-4935359)
+
+### 펠토스 테라피츠의 마태우스 폴스 대표는 16,506달러 상당의 주식을 매각했습니다.
+
+펠토스 테라피츠의 마태우스 폴스 대표는 16,506달러 상당의 주식을 매각했습니다.
+
+[Pelthos Therapeutics director Matthew Pauls sells ](https://www.investing.com/news/insider-trading-news/pelthos-therapeutics-director-matthew-pauls-sells-16506-in-shares-93CH-4935358)
+
+### 보스턴 다이내믹스, 전 아마존 임원인 로힛 프라사드를 CEO로 임명하다
+
+보스턴 다이내믹스, 전 아마존 임원인 로힛 프라사드를 CEO로 임명하다
+
+[Boston Dynamics names former Amazon executive Rohi](https://www.investing.com/news/stock-market-news/boston-dynamics-names-former-amazon-executive-rohit-prasad-as-ceo-4935350)
+
+### ‘마그니피센트 세븐’의 활약으로 S&P 500 지수가 다시 사상 최고치를 기록했습니다.
+
+지난 1년 동안 대체로 횡보세를 보였던 ‘마그니피센트 세븐’들이 이제 다시 반등하기 시작했습니다. 이들의 활약 덕분에, 채권 금리 상승과 계속해서 높은 원유 가격으로 인해 위협받고 있던 강세 시장에 다시 활력이 불어넣어지고 있습니다.
+
+[The S&P 500 is back in record territory as the ‘Ma](https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories)
+
+### 10월 9일은 주식시장의 역사에서 매우 중요한 날로 기억됩니다. 그렇다면 왜 투자자들은 여전히 10월에 대한 부정적인 고정관념에 사로잡혀서는 안 될까요?
+
+2000년 이후 그날에는 단 하나가 아니라, 두 번의 중요한 시장 전환점이 있었습니다.
+
+[Oct. 9 has loomed large in stock-market history. W](https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories)
+
+### 마벨은 ‘우수한 실적과 더욱 훌륭한 비즈니스 전략’으로 월스트리트의 감탄을 자아냈습니다.
+
+마벨의 주가는, 회사가 재무 예측을 정확하게 달성했을 뿐만 아니라 다양한 고객층과 제품 포트폴리오를 보유하고 있음을 입증함에 따라 상승세를 보이고 있습니다.
+
+[Marvell just impressed Wall Street with ‘good numb](https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories)
+
 ## 미국 이민
 
 **오늘의 분석**
@@ -230,38 +731,146 @@
 
 앞으로는 연방 법원이 USCIS 새 정책의 효력 정지 가처분 신청을 어떻게 판단할지가 당장의 정책 적용 범위를 가를 분수령이 될 것이다.
 
-### Trump's Green Card Policy Shift Must Be Blocked, Groups Say - law360.com
+### 단체들, 트럼프의 그린카드 정책 변화 반대 요구 – law360.com
 
-Trump's Green Card Policy Shift Must Be Blocked, Groups Say    law360.com
+단체들, 트럼프의 그린카드 정책 변화 반대 촉구 law360.com
 
 [Trump's Green Card Policy Shift Must Be Blocked, G](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2xLOHprWC1GYU53T0llMHhUT3p5djZLZU9UYjhGVEFRbDltQnpobXJLc2FtVXNDMGRfODU5Vi1lcFhOWmUzYkF1bmVHTGFLbjQxcVVONURmUWRQOEZvbFdZQ3NXYndaZkRwNWV3SGUwU0lIb3dobFk0QmVNSy03MXYtS1dvcjR6ZnEwSUp3QWdMdEZZaElkVEdIQ29IaUZKdmJYMUQwZkFBZVFGU04tX1lOQXNSbjdya2hfb0NMU0lPM1nSAXJBVV95cUxNSjVRdlF1NktyOTExSW93LS0taHZKaHdfalRITEdRQlhmN3NQdzBuRlNIYjhtc0g0VUk1SjBvQkVjZHBwd0ZidkpFVng3MlNnN1F0SEZNdFN0SUw3eHBCcm9OOS1KSXhwUmxRMnExdlVTeHc?oc=5) | [Unions, College Groups Challenge Trump Green Card ](https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0FxVFRCMVQzR1ljZGpwYXlBQVNzaTJUUUpDa2pUQkpYTzJ0eVRDV3Jrdm9vdmdobjFkU2ZZUjJZYmt0ZTEzcUszcHcxX1Zsa3FBTkYwMnEyUmJIdVplamc5Qk9ZbUxkY1l3Y010VDFab2EyR3VmWWlheXhuSzZteUVjVDNjYzJQaVl1SldMaHJtMUo3OENvUUxNOTlGYzhLSDNjQmdxU2Q3R3k2Q1Nv?oc=5)
 
-### Lawsuit challenges new US green card rules - thehansindia.com
+### 새로운 미국 그린카드 규정에 대한 소송 제기 – thehansindia.com
 
-Lawsuit challenges new US green card rules    thehansindia.com
+새로운 미국 그린카드 규정에 대한 소송 제기 thehansindia.com
 
 [Lawsuit challenges new US green card rules - theha](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTJaamZEaFMyb3pkTERwQWRzb0NDV1JfX0RVN0JXR3hQenRvbXMtUHVUTDJ1bG91WDg2Qnczbk04NFo4TGdRamVKQkFISzhNR1ctN1dlOHBPUjRMM3BiVW1hcEpfZ3VFNHNLM3dIU1R6ZWVXYjVVc2lUUVVlUGQybG5ia3RXLVJnYnRPdDN1SlhkNW9HWjdOMnlkZkRTZ3c?oc=5)
 
-### US bill seeks steep H-1B fraud penalties - thehawk.in
+### 미국 법안, H-1B 비자 관련 사기 행위에 대해 엄중한 처벌을 규정하다 – thehawk.in
 
-US bill seeks steep H-1B fraud penalties    thehawk.in
+미국 법안, H-1B 비자 관련 사기 행위에 대한 엄격한 처벌 규정 추진 중 thehawk.in
 
 [US bill seeks steep H-1B fraud penalties - thehawk](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QalZINjF3ek03U29fOV9sR3VVcTZHVGFhMk1JQ0IzZ0Rqd1NHNnFXZUo0SHNUeWd2SkFJVDEtTVE5bjJFWFJhUlVYTGRNbGxZVjhOX0hsMkFpOUlpVUQ3ZmZielVYOVZzUGtuZk9BckNaMUdsbUZyZGdBNXd5THc?oc=5)
 
-### Lawsuit Challenges New Green Card Policies - American Immigration Council
+### 새로운 그린카드 정책에 대한 소송 제기 – 미국 이민위원회
 
-Lawsuit Challenges New Green Card Policies    American Immigration Council
+새로운 그린카드 정책에 대한 소송 제기 – 미국 이민위원회
 
 [Lawsuit Challenges New Green Card Policies - Ameri](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkh0aHVfZk9GS0VGMTFGWnVwUDIzbHVPYUJzeTFCYWw2NXRyYzJycFhxSkZONnJyTS02RTd6d2RmVTNDcEdHd0dmQUxzemNrVUdSWVFRWXl6bnNfbGpCaEVBTnBvb3h4NTF0anRnOWdiRjU4QUZ3Wm53TmM1WVdKMjRIcHBUYkhyMFZVNERERnB0V2dPbjNBMUNqNGFrMldFNzdEMTU4MS1NZnFYSUVjTUJURkotLWR1NGFRag?oc=5)
 
-### Indian Green Card backlog stretches past decade - Punjab News Express
+### 인도의 그린카드 처리 대기 시간이 10년 이상 지속되고 있어 – 펀자브 뉴스 익스프레스
 
-Indian Green Card backlog stretches past decade    Punjab News Express
+인도의 그린카드 처리 대기 시간이 10년 이상 지속되고 있습니다. 판자브 뉴스 익스프레스
 
 [Indian Green Card backlog stretches past decade - ](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFBxd3NrUG1YQ3hySl9KcXdZWEU4cjFSZmtfTzV0cWxucms1cFJrbGoxZkFreTQ5bnVZRnVYTllzSzVlX1pMS3haZ3prNzFHT01tSHFIUnlKUnM4OXpEYkZJbGZnTGNVYzMzU1RrR2J1UEQ0aVNWRmRRa3ExMTNnWUZMd3dWV20tbDhIdy1udVhSbS1DVzI0cWZiaw?oc=5)
 
-### United States: Lawsuit Seeks to Enjoin Recent USCIS Policies Affecting Adjustment of Status Applicants - fragomen.com
+### 미국: 지위 조정 신청자들에게 영향을 미치는 최근의 USCIS 정책을 금지해달라는 소송 – fragomen.com
 
-United States: Lawsuit Seeks to Enjoin Recent USCIS Policies Affecting Adjustment of Status Applicants    fragomen.com
+미국: 신분 조정을 원하는 신청자들에게 영향을 미치는 최근의 USCIS 정책들을 금지해달라는 소송이 제기됨    fragomen.com
 
 [United States: Lawsuit Seeks to Enjoin Recent USCI](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0JhOVRiQzBaZWN4aXJLQnpFSmpZUEpZT2c2dXNVWmJSMTI5Y0o4anBYd0Z0UFp0STZsOEt6YVVDeHJIci1laFQ5T3VQUzNoU1c4Y1hxdmhhMU9VekRQSHZMR0VqSjBWWUxyYVlLcTVTckZrT1NOcV8tdExadWhPV1Z5QnNPeGJjcHNnTzJ6anp5QXg2Qkc1MVgzcEsyX2pULXRiYTZwcjNHekhSM1FqbmZsdGtNVVlXWjNSWVhNeUFZUjctajE0SUhDazFDX0xxUm0wY1BWdw?oc=5)
+
+### 트럼프, 미국 근로자 보호를 위해 H-1B 비자 사기에 대응 – AMAC – 성숙한 미국 시민들의 협회
+
+트럼프, 미국 근로자 보호를 위해 H-1B 비자 사기에 맞서다 – AMAC: 성숙한 미국 시민들의 협회
+
+[Trump Targets H-1B Visa Fraud to Protect American ](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVJTQzlLVi1uRDBscEFUUFNyc3phRkpNZGxfYV92OTRnLWFwSnlJUEladUN1cU54Mm9ESmR2LVU2NXdJUm56NjhTajFlZjh4ZFRwb3BXUmZ0bW1tSlJkYUFIa1ZhYXAxRllPOXBubkJpRXJfVTRKSm1tRERqQjJWZzFjTFlCNlFrY3lSUDlmVzNNZERS?oc=5)
+
+### 미국 의원, H-1B 비자 사기에 대한 더 강력한 처벌을 요구하다 – Daijiworld
+
+미국 의원, H-1B 비자 사기에 대한 더 강력한 처벌을 요구하다   Daijiworld
+
+[US lawmaker seeks tougher penalties for H-1B visa ](https://news.google.com/rss/articles/CBMiakFVX3lxTE91eTJpZXN5clRxRmM2U015UkRBbFdFMmZtUkliRFF1THBtY3h0dFd1UDRlOUMtZC1qWHBPeDhHdjl0NWRQU2NTZWEzYUZfNGZRbjE0STltaXctUkhsMkVqVGxQdUQ3Nmdmd0E?oc=5)
+
+### H-1B 비자로 미국에 11년간 거주 중인 인도인은 가족과의 거리가 가장 힘든 점이라고 말합니다. “부모님들도 나이가 드시고 있어요.” – Moneycontrol.com
+
+H-1B 비자로 미국에 11년간 거주 중인 인도인은 가족과의 거리가 가장 힘든 점이라고 말합니다. “부모님들도 나이가 드시고 있어요.” – Moneycontrol.com
+
+[Indian in US for 11 years on H-1B visa says distan](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWEZ6Sl9kUG91Q014WjF6eTFBcTMyekhlTER0Vll1YTVjcWhxalEwVzJVQ1otZ2IxYklhTkVnREJiQXpkQUd6NkY3VVVhV09ucEM5SDdwTTdqNXR2OEZjZDBRYnREMk5lUmpocVJLU0dfZ3pKM3d4b1c4UEZzRmViWEhqb1p0TnJQTEtxU0RYbmI2M05DWHBFU0xpQ2huWVA0d0FmWC1sVF9RRVg3YzFQdTNrcnVuSkd5dkRLd3ZZdTJhbjI3X0czbWE2SFZReERHQzFQUkQ3cW5hVGZOZXFVeWFaVUl0VWRCakZlMmhhTdIB7wFBVV95cUxPWEZ6Sl9kUG91Q014WjF6eTFBcTMyekhlTER0Vll1YTVjcWhxalEwVzJVQ1otZ2IxYklhTkVnREJiQXpkQUd6NkY3VVVhV09ucEM5SDdwTTdqNXR2OEZjZDBRYnREMk5lUmpocVJLU0dfZ3pKM3d4b1c4UEZzRmViWEhqb1p0TnJQTEtxU0RYbmI2M05DWHBFU0xpQ2huWVA0d0FmWC1sVF9RRVg3YzFQdTNrcnVuSkd5dkRLd3ZZdTJhbjI3X0czbWE2SFZReERHQzFQUkQ3cW5hVGZOZXFVeWFaVUl0VWRCakZlMmhhTQ?oc=5)
+
+### USCIS의 처리 지연으로 742,000건의 시민권 신청이 아직 처리되지 않고 있습니다 – SuaraGarut.ID
+
+USCIS의 처리 지연으로 742,000건의 시민권 신청이 아직 처리되지 않고 있습니다. SuaraGarut.ID
+
+[USCIS Backlog Leaves 742,000 Citizenship Applicati](https://news.google.com/rss/articles/CBMihAFBVV95cUxNT04yYzZTUWpJaTg4MEoyTG1PRkI2RmQ5Q3U3d0wzOWwtNVY0NGJXc3Z4UnJ3MnVJMnVYZ3prcDlDUWdSdnlvNDQtcHV2N09LSFdjSm9iOVJlRHZiU3oxd2dPbnpIWTVCMlJnZFdNeDhVdUJhVTVzMHctaU9FOUNKWGlxOXo?oc=5)
+
+### 두 개의 연방법원이 트럼프 대통령의 10만 달러에 달하는 H-1B 비자 신청 수수료 부과를 중단시켰다 – NewsBytes
+
+두 개의 연방법원이 트럼프 대통령의 10만 달러에 달하는 H-1B 비자 신청 수수료 부과를 중단시켰습니다. NewsBytes
+
+[Two federal courts halt President Trump's $100,000](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWdFMTltdGZmMDhmZUZDckpDQWsxMFd2dWFuM1Y3QktfZlJNYU1UWDNJZjZud1M5Q0k2V2h1M0VITHd3bEwzUThkWVJBN3ctZS0weTNZZUlxMUp2TzkxUmdYb0ROQmtjT3VaMFVGMzR4QWJPNWZ1NEFNRWhsVHA0Q0Jtb1pzRHhiRkpaUm40cllaRzV3UkFKcFRqeHNaY2JkdmlLXzRDUTF5UXBNSmNMQWx3Yw?oc=5)
+
+### “가족을 만나러 가기 위해 수년씩 기다리는 것에 지쳤습니다”: 비자 발급 지연으로 인해 일부 인도 출신 H-1B 근로자들이 미국에서의 삶을 다시 고민하게 되는 이유 – Indiatimes
+
+“가족을 만나러 가기 위해 수년씩 기다리는 것에 지쳤습니다”: 비자 발급 지연으로 인해 일부 인도 출신 H-1B 근로자들이 미국에서의 삶을 다시 고민하게 되는 이유 | Indiatimes
+
+[‘I'm tired of waiting years to visit my family’: W](https://news.google.com/rss/articles/CBMimwJBVV95cUxQTmJXc2Zwc1ZQQ2xMVm45NFdMM3hIRFRYXzNrWjZ1SGF6aWpuVTdobk1ONU9TUmJiSnNJbWJFdkFVTzZPRUdGc3JySXUtWG5SaFpBazNYanZoMTI4Sjl2Zks1VTlmT1pIcnU3T3NiVTYwbENWZ3ZiN29GbnR5V3JOa2d4TGxhOTU5LVlxTDNBQ1Y2bUIxcFJmNXlHQllyM3hFNFdDb1JtTmhIRVY3VEQ0cjBwWE1uZWk0dUxIRlRLV3A1T0x6VGpLWnlodWM0SmlUVWJhdjFvb0JIU0pYZ2NkMnVrd3l3aXNkNzJJN2hCczlFbGtLT05ycktvc2FJX0FJWnBPRW5tSEYzcmtOcnNLR1E5TEQ1eF9qOHhn0gGgAkFVX3lxTE1Jb195SXM2RXl6ZWRibE5OMV9QZks5MnRoTUhVcUdVOS11ZktiM1VOOG1XZkJpaG5rTlR0SkJpN0paTHZhSWhZdVk0Ml84R1oxc2l2ZlVvSUVFVDdLTWNCbUVKQkdWRUk2Q0xhenJGQ2RNNzZnT21IeGJqbnJUdUZPODFlWWJnWUxXeDB6bF91eU01LVlRV2dJbFQyaGFtVVZyR0Q0U21ST0V2dTlwVDlNeWEwMk12NjNJYUM2X0t4N3JNMFlZMks0anFnaEFhbHlMbUlFTEEwUjl5WjVfY1dqN2tvVThRMkdWWWZZbVJ5SWxmVUh1SVJsMnRIM0M1X2pscXRKUVV6cldfX3RTR3lvMFpPdks2MmU0Q0VGdXJvNA?oc=5)
+
+### 소송으로 새로운 미국 그린카드 정책에 이의 제기 – 인디아 뉴잉글랜드 뉴스
+
+소송으로 미국의 새로운 그린카드 정책에 이의 제기됨    인디아 뉴잉글랜드 뉴스
+
+[Lawsuit Challenges New US Green Card Policies - IN](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMzd1d1FEWGNZajdXN0h1Qnk0VURhRVFESnA3MWNkNXBSY1MtQnEybFcxUFVLT05BeVhOLXNCNFlNRWtXQkhaWXJKYjQySVdLMmRfT0FJRGVjeEpLelh5N3lmbmdUS2ZSMUVib3lMWEphTXdnUnc5dEg4LXJPLUE?oc=5) | [New U.S. Green Card Policies Face Lawsuit Over Fam](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21KbV82YTFXN2ZXZl83d01iS2pCQjVFXy1jd19uVFNPZm8xbFJSLVg3cDVMQWx4Um9xTFZCaEliYkhYeEU2ZlU3M0sxSlBtdTUyTUNFNG1QYVVDN3VNMDFYU2tUSGJqeDVVVmFGaGJaNXI4elphYS1OWHBYMTJWSmQyYmx5QUZnVFdvUXd5S2VGbXNNX3UzS21WdEh4U0JGMFhqdg?oc=5)
+
+### 에블류션 에너지 USCIS, 미국 내 최초의 태양광 동력을 활용하는 코발트 가공 공장에 대한 EB-5 투자 프로그램 승인 – TradingView
+
+이볼루션 에너지 USCIS, 미국 내 최초의 태양광 동력을 활용하는 코발트 가공 공장에 대한 EB-5 투자 프로그램 승인 발표. TradingView
+
+[Evelution Energy Uscis Approves Eb-5 Investment Of](https://news.google.com/rss/articles/CBMikgJBVV95cUxPOW9nMUdGOW80YWdqWXl6RUlFYlJLSnNHY0U4bUxsLTFZTF9sVlZsMXV4WldsX1RiNExQOXgwbGZTQXkyd1N0ampYWlpHWFRPbnJfNUM5VUxNcXlsS0ZRVFBuMnloMGtXNFFobVFiR2lQY2FHaTBVbFlpVkh5bE0xZmFvc0dSa2RJbDBJclA4NnNDNzR0Z09QR3NscWtUeTVCWnhfYVFpNVJGZ1B6djE5UjBrY0I1UkVFd2NxVURheG9welUwY0Q1Wk8yQ0lFUWRPM2NWUzVsSDlTQW9FOHJ4QmZkMjBITGtfdHctSUVoTWFkVEZBcXlJV1FiQms1ODNIU2dhZ1p2aUJjSDVrVE5Ld3BB?oc=5) | [USCIS Approves EB-5 Investment Offering for First ](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZDJOUE8yOEppeHpKZ1V4VVpuUGxkQXJCTDJPeGNBX0RCTi0yLW5sX21peGJYQjM5TlJ2UVFVclJ0d2hYcFJoOVZDLVVHZ2Q0Q2RUYnBDUDVxZGVvUG44NW9UbWUzb2c1Y1NvNno2SlFPbFVRTExOVHpiRFUtbHU2bEhFcTBia3FqeGdPdGtYUHFLSHQwVVpYYWtONWNNdXVROGNPV3F3UVB0R1pUeU4wVHQ0NVVVNFF2V3Z4NXRHUkpqUVpQREdHR3F5R0stbWMzdDJJQ2sxMHl5Q28xTy1FRzdoZzVSVnZaWFNj?oc=5)
+
+### H-4 EAD 제도의 폐지: 왜 행정 조치는 미국 노동자들을 우선시해야 하는가 – 이민 연구 센터
+
+H-4 EAD 제도의 폐지: 왜 행정 조치는 미국 근로자들을 우선시해야 하는가? 이민연구센터
+
+[Ending the H-4 EAD Racket: Why Executive Action Mu](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlBaU0ZtcW5Dc215S3JZcWlNZEYzSTBUMnNWWmtKX1BYSGRHN090Z182UUNwVXJFM040OUpkWjI5WEtqd1c2UWVzdzUyTXVJSnNxa242bEVoQjFILXotOGpRQVRFYWFsVlFKd2tRZ09fSUdoZTFIaHFvRnpuaVBEekdaLXhacTI5MjJXMDROd29DeGRmd2VudTZLNkR3N00?oc=5)
+
+### 블루시티가 비자 사기의 ‘의심스러운 온상’으로 지목되자, 중요한 선거주의 의원이 답변을 요구하고 있습니다 – 폭스 뉴스
+
+블루시티가 비자 사기의 ‘의심스러운 온상’으로 지목되자, 중요한 선거주의 의원이 답변을 요구하고 있습니다. 폭스 뉴스
+
+[Blue city emerges as 'suspected hotspot' of visa f](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWRJd0xtRjJxMUQ3ZU8yT2JHRmR0aWY3YnBhWWR5bDIzNWs1OHZBWmNOay1CVzZLQVI2MWFVQVJMS2NramUyNU01bXhtNkE0TTVZeWQ1OW40dlJudWtPUFRUY3Z6RjkyTlNsVmp6NnFVSUNjUVIwQ2VQMzFEb1VHZHotekZvRmZVMkdLODJqcnc4T0FlaUMtcjJwVDNuS2xaYXFyU0Z1ZkNzeExwbExLc1diVDg0aEnSAbwBQVVfeXFMTjFnSFBoV3hialFQd3QyUmNOTWx3SXNkRXJORXhKNVRtOHVxa0E1UHprUkdNNEF6SWlfVmJpMUx5WEpZMlJKX0IwY083TWI2VWp6SHFKZmN6QjE1MkpXdGM2YW5NMUkzMGdGcjlIamlyQVdqM1FBVmM2VFpoVXBIOEhJN01XWklFQU9DY2x4M3dLcE1Pcm5RZ3B2WlJQWGUzZDhIYk1zeTJHaVo5UmFRWjZrMDVpcG56X0JVZ3c?oc=5)
+
+### 인력 공급업체, “H1B 비자 소지자만 채용”이라는 메시지로 EEOC의 불만을 샀다 – HR Dive
+
+인력 공급업체, ‘H1B 비자 소지자만 채용’이라는 메시지로 EEOC의 불만을 샀다 – HR Dive
+
+[Staffing firm draws EEOC ire for ‘only H1B’ job me](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHAxTzRwQ1V4WFpCWTZDSElzTlJOc29sQ2NfZUI3cjdsbUNUdWFOVlU5RVY5cTNBX051NTJEWFM5NENjd2VpY2FtUk9FTER1QTd3eGh4XzM2aDl0dUxya2JjZkxnUzRSUjI5Wmp5YV91YmlNZFpVVk94dENkRHVGY1ZtQ0JrSDJnVFZEN1lBNnY2QjR2dTBLQmhNcw?oc=5)
+
+### 인터메스틱 EB5 펀드 II, 미국의 국방 공급망을 보호하기 위한 코발트 가공 시설 건립에 대해 USCIS의 승인을 받다 – 더 내셔널 로우 리뷰
+
+인터메스틱 EB5 펀드 II, 미국의 국방 공급망을 보호하기 위한 코발트 가공 시설 건설에 대해 USCIS의 승인을 받아
+
+[Intermestic EB5 Fund II Wins USCIS Approval for Co](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE1iVHJvUm1UblBEcWJTOVotczJ3WWJUamhqU1hPZDkxYXFsMjM5VWJMNVMyMmJDN2ZEMG1STXJjWVU5cHRLdDBLLTBjYkhYdkt0cVhxQ3U1bFB5X1BRaG9OLWpidzV5cm5MdzJra3huemxMWEtCM00zYXhBUk5EVzlCR242a1RhT1VNQWVHLVU4cHRsV2tZX3ZBcWZnejQ5djdaV01LM2M5WndTemFn?oc=5)
+
+### H-1B visa fraud: US lawmaker Rich McCormick flags Atlanta as ‘hotspot’ amid immigration crackdowns | Hindustan Times - Hindustan Times
+
+H-1B visa fraud: US lawmaker Rich McCormick flags Atlanta as ‘hotspot’ amid immigration crackdowns | Hindustan Times    Hindustan Times
+
+[H-1B visa fraud: US lawmaker Rich McCormick flags ](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMjJpOXh2VkxINlhsNHFwRjM3cTh4OXI1U0xxamFPOUlaSDhBeUo1amhzR2ZFeTZxcDRIMVJRWHoxOEQ0MHFzWFhENlZYWU1UMjVSM1NfVUNTYjVKcFI2SnlTdHZmTzVhcWdEZkVkaEtwQ1Y3cmFITGVSVzhyX3V6SlduZXdMWmhwODhRRGphejllZ1RFYVI3TzNxdEJtNmdmMjN6TnZnOXNtbEh3Zk9LVVNGbWoyNWdvN3FWdjVwYkhhd2Fuck4wZURHcmEzQkJIemVuNnNqUFBuTUF4WDZRZHFFWk1OaXBFRFpxY2VlTGlpSFhPR19iadIB_gFBVV95cUxQOHkwWGV3S2dXR1BJZ1I2UGktdmpkQ192bFE4Tl9kbmJENFlZNFJzRXVCbXNXTkVkcDJ5bEFQRWNfcFBYSnU4UmtjOHZ3LWpTeW5zMnZjbnlBZkVUY1V6TDBrTWhqc19XaXpHRExGZkFsMHN0ZTh6aWhfWnZ4ckFTZ3I3LUNXdzVwbzRTdWc5NERYd3l0M043UmE0cml1cmVhUzZ3bmVma3htVWtoNzBVbU5oelVmYzFkZXNTZlM0Uzlaa2JCS19kdXkwSXB5YXNxXzFqZnpjTmZ3RWtaeXBTdThFSjNVTXpUTW9tV0pMdWxaMWl6MC1BOTJNeU85UQ?oc=5)
+
+### 3 green card holders arrested, charged with illegal voting in New Orleans - WWLTV.com
+
+3 green card holders arrested, charged with illegal voting in New Orleans    WWLTV.com
+
+[3 green card holders arrested, charged with illega](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPRUhHRHcybFBlWWR3Y3ZGTWpWdzA4NFRLYVpoUWphekZ3RkV3MDNrYVBkcC1TRjFid05jOWM5UC1HazNqU1IwSE1DQUljUmxiWm9KZHE4Z2FRVWp6d0l5UHBfY0wyNGs0WnRDb0xEdVMtUU55LVFtZnhvUl9JckJPMFFmSHpNR0UzSVM2a0xqUGd1aDlCWFI2cFZLSGRqbXc4ZXlONGJNQTFjN0R1TGFlMVZ4Y0V6ODFnMmJfRjZPbmNCQkpVOEd3RnFBQ3phaVJuRFMwSVEtckRTM2lhNXNURUktTFJla0pXRXhtbHgzSXNfaTlkWmF6NFgtZEhqUEhwR0R4emRQYXBDNFA3S01QaVF0TmJxeGpsR3dJWU5Da1JaYzBwQ0ZGTUFzVjBlblN2WndoM0lrZ2NCaXdtMzI4Zg?oc=5)
+
+### Press Release: Rich McCormick Calls for Investigation Into Suspected H-1B Visa Fraud in North Metro Atlanta - Quiver Quantitative
+
+Press Release: Rich McCormick Calls for Investigation Into Suspected H-1B Visa Fraud in North Metro Atlanta    Quiver Quantitative
+
+[Press Release: Rich McCormick Calls for Investigat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOci1SbjBiclpicFFJOTFlRkxnOHFWNktiT01HekxLb2NVa21mUDZVS0tnVWFzNnRBVU9fMVpkSmZVOVJQaFJDbmd4VVo5bUg4MmtTZEkzQkxhakRiSkRpRWFuOXlxT25CdXVGRWFITk83N2lGUG82Qk4xNC1BbGNELUlSa1pHWTVyQmZqOVM4aVU2UWstb0t5SGN4dTROa21JQ1BIZ1BfMmRIMGV5dWhkTXhjSnhGOHBmaGdONmV0ZGM4eDBXM1E3WlEtQmU1aFR4cVM4NF8xNmktQQ?oc=5)
+
+### Trump Administration Proposes Increase in H-1B Visa Wage Floors - Mwakilishi.com
+
+Trump Administration Proposes Increase in H-1B Visa Wage Floors    Mwakilishi.com
+
+[Trump Administration Proposes Increase in H-1B Vis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLU9KYUw4cmpBb1RXVjVWUFlxTEZRVDcxR0RFcnRWWGh5NGxla0hXdzlMZVlDYmFEZXlKakZOaUw0Z0pkd3FkY2d6b0EwT1Jrc1M1MWFpaWJmMkFnOG13bFlwa0VPcC1CZ29uRlg2ZUdhLTh1UUdjVFJoZHdFT2JTU0oySWUtOGdocGhlWEF5TElQSk9SZkM2MzA2TkxmNzFwR2xPcQ?oc=5)
+
+### USCIS Changes How Filing Deadlines Are Calculated: What Employers and Foreign Workers Need to Know - Reddy Neumann Brown PC
+
+USCIS Changes How Filing Deadlines Are Calculated: What Employers and Foreign Workers Need to Know    Reddy Neumann Brown PC
+
+[USCIS Changes How Filing Deadlines Are Calculated:](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVpZZkYxMmJXb1ppcUdNRndmWUJwZUowTHplaDRtUXRBTHBCRjVycVAyU1JiRGdBLVhfSzNSbUlSUDc0bEhTeW9qcHJCY005WkZMRFQ4cjNzOTVXdWVlMlN4SmJXN2VGRjFFWWlOaTZUM2tzcUxyN1BYZmlXZkVaN2kwck84YkpuanFqMWpwR2x3NXEyQlRodDRPa1F1dXRSQWZqSi02d2l5YThqSlM2cWpwR0NEdlY4bm1uZ3Z0SHIxcTA?oc=5)
+
+### OU’s H-1B filing raises questions about jobs for its own graduates - Oklahoma Council of Public Affairs
+
+OU’s H-1B filing raises questions about jobs for its own graduates    Oklahoma Council of Public Affairs
+
+[OU’s H-1B filing raises questions about jobs for i](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkRzTkhZYUdqYW5STFJtWU5aTG5hNlZSVlpaVC1jVGI2dlJfTWNwZlQ4UDMwNUdUa1lmS2d0Qnp6YTNqczI0YlZQV0J0b21raTRlTk05SmlOVjl5MnN1R0E1TEljaWtJUnhQMDMzTm9qY1U1Z1JrdFdrTGkwd3FTOEwzc01lTTNobXNSb2NHdmlteVowTFlINmZZaVFkNFoxcFNwNkVmSHRIWS0xZ3JTV2J4aTgxZw?oc=5)
